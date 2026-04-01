@@ -1,0 +1,292 @@
+[
+  {
+    "slug": "llm-chatbots",
+    "title": "LLMチャットボット比較：ChatGPT vs Claude vs Gemini",
+    "description": "3大AIチャットボットを徹底比較。料金、性能、特徴、おすすめユーザーをわかりやすく解説します。",
+    "toolSlugs": ["chatgpt", "claude", "gemini"],
+    "comparisonPoints": [
+      {
+        "label": "開発元",
+        "type": "text",
+        "values": { "chatgpt": "OpenAI", "claude": "Anthropic", "gemini": "Google DeepMind" }
+      },
+      {
+        "label": "無料プラン",
+        "type": "boolean",
+        "values": { "chatgpt": true, "claude": true, "gemini": true }
+      },
+      {
+        "label": "月額料金（有料版）",
+        "type": "text",
+        "values": { "chatgpt": "月額20ドル〜", "claude": "月額20ドル〜", "gemini": "月額2,900円〜" }
+      },
+      {
+        "label": "コンテキスト長",
+        "type": "text",
+        "values": { "chatgpt": "128Kトークン", "claude": "100万トークン", "gemini": "100万トークン" }
+      },
+      {
+        "label": "画像生成",
+        "type": "boolean",
+        "values": { "chatgpt": true, "claude": false, "gemini": true }
+      },
+      {
+        "label": "Web検索",
+        "type": "boolean",
+        "values": { "chatgpt": true, "claude": true, "gemini": true }
+      },
+      {
+        "label": "日本語の自然さ",
+        "type": "rating",
+        "values": { "chatgpt": 4, "claude": 5, "gemini": 3 }
+      },
+      {
+        "label": "コーディング能力",
+        "type": "rating",
+        "values": { "chatgpt": 4, "claude": 5, "gemini": 4 }
+      },
+      {
+        "label": "マルチモーダル",
+        "type": "rating",
+        "values": { "chatgpt": 5, "claude": 3, "gemini": 5 }
+      },
+      {
+        "label": "Google連携",
+        "type": "boolean",
+        "values": { "chatgpt": false, "claude": false, "gemini": true }
+      }
+    ],
+    "conclusion": "**ChatGPT**は万能性とエコシステムの広さが魅力。初めてAIを使う人や幅広い用途に使いたい人におすすめ。**Claude**は長文処理とコーディング、日本語の自然さに優れ、技術者やライターに最適。**Gemini**はGoogleサービスとの連携が最大の強みで、Google Workspaceユーザーに特におすすめ。",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "coding-assistants",
+    "title": "コーディングアシスタント比較：Cursor vs Claude Code vs GitHub Copilot",
+    "description": "人気のAIコーディングツール3つを比較。開発スタイルに合った最適なツールを見つけましょう。",
+    "toolSlugs": ["cursor", "claude-code", "github-copilot"],
+    "comparisonPoints": [
+      {
+        "label": "形態",
+        "type": "text",
+        "values": { "cursor": "デスクトップエディタ", "claude-code": "CLIツール", "github-copilot": "エディタ拡張機能" }
+      },
+      {
+        "label": "無料プラン",
+        "type": "boolean",
+        "values": { "cursor": true, "claude-code": false, "github-copilot": true }
+      },
+      {
+        "label": "月額料金",
+        "type": "text",
+        "values": { "cursor": "月額20ドル", "claude-code": "従量課金/月額100ドル", "github-copilot": "月額10ドル" }
+      },
+      {
+        "label": "コード補完",
+        "type": "rating",
+        "values": { "cursor": 5, "claude-code": 3, "github-copilot": 4 }
+      },
+      {
+        "label": "コードベース理解",
+        "type": "rating",
+        "values": { "cursor": 5, "claude-code": 5, "github-copilot": 3 }
+      },
+      {
+        "label": "マルチファイル編集",
+        "type": "rating",
+        "values": { "cursor": 4, "claude-code": 5, "github-copilot": 2 }
+      },
+      {
+        "label": "エディタ統合",
+        "type": "rating",
+        "values": { "cursor": 5, "claude-code": 2, "github-copilot": 5 }
+      },
+      {
+        "label": "学習コスト",
+        "type": "text",
+        "values": { "cursor": "低（VS Code互換）", "claude-code": "中（CLI操作必要）", "github-copilot": "低（拡張機能追加のみ）" }
+      }
+    ],
+    "conclusion": "**Cursor**はAIファーストのエディタ体験を求める人に最適。VS Codeからの移行もスムーズ。**Claude Code**はターミナル操作に慣れたエンジニアが大規模な変更を行う際に真価を発揮。**GitHub Copilot**は既存のエディタを変えずにAI支援を追加したい人やコストを抑えたい人に。",
+    "lastUpdated": "2026-03-22"
+  },
+  {
+    "slug": "ai-search",
+    "title": "AI検索エンジン比較：Perplexity vs Genspark vs Gemini",
+    "description": "次世代AI検索エンジンを比較。情報収集を効率化する最適なツールを解説します。",
+    "toolSlugs": ["perplexity", "genspark", "gemini"],
+    "comparisonPoints": [
+      {
+        "label": "料金",
+        "type": "text",
+        "values": { "perplexity": "無料/月額20ドル", "genspark": "無料", "gemini": "無料/月額2,900円" }
+      },
+      {
+        "label": "出典表示",
+        "type": "boolean",
+        "values": { "perplexity": true, "genspark": true, "gemini": true }
+      },
+      {
+        "label": "検索精度",
+        "type": "rating",
+        "values": { "perplexity": 5, "genspark": 4, "gemini": 4 }
+      },
+      {
+        "label": "日本語対応",
+        "type": "rating",
+        "values": { "perplexity": 4, "genspark": 3, "gemini": 4 }
+      },
+      {
+        "label": "深掘り分析",
+        "type": "rating",
+        "values": { "perplexity": 4, "genspark": 5, "gemini": 3 }
+      },
+      {
+        "label": "回答速度",
+        "type": "rating",
+        "values": { "perplexity": 4, "genspark": 3, "gemini": 5 }
+      },
+      {
+        "label": "独自機能",
+        "type": "text",
+        "values": { "perplexity": "Pro Search, Collections", "genspark": "Sparkpages, マルチエージェント", "gemini": "Google連携, マルチモーダル" }
+      }
+    ],
+    "conclusion": "**Perplexity**は検索精度と出典表示のバランスが最も良く、リサーチ用途に最適。**Genspark**は完全無料でマルチエージェントによる多角的な分析が魅力。**Gemini**はGoogleサービスユーザーにとって最もアクセスしやすく、マルチモーダル検索が強み。",
+    "lastUpdated": "2026-03-18"
+  },
+  {
+    "slug": "image-generators",
+    "title": "画像生成AI比較：Midjourney vs DALL-E 3 vs Stable Diffusion vs FLUX",
+    "description": "主要な画像生成AIを徹底比較。品質、使いやすさ、料金、商用利用の観点から最適なツールを解説します。",
+    "toolSlugs": ["midjourney", "dall-e-3", "stable-diffusion", "flux"],
+    "comparisonPoints": [
+      {
+        "label": "料金",
+        "type": "text",
+        "values": { "midjourney": "月額10ドル〜", "dall-e-3": "無料〜（ChatGPT経由）", "stable-diffusion": "無料（ローカル）", "flux": "無料（ローカル）" }
+      },
+      {
+        "label": "画像品質",
+        "type": "rating",
+        "values": { "midjourney": 5, "dall-e-3": 4, "stable-diffusion": 4, "flux": 5 }
+      },
+      {
+        "label": "使いやすさ",
+        "type": "rating",
+        "values": { "midjourney": 3, "dall-e-3": 5, "stable-diffusion": 2, "flux": 2 }
+      },
+      {
+        "label": "テキスト描画",
+        "type": "rating",
+        "values": { "midjourney": 3, "dall-e-3": 5, "stable-diffusion": 2, "flux": 4 }
+      },
+      {
+        "label": "カスタマイズ性",
+        "type": "rating",
+        "values": { "midjourney": 3, "dall-e-3": 2, "stable-diffusion": 5, "flux": 5 }
+      },
+      {
+        "label": "商用利用",
+        "type": "boolean",
+        "values": { "midjourney": true, "dall-e-3": true, "stable-diffusion": true, "flux": true }
+      },
+      {
+        "label": "オープンソース",
+        "type": "boolean",
+        "values": { "midjourney": false, "dall-e-3": false, "stable-diffusion": true, "flux": true }
+      }
+    ],
+    "conclusion": "**Midjourney**はアート性と品質で最高峰。プロのクリエイター向け。**DALL-E 3**は日本語指示への忠実さとテキスト描画が強み。ChatGPTユーザーに最適。**Stable Diffusion/FLUX**はオープンソースで無料、カスタマイズの自由度が最高だが技術知識が必要。初心者にはDALL-E 3、品質重視ならMidjourney、自由度重視ならFLUXがおすすめ。",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "video-generators",
+    "title": "動画生成AI比較：Sora vs Runway vs Pika",
+    "description": "話題のAI動画生成ツールを比較。映像品質、使いやすさ、料金から最適な選択肢を見つけましょう。",
+    "toolSlugs": ["sora", "runway", "pika"],
+    "comparisonPoints": [
+      {
+        "label": "開発元",
+        "type": "text",
+        "values": { "sora": "OpenAI", "runway": "Runway", "pika": "Pika Labs" }
+      },
+      {
+        "label": "料金",
+        "type": "text",
+        "values": { "sora": "月額20ドル〜", "runway": "無料〜月額15ドル", "pika": "無料〜月額10ドル" }
+      },
+      {
+        "label": "映像品質",
+        "type": "rating",
+        "values": { "sora": 5, "runway": 4, "pika": 3 }
+      },
+      {
+        "label": "使いやすさ",
+        "type": "rating",
+        "values": { "sora": 4, "runway": 4, "pika": 5 }
+      },
+      {
+        "label": "生成速度",
+        "type": "rating",
+        "values": { "sora": 3, "runway": 3, "pika": 4 }
+      },
+      {
+        "label": "最大動画長",
+        "type": "text",
+        "values": { "sora": "20秒", "runway": "10秒", "pika": "4秒" }
+      },
+      {
+        "label": "無料プラン",
+        "type": "boolean",
+        "values": { "sora": false, "runway": true, "pika": true }
+      }
+    ],
+    "conclusion": "**Sora**は映像品質で頭一つ抜けているが、有料のChatGPTプランが必要。**Runway**は動画AIの先駆者として機能が最も充実しており、編集ツールも豊富。**Pika**は手軽さとSNS向けの使いやすさが魅力。初めてAI動画を試すならPika、本格利用ならRunway、最高品質を求めるならSoraがおすすめ。",
+    "lastUpdated": "2026-03-22"
+  },
+  {
+    "slug": "ai-app-builders",
+    "title": "AIアプリ開発ツール比較：Bolt.new vs Lovable vs v0 vs Replit Agent",
+    "description": "自然言語からアプリを自動生成するAIツールを比較。プロトタイピングに最適なツールを見つけましょう。",
+    "toolSlugs": ["bolt", "lovable", "v0", "replit-agent"],
+    "comparisonPoints": [
+      {
+        "label": "得意分野",
+        "type": "text",
+        "values": { "bolt": "フルスタックアプリ", "lovable": "デザイン重視アプリ", "v0": "UIコンポーネント", "replit-agent": "環境構築不要の開発" }
+      },
+      {
+        "label": "無料プラン",
+        "type": "boolean",
+        "values": { "bolt": true, "lovable": true, "v0": true, "replit-agent": true }
+      },
+      {
+        "label": "月額料金",
+        "type": "text",
+        "values": { "bolt": "月額20ドル", "lovable": "月額20ドル", "v0": "月額20ドル", "replit-agent": "月額25ドル" }
+      },
+      {
+        "label": "デプロイ機能",
+        "type": "boolean",
+        "values": { "bolt": true, "lovable": true, "v0": false, "replit-agent": true }
+      },
+      {
+        "label": "デザイン品質",
+        "type": "rating",
+        "values": { "bolt": 3, "lovable": 5, "v0": 5, "replit-agent": 3 }
+      },
+      {
+        "label": "バックエンド生成",
+        "type": "boolean",
+        "values": { "bolt": true, "lovable": true, "v0": false, "replit-agent": true }
+      },
+      {
+        "label": "初心者向け",
+        "type": "rating",
+        "values": { "bolt": 4, "lovable": 4, "v0": 3, "replit-agent": 5 }
+      }
+    ],
+    "conclusion": "**Bolt.new**はフルスタックアプリの高速プロトタイピングに最適。**Lovable**はデザイン品質が高く、見た目重視のMVPに。**v0**はReact/Next.jsのUIコンポーネント生成に特化し、フロントエンドエンジニアに最適。**Replit Agent**は環境構築不要でブラウザだけで完結する手軽さが魅力。非エンジニアにはReplit、デザイン重視ならLovable、開発者にはv0がおすすめ。",
+    "lastUpdated": "2026-03-25"
+  }
+]

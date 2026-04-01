@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "llm-chatbot",
+    "name": "LLMチャットボット",
+    "description": "テキスト生成・会話に特化した大規模言語モデル。質問応答、文章作成、翻訳などに活用できます。",
+    "icon": "💬",
+    "order": 1
+  },
+  {
+    "slug": "coding-assistant",
+    "name": "コーディングアシスタント",
+    "description": "プログラミングを支援するAIツール。コード生成、デバッグ、リファクタリングなどを自動化します。",
+    "icon": "💻",
+    "order": 2
+  },
+  {
+    "slug": "image-generation",
+    "name": "画像生成AI",
+    "description": "テキストから画像を生成するAIツール。イラスト、写真風画像、デザイン素材などを作成できます。",
+    "icon": "🎨",
+    "order": 3
+  },
+  {
+    "slug": "search-research",
+    "name": "AI検索・リサーチ",
+    "description": "AIを活用した次世代検索エンジン。情報収集、調査、ファクトチェックを効率化します。",
+    "icon": "🔍",
+    "order": 4
+  },
+  {
+    "slug": "ai-agent",
+    "name": "AIエージェント",
+    "description": "自律的にタスクを実行するAIエージェント。複雑な作業を自動で計画・遂行します。",
+    "icon": "🤖",
+    "order": 5
+  },
+  {
+    "slug": "music-generation",
+    "name": "音楽生成AI",
+    "description": "AIで音楽を作曲・生成するツール。テキストプロンプトから楽曲を自動生成できます。",
+    "icon": "🎵",
+    "order": 6
+  },
+  {
+    "slug": "video-generation",
+    "name": "動画生成AI",
+    "description": "テキストや画像から動画を自動生成するAIツール。映像制作の常識を変えます。",
+    "icon": "🎥",
+    "order": 7
+  },
+  {
+    "slug": "video-editing",
+    "name": "動画編集AI",
+    "description": "動画の編集・字幕生成・ナレーション追加などをAIで自動化するツールです。",
+    "icon": "🎬",
+    "order": 8
+  },
+  {
+    "slug": "voice-audio",
+    "name": "音声・ボイスAI",
+    "description": "テキスト読み上げ、音声クローン、文字起こしなど音声関連のAIツールです。",
+    "icon": "🎙️",
+    "order": 9
+  },
+  {
+    "slug": "writing-content",
+    "name": "ライティング・コンテンツ生成",
+    "description": "ブログ記事、広告コピー、SNS投稿などのテキストコンテンツを自動生成するツールです。",
+    "icon": "✍️",
+    "order": 10
+  },
+  {
+    "slug": "design-creative",
+    "name": "デザイン・クリエイティブ",
+    "description": "AIを活用したデザインツール。プレゼン、Webデザイン、ロゴ作成などを支援します。",
+    "icon": "🎯",
+    "order": 11
+  },
+  {
+    "slug": "productivity",
+    "name": "生産性向上・業務効率化",
+    "description": "会議要約、タスク自動化、ワークフロー改善などビジネスの生産性を高めるAIツールです。",
+    "icon": "⚡",
+    "order": 12
+  },
+  {
+    "slug": "note-knowledge",
+    "name": "ノート・ナレッジ管理",
+    "description": "AIを活用したノート管理・知識整理ツール。情報の要約、整理、検索を効率化します。",
+    "icon": "📝",
+    "order": 13
+  },
+  {
+    "slug": "ai-platform",
+    "name": "AI開発プラットフォーム",
+    "description": "AIアプリケーションの構築・デプロイを支援するプラットフォームやフレームワークです。",
+    "icon": "🔧",
+    "order": 14
+  },
+  {
+    "slug": "translation",
+    "name": "翻訳・言語AI",
+    "description": "AIを活用した翻訳・言語処理ツール。多言語コミュニケーションを支援します。",
+    "icon": "🌐",
+    "order": 15
+  }
+]

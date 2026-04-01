@@ -6,9 +6,16 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "update-tools": "npx tsx scripts/update-tools.ts",
+    "update-tools:trending": "npx tsx scripts/update-tools.ts --trending",
+    "update-tools:discover": "npx tsx scripts/update-tools.ts --discover",
+    "update-tools:update": "npx tsx scripts/update-tools.ts --update",
+    "update-tools:watch": "npx tsx scripts/update-tools.ts --watch",
+    "update-tools:dry-run": "npx tsx scripts/update-tools.ts --dry-run"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.81.0",
     "next": "16.2.2",
     "react": "19.2.4",
     "react-dom": "19.2.4"
@@ -21,6 +28,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.2",
     "tailwindcss": "^4",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }

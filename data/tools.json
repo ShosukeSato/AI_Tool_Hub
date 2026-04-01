@@ -1,0 +1,4008 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "nameJa": "チャットGPT",
+    "description": "OpenAIが開発した世界で最も利用されているAIチャットボット。GPT-4oを搭載し、テキスト生成、画像理解、コード作成、データ分析など幅広いタスクに対応。プラグインやGPTsによるカスタマイズも可能。",
+    "shortDescription": "世界最大のユーザー数を誇る万能AIチャットボット",
+    "category": "llm-chatbot",
+    "subcategories": [
+      "coding-assistant"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "GPT-4o mini利用可",
+            "基本的な会話",
+            "制限付き"
+          ]
+        },
+        {
+          "name": "Plus",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "GPT-4o フルアクセス",
+            "DALL-E 画像生成",
+            "高度なデータ分析"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額200ドル（約30,000円）",
+          "features": [
+            "無制限アクセス",
+            "o1 pro モード",
+            "最優先処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキスト生成・会話",
+      "画像生成（DALL-E）",
+      "画像・PDF理解",
+      "コード生成",
+      "データ分析",
+      "Web検索",
+      "GPTs（カスタムAI）"
+    ],
+    "pros": [
+      "ユーザー数世界一で情報が豊富",
+      "プラグイン・GPTsのエコシステム",
+      "マルチモーダル対応が充実",
+      "日本語対応が良好"
+    ],
+    "cons": [
+      "無料プランの制限が増加傾向",
+      "Proプランは高額",
+      "回答が冗長になりがち",
+      "ハルシネーション（誤情報）のリスク"
+    ],
+    "officialUrl": "https://chatgpt.com",
+    "logoPath": "/logos/chatgpt.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "AIを初めて使う人",
+      "幅広いタスクに使いたい人",
+      "GPTsでカスタマイズしたい人"
+    ],
+    "releaseYear": 2022,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "nameJa": "クロード",
+    "description": "Anthropic社が開発した大規模言語モデル。長文の理解と生成に優れ、安全性と誠実さを重視した設計が特徴。最大100万トークンのコンテキストウィンドウを持ち、複雑な分析や長文書の処理に強みを持つ。",
+    "shortDescription": "安全性と長文処理に優れたAIアシスタント",
+    "category": "llm-chatbot",
+    "subcategories": [
+      "coding-assistant"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的な会話",
+            "制限付き利用"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "優先アクセス",
+            "長時間利用",
+            "最新モデル利用"
+          ]
+        },
+        {
+          "name": "Max",
+          "price": "月額100ドル（約15,000円）",
+          "features": [
+            "大量利用",
+            "全機能アクセス"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "長文コンテキスト（100万トークン）",
+      "コード生成・分析",
+      "文書要約",
+      "多言語対応",
+      "画像理解",
+      "Artifacts（成果物生成）"
+    ],
+    "pros": [
+      "非常に長い文章を理解・処理できる",
+      "回答の正確性が高い",
+      "コーディング支援が優秀",
+      "安全性への配慮が高い"
+    ],
+    "cons": [
+      "インターネット検索機能が限定的",
+      "画像生成ができない",
+      "無料プランの利用制限がやや厳しい"
+    ],
+    "officialUrl": "https://claude.ai",
+    "logoPath": "/logos/claude.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "プログラマー・エンジニア",
+      "長文を扱う研究者・ライター",
+      "安全性を重視するビジネスユーザー"
+    ],
+    "releaseYear": 2023,
+    "developer": "Anthropic",
+    "lastUpdated": "2026-03-15"
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "nameJa": "ジェミニ",
+    "description": "Google DeepMindが開発したマルチモーダルAI。テキスト、画像、音声、動画を統合的に理解・生成できる。Googleサービスとの連携が強力で、Gmail、Docs、Driveなどと統合利用が可能。",
+    "shortDescription": "Google製マルチモーダルAI、Google連携が強力",
+    "category": "llm-chatbot",
+    "subcategories": [
+      "search-research"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "Gemini 基本機能",
+            "制限付き"
+          ]
+        },
+        {
+          "name": "Advanced",
+          "price": "月額2,900円",
+          "features": [
+            "Gemini Ultra",
+            "Google One 2TB",
+            "Googleサービス統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチモーダル（テキスト・画像・動画）",
+      "Google Workspace連携",
+      "Web検索統合",
+      "コード生成",
+      "長文コンテキスト"
+    ],
+    "pros": [
+      "Googleサービスとのシームレスな連携",
+      "無料でも高性能",
+      "最新情報へのアクセスが良い",
+      "マルチモーダル処理が優秀"
+    ],
+    "cons": [
+      "日本語の自然さがやや劣る場合がある",
+      "独自エコシステムがまだ発展途上",
+      "クリエイティブな文章生成はやや弱い"
+    ],
+    "officialUrl": "https://gemini.google.com",
+    "logoPath": "/logos/gemini.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "Googleサービスを多用する人",
+      "マルチモーダルAIを使いたい人",
+      "無料で高性能AIを使いたい人"
+    ],
+    "releaseYear": 2023,
+    "developer": "Google DeepMind",
+    "lastUpdated": "2026-03-18"
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "nameJa": "パープレキシティ",
+    "description": "AI搭載の次世代検索エンジン。質問に対してウェブ上の情報を検索し、出典付きの回答を生成する。従来の検索エンジンとAIチャットボットの良いとこ取りをしたサービス。",
+    "shortDescription": "出典付き回答を生成するAI検索エンジン",
+    "category": "search-research",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本検索",
+            "制限付きPro検索"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "無制限Pro検索",
+            "ファイルアップロード",
+            "API アクセス"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI検索（出典付き）",
+      "Pro Search（深掘り検索）",
+      "ファイル分析",
+      "コレクション機能",
+      "API提供"
+    ],
+    "pros": [
+      "回答に出典が明記される",
+      "最新情報にアクセスできる",
+      "検索精度が高い",
+      "UIがシンプルで使いやすい"
+    ],
+    "cons": [
+      "深い分析や長文生成は苦手",
+      "日本語ソースの網羅性にやや課題",
+      "無料プランのPro検索回数制限"
+    ],
+    "officialUrl": "https://www.perplexity.ai",
+    "logoPath": "/logos/perplexity.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "リサーチ・調査業務が多い人",
+      "正確な出典が必要な人",
+      "従来の検索エンジンに不満がある人"
+    ],
+    "releaseYear": 2022,
+    "developer": "Perplexity AI",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "slug": "genspark",
+    "name": "Genspark",
+    "nameJa": "ジェンスパーク",
+    "description": "AIエージェントベースの検索エンジン。複数のAIエージェントが協調して情報を収集・分析し、包括的なレポートを生成する。Sparkpagesという独自のまとめページ生成機能が特徴。",
+    "shortDescription": "AIエージェントが協調する次世代検索エンジン",
+    "category": "search-research",
+    "subcategories": [
+      "ai-agent"
+    ],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "全機能利用可",
+            "Sparkpages生成",
+            "エージェント検索"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチエージェント検索",
+      "Sparkpages（まとめページ生成）",
+      "バイアス排除設計",
+      "リアルタイム情報収集"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "複数エージェントによる多角的な分析",
+      "広告・SEOスパムを排除した検索結果",
+      "Sparkpagesが便利"
+    ],
+    "cons": [
+      "日本語対応がまだ発展途上",
+      "知名度が低く情報が少ない",
+      "回答速度がやや遅い場合がある"
+    ],
+    "officialUrl": "https://www.genspark.ai",
+    "logoPath": "/logos/genspark.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "無料でAI検索を使いたい人",
+      "中立的な情報収集をしたい人",
+      "新しいAI検索を試してみたい人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Genspark",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "slug": "notebooklm",
+    "name": "NotebookLM",
+    "nameJa": "ノートブックLM",
+    "description": "Googleが開発したAIノートブックツール。ドキュメント、PDF、YouTube動画などをソースとしてアップロードし、AIがその内容に基づいて質問応答、要約、ポッドキャスト生成を行う。",
+    "shortDescription": "ソース資料に基づくAIナレッジアシスタント",
+    "category": "note-knowledge",
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "ノートブック作成",
+            "ソースアップロード",
+            "Audio Overview生成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ソースベースの質疑応答",
+      "Audio Overview（ポッドキャスト生成）",
+      "要約・ブリーフィング生成",
+      "複数ソースの横断分析"
+    ],
+    "pros": [
+      "完全無料",
+      "ソースに基づく正確な回答",
+      "Audio Overviewが画期的",
+      "Googleアカウントですぐ利用可能"
+    ],
+    "cons": [
+      "ソース数に制限がある",
+      "リアルタイム情報は取得できない",
+      "日本語Audio Overviewの品質に課題"
+    ],
+    "officialUrl": "https://notebooklm.google.com",
+    "logoPath": "/logos/notebooklm.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "学生・研究者",
+      "大量の資料を整理したい人",
+      "ポッドキャスト形式で情報を消化したい人"
+    ],
+    "releaseYear": 2023,
+    "developer": "Google",
+    "lastUpdated": "2026-03-12"
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "nameJa": "ミッドジャーニー",
+    "description": "高品質な画像生成に特化したAIツール。アート性の高い画像生成が得意で、プロのデザイナーやアーティストにも広く利用されている。Discordまたはウェブアプリから利用可能。",
+    "shortDescription": "アート性に優れた高品質画像生成AI",
+    "category": "image-generation",
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "月額10ドル（約1,500円）",
+          "features": [
+            "月200枚生成",
+            "3並列ジョブ"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "月額30ドル（約4,500円）",
+          "features": [
+            "月15時間高速生成",
+            "無制限リラックス生成"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額60ドル（約9,000円）",
+          "features": [
+            "月30時間高速生成",
+            "ステルスモード"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高品質画像生成",
+      "スタイルリファレンス",
+      "画像編集・バリエーション",
+      "パン・ズーム操作",
+      "高解像度アップスケール"
+    ],
+    "pros": [
+      "業界最高レベルの画像品質",
+      "アート性・美術性が非常に高い",
+      "スタイルの一貫性が保てる",
+      "活発なコミュニティ"
+    ],
+    "cons": [
+      "無料プランがない",
+      "学習曲線がやや急",
+      "Discordベースの操作に慣れが必要",
+      "日本語プロンプトの精度は英語に劣る"
+    ],
+    "officialUrl": "https://www.midjourney.com",
+    "logoPath": "/logos/midjourney.svg",
+    "rating": 4.6,
+    "recommendedFor": [
+      "デザイナー・アーティスト",
+      "高品質なビジュアルが必要な人",
+      "SNS用の画像を作りたい人"
+    ],
+    "releaseYear": 2022,
+    "developer": "Midjourney, Inc.",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "slug": "dall-e-3",
+    "name": "DALL-E 3",
+    "nameJa": "ダリ3",
+    "description": "OpenAIが開発した画像生成AI。ChatGPTに統合されており、自然な日本語の指示から画像を生成できる。テキストの描画精度が高く、指示通りの画像を生成しやすいのが特徴。",
+    "shortDescription": "ChatGPT統合型の指示忠実な画像生成AI",
+    "category": "image-generation",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free（ChatGPT経由）",
+          "price": "無料（制限付き）",
+          "features": [
+            "ChatGPT無料プランで制限付き利用"
+          ]
+        },
+        {
+          "name": "ChatGPT Plus",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "DALL-E 3フルアクセス",
+            "高品質生成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから画像生成",
+      "日本語プロンプト対応",
+      "ChatGPT統合",
+      "テキスト描画が正確",
+      "安全フィルター"
+    ],
+    "pros": [
+      "ChatGPTから直接使える",
+      "日本語の指示に強い",
+      "プロンプトの意図を正確に理解",
+      "テキスト描画の精度が高い"
+    ],
+    "cons": [
+      "Midjourneyほどのアート性はない",
+      "生成スピードがやや遅い",
+      "スタイルの細かい制御が難しい"
+    ],
+    "officialUrl": "https://openai.com/dall-e-3",
+    "logoPath": "/logos/dall-e-3.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "ChatGPTユーザー",
+      "簡単に画像を生成したい人",
+      "テキスト入りの画像が必要な人"
+    ],
+    "releaseYear": 2023,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "slug": "suno",
+    "name": "Suno",
+    "nameJa": "スノ",
+    "description": "テキストプロンプトから完全な楽曲を自動生成するAI音楽ツール。歌詞、メロディ、伴奏、ボーカルを含む楽曲を数秒で生成。多様なジャンルに対応し、日本語の歌詞にも対応。",
+    "shortDescription": "テキストから完全な楽曲を生成するAI音楽ツール",
+    "category": "music-generation",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "1日10曲生成",
+            "非商用利用"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額10ドル（約1,500円）",
+          "features": [
+            "月500曲生成",
+            "商用利用可",
+            "優先生成"
+          ]
+        },
+        {
+          "name": "Premier",
+          "price": "月額30ドル（約4,500円）",
+          "features": [
+            "月2000曲生成",
+            "商用利用可",
+            "最優先"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから楽曲生成",
+      "日本語歌詞対応",
+      "多ジャンル対応",
+      "カスタム歌詞入力",
+      "リミックス機能"
+    ],
+    "pros": [
+      "驚くほど高品質な楽曲生成",
+      "日本語の歌もそれなりに自然",
+      "無料でも十分試せる",
+      "操作が非常に簡単"
+    ],
+    "cons": [
+      "商用利用にはPro以上が必要",
+      "同じスタイルの曲が似がちになる",
+      "細かい音楽的な調整は困難",
+      "著作権の扱いがグレー"
+    ],
+    "officialUrl": "https://suno.com",
+    "logoPath": "/logos/suno.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "音楽制作に興味がある初心者",
+      "BGMが必要なクリエイター",
+      "歌詞から曲を作りたい人"
+    ],
+    "releaseYear": 2023,
+    "developer": "Suno AI",
+    "lastUpdated": "2026-03-15"
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "nameJa": "カーソル",
+    "description": "AI搭載のコードエディタ。VS Codeをベースに、AIによるコード補完、チャット、コード編集機能を統合。コードベース全体を理解した上でのコーディング支援が特徴。",
+    "shortDescription": "AI統合型の次世代コードエディタ",
+    "category": "coding-assistant",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月2000回補完",
+            "月50回チャット"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "無制限補完",
+            "月500回高速チャット",
+            "全モデル利用可"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "月額40ドル（約6,000円）",
+          "features": [
+            "チーム管理",
+            "セキュリティ機能",
+            "管理者コンソール"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIコード補完（Tab）",
+      "AIチャット",
+      "コード編集（Cmd+K）",
+      "コードベース理解",
+      "マルチファイル編集",
+      "ターミナル統合"
+    ],
+    "pros": [
+      "VS Code互換で移行が簡単",
+      "コードベース全体を理解したAI支援",
+      "複数ファイルの同時編集が可能",
+      "最新のAIモデルを選択可能"
+    ],
+    "cons": [
+      "月額課金が必要（本格利用時）",
+      "VS Codeの拡張機能と一部非互換",
+      "大規模プロジェクトではやや重い"
+    ],
+    "officialUrl": "https://cursor.com",
+    "logoPath": "/logos/cursor.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "プログラマー全般",
+      "VS Codeユーザー",
+      "AIペアプログラミングをしたい人"
+    ],
+    "releaseYear": 2023,
+    "developer": "Anysphere",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "claude-code",
+    "name": "Claude Code",
+    "nameJa": "クロードコード",
+    "description": "Anthropicが開発したCLIベースのAIコーディングツール。ターミナルから直接AIにコーディングを依頼でき、プロジェクト全体を理解した上でのコード生成、デバッグ、リファクタリングが可能。",
+    "shortDescription": "ターミナルベースのAIコーディングアシスタント",
+    "category": "coding-assistant",
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "API従量課金",
+          "price": "使用量に応じて",
+          "features": [
+            "APIトークン消費",
+            "全機能利用可"
+          ]
+        },
+        {
+          "name": "Max (Claude Pro経由)",
+          "price": "月額100ドル（約15,000円）",
+          "features": [
+            "定額利用",
+            "大量利用可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "CLIベースのコーディング支援",
+      "プロジェクト全体の理解",
+      "ファイル作成・編集",
+      "テスト実行",
+      "Git操作",
+      "マルチファイル変更"
+    ],
+    "pros": [
+      "ターミナルから直接操作できる",
+      "プロジェクト全体を理解した提案",
+      "大規模なコード変更が可能",
+      "Claudeの高品質な推論能力"
+    ],
+    "cons": [
+      "API利用料が発生",
+      "CLIに慣れている必要がある",
+      "GUIがないため視覚的な確認は別途必要"
+    ],
+    "officialUrl": "https://claude.ai/code",
+    "logoPath": "/logos/claude-code.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "ターミナル操作に慣れたエンジニア",
+      "大規模なコード変更が必要な人",
+      "Claudeの推論能力を活かしたい開発者"
+    ],
+    "releaseYear": 2025,
+    "developer": "Anthropic",
+    "lastUpdated": "2026-03-25"
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "nameJa": "ギットハブ コパイロット",
+    "description": "GitHubとOpenAIが共同開発したAIコーディングアシスタント。VS Code、JetBrains、Neovimなど主要エディタに対応。コード補完、チャット、PR要約など開発ワークフロー全体を支援。",
+    "shortDescription": "GitHub統合のAIコーディングアシスタント",
+    "category": "coding-assistant",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月2000回補完",
+            "月50回チャット"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額10ドル（約1,500円）",
+          "features": [
+            "無制限補完",
+            "無制限チャット"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "月額19ドル（約2,900円）",
+          "features": [
+            "組織管理",
+            "ポリシー制御",
+            "監査ログ"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "コード補完",
+      "AIチャット",
+      "PR要約",
+      "ドキュメント生成",
+      "テスト生成",
+      "マルチエディタ対応"
+    ],
+    "pros": [
+      "GitHubとの深い統合",
+      "対応エディタが豊富",
+      "Pro版が比較的安価",
+      "学生・OSS開発者は無料"
+    ],
+    "cons": [
+      "Cursorほどの高度なコード編集機能はない",
+      "コードベース全体の理解はやや弱い",
+      "提案の精度にばらつきがある"
+    ],
+    "officialUrl": "https://github.com/features/copilot",
+    "logoPath": "/logos/github-copilot.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "GitHub中心の開発ワークフローの人",
+      "コストを抑えたい人",
+      "学生・OSS開発者"
+    ],
+    "releaseYear": 2021,
+    "developer": "GitHub / Microsoft",
+    "lastUpdated": "2026-03-18"
+  },
+  {
+    "slug": "vrew",
+    "name": "Vrew",
+    "nameJa": "ブリュー",
+    "description": "AIを活用した動画編集ツール。音声認識による自動字幕生成、AIナレーション、翻訳機能を搭載。テキストを編集する感覚で動画編集ができる直感的なインターフェースが特徴。",
+    "shortDescription": "AI字幕・ナレーション搭載の動画編集ツール",
+    "category": "video-editing",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月120分音声認識",
+            "Vrewウォーターマーク付き"
+          ]
+        },
+        {
+          "name": "Light",
+          "price": "月額900円",
+          "features": [
+            "月600分音声認識",
+            "ウォーターマークなし"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "月額1,700円",
+          "features": [
+            "月1200分音声認識",
+            "全機能利用可"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI自動字幕生成",
+      "AIナレーション",
+      "自動翻訳",
+      "テキストベース動画編集",
+      "無音区間カット"
+    ],
+    "pros": [
+      "日本語の字幕精度が高い",
+      "直感的な操作性",
+      "無料でも基本機能が使える",
+      "デスクトップアプリで動作が軽い"
+    ],
+    "cons": [
+      "高度な動画編集機能は限定的",
+      "無料版にウォーターマーク",
+      "エフェクトの種類が少ない"
+    ],
+    "officialUrl": "https://vrew.voyagerx.com",
+    "logoPath": "/logos/vrew.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "YouTuber・動画クリエイター",
+      "字幕付き動画を作りたい人",
+      "動画編集初心者"
+    ],
+    "releaseYear": 2019,
+    "developer": "Voyager X",
+    "lastUpdated": "2026-03-01"
+  },
+  {
+    "slug": "manus",
+    "name": "Manus",
+    "nameJa": "マナス",
+    "description": "自律的にタスクを実行するAIエージェント。ウェブリサーチ、データ分析、レポート作成、コーディングなどの複雑なタスクを自動で計画・実行。ブラウザ操作も自律的に行える汎用AIエージェント。",
+    "shortDescription": "複雑なタスクを自律実行する汎用AIエージェント",
+    "category": "ai-agent",
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Standard",
+          "price": "招待制（クレジット制）",
+          "features": [
+            "タスク自動実行",
+            "ウェブリサーチ",
+            "レポート生成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自律タスク実行",
+      "ウェブブラウジング",
+      "データ分析",
+      "レポート生成",
+      "コード実行",
+      "ファイル操作"
+    ],
+    "pros": [
+      "複雑なタスクを丸投げできる",
+      "ブラウザ操作の自動化が可能",
+      "レポート品質が高い",
+      "多段階の作業を自動計画"
+    ],
+    "cons": [
+      "招待制でアクセスが限定的",
+      "タスク完了まで時間がかかる",
+      "料金体系が不透明",
+      "日本語対応にやや課題"
+    ],
+    "officialUrl": "https://manus.im",
+    "logoPath": "/logos/manus.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "リサーチ業務を効率化したい人",
+      "定型作業を自動化したい人",
+      "最先端AIエージェントを試したい人"
+    ],
+    "releaseYear": 2025,
+    "developer": "Manus AI",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "nameJa": "ステーブルディフュージョン",
+    "description": "Stability AIが開発したオープンソースの画像生成AI。ローカル環境で動作可能で、カスタムモデルやLoRAによる細かい制御が可能。コミュニティによる拡張が豊富。",
+    "shortDescription": "オープンソースで自由度の高い画像生成AI",
+    "category": "image-generation",
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料（ローカル実行）",
+          "features": [
+            "無制限生成",
+            "カスタムモデル",
+            "商用利用可"
+          ]
+        },
+        {
+          "name": "クラウドAPI",
+          "price": "従量課金",
+          "features": [
+            "API経由の生成",
+            "サーバー不要"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから画像生成",
+      "画像から画像生成（img2img）",
+      "カスタムモデル・LoRA",
+      "ControlNet",
+      "オープンソース"
+    ],
+    "pros": [
+      "完全無料でローカル実行可能",
+      "カスタマイズの自由度が最高",
+      "コミュニティモデルが豊富",
+      "商用利用可能"
+    ],
+    "cons": [
+      "セットアップに技術知識が必要",
+      "高性能GPUが必要",
+      "プロンプトエンジニアリングが難しい",
+      "品質はモデル選択に依存"
+    ],
+    "officialUrl": "https://stability.ai",
+    "logoPath": "/logos/stable-diffusion.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "技術に詳しいクリエイター",
+      "カスタマイズを重視する人",
+      "ランニングコストを抑えたい人"
+    ],
+    "releaseYear": 2022,
+    "developer": "Stability AI",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "slug": "deepseek",
+    "name": "DeepSeek",
+    "nameJa": "ディープシーク",
+    "description": "中国のAIスタートアップDeepSeek社が開発した高性能LLM。オープンソースで公開されており、推論能力が非常に高い。特にコーディングと数学的推論に優れ、コストパフォーマンスが高いことで注目を集めている。",
+    "shortDescription": "コスパ抜群の中国発オープンソースLLM",
+    "category": "llm-chatbot",
+    "subcategories": [
+      "coding-assistant"
+    ],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Free（Web版）",
+          "price": "無料",
+          "features": [
+            "全機能利用可",
+            "DeepSeek-R1利用可"
+          ]
+        },
+        {
+          "name": "API",
+          "price": "従量課金（非常に安価）",
+          "features": [
+            "APIアクセス",
+            "大量処理対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高精度な推論（R1モデル）",
+      "コード生成",
+      "数学的推論",
+      "長文コンテキスト",
+      "オープンソース"
+    ],
+    "pros": [
+      "完全無料で高性能",
+      "推論能力がトップクラス",
+      "API料金が圧倒的に安い",
+      "オープンソースでセルフホスト可能"
+    ],
+    "cons": [
+      "中国企業のためデータプライバシーへの懸念",
+      "日本語の品質にばらつき",
+      "マルチモーダル対応が限定的",
+      "サービスの安定性にやや課題"
+    ],
+    "officialUrl": "https://www.deepseek.com",
+    "logoPath": "/logos/deepseek.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "コストを抑えてAIを使いたい人",
+      "数学・コーディングを重視する人",
+      "オープンソースAIに興味がある人"
+    ],
+    "releaseYear": 2024,
+    "developer": "DeepSeek",
+    "lastUpdated": "2026-03-25"
+  },
+  {
+    "slug": "grok",
+    "name": "Grok",
+    "nameJa": "グロック",
+    "description": "イーロン・マスク率いるxAI社が開発したAIチャットボット。X（旧Twitter）のリアルタイムデータにアクセスでき、ユーモアのある回答が特徴。政治的に中立な立場を目指している。",
+    "shortDescription": "X連携のリアルタイムAIチャットボット",
+    "category": "llm-chatbot",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free（X経由）",
+          "price": "無料（制限付き）",
+          "features": [
+            "基本的な会話",
+            "制限付き"
+          ]
+        },
+        {
+          "name": "X Premium+",
+          "price": "月額1,960円",
+          "features": [
+            "Grokフルアクセス",
+            "画像生成",
+            "リアルタイムX検索"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Xリアルタイムデータ連携",
+      "画像生成",
+      "画像理解",
+      "コード生成",
+      "ウィットに富んだ回答"
+    ],
+    "pros": [
+      "Xのリアルタイム情報にアクセス可能",
+      "検閲が比較的少ない",
+      "画像生成機能内蔵",
+      "ユーモアのある回答"
+    ],
+    "cons": [
+      "X Premium+が必要（フルアクセス）",
+      "日本語の品質が他社に劣る",
+      "エコシステムが未成熟",
+      "安定性に課題あり"
+    ],
+    "officialUrl": "https://x.ai",
+    "logoPath": "/logos/grok.svg",
+    "rating": 3.7,
+    "recommendedFor": [
+      "Xヘビーユーザー",
+      "リアルタイムのトレンド分析をしたい人",
+      "検閲の少ないAIを求める人"
+    ],
+    "releaseYear": 2023,
+    "developer": "xAI",
+    "lastUpdated": "2026-03-18"
+  },
+  {
+    "slug": "microsoft-copilot",
+    "name": "Microsoft Copilot",
+    "nameJa": "マイクロソフト コパイロット",
+    "description": "Microsoft製のAIアシスタント。Bing検索と統合され、最新情報へのアクセスが可能。Word、Excel、PowerPointなどMicrosoft 365との統合が最大の強み。",
+    "shortDescription": "Microsoft 365統合のAIアシスタント",
+    "category": "llm-chatbot",
+    "subcategories": [
+      "productivity"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本チャット",
+            "Bing検索統合",
+            "画像生成"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額3,200円",
+          "features": [
+            "優先アクセス",
+            "GPT-4 Turbo",
+            "M365統合"
+          ]
+        },
+        {
+          "name": "M365 Copilot",
+          "price": "月額4,497円/ユーザー",
+          "features": [
+            "Word/Excel/PPT統合",
+            "Teams統合",
+            "企業向け"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Bing検索統合",
+      "Microsoft 365連携",
+      "画像生成（DALL-E）",
+      "コード生成",
+      "ドキュメント分析"
+    ],
+    "pros": [
+      "無料で使える範囲が広い",
+      "最新情報に強い（Bing連携）",
+      "Microsoft製品との統合が強力",
+      "企業導入しやすい"
+    ],
+    "cons": [
+      "回答品質がChatGPT/Claudeに劣る場合がある",
+      "M365 Copilotは高額",
+      "UIがやや使いにくい"
+    ],
+    "officialUrl": "https://copilot.microsoft.com",
+    "logoPath": "/logos/microsoft-copilot.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "Microsoft 365ユーザー",
+      "無料でAIを使いたい人",
+      "企業でのAI導入を検討する人"
+    ],
+    "releaseYear": 2023,
+    "developer": "Microsoft",
+    "lastUpdated": "2026-03-15"
+  },
+  {
+    "slug": "sora",
+    "name": "Sora",
+    "nameJa": "ソラ",
+    "description": "OpenAIが開発したテキストから動画を生成するAI。最大1分間の高品質な動画を生成可能。物理法則を理解したリアルな映像生成が可能で、映像制作の常識を変えると注目されている。",
+    "shortDescription": "OpenAI製のテキストから動画生成AI",
+    "category": "video-generation",
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "ChatGPT Plus",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "月50回生成",
+            "720p",
+            "5秒動画"
+          ]
+        },
+        {
+          "name": "ChatGPT Pro",
+          "price": "月額200ドル（約30,000円）",
+          "features": [
+            "無制限生成",
+            "1080p",
+            "20秒動画"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから動画生成",
+      "画像から動画生成",
+      "動画の延長・リミックス",
+      "高解像度出力",
+      "物理法則の理解"
+    ],
+    "pros": [
+      "映像品質が非常に高い",
+      "物理的に自然な動きを生成",
+      "直感的なプロンプト操作",
+      "ChatGPTと統合"
+    ],
+    "cons": [
+      "生成に時間がかかる",
+      "料金が高め",
+      "長尺動画はまだ苦手",
+      "人物の顔の一貫性に課題"
+    ],
+    "officialUrl": "https://sora.com",
+    "logoPath": "/logos/sora.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "映像クリエイター",
+      "SNS用ショート動画を作りたい人",
+      "プロモーション映像が必要な人"
+    ],
+    "releaseYear": 2024,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "runway",
+    "name": "Runway",
+    "nameJa": "ランウェイ",
+    "description": "AI動画生成・編集のパイオニア的ツール。Gen-3 Alphaモデルにより高品質な動画生成が可能。動画のインペインティング、モーションブラシなど独自の編集機能も充実。",
+    "shortDescription": "AI動画生成・編集のパイオニア",
+    "category": "video-generation",
+    "subcategories": [
+      "video-editing"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "125クレジット",
+            "基本機能"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "月額15ドル（約2,300円）",
+          "features": [
+            "月625クレジット",
+            "全ツールアクセス"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額35ドル（約5,300円）",
+          "features": [
+            "月2250クレジット",
+            "4K出力",
+            "優先処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから動画生成（Gen-3）",
+      "画像から動画生成",
+      "動画インペインティング",
+      "モーションブラシ",
+      "グリーンスクリーン"
+    ],
+    "pros": [
+      "動画AIの先駆者で成熟している",
+      "編集ツールが豊富",
+      "ウェブブラウザで利用可能",
+      "APIも提供"
+    ],
+    "cons": [
+      "クレジット制で割高に感じることも",
+      "生成時間が長い場合がある",
+      "日本語UIがない"
+    ],
+    "officialUrl": "https://runwayml.com",
+    "logoPath": "/logos/runway.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "映像プロフェッショナル",
+      "AI動画編集を試したい人",
+      "クリエイティブ制作者"
+    ],
+    "releaseYear": 2018,
+    "developer": "Runway",
+    "lastUpdated": "2026-03-12"
+  },
+  {
+    "slug": "pika",
+    "name": "Pika",
+    "nameJa": "ピカ",
+    "description": "テキストや画像から短い動画を生成するAIツール。UIがシンプルで使いやすく、SNS向けのショート動画作成に最適。動画のリップシンクや特殊エフェクトも可能。",
+    "shortDescription": "手軽にAI動画を作れるクリエイティブツール",
+    "category": "video-generation",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月150クレジット",
+            "基本生成"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "月額10ドル（約1,500円）",
+          "features": [
+            "月700クレジット",
+            "ウォーターマークなし"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額35ドル（約5,300円）",
+          "features": [
+            "月2000クレジット",
+            "高解像度",
+            "優先処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから動画生成",
+      "画像アニメーション",
+      "リップシンク",
+      "特殊エフェクト",
+      "動画拡張"
+    ],
+    "pros": [
+      "UIが非常に使いやすい",
+      "SNS向けの動画作成に最適",
+      "独自のエフェクトが楽しい",
+      "無料でも試せる"
+    ],
+    "cons": [
+      "長尺動画は生成できない",
+      "品質はSoraやRunwayに劣る",
+      "日本語対応が限定的"
+    ],
+    "officialUrl": "https://pika.art",
+    "logoPath": "/logos/pika.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "SNSクリエイター",
+      "手軽にAI動画を試したい人",
+      "短いプロモ動画が必要な人"
+    ],
+    "releaseYear": 2023,
+    "developer": "Pika Labs",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "slug": "heygen",
+    "name": "HeyGen",
+    "nameJa": "ヘイジェン",
+    "description": "AIアバターによる動画作成プラットフォーム。テキストを入力するだけでリアルなアバターが話す動画を生成。多言語対応のリップシンク機能で、1つの動画を多言語展開できる。",
+    "shortDescription": "AIアバター動画を簡単に作成できるプラットフォーム",
+    "category": "video-generation",
+    "subcategories": [
+      "productivity"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月1本の動画",
+            "基本アバター"
+          ]
+        },
+        {
+          "name": "Creator",
+          "price": "月額29ドル（約4,400円）",
+          "features": [
+            "月15本",
+            "プレミアムアバター",
+            "1080p"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "月額89ドル（約13,500円）",
+          "features": [
+            "月30本",
+            "カスタムアバター",
+            "APIアクセス"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIアバター動画生成",
+      "多言語リップシンク",
+      "カスタムアバター作成",
+      "テンプレート",
+      "リアルタイムアバター"
+    ],
+    "pros": [
+      "リアルなAIアバターが使える",
+      "多言語翻訳+リップシンクが優秀",
+      "営業・教育動画に最適",
+      "操作が簡単"
+    ],
+    "cons": [
+      "月額料金が高め",
+      "自然な表現にはまだ限界がある",
+      "無料プランは制限が厳しい"
+    ],
+    "officialUrl": "https://www.heygen.com",
+    "logoPath": "/logos/heygen.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "マーケティング担当者",
+      "教育コンテンツ制作者",
+      "多言語で動画を展開したい人"
+    ],
+    "releaseYear": 2022,
+    "developer": "HeyGen",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "nameJa": "イレブンラボ",
+    "description": "最先端のAI音声合成プラットフォーム。テキストから人間と区別がつかないほど自然な音声を生成。音声クローニング機能で任意の声を再現でき、多言語対応も充実。",
+    "shortDescription": "超自然なAI音声合成・音声クローニング",
+    "category": "voice-audio",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月10,000文字",
+            "基本ボイス"
+          ]
+        },
+        {
+          "name": "Starter",
+          "price": "月額5ドル（約750円）",
+          "features": [
+            "月30,000文字",
+            "音声クローン3つ"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額22ドル（約3,300円）",
+          "features": [
+            "月100,000文字",
+            "音声クローン無制限",
+            "API"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキスト読み上げ",
+      "音声クローニング",
+      "多言語対応（29言語）",
+      "感情表現コントロール",
+      "API提供",
+      "音声分離"
+    ],
+    "pros": [
+      "業界最高レベルの音声品質",
+      "音声クローニングが非常にリアル",
+      "多言語対応が優秀",
+      "APIが使いやすい"
+    ],
+    "cons": [
+      "大量利用は料金が嵩む",
+      "音声クローニングの悪用リスク",
+      "日本語の品質は英語に比べやや劣る"
+    ],
+    "officialUrl": "https://elevenlabs.io",
+    "logoPath": "/logos/elevenlabs.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "ナレーター・声優",
+      "ポッドキャスト制作者",
+      "多言語コンテンツ制作者"
+    ],
+    "releaseYear": 2022,
+    "developer": "ElevenLabs",
+    "lastUpdated": "2026-03-15"
+  },
+  {
+    "slug": "udio",
+    "name": "Udio",
+    "nameJa": "ユーディオ",
+    "description": "元Google DeepMindのメンバーが開発したAI音楽生成ツール。Sunoと並ぶ二大音楽生成AIの一つ。より音楽的に洗練された楽曲生成が特徴で、音質の高さに定評がある。",
+    "shortDescription": "音質にこだわったAI音楽生成ツール",
+    "category": "music-generation",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月10曲生成",
+            "基本機能"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "月額10ドル（約1,500円）",
+          "features": [
+            "月1200曲",
+            "高音質出力"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額30ドル（約4,500円）",
+          "features": [
+            "月4800曲",
+            "商用利用可",
+            "優先処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから楽曲生成",
+      "高音質出力",
+      "歌詞カスタマイズ",
+      "音楽スタイル指定",
+      "リミックス"
+    ],
+    "pros": [
+      "音質がSunoより高いと評価される",
+      "音楽的な完成度が高い",
+      "ジャンルの幅が広い"
+    ],
+    "cons": [
+      "Sunoに比べて知名度が低い",
+      "日本語歌詞の品質にばらつき",
+      "UI が英語のみ"
+    ],
+    "officialUrl": "https://www.udio.com",
+    "logoPath": "/logos/udio.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "音質にこだわる音楽制作者",
+      "BGM制作者",
+      "Sunoと比較検討したい人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Udio",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "slug": "adobe-firefly",
+    "name": "Adobe Firefly",
+    "nameJa": "アドビ ファイアフライ",
+    "description": "Adobeが開発した商用利用に安全な画像生成AI。Adobe Stockの学習データのみを使用し、著作権問題をクリア。Photoshop、Illustratorなど既存のAdobe製品に統合されている。",
+    "shortDescription": "商用利用に安全なAdobe製画像生成AI",
+    "category": "image-generation",
+    "subcategories": [
+      "design-creative"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月25クレジット",
+            "基本生成"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "月額680円",
+          "features": [
+            "月100クレジット",
+            "全機能利用可"
+          ]
+        },
+        {
+          "name": "Creative Cloud",
+          "price": "月額7,780円〜",
+          "features": [
+            "Photoshop等に統合",
+            "大量クレジット"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから画像生成",
+      "生成塗りつぶし",
+      "テキストエフェクト",
+      "スタイルリファレンス",
+      "Adobe製品統合"
+    ],
+    "pros": [
+      "商用利用が安全（著作権クリア）",
+      "Adobe製品との統合が便利",
+      "UI が使いやすい",
+      "企業利用に最適"
+    ],
+    "cons": [
+      "Midjourneyほどのアート性はない",
+      "クレジット制で利用量に制限",
+      "Adobe契約が必要（フル活用時）"
+    ],
+    "officialUrl": "https://firefly.adobe.com",
+    "logoPath": "/logos/adobe-firefly.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "商用利用で著作権を気にする人",
+      "Adobeユーザー",
+      "デザイナー・マーケター"
+    ],
+    "releaseYear": 2023,
+    "developer": "Adobe",
+    "lastUpdated": "2026-03-12"
+  },
+  {
+    "slug": "leonardo-ai",
+    "name": "Leonardo.Ai",
+    "nameJa": "レオナルドAI",
+    "description": "ゲームアセットやキャラクターデザインに強い画像生成AIプラットフォーム。豊富な事前学習済みモデルと、独自のリアルタイム生成キャンバス機能が特徴。",
+    "shortDescription": "ゲーム・キャラクターデザインに強い画像生成AI",
+    "category": "image-generation",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月150トークン",
+            "基本モデル"
+          ]
+        },
+        {
+          "name": "Apprentice",
+          "price": "月額12ドル（約1,800円）",
+          "features": [
+            "月8500トークン",
+            "全モデル利用可"
+          ]
+        },
+        {
+          "name": "Artisan",
+          "price": "月額30ドル（約4,500円）",
+          "features": [
+            "月25000トークン",
+            "優先処理",
+            "API"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "画像生成",
+      "リアルタイムキャンバス",
+      "モーション生成",
+      "3Dテクスチャ生成",
+      "カスタムモデル学習"
+    ],
+    "pros": [
+      "ゲームアセット制作に強い",
+      "リアルタイム生成が高速",
+      "豊富なモデルバリエーション",
+      "無料枠がそこそこ使える"
+    ],
+    "cons": [
+      "一般的な写真生成はMidjourneyに劣る",
+      "UIがやや複雑",
+      "日本語対応が限定的"
+    ],
+    "officialUrl": "https://leonardo.ai",
+    "logoPath": "/logos/leonardo-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "ゲーム開発者",
+      "キャラクターデザイナー",
+      "コンセプトアーティスト"
+    ],
+    "releaseYear": 2022,
+    "developer": "Leonardo.Ai",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "slug": "ideogram",
+    "name": "Ideogram",
+    "nameJa": "イデオグラム",
+    "description": "テキスト描画の精度で注目される画像生成AI。ロゴ、ポスター、タイポグラフィを含む画像生成に特に強く、他のツールが苦手とする文字入り画像を高精度に生成できる。",
+    "shortDescription": "テキスト描画が圧倒的に得意な画像生成AI",
+    "category": "image-generation",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "1日10回生成",
+            "基本機能"
+          ]
+        },
+        {
+          "name": "Basic",
+          "price": "月額8ドル（約1,200円）",
+          "features": [
+            "月400回生成",
+            "優先処理"
+          ]
+        },
+        {
+          "name": "Plus",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "月1000回生成",
+            "高品質モデル"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキスト描画の高精度生成",
+      "ロゴデザイン",
+      "ポスター生成",
+      "スタイル一貫性",
+      "マジックフィル"
+    ],
+    "pros": [
+      "テキスト入り画像の精度が最高",
+      "ロゴ・ポスター制作に最適",
+      "無料でも毎日使える",
+      "直感的なUI"
+    ],
+    "cons": [
+      "写実的な画像はMidjourneyに劣る",
+      "生成速度がやや遅い",
+      "コミュニティが小さい"
+    ],
+    "officialUrl": "https://ideogram.ai",
+    "logoPath": "/logos/ideogram.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "ロゴ・バナーを作りたい人",
+      "テキスト入り画像が必要な人",
+      "グラフィックデザイナー"
+    ],
+    "releaseYear": 2023,
+    "developer": "Ideogram",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "slug": "flux",
+    "name": "FLUX",
+    "nameJa": "フラックス",
+    "description": "Black Forest Labs（元Stability AIチーム）が開発した最新の画像生成モデル。オープンソースで提供され、Stable Diffusionの後継として注目。高品質でプロンプト忠実度が高い。",
+    "shortDescription": "元Stability AI発の次世代オープンソース画像生成",
+    "category": "image-generation",
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース（FLUX.1 schnell）",
+          "price": "無料",
+          "features": [
+            "ローカル実行",
+            "高速生成",
+            "Apache 2.0"
+          ]
+        },
+        {
+          "name": "FLUX.1 Pro（API）",
+          "price": "従量課金",
+          "features": [
+            "最高品質",
+            "API経由",
+            "商用利用可"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高品質画像生成",
+      "プロンプト忠実度が高い",
+      "オープンソース",
+      "高速推論",
+      "テキスト描画対応"
+    ],
+    "pros": [
+      "Stable Diffusionより高品質",
+      "オープンソースで自由に使える",
+      "プロンプト通りの画像を生成",
+      "活発なコミュニティ"
+    ],
+    "cons": [
+      "セットアップに技術知識が必要",
+      "高性能GPUが必要",
+      "情報がまだ少ない"
+    ],
+    "officialUrl": "https://blackforestlabs.ai",
+    "logoPath": "/logos/flux.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "オープンソースAIを使いたい開発者",
+      "Stable Diffusionからの移行を検討する人",
+      "高品質な画像生成を求める人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Black Forest Labs",
+    "lastUpdated": "2026-03-15"
+  },
+  {
+    "slug": "canva-ai",
+    "name": "Canva AI",
+    "nameJa": "キャンバAI",
+    "description": "デザインプラットフォームCanvaに統合されたAI機能群。Magic Write（文章生成）、Magic Media（画像・動画生成）、Magic Eraser（背景除去）など、デザイン作業をAIで効率化。",
+    "shortDescription": "デザインプラットフォームに統合されたAI機能群",
+    "category": "design-creative",
+    "subcategories": [
+      "image-generation"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "一部AI機能",
+            "基本テンプレート"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額1,500円",
+          "features": [
+            "全AI機能",
+            "ブランドキット",
+            "100GBストレージ"
+          ]
+        },
+        {
+          "name": "Teams",
+          "price": "月額1,800円/人",
+          "features": [
+            "チームコラボ",
+            "ブランド管理",
+            "全機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Magic Write（文章生成）",
+      "Magic Media（画像生成）",
+      "背景除去",
+      "デザインテンプレート",
+      "ブランドキット",
+      "動画編集"
+    ],
+    "pros": [
+      "デザイン初心者でも使いやすい",
+      "テンプレートが豊富",
+      "日本語対応が良い",
+      "チーム共有が簡単"
+    ],
+    "cons": [
+      "高度なデザインには限界がある",
+      "AI生成の品質は専門ツールに劣る",
+      "Pro以上でないとAI機能に制限"
+    ],
+    "officialUrl": "https://www.canva.com",
+    "logoPath": "/logos/canva-ai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "デザイン初心者",
+      "SNS投稿用の画像を作りたい人",
+      "小規模チームのマーケター"
+    ],
+    "releaseYear": 2023,
+    "developer": "Canva",
+    "lastUpdated": "2026-03-18"
+  },
+  {
+    "slug": "windsurf",
+    "name": "Windsurf",
+    "nameJa": "ウィンドサーフ",
+    "description": "Codeium社が開発したAIコードエディタ。Cursorの競合として注目。Cascade（AIフロー）機能により、複数ステップのコーディングタスクを自律的に実行できるのが特徴。",
+    "shortDescription": "Cascade機能搭載のAIコードエディタ",
+    "category": "coding-assistant",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本補完",
+            "制限付きチャット"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額15ドル（約2,300円）",
+          "features": [
+            "無制限Cascade",
+            "全モデル利用可",
+            "優先処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Cascade（AIフロー実行）",
+      "コード補完",
+      "マルチファイル編集",
+      "ターミナル統合",
+      "コンテキスト理解"
+    ],
+    "pros": [
+      "Cascadeによる自律的なコーディング",
+      "Cursorより安価",
+      "VS Code互換",
+      "無料プランが充実"
+    ],
+    "cons": [
+      "Cursorに比べて成熟度が低い",
+      "エコシステムがまだ小さい",
+      "日本語の情報が少ない"
+    ],
+    "officialUrl": "https://windsurf.com",
+    "logoPath": "/logos/windsurf.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "Cursorの代替を探している人",
+      "コストを抑えたいプログラマー",
+      "AIフロー実行に興味がある人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Codeium",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "devin",
+    "name": "Devin",
+    "nameJa": "デヴィン",
+    "description": "世界初の完全自律型AIソフトウェアエンジニア。バグ修正からアプリ開発まで、人間の開発者のように自律的にコーディングタスクをこなす。Cognition社が開発。",
+    "shortDescription": "自律型AIソフトウェアエンジニア",
+    "category": "coding-assistant",
+    "subcategories": [
+      "ai-agent"
+    ],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Team",
+          "price": "月額500ドル（約75,000円）",
+          "features": [
+            "チームアクセス",
+            "自律コーディング",
+            "Slack連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自律的なコード生成",
+      "バグ修正",
+      "テスト作成",
+      "デプロイ",
+      "Slack/GitHub連携",
+      "独立した開発環境"
+    ],
+    "pros": [
+      "完全自律型で複雑なタスクを遂行",
+      "長時間の作業も自動で実行",
+      "既存の開発ワークフローに統合可能"
+    ],
+    "cons": [
+      "非常に高額",
+      "自律実行の品質にばらつき",
+      "監視が必要な場合も多い",
+      "大規模プロジェクトではまだ限界あり"
+    ],
+    "officialUrl": "https://devin.ai",
+    "logoPath": "/logos/devin.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "開発チームの生産性を上げたい企業",
+      "単純な開発タスクを自動化したい人",
+      "AI開発の最前線を体験したい人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Cognition",
+    "lastUpdated": "2026-03-22"
+  },
+  {
+    "slug": "replit-agent",
+    "name": "Replit Agent",
+    "nameJa": "レプリット エージェント",
+    "description": "ブラウザベースの開発環境Replitに統合されたAIエージェント。自然言語の指示からアプリケーションを自動生成・デプロイまで完結。環境構築不要でAI開発を始められる。",
+    "shortDescription": "ブラウザでアプリを自動生成するAI開発環境",
+    "category": "coding-assistant",
+    "subcategories": [
+      "ai-agent"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的なRepl作成",
+            "制限付きAI"
+          ]
+        },
+        {
+          "name": "Replit Core",
+          "price": "月額25ドル（約3,800円）",
+          "features": [
+            "AIエージェント",
+            "高性能VM",
+            "デプロイ無制限"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自然言語からアプリ生成",
+      "自動デプロイ",
+      "ブラウザ完結",
+      "マルチ言語対応",
+      "チームコラボ"
+    ],
+    "pros": [
+      "環境構築が一切不要",
+      "デプロイまでワンストップ",
+      "初心者でもアプリが作れる",
+      "ブラウザだけで完結"
+    ],
+    "cons": [
+      "複雑なアプリには限界がある",
+      "パフォーマンスが限定的",
+      "コアプランは割高"
+    ],
+    "officialUrl": "https://replit.com",
+    "logoPath": "/logos/replit.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "プログラミング初心者",
+      "素早くプロトタイプを作りたい人",
+      "環境構築が面倒な人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Replit",
+    "lastUpdated": "2026-03-15"
+  },
+  {
+    "slug": "v0",
+    "name": "v0",
+    "nameJa": "ブイゼロ",
+    "description": "Vercel社が開発したAI UIジェネレーター。自然言語の指示からReact/Next.jsのUIコンポーネントを自動生成。shadcn/uiとTailwind CSSベースで、そのまま本番利用可能なコードを出力。",
+    "shortDescription": "Vercel製のAI UIコンポーネントジェネレーター",
+    "category": "coding-assistant",
+    "subcategories": [
+      "design-creative"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月200メッセージ",
+            "基本生成"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "無制限メッセージ",
+            "プライベート生成",
+            "優先処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "UIコンポーネント自動生成",
+      "React/Next.jsコード出力",
+      "shadcn/ui統合",
+      "リアルタイムプレビュー",
+      "コード編集"
+    ],
+    "pros": [
+      "本番品質のUIコードを生成",
+      "React/Next.js開発者に最適",
+      "デザインからコードへの変換が高速",
+      "shadcn/uiとの相性抜群"
+    ],
+    "cons": [
+      "React/Next.js以外には非対応",
+      "複雑なロジックは苦手",
+      "デザインの自由度に限界"
+    ],
+    "officialUrl": "https://v0.dev",
+    "logoPath": "/logos/v0.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "React/Next.js開発者",
+      "UIプロトタイピングを高速化したい人",
+      "フロントエンドエンジニア"
+    ],
+    "releaseYear": 2023,
+    "developer": "Vercel",
+    "lastUpdated": "2026-03-18"
+  },
+  {
+    "slug": "bolt",
+    "name": "Bolt.new",
+    "nameJa": "ボルト",
+    "description": "StackBlitz社が開発したAIフルスタック開発ツール。ブラウザ上で自然言語からWebアプリを自動生成。フロントエンド・バックエンド・データベースまで一気通貫で作成可能。",
+    "shortDescription": "ブラウザでフルスタックアプリを自動生成",
+    "category": "coding-assistant",
+    "subcategories": [
+      "ai-agent"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本生成",
+            "制限付きトークン"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "月1000万トークン",
+            "全モデル利用"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "月額40ドル（約6,000円）",
+          "features": [
+            "月2700万トークン",
+            "チーム管理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "フルスタックアプリ自動生成",
+      "ブラウザ完結の開発環境",
+      "リアルタイムプレビュー",
+      "Netlifyデプロイ統合",
+      "マルチフレームワーク対応"
+    ],
+    "pros": [
+      "フルスタックアプリが数分で生成される",
+      "環境構築不要",
+      "即座にデプロイ可能",
+      "幅広いフレームワークに対応"
+    ],
+    "cons": [
+      "複雑なアプリでは手直しが必要",
+      "生成品質にばらつき",
+      "大規模プロジェクトには不向き"
+    ],
+    "officialUrl": "https://bolt.new",
+    "logoPath": "/logos/bolt.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "アプリのプロトタイプを素早く作りたい人",
+      "非エンジニアでWebアプリを作りたい人",
+      "個人開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "StackBlitz",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "lovable",
+    "name": "Lovable",
+    "nameJa": "ラバブル",
+    "description": "自然言語からフルスタックWebアプリを生成するAI開発ツール（旧GPT Engineer）。デザイン性の高いUIを自動生成し、Supabase連携によるバックエンド構築やStripe決済統合も可能。",
+    "shortDescription": "デザイン重視のAIフルスタックアプリ生成ツール",
+    "category": "coding-assistant",
+    "subcategories": [
+      "ai-agent"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月5プロジェクト",
+            "基本機能"
+          ]
+        },
+        {
+          "name": "Starter",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "無制限プロジェクト",
+            "カスタムドメイン"
+          ]
+        },
+        {
+          "name": "Launch",
+          "price": "月額50ドル（約7,500円）",
+          "features": [
+            "大量利用",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自然言語からアプリ生成",
+      "デザイン性の高いUI",
+      "Supabase統合",
+      "GitHub連携",
+      "ワンクリックデプロイ"
+    ],
+    "pros": [
+      "生成されるUIのデザイン品質が高い",
+      "Supabaseとの連携でバックエンドも自動構築",
+      "GitHubとの同期が便利"
+    ],
+    "cons": [
+      "複雑なビジネスロジックには限界",
+      "生成コードの保守が難しい場合がある",
+      "料金が割高"
+    ],
+    "officialUrl": "https://lovable.dev",
+    "logoPath": "/logos/lovable.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "デザイン重視のアプリを作りたい人",
+      "スタートアップのMVP作成",
+      "非エンジニアの起業家"
+    ],
+    "releaseYear": 2024,
+    "developer": "Lovable",
+    "lastUpdated": "2026-03-22"
+  },
+  {
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "nameJa": "ノーションAI",
+    "description": "ドキュメント・プロジェクト管理ツールNotionに統合されたAI機能。文章の要約、翻訳、校正、データベースの自動入力など、日常の業務をAIが支援。Q&A機能でワークスペース内の情報を横断検索可能。",
+    "shortDescription": "Notionに統合されたAI業務支援機能",
+    "category": "productivity",
+    "subcategories": [
+      "writing-content",
+      "note-knowledge"
+    ],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "AI アドオン",
+          "price": "月額10ドル/メンバー（約1,500円）",
+          "features": [
+            "AI文章生成",
+            "Q&A",
+            "自動入力",
+            "翻訳"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "文章生成・要約",
+      "翻訳・校正",
+      "Q&A（ナレッジ検索）",
+      "データベース自動入力",
+      "議事録要約"
+    ],
+    "pros": [
+      "既存のNotionワークフローに統合",
+      "社内ナレッジの横断検索が便利",
+      "日本語対応が良い",
+      "多機能"
+    ],
+    "cons": [
+      "Notion利用者以外は使えない",
+      "追加料金が発生",
+      "AI回答の精度にばらつき"
+    ],
+    "officialUrl": "https://www.notion.so/product/ai",
+    "logoPath": "/logos/notion-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "Notionヘビーユーザー",
+      "チームのナレッジ管理を改善したい人",
+      "ドキュメント作成を効率化したい人"
+    ],
+    "releaseYear": 2023,
+    "developer": "Notion",
+    "lastUpdated": "2026-03-12"
+  },
+  {
+    "slug": "jasper",
+    "name": "Jasper",
+    "nameJa": "ジャスパー",
+    "description": "マーケティング特化型のAIコンテンツ生成プラットフォーム。ブログ記事、広告コピー、SNS投稿、メールなどマーケティングコンテンツを大量に自動生成。ブランドボイスの統一機能も搭載。",
+    "shortDescription": "マーケティング特化のAIコンテンツ生成ツール",
+    "category": "writing-content",
+    "subcategories": [
+      "productivity"
+    ],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Creator",
+          "price": "月額49ドル（約7,400円）",
+          "features": [
+            "1ユーザー",
+            "ブランドボイス",
+            "SEOモード"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額69ドル（約10,400円）",
+          "features": [
+            "3ユーザー",
+            "アート生成",
+            "キャンペーン機能"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "カスタム",
+          "features": [
+            "チーム管理",
+            "API",
+            "高度な分析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ブログ記事生成",
+      "広告コピー作成",
+      "SNS投稿生成",
+      "ブランドボイス統一",
+      "SEO最適化",
+      "50以上のテンプレート"
+    ],
+    "pros": [
+      "マーケティング用途に特化",
+      "ブランドの声を統一できる",
+      "テンプレートが豊富",
+      "チーム利用に強い"
+    ],
+    "cons": [
+      "料金が高い",
+      "汎用的な会話には不向き",
+      "日本語対応が限定的",
+      "ChatGPTで代替可能な機能も多い"
+    ],
+    "officialUrl": "https://www.jasper.ai",
+    "logoPath": "/logos/jasper.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "マーケティングチーム",
+      "大量のコンテンツを生成したい企業",
+      "ブランドの一貫性を重視する人"
+    ],
+    "releaseYear": 2021,
+    "developer": "Jasper AI",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "slug": "gamma",
+    "name": "Gamma",
+    "nameJa": "ガンマ",
+    "description": "AIでプレゼンテーション、ドキュメント、ウェブページを自動生成するツール。テキストを入力するだけで美しいスライドが完成。リアルタイム共同編集やアナリティクス機能も搭載。",
+    "shortDescription": "AIで美しいプレゼンを自動生成",
+    "category": "design-creative",
+    "subcategories": [
+      "productivity"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月400AIクレジット",
+            "Gammaバッジ付き"
+          ]
+        },
+        {
+          "name": "Plus",
+          "price": "月額10ドル（約1,500円）",
+          "features": [
+            "無制限AI",
+            "バッジなし",
+            "カスタムフォント"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "高度な分析",
+            "優先サポート",
+            "カスタムドメイン"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "プレゼン自動生成",
+      "ドキュメント生成",
+      "Webページ生成",
+      "AI画像挿入",
+      "リアルタイム共同編集",
+      "アナリティクス"
+    ],
+    "pros": [
+      "プレゼン作成が圧倒的に速い",
+      "デザインが洗練されている",
+      "共有・公開が簡単",
+      "日本語対応良好"
+    ],
+    "cons": [
+      "PowerPointほどの編集自由度はない",
+      "テンプレートのバリエーションに限りがある",
+      "オフライン使用不可"
+    ],
+    "officialUrl": "https://gamma.app",
+    "logoPath": "/logos/gamma.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "プレゼン資料を頻繁に作る人",
+      "デザインが苦手なビジネスパーソン",
+      "営業・提案資料を効率化したい人"
+    ],
+    "releaseYear": 2022,
+    "developer": "Gamma",
+    "lastUpdated": "2026-03-15"
+  },
+  {
+    "slug": "descript",
+    "name": "Descript",
+    "nameJa": "ディスクリプト",
+    "description": "テキスト編集のように動画・音声を編集できるAIツール。文字起こしを編集すると動画が自動で編集される革新的なUI。フィラーワード除去、AI音声生成、スクリーンレコーディングも搭載。",
+    "shortDescription": "テキストベースの革新的動画・音声編集ツール",
+    "category": "video-editing",
+    "subcategories": [
+      "voice-audio"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月1時間文字起こし",
+            "基本編集"
+          ]
+        },
+        {
+          "name": "Hobbyist",
+          "price": "月額24ドル（約3,600円）",
+          "features": [
+            "月10時間文字起こし",
+            "フィラー除去",
+            "AI音声"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "月額33ドル（約5,000円）",
+          "features": [
+            "月30時間",
+            "チーム機能",
+            "全AI機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストベース動画編集",
+      "AI文字起こし",
+      "フィラーワード自動除去",
+      "AI音声クローン",
+      "スクリーン録画",
+      "ポッドキャスト編集"
+    ],
+    "pros": [
+      "テキスト編集感覚で動画編集できる",
+      "文字起こし精度が高い",
+      "フィラー除去が便利",
+      "ポッドキャスト編集に最適"
+    ],
+    "cons": [
+      "日本語の文字起こし精度はやや劣る",
+      "高度な動画エフェクトは限定的",
+      "月額料金がやや高い"
+    ],
+    "officialUrl": "https://www.descript.com",
+    "logoPath": "/logos/descript.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "ポッドキャスト制作者",
+      "動画編集を効率化したい人",
+      "文字起こしが必要な人"
+    ],
+    "releaseYear": 2017,
+    "developer": "Descript",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "slug": "capcut",
+    "name": "CapCut",
+    "nameJa": "キャップカット",
+    "description": "ByteDance（TikTok親会社）が開発する動画編集アプリ。AIによる自動キャプション、背景除去、スタイル変換など豊富なAI機能を搭載。TikTokやSNS向けの動画制作に最適化。",
+    "shortDescription": "TikTok親会社製のAI搭載動画編集アプリ",
+    "category": "video-editing",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本編集",
+            "一部AI機能",
+            "ウォーターマーク"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額1,350円",
+          "features": [
+            "全AI機能",
+            "ウォーターマークなし",
+            "クラウドストレージ"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI自動キャプション",
+      "背景除去",
+      "スタイル変換",
+      "テキスト読み上げ",
+      "テンプレート",
+      "モバイル・PC両対応"
+    ],
+    "pros": [
+      "無料でも多機能",
+      "TikTok向けに最適化",
+      "操作が簡単",
+      "テンプレートが豊富"
+    ],
+    "cons": [
+      "プロ向け機能は不足",
+      "データのプライバシーへの懸念",
+      "PC版とモバイル版で機能差がある"
+    ],
+    "officialUrl": "https://www.capcut.com",
+    "logoPath": "/logos/capcut.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "TikTokクリエイター",
+      "SNS動画を手軽に作りたい人",
+      "動画編集初心者"
+    ],
+    "releaseYear": 2020,
+    "developer": "ByteDance",
+    "lastUpdated": "2026-03-12"
+  },
+  {
+    "slug": "otter-ai",
+    "name": "Otter.ai",
+    "nameJa": "オッターAI",
+    "description": "AI会議アシスタント。リアルタイムの文字起こし、要約、アクションアイテム抽出を自動で行う。Zoom、Google Meet、Microsoft Teamsと連携し、会議の記録と共有を効率化。",
+    "shortDescription": "AI会議文字起こし・要約アシスタント",
+    "category": "productivity",
+    "subcategories": [
+      "voice-audio"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月300分文字起こし",
+            "リアルタイム要約"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額16.99ドル（約2,600円）",
+          "features": [
+            "月1200分",
+            "Zoom/Meet連携",
+            "検索"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "月額30ドル（約4,500円）",
+          "features": [
+            "月6000分",
+            "管理機能",
+            "分析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "リアルタイム文字起こし",
+      "会議要約",
+      "アクションアイテム抽出",
+      "Zoom/Meet/Teams連携",
+      "話者識別",
+      "キーワード検索"
+    ],
+    "pros": [
+      "英語の文字起こし精度が非常に高い",
+      "会議ツールとの連携がスムーズ",
+      "要約とアクションアイテムが自動生成"
+    ],
+    "cons": [
+      "日本語対応は限定的",
+      "無料プランの制限が厳しめ",
+      "オフライン利用不可"
+    ],
+    "officialUrl": "https://otter.ai",
+    "logoPath": "/logos/otter-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "英語の会議が多いビジネスパーソン",
+      "議事録作成を効率化したい人",
+      "リモートワーカー"
+    ],
+    "releaseYear": 2016,
+    "developer": "Otter.ai",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "slug": "whisper",
+    "name": "Whisper",
+    "nameJa": "ウィスパー",
+    "description": "OpenAIが開発したオープンソースの音声認識モデル。多言語対応で日本語の精度も高い。ローカル環境で無料利用可能。文字起こし、翻訳、字幕生成などに広く活用されている。",
+    "shortDescription": "OpenAI製オープンソース音声認識モデル",
+    "category": "voice-audio",
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料（ローカル実行）",
+          "features": [
+            "無制限利用",
+            "99言語対応",
+            "商用利用可"
+          ]
+        },
+        {
+          "name": "API",
+          "price": "0.006ドル/分",
+          "features": [
+            "クラウド実行",
+            "高速処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "音声文字起こし",
+      "多言語対応（99言語）",
+      "翻訳（→英語）",
+      "タイムスタンプ付与",
+      "オープンソース"
+    ],
+    "pros": [
+      "完全無料でローカル実行可能",
+      "日本語の精度が高い",
+      "99言語に対応",
+      "商用利用可能"
+    ],
+    "cons": [
+      "セットアップに技術知識が必要",
+      "リアルタイム処理は別途工夫が必要",
+      "GPUがないと処理が遅い"
+    ],
+    "officialUrl": "https://openai.com/research/whisper",
+    "logoPath": "/logos/whisper.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "文字起こしをローカルで行いたい人",
+      "多言語の音声処理が必要な人",
+      "開発者"
+    ],
+    "releaseYear": 2022,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "slug": "deepl",
+    "name": "DeepL",
+    "nameJa": "ディープエル",
+    "description": "ドイツ発のAI翻訳サービス。自然で高品質な翻訳が特徴で、特に日本語⇔英語の翻訳品質が高い。DeepL Writeによる文章校正機能も提供。ビジネス文書の翻訳で広く利用されている。",
+    "shortDescription": "自然で高品質なAI翻訳サービス",
+    "category": "translation",
+    "subcategories": [
+      "writing-content"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月50万文字",
+            "基本翻訳"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額1,000円",
+          "features": [
+            "無制限翻訳",
+            "用語集",
+            "APIアクセス"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "月額5,500円/ユーザー",
+          "features": [
+            "チーム管理",
+            "セキュリティ",
+            "CAT統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキスト翻訳（33言語）",
+      "ドキュメント翻訳",
+      "DeepL Write（文章校正）",
+      "用語集",
+      "API提供"
+    ],
+    "pros": [
+      "翻訳の自然さが業界トップクラス",
+      "日本語翻訳の品質が非常に高い",
+      "ドキュメントまるごと翻訳可能",
+      "無料でも十分使える"
+    ],
+    "cons": [
+      "対応言語数がGoogle翻訳より少ない",
+      "専門用語の翻訳精度にばらつき",
+      "Write機能は日本語非対応"
+    ],
+    "officialUrl": "https://www.deepl.com",
+    "logoPath": "/logos/deepl.svg",
+    "rating": 4.6,
+    "recommendedFor": [
+      "ビジネス文書を翻訳する人",
+      "英日・日英翻訳が多い人",
+      "翻訳品質を重視する人"
+    ],
+    "releaseYear": 2017,
+    "developer": "DeepL SE",
+    "lastUpdated": "2026-03-18"
+  },
+  {
+    "slug": "figma-ai",
+    "name": "Figma AI",
+    "nameJa": "フィグマAI",
+    "description": "デザインツールFigmaに統合されたAI機能。テキストからUIデザイン生成、レイヤー名の自動リネーム、画像背景除去、プロトタイプの自動生成など、デザインワークフローをAIが支援。",
+    "shortDescription": "Figma統合のAIデザイン支援機能",
+    "category": "design-creative",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Figma Free",
+          "price": "無料",
+          "features": [
+            "一部AI機能",
+            "基本デザイン"
+          ]
+        },
+        {
+          "name": "Professional",
+          "price": "月額1,800円/エディター",
+          "features": [
+            "全AI機能",
+            "無制限プロジェクト"
+          ]
+        },
+        {
+          "name": "Organization",
+          "price": "月額6,750円/エディター",
+          "features": [
+            "高度なセキュリティ",
+            "デザインシステム"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストからUI生成",
+      "レイヤー名自動リネーム",
+      "背景除去",
+      "コンテンツ自動生成",
+      "プロトタイプ生成"
+    ],
+    "pros": [
+      "既存のFigmaワークフローに統合",
+      "UI/UXデザインに特化",
+      "チーム共有が簡単",
+      "プラグインエコシステムが豊富"
+    ],
+    "cons": [
+      "Figmaユーザー以外は使えない",
+      "AIデザイン生成の精度はまだ発展途上",
+      "料金が高め"
+    ],
+    "officialUrl": "https://www.figma.com",
+    "logoPath": "/logos/figma-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "UI/UXデザイナー",
+      "Figmaヘビーユーザー",
+      "デザインチーム"
+    ],
+    "releaseYear": 2024,
+    "developer": "Figma",
+    "lastUpdated": "2026-03-15"
+  },
+  {
+    "slug": "dify",
+    "name": "Dify",
+    "nameJa": "ディファイ",
+    "description": "オープンソースのLLMアプリ開発プラットフォーム。ノーコード/ローコードでAIアプリ、チャットボット、エージェント、ワークフローを構築可能。RAG（検索拡張生成）パイプラインの構築も簡単。",
+    "shortDescription": "オープンソースのAIアプリ開発プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [
+      "ai-agent"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Community（セルフホスト）",
+          "price": "無料",
+          "features": [
+            "全機能",
+            "オープンソース",
+            "無制限"
+          ]
+        },
+        {
+          "name": "Cloud Free",
+          "price": "無料",
+          "features": [
+            "200メッセージ/日",
+            "基本機能"
+          ]
+        },
+        {
+          "name": "Cloud Pro",
+          "price": "月額59ドル（約8,900円）",
+          "features": [
+            "5000メッセージ/日",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ノーコードAIアプリ構築",
+      "RAGパイプライン",
+      "エージェント構築",
+      "ワークフロー自動化",
+      "マルチLLM対応",
+      "API提供"
+    ],
+    "pros": [
+      "オープンソースで無料利用可能",
+      "ノーコードでAIアプリが作れる",
+      "RAGの構築が簡単",
+      "主要LLM全てに対応"
+    ],
+    "cons": [
+      "高度なカスタマイズには開発知識が必要",
+      "UIが英語中心",
+      "Cloud版は従量制で高額になることも"
+    ],
+    "officialUrl": "https://dify.ai",
+    "logoPath": "/logos/dify.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AIアプリを開発したい企業",
+      "ノーコードでチャットボットを作りたい人",
+      "RAGを構築したい開発者"
+    ],
+    "releaseYear": 2023,
+    "developer": "Dify.AI",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "coze",
+    "name": "Coze",
+    "nameJa": "コゼ",
+    "description": "ByteDanceが開発したAIチャットボット構築プラットフォーム。ノーコードでAIボットを作成し、LINE、Slack、Discordなど様々なプラットフォームに公開可能。プラグインやワークフロー機能も充実。",
+    "shortDescription": "ノーコードAIボット構築プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [
+      "ai-agent"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本機能",
+            "制限付きメッセージ"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額9ドル（約1,400円）",
+          "features": [
+            "大量メッセージ",
+            "全プラグイン",
+            "分析機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ノーコードボット構築",
+      "マルチプラットフォーム公開",
+      "プラグインシステム",
+      "ワークフロー",
+      "ナレッジベース",
+      "API提供"
+    ],
+    "pros": [
+      "非常に簡単にボットが作れる",
+      "LINE/Slack/Discord等に公開可能",
+      "プラグインが豊富",
+      "無料でも十分使える"
+    ],
+    "cons": [
+      "高度なカスタマイズに限界",
+      "ByteDanceのデータポリシーへの懸念",
+      "英語・中国語中心"
+    ],
+    "officialUrl": "https://www.coze.com",
+    "logoPath": "/logos/coze.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "チャットボットを手軽に作りたい人",
+      "LINE/DiscordにAIボットを追加したい人",
+      "ノーコード開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "ByteDance",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "slug": "chatwork-ai",
+    "name": "ChatWork AI",
+    "nameJa": "チャットワークAI",
+    "description": "日本のビジネスチャットツールChatworkに統合されたAI機能。メッセージの要約、返信文の生成、タスク抽出など、日本企業の業務コミュニケーションをAIで効率化。",
+    "shortDescription": "日本企業向けビジネスチャットAI機能",
+    "category": "productivity",
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "ビジネス",
+          "price": "月額700円/ユーザー",
+          "features": [
+            "AI要約",
+            "返信生成",
+            "タスク抽出"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "カスタム",
+          "features": [
+            "全AI機能",
+            "セキュリティ管理",
+            "API連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "メッセージ要約",
+      "返信文生成",
+      "タスク自動抽出",
+      "日本語特化",
+      "グループチャット対応"
+    ],
+    "pros": [
+      "日本語に完全対応",
+      "既存のChatworkに統合",
+      "日本企業のワークフローに最適",
+      "導入が簡単"
+    ],
+    "cons": [
+      "Chatworkユーザー限定",
+      "AI機能がまだ限定的",
+      "他のAIツールに比べて高度な機能は少ない"
+    ],
+    "officialUrl": "https://go.chatwork.com",
+    "logoPath": "/logos/chatwork-ai.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "Chatworkを使っている日本企業",
+      "社内コミュニケーションを効率化したい人",
+      "日本語対応を重視する人"
+    ],
+    "releaseYear": 2024,
+    "developer": "kubell（旧Chatwork）",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "slug": "copilot-plus",
+    "name": "Copilot+ PC",
+    "nameJa": "コパイロットプラスPC",
+    "description": "Microsoftが推進するAI統合PC構想。NPU（ニューラルプロセッシングユニット）搭載PCで、OS レベルでAI機能を統合。Recall（操作履歴検索）、Live Captions（リアルタイム字幕）など独自機能を提供。",
+    "shortDescription": "AI統合PCプラットフォーム",
+    "category": "productivity",
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "対応PC購入",
+          "price": "10万円〜",
+          "features": [
+            "NPU搭載",
+            "Recall",
+            "Live Captions",
+            "Copilot統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Recall（操作履歴AI検索）",
+      "Live Captions（リアルタイム翻訳字幕）",
+      "Windows Studio Effects",
+      "Cocreator（画像生成）",
+      "NPUによるローカルAI処理"
+    ],
+    "pros": [
+      "OSレベルのAI統合",
+      "ローカル処理でプライバシー配慮",
+      "日常のPC作業がAIで効率化"
+    ],
+    "cons": [
+      "対応PCの購入が必要",
+      "機能がまだ発展途上",
+      "Recall機能のプライバシー懸念"
+    ],
+    "officialUrl": "https://www.microsoft.com/ja-jp/windows/copilot-plus-pcs",
+    "logoPath": "/logos/copilot-plus.svg",
+    "rating": 3.6,
+    "recommendedFor": [
+      "新しいPCの購入を検討している人",
+      "Windows中心の業務環境の人",
+      "ローカルAI処理に興味がある人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Microsoft",
+    "lastUpdated": "2026-03-18"
+  },
+  {
+    "slug": "perplexity-spaces",
+    "name": "Perplexity Spaces",
+    "nameJa": "パープレキシティ スペース",
+    "description": "Perplexity AIが提供するチーム向けAIリサーチ空間。チームメンバーとリサーチ結果を共有し、共同でAI検索を活用した調査・分析ができる。カスタム指示やファイルアップロードにも対応。",
+    "shortDescription": "チーム向けAIリサーチ共有空間",
+    "category": "search-research",
+    "subcategories": [
+      "productivity"
+    ],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Enterprise Pro",
+          "price": "月額40ドル/ユーザー（約6,000円）",
+          "features": [
+            "Spaces",
+            "シングルサインオン",
+            "管理機能",
+            "データ保持設定"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "チームリサーチ共有",
+      "カスタム指示",
+      "ファイルアップロード",
+      "検索結果のコレクション",
+      "メンバー管理"
+    ],
+    "pros": [
+      "チームでのリサーチ共有が効率的",
+      "Perplexityの高精度検索をチームで活用",
+      "セキュリティ管理が充実"
+    ],
+    "cons": [
+      "Enterprise Pro限定で高額",
+      "個人利用には向かない",
+      "日本語ドキュメントが少ない"
+    ],
+    "officialUrl": "https://www.perplexity.ai/spaces",
+    "logoPath": "/logos/perplexity-spaces.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "リサーチチーム",
+      "コンサルティング企業",
+      "チームでの情報収集を効率化したい企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Perplexity AI",
+    "lastUpdated": "2026-03-10"
+  },
+  {
+    "slug": "claude-mcp",
+    "name": "Claude MCP",
+    "nameJa": "クロード MCP",
+    "description": "AnthropicがオープンソースとしてリリースしたModel Context Protocol。AIモデルが外部ツール・データソースと安全に連携するための標準プロトコル。Claudeだけでなく他のLLMからも利用可能。",
+    "shortDescription": "AIと外部ツールを繋ぐオープンプロトコル",
+    "category": "ai-platform",
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "全機能",
+            "自由な統合",
+            "コミュニティサーバー"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "外部ツール連携プロトコル",
+      "データソース統合",
+      "セキュアな接続",
+      "オープンソース",
+      "マルチLLM対応"
+    ],
+    "pros": [
+      "AIの能力を大幅に拡張できる",
+      "標準プロトコルとして広がりつつある",
+      "セキュリティを考慮した設計",
+      "完全無料・オープンソース"
+    ],
+    "cons": [
+      "開発者向けで一般ユーザーには難しい",
+      "対応サーバーはまだ発展途上",
+      "設定にやや手間がかかる"
+    ],
+    "officialUrl": "https://modelcontextprotocol.io",
+    "logoPath": "/logos/claude-mcp.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AI開発者",
+      "LLMアプリケーション構築者",
+      "社内ツールにAIを統合したいエンジニア"
+    ],
+    "releaseYear": 2024,
+    "developer": "Anthropic",
+    "lastUpdated": "2026-03-25"
+  },
+  {
+    "slug": "openai-o1",
+    "name": "OpenAI o1",
+    "nameJa": "オープンAI o1",
+    "description": "OpenAIの推論特化型AIモデル。回答前に「考える」プロセスを実行し、数学、科学、プログラミングなどの複雑な問題で高い精度を発揮。通常のGPT-4oとは異なる推論アプローチを採用。",
+    "shortDescription": "深い推論能力を持つOpenAIの思考型AIモデル",
+    "category": "llm-chatbot",
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "ChatGPT Plus",
+          "price": "月額20ドル（約3,000円）",
+          "features": [
+            "o1-mini利用可",
+            "制限付きo1"
+          ]
+        },
+        {
+          "name": "ChatGPT Pro",
+          "price": "月額200ドル（約30,000円）",
+          "features": [
+            "o1 pro mode",
+            "無制限アクセス"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Chain-of-Thought推論",
+      "数学的問題解決",
+      "科学的推論",
+      "高度なコーディング",
+      "論理的分析"
+    ],
+    "pros": [
+      "複雑な推論タスクで圧倒的な性能",
+      "数学・科学の問題解決が得意",
+      "論理的な分析能力が高い"
+    ],
+    "cons": [
+      "回答に時間がかかる",
+      "Pro版は非常に高額",
+      "単純な質問には過剰",
+      "マルチモーダル対応が限定的"
+    ],
+    "officialUrl": "https://openai.com/o1",
+    "logoPath": "/logos/openai-o1.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "研究者・科学者",
+      "数学を多用する人",
+      "複雑な分析が必要な人"
+    ],
+    "releaseYear": 2024,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "synthesia",
+    "name": "Synthesia",
+    "nameJa": "シンセシア",
+    "description": "AIアバター動画制作プラットフォーム。160以上のAIアバターと130以上の言語に対応。企業の教育・研修動画、マーケティング動画の制作を大幅に効率化。",
+    "shortDescription": "企業向けAIアバター動画制作プラットフォーム",
+    "category": "video-generation",
+    "subcategories": [
+      "productivity"
+    ],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "月額29ドル（約4,400円）",
+          "features": [
+            "月10分動画",
+            "90+AIアバター"
+          ]
+        },
+        {
+          "name": "Creator",
+          "price": "月額89ドル（約13,500円）",
+          "features": [
+            "月30分動画",
+            "カスタムアバター",
+            "1080p"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "カスタム",
+          "features": [
+            "無制限",
+            "専用アバター",
+            "API"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "160+ AIアバター",
+      "130+ 言語対応",
+      "テキストから動画生成",
+      "カスタムアバター",
+      "翻訳・リップシンク",
+      "テンプレート"
+    ],
+    "pros": [
+      "企業での研修動画に最適",
+      "多言語対応が充実",
+      "一貫したブランドのアバター動画",
+      "高品質なリップシンク"
+    ],
+    "cons": [
+      "料金が高め",
+      "アバターの表現にまだ不自然さがある",
+      "カスタムアバター作成に時間がかかる"
+    ],
+    "officialUrl": "https://www.synthesia.io",
+    "logoPath": "/logos/synthesia.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "企業の教育・研修担当",
+      "多言語で動画を展開したい企業",
+      "撮影なしで動画を作りたい人"
+    ],
+    "releaseYear": 2017,
+    "developer": "Synthesia",
+    "lastUpdated": "2026-03-12"
+  },
+  {
+    "slug": "napkin-ai",
+    "name": "Napkin AI",
+    "nameJa": "ナプキンAI",
+    "description": "テキストから図解・インフォグラフィックを自動生成するAIツール。ブログ記事やプレゼン資料のテキストを貼り付けるだけで、わかりやすいビジュアルを自動生成する。",
+    "shortDescription": "テキストから図解を自動生成するAIツール",
+    "category": "design-creative",
+    "subcategories": [
+      "writing-content"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的な図解生成",
+            "制限付き"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額15ドル（約2,300円）",
+          "features": [
+            "無制限生成",
+            "カスタムスタイル",
+            "高解像度出力"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストから図解生成",
+      "フローチャート作成",
+      "インフォグラフィック",
+      "カスタムスタイル",
+      "エクスポート（PNG/SVG）"
+    ],
+    "pros": [
+      "テキストを貼るだけで図解ができる",
+      "ブログ記事の見栄えが劇的に向上",
+      "操作が非常に簡単",
+      "無料でも試せる"
+    ],
+    "cons": [
+      "複雑な図解は苦手",
+      "日本語テキストの理解精度にやや課題",
+      "デザインのバリエーションが限定的"
+    ],
+    "officialUrl": "https://www.napkin.ai",
+    "logoPath": "/logos/napkin-ai.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "ブロガー・ライター",
+      "プレゼン資料に図解を入れたい人",
+      "ビジュアルコンテンツを効率的に作りたい人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Napkin AI",
+    "lastUpdated": "2026-03-08"
+  },
+  {
+    "slug": "llama",
+    "name": "Llama",
+    "nameJa": "ラマ",
+    "description": "Meta（旧Facebook）が開発したオープンソースの大規模言語モデル。Llama 3.1は最大405Bパラメータで、商用利用も可能。オープンソースLLMの中で最も広く採用されているモデルの一つ。",
+    "shortDescription": "Meta製の大規模オープンソースLLM",
+    "category": "llm-chatbot",
+    "subcategories": [
+      "ai-platform"
+    ],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "全モデル利用可",
+            "商用利用可",
+            "カスタマイズ自由"
+          ]
+        },
+        {
+          "name": "Meta AI（Web版）",
+          "price": "無料",
+          "features": [
+            "ブラウザから利用",
+            "画像生成統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキスト生成・会話",
+      "コード生成",
+      "多言語対応",
+      "ファインチューニング対応",
+      "オープンソース"
+    ],
+    "pros": [
+      "完全無料でオープンソース",
+      "商用利用可能",
+      "カスタマイズの自由度が高い",
+      "活発なコミュニティ"
+    ],
+    "cons": [
+      "セルフホストに技術知識が必要",
+      "日本語性能はGPT-4/Claudeに劣る",
+      "マルチモーダル対応が限定的"
+    ],
+    "officialUrl": "https://llama.meta.com",
+    "logoPath": "/logos/llama.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AIモデルをカスタマイズしたい開発者",
+      "自社サーバーでLLMを運用したい企業",
+      "オープンソースAIに興味がある人"
+    ],
+    "releaseYear": 2023,
+    "developer": "Meta",
+    "lastUpdated": "2026-03-20"
+  },
+  {
+    "slug": "you-com",
+    "name": "You.com",
+    "nameJa": "ユードットコム",
+    "description": "AI搭載のパーソナライズ検索エンジン。プライバシーを重視した設計で、複数のAIモデルを切り替えて利用可能。Research機能で深い調査も可能。",
+    "shortDescription": "プライバシー重視のAI検索エンジン",
+    "category": "search-research",
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本AI検索",
+            "制限付き"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額15ドル（約2,300円）",
+          "features": [
+            "無制限AI検索",
+            "全モデル利用",
+            "Research機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI検索",
+      "マルチモデル対応",
+      "Research（深掘り検索）",
+      "プライバシー重視",
+      "カスタマイズ可能"
+    ],
+    "pros": [
+      "プライバシーへの配慮が強い",
+      "複数のAIモデルを切り替え可能",
+      "広告が少ない検索結果"
+    ],
+    "cons": [
+      "Perplexityに比べて知名度が低い",
+      "日本語の検索精度がやや劣る",
+      "情報量が限定的"
+    ],
+    "officialUrl": "https://you.com",
+    "logoPath": "/logos/you-com.svg",
+    "rating": 3.7,
+    "recommendedFor": [
+      "プライバシーを重視する人",
+      "複数のAIモデルを試したい人",
+      "広告の少ない検索体験を求める人"
+    ],
+    "releaseYear": 2021,
+    "developer": "You.com",
+    "lastUpdated": "2026-03-05"
+  },
+  {
+    "slug": "openai-o3",
+    "name": "OpenAI o3",
+    "nameJa": "オープンエーアイ オースリー",
+    "description": "OpenAIが開発した最新の推論特化型大規模言語モデル。o1シリーズの後継として、複雑な数学問題、科学的推論、コーディングタスクで大幅な性能向上を実現。特に段階的思考プロセスを可視化し、より正確で論理的な回答を提供することで、研究者や専門家の間で高い評価を得ている。",
+    "shortDescription": "OpenAIの最新推論特化型LLM",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "API利用",
+          "price": "$60/1M tokens（約9,000円）",
+          "features": [
+            "高度な推論能力",
+            "思考プロセス可視化",
+            "API統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "段階的推論プロセス表示",
+      "数学・科学問題解決",
+      "高精度コード生成",
+      "論理的思考チェーン",
+      "専門分野での深い分析"
+    ],
+    "pros": [
+      "従来モデルを上回る推論精度",
+      "思考過程が透明で信頼性が高い",
+      "複雑な問題に対する詳細な解説",
+      "研究用途に最適化"
+    ],
+    "cons": [
+      "処理時間が長い",
+      "利用料金が高額",
+      "一般的な会話には過剰スペック"
+    ],
+    "officialUrl": "https://openai.com/o3",
+    "logoPath": "/logos/openai-o3.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "研究者・学術関係者",
+      "複雑な問題解決が必要な専門家",
+      "高精度な推論を求める開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "claude-computer-use",
+    "name": "Claude Computer Use",
+    "nameJa": "クロード コンピューターユース",
+    "description": "AnthropicのClaudeが画面を直接操作できる革新的機能。ブラウザやデスクトップアプリケーションを自動で操作し、ウェブサイトでの情報収集、フォーム入力、ソフトウェア操作を代行。従来のテキストベースAIを超えて、実際のコンピューター作業を自動化することで、業務効率化に大きなインパクトを与えている。",
+    "shortDescription": "AIがコンピューター画面を直接操作",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Claude Pro",
+          "price": "$20/月（約3,000円）",
+          "features": [
+            "画面操作機能",
+            "自動タスク実行",
+            "ブラウザ連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "画面の視覚認識と操作",
+      "ウェブブラウザ自動操作",
+      "アプリケーション連携",
+      "複数ステップタスク実行",
+      "リアルタイム画面解析"
+    ],
+    "pros": [
+      "手作業の大幅削減",
+      "複雑なワークフロー自動化",
+      "直感的な指示で操作可能",
+      "幅広いソフトウェアに対応"
+    ],
+    "cons": [
+      "セキュリティ面での懸念",
+      "操作ミスのリスク",
+      "対応OSが限定的"
+    ],
+    "officialUrl": "https://www.anthropic.com/computer-use",
+    "logoPath": "/logos/claude-computer-use.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "反復的なPC作業が多い人",
+      "ワークフロー自動化を求める企業",
+      "デジタル業務効率化担当者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Anthropic",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "google-veo-2",
+    "name": "Google Veo 2",
+    "nameJa": "グーグル ヴェオ ツー",
+    "description": "Googleが開発した次世代動画生成AI。4K解像度での高品質な動画生成が可能で、より自然な動きと詳細な表現を実現。カメラワーク、ライティング、キャラクターの動きなど、映像制作の専門的な要素を精密に制御できる。YouTube Shortsとの統合により、クリエイターコミュニティでの活用が急速に広がっている。",
+    "shortDescription": "Googleの4K対応動画生成AI",
+    "category": "video-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "720p動画生成",
+            "月10本まで",
+            "基本エフェクト"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$30/月（約4,500円）",
+          "features": [
+            "4K動画生成",
+            "無制限生成",
+            "高度な編集機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "4K高解像度出力",
+      "精密なカメラ制御",
+      "自然な物理シミュレーション",
+      "YouTube統合",
+      "リアルタイムプレビュー"
+    ],
+    "pros": [
+      "業界最高レベルの画質",
+      "YouTube との親和性",
+      "豊富なスタイルオプション",
+      "使いやすいインターフェース"
+    ],
+    "cons": [
+      "生成時間が長い",
+      "高解像度は有料プランのみ",
+      "日本語サポートが限定的"
+    ],
+    "officialUrl": "https://deepmind.google/technologies/veo/veo-2/",
+    "logoPath": "/logos/google-veo-2.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "YouTube クリエイター",
+      "映像制作者",
+      "マーケティング担当者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Google DeepMind",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "doubao",
+    "name": "Doubao",
+    "nameJa": "ドウバオ",
+    "description": "ByteDance（TikTok運営会社）が開発した多機能AIアシスタント。中国で圧倒的なシェアを誇り、テキスト生成、画像作成、音声合成、動画編集まで一つのプラットフォームで提供。特にクリエイティブ機能に優れ、SNS向けコンテンツ制作に特化した機能が豊富。日本語対応も進み、アジア系ユーザーに人気が高まっている。",
+    "shortDescription": "ByteDanceの統合型AIプラットフォーム",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本チャット",
+            "画像生成10枚/日",
+            "音声合成"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$15/月（約2,250円）",
+          "features": [
+            "無制限利用",
+            "高品質モデル",
+            "動画生成機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "多言語対応チャット",
+      "SNS向け画像生成",
+      "音声クローン機能",
+      "動画自動編集",
+      "リアルタイム翻訳"
+    ],
+    "pros": [
+      "オールインワンの統合機能",
+      "SNSコンテンツに最適",
+      "アジア言語に強い",
+      "コストパフォーマンスが良い"
+    ],
+    "cons": [
+      "中国企業製でプライバシー懸念",
+      "一部機能は中国語のみ",
+      "サーバーの安定性にムラ"
+    ],
+    "officialUrl": "https://www.doubao.com/",
+    "logoPath": "/logos/doubao.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "SNSクリエイター",
+      "中国語学習者",
+      "多機能AIツールを求める人"
+    ],
+    "releaseYear": 2024,
+    "developer": "ByteDance",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "recraft-ai",
+    "name": "Recraft AI",
+    "nameJa": "リクラフト エーアイ",
+    "description": "ベクターグラフィックスに特化した革新的なAI画像生成ツール。従来の画像生成AIとは異なり、ロゴ、アイコン、イラストなどのベクター形式での出力が可能。ブランドガイドラインに沿った一貫性のあるデザイン生成や、無限拡大可能な高品質ベクター画像の作成で、デザイナーやマーケターから高い評価を獲得している。",
+    "shortDescription": "ベクター特化のAI画像生成ツール",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "月100回生成",
+            "基本ベクター機能",
+            "PNG/SVG出力"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$20/月（約3,000円）",
+          "features": [
+            "無制限生成",
+            "ブランドキット",
+            "高度な編集機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ベクター画像生成",
+      "ブランド一貫性保持",
+      "ロゴ・アイコン作成",
+      "無限拡大対応",
+      "カスタムスタイル学習"
+    ],
+    "pros": [
+      "ベクター出力の高品質",
+      "ブランディングに最適",
+      "商用利用可能",
+      "デザイン初心者にも使いやすい"
+    ],
+    "cons": [
+      "写真的な画像は苦手",
+      "学習にやや時間が必要",
+      "日本語フォント対応が限定的"
+    ],
+    "officialUrl": "https://www.recraft.ai/",
+    "logoPath": "/logos/recraft-ai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "グラフィックデザイナー",
+      "ブランドマネージャー",
+      "スタートアップ企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Recraft",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "sakana-ai-scientist",
+    "name": "Sakana AI Scientist",
+    "nameJa": "サカナ エーアイサイエンティスト",
+    "description": "日本のSakana AIが開発した自動研究システム。AIが独自に研究テーマを設定し、実験を設計・実行し、論文まで執筆する革新的なツール。機械学習、物理学、生物学などの分野で実際に査読付き論文を生成し、研究プロセス自体をAI化する画期的な取り組みとして国際的な注目を集めている。",
+    "shortDescription": "AIが自動で研究・論文執筆する日本発ツール",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "研究機関向け",
+          "price": "要問い合わせ",
+          "features": [
+            "自動研究実行",
+            "論文生成",
+            "実験設計",
+            "データ分析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動研究テーマ生成",
+      "実験設計と実行",
+      "学術論文執筆",
+      "査読対応支援",
+      "研究データ管理"
+    ],
+    "pros": [
+      "研究効率の劇的向上",
+      "新規研究領域の開拓",
+      "日本発の先進技術",
+      "学術機関との連携実績"
+    ],
+    "cons": [
+      "非常に高価",
+      "研究機関限定",
+      "技術的ハードルが高い"
+    ],
+    "officialUrl": "https://sakana.ai/ai-scientist/",
+    "logoPath": "/logos/sakana-ai-scientist.svg",
+    "rating": 4.6,
+    "recommendedFor": [
+      "研究機関の研究者",
+      "大学の研究室",
+      "R&D部門責任者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Sakana AI",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "typeless",
+    "name": "Typeless",
+    "nameJa": "タイプレス",
+    "description": "AIを活用した次世代の音声ディクテーションツール。従来の音声入力と違い、「えーと」「あの」などのフィラーワードを自動除去し、文法を修正して洗練されたテキストを生成。システムレベルで動作し、Gmail、Slack、Notion、VS Codeなど、あらゆるアプリのテキストフィールドでショートカットキーを押すだけで利用可能。100以上の言語に対応し、タイピングの4倍速でテキスト入力が可能。2026年App of the Year受賞。",
+    "shortDescription": "2026年App of the Year受賞のAI音声ディクテーション",
+    "category": "voice-audio",
+    "subcategories": ["productivity"],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        { "name": "Free", "price": "無料", "features": ["週2,000ワード", "AI自動編集", "100+言語対応", "辞書登録"] },
+        { "name": "Pro（月額）", "price": "月額30ドル（約4,500円）", "features": ["無制限ワード", "優先機能リクエスト", "新機能の先行アクセス", "チーム管理"] },
+        { "name": "Pro（年額）", "price": "月額12ドル（約1,800円）※年払い", "features": ["Pro月額と同機能", "年間60%オフ"] }
+      ]
+    },
+    "features": ["AI音声ディクテーション", "フィラーワード自動除去", "文法自動修正", "100+言語対応", "システムレベル動作（全アプリ対応）", "コンテキストに応じたトーン調整", "タイピング4倍速入力"],
+    "pros": ["話すだけで洗練されたテキストが生成される", "フィラーワード除去が非常に優秀", "Mac/Windows/iOS/Android全対応", "あらゆるアプリで動作する", "100以上の言語に対応"],
+    "cons": ["Pro版の月額料金がやや高め（月払い時）", "日本語の精度は英語に比べてやや劣る", "オフライン利用不可"],
+    "officialUrl": "https://www.typeless.com",
+    "logoPath": "/logos/typeless.svg",
+    "rating": 4.6,
+    "recommendedFor": ["タイピングを減らして生産性を上げたい人", "メールやドキュメントを大量に書く人", "プログラマー（VS Code対応）", "多言語で仕事をする人"],
+    "releaseYear": 2024,
+    "developer": "Typeless",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "notta",
+    "name": "Notta",
+    "nameJa": "ノッタ",
+    "description": "AI搭載の議事録作成・音声文字起こしツール。Zoom、Google Meet、Microsoft Teamsと連携し、会議の録音・文字起こし・要約・アクションアイテム抽出を自動化。話者識別機能で「誰が何を言ったか」を自動判別。58言語対応で日本語の精度が非常に高い。Notta Brainにより企画書やプレゼン資料の自動生成も可能。",
+    "shortDescription": "日本語精度抜群のAI議事録・文字起こしツール",
+    "category": "productivity",
+    "subcategories": ["voice-audio"],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        { "name": "Free", "price": "無料", "features": ["月120分文字起こし", "基本機能"] },
+        { "name": "Premium", "price": "月額1,317円（年払い）", "features": ["月1,800分文字起こし", "AI要約", "翻訳42言語", "辞書200語"] },
+        { "name": "Business", "price": "月額2,508円/ユーザー（年払い）", "features": ["チーム管理", "同時5会議録音", "Salesforce連携"] }
+      ]
+    },
+    "features": ["AI文字起こし（58言語）", "会議自動録音（Zoom/Meet/Teams）", "AI要約・アクションアイテム抽出", "話者識別", "Notta Brain（資料自動生成）", "リアルタイム翻訳", "Slack/Notion連携"],
+    "pros": ["日本語の文字起こし精度が非常に高い", "会議ツールとの連携がスムーズ", "話者識別が正確", "日本語UIで使いやすい", "Notta Brainの資料生成が便利"],
+    "cons": ["無料プランの120分制限がやや厳しい", "長時間会議では要約精度が落ちることがある", "オフライン利用不可"],
+    "officialUrl": "https://www.notta.ai",
+    "logoPath": "/logos/notta.svg",
+    "rating": 4.4,
+    "recommendedFor": ["会議が多いビジネスパーソン", "議事録作成を効率化したい人", "日本語での文字起こしが必要な人", "リモートワーカー"],
+    "releaseYear": 2020,
+    "developer": "Notta株式会社",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "grammarly",
+    "name": "Grammarly",
+    "nameJa": "グラマリー",
+    "description": "AI搭載の英文校正・ライティング支援ツール。文法・スペルチェックに加え、AIによるトーン調整、文章の簡潔化、リライト機能を提供。ブラウザ拡張機能やデスクトップアプリでどこでも利用可能。GrammarlyGOによりAIアシスタント機能も搭載。",
+    "shortDescription": "世界最大のAI英文校正・ライティング支援ツール",
+    "category": "writing-content",
+    "subcategories": ["productivity"],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        { "name": "Free", "price": "無料", "features": ["基本文法チェック", "スペルチェック", "トーン検出"] },
+        { "name": "Premium", "price": "月額12ドル（約1,800円）", "features": ["全文法チェック", "リライト", "トーン調整", "盗用検出"] },
+        { "name": "Business", "price": "月額15ドル/ユーザー（約2,300円）", "features": ["チーム管理", "スタイルガイド", "分析ダッシュボード"] }
+      ]
+    },
+    "features": ["AI文法チェック", "スペル・句読点修正", "トーン調整", "文章リライト", "GrammarlyGO（AIアシスタント）", "盗用検出", "ブラウザ拡張・全アプリ対応"],
+    "pros": ["英文校正の精度が非常に高い", "あらゆるアプリで動作する", "無料でも基本機能が使える", "ユーザー数7000万人以上の実績"],
+    "cons": ["日本語には対応していない", "Premium版はやや高め", "AI提案を鵜呑みにすると文体が均一化する"],
+    "officialUrl": "https://www.grammarly.com",
+    "logoPath": "/logos/grammarly.svg",
+    "rating": 4.5,
+    "recommendedFor": ["英語でのビジネスメールが多い人", "英語論文を書く研究者・学生", "グローバル企業の従業員"],
+    "releaseYear": 2009,
+    "developer": "Grammarly",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "superhuman",
+    "name": "Superhuman",
+    "nameJa": "スーパーヒューマン",
+    "description": "AI搭載の超高速メールクライアント。AIによるメール下書き自動生成、トリアージ（優先度自動分類）、フォローアップリマインダーなどで受信トレイ管理を劇的に効率化。キーボードショートカット中心の操作で生産性を最大化。",
+    "shortDescription": "AI搭載の超高速メールクライアント",
+    "category": "productivity",
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        { "name": "Starter", "price": "月額25ドル（約3,800円）", "features": ["AI下書き", "トリアージ", "スヌーズ", "ショートカット"] },
+        { "name": "Business", "price": "月額30ドル（約4,500円）", "features": ["チーム機能", "共有ラベル", "分析"] }
+      ]
+    },
+    "features": ["AI メール下書き生成", "受信トレイ自動トリアージ", "フォローアップリマインダー", "キーボードショートカット", "スケジュール送信", "既読確認"],
+    "pros": ["メール処理速度が劇的に向上", "AIの下書き品質が高い", "キーボード中心の操作が快適", "デザインが美しい"],
+    "cons": ["月額料金が高い", "Gmail/Outlook以外は非対応", "学習コストがある"],
+    "officialUrl": "https://superhuman.com",
+    "logoPath": "/logos/superhuman.svg",
+    "rating": 4.2,
+    "recommendedFor": ["メールが大量に来るビジネスパーソン", "生産性を極限まで高めたい人", "スタートアップ経営者"],
+    "releaseYear": 2017,
+    "developer": "Superhuman",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "deepgram",
+    "name": "Deepgram",
+    "nameJa": "ディープグラム",
+    "description": "リアルタイム音声認識・音声AIプラットフォーム。独自のAIモデルにより超低遅延の音声文字起こし、音声エージェント、テキスト読み上げを提供。API中心の設計で、開発者がアプリに音声AI機能を簡単に統合可能。",
+    "shortDescription": "超低遅延のリアルタイム音声AIプラットフォーム",
+    "category": "voice-audio",
+    "subcategories": ["ai-platform"],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        { "name": "Free", "price": "無料", "features": ["$200分のクレジット", "全API利用可"] },
+        { "name": "Pay As You Go", "price": "従量課金", "features": ["$0.0043/分〜", "全モデル利用可"] },
+        { "name": "Enterprise", "price": "カスタム", "features": ["SLA保証", "専用サポート", "オンプレミス対応"] }
+      ]
+    },
+    "features": ["リアルタイム音声文字起こし", "音声エージェント構築", "テキスト読み上げ", "話者識別", "言語検出", "カスタムモデル学習"],
+    "pros": ["遅延が非常に低い（リアルタイム）", "APIが使いやすい", "音声エージェント構築に最適", "コストパフォーマンスが高い"],
+    "cons": ["日本語の精度はWhisperに劣る場合がある", "開発者向けでエンドユーザー向けUIがない", "無料枠を超えると従量課金"],
+    "officialUrl": "https://deepgram.com",
+    "logoPath": "/logos/deepgram.svg",
+    "rating": 4.2,
+    "recommendedFor": ["音声AIアプリを開発する人", "リアルタイム文字起こしが必要な開発者", "コールセンターAIを構築する企業"],
+    "releaseYear": 2015,
+    "developer": "Deepgram",
+    "lastUpdated": "2026-04-01"
+  },
+  {
+    "slug": "openclaw",
+    "name": "OpenClaw",
+    "nameJa": "オープンクロー",
+    "description": "中国発のオープンソースAIエージェント。ローカルPC上で自律的に動作し、ファイル読み書き、Webブラウジング、シェルコマンド実行、メール対応、報告書作成、ブログ投稿、スケジュール管理などを24時間自動で実行。GitHubスター20万以上を獲得し爆発的人気。WhatsApp・Telegram・Discord・iMessageなどマルチチャネル対応のゲートウェイ機能も搭載。ただし、PCのroot権限をエージェントに渡す仕組みのため、セキュリティリスクが指摘されており、40件以上の脆弱性報告あり。仮想OS環境での利用が推奨。",
+    "shortDescription": "GitHub星20万超の自律型AIエージェント（要注意）",
+    "category": "ai-agent",
+    "subcategories": ["coding-assistant", "productivity"],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        { "name": "オープンソース", "price": "無料", "features": ["全機能利用可", "ローカル実行", "マルチチャネル対応", "APIキー別途必要（Gemini/Claude等）"] }
+      ]
+    },
+    "features": ["ローカルPC自律操作", "ファイル読み書き・操作", "Webブラウジング", "シェルコマンド実行", "メール整理・自動返信", "報告書・ブログ自動作成", "マルチチャネル対応（Telegram/Slack/Discord）", "24時間自動稼働", "SOUL.md（人格設定ファイル）"],
+    "pros": ["完全無料・オープンソース", "自律性が非常に高く複雑なタスクを自動実行", "GitHubスター20万超の巨大コミュニティ", "マルチチャネル連携で外出先からも遠隔操作可能", "macOS最適化、Linux/Windowsも対応"],
+    "cons": ["PCのroot権限を渡すためセキュリティリスクが非常に高い", "40件以上の脆弱性が報告されている", "罠サイト閲覧でPC乗っ取りの恐れ", "設定ファイルをエージェント自身が書き換える可能性", "業務利用やセンシティブデータ環境では危険", "セットアップに技術知識が必要"],
+    "officialUrl": "https://docs.openclaw.ai",
+    "logoPath": "/logos/openclaw.svg",
+    "rating": 3.5,
+    "recommendedFor": ["最先端のAIエージェントを試したい技術者", "個人の趣味開発・実験用途", "仮想環境でAIエージェントを安全に試したい人"],
+    "releaseYear": 2025,
+    "developer": "OpenClaw（コミュニティ主導）",
+    "lastUpdated": "2026-04-01"
+  }
+]

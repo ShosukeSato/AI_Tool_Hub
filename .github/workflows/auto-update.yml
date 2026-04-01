@@ -1,0 +1,53 @@
+name: Auto Update AI Tools
+
+on:
+  schedule:
+    # 毎日 JST 9:00 と 21:00 に実行（1日2回でトレンドを見逃さない）
+    - cron: "0 0 * * *"   # JST 9:00
+    - cron: "0 12 * * *"  # JST 21:00
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  update-tools:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Run update script (web search + Claude analysis)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npx tsx scripts/update-tools.ts
+        timeout-minutes: 10
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet data/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "AI Tool Hub Bot"
+          git config user.email "bot@ai-tool-hub.example.com"
+          git add data/ logs/
+          TOOL_COUNT=$(cat data/tools.json | python3 -c "import sys, json; print(len(json.load(sys.stdin)))")
+          git commit -m "auto: update AI tools ($TOOL_COUNT tools, $(date +%Y-%m-%d %H:%M))"
+          git push
+
+      - name: Trigger rebuild
+        if: steps.changes.outputs.has_changes == 'true'
+        run: echo "✅ Data updated ($TOOL_COUNT tools), site will rebuild on next deploy"
