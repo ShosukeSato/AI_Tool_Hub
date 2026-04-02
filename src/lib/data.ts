@@ -1,6 +1,13 @@
 import fs from "fs";
 import path from "path";
-import type { Tool, Category, Comparison } from "./types";
+import type {
+  Tool,
+  Category,
+  Comparison,
+  ToolRanking,
+  TrendingItem,
+  NewsItem,
+} from "./types";
 
 const dataDir = path.join(process.cwd(), "data");
 
@@ -40,4 +47,30 @@ export function getAllComparisons(): Comparison[] {
 
 export function getComparisonBySlug(slug: string): Comparison | undefined {
   return getAllComparisons().find((c) => c.slug === slug);
+}
+
+export function getAllRankings(): ToolRanking[] {
+  return readJson<ToolRanking[]>("rankings.json");
+}
+
+export function getRankingsByCategory(categorySlug: string): ToolRanking[] {
+  const tools = getToolsByCategory(categorySlug);
+  const toolSlugs = new Set(tools.map((t) => t.slug));
+  return getAllRankings().filter((r) => toolSlugs.has(r.toolSlug));
+}
+
+export function getTrendingTools(): TrendingItem[] {
+  const thirtyDaysAgo = new Date();
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+  return readJson<TrendingItem[]>("trending.json")
+    .filter((t) => new Date(t.lastSeen) >= thirtyDaysAgo)
+    .sort((a, b) => b.buzzScore - a.buzzScore);
+}
+
+export function getAllNews(): NewsItem[] {
+  const thirtyDaysAgo = new Date();
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+  return readJson<NewsItem[]>("news.json")
+    .filter((n) => new Date(n.date) >= thirtyDaysAgo)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }

@@ -1,0 +1,141 @@
+[
+  {
+    "toolSlug": "typeless",
+    "toolName": "Typeless",
+    "buzzScore": 9.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Typeless: AI-powered keyboard that predicts your next sentence",
+        "url": "https://news.ycombinator.com/item?id=example1",
+        "score": 850,
+        "date": "2026-03-28"
+      },
+      {
+        "source": "reddit",
+        "title": "Typeless is changing how we type - AI keyboard review",
+        "score": 1200,
+        "date": "2026-03-30"
+      }
+    ],
+    "firstSeen": "2026-03-25",
+    "lastSeen": "2026-03-30"
+  },
+  {
+    "toolSlug": "claude-code",
+    "toolName": "Claude Code",
+    "buzzScore": 8.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude Code: Anthropic's new CLI coding agent",
+        "url": "https://news.ycombinator.com/item?id=example2",
+        "score": 920,
+        "date": "2026-03-26"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic launches Claude Code, a terminal-based AI coding assistant",
+        "date": "2026-03-27"
+      },
+      {
+        "source": "reddit",
+        "title": "Claude Code vs Cursor vs Copilot - real world comparison",
+        "score": 2100,
+        "date": "2026-03-29"
+      }
+    ],
+    "firstSeen": "2026-03-20",
+    "lastSeen": "2026-03-29"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 8.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenClaw: Open-source AI agent with 200k GitHub stars",
+        "url": "https://news.ycombinator.com/item?id=example3",
+        "score": 780,
+        "date": "2026-03-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "OpenClaw gains massive traction but security researchers raise concerns",
+        "date": "2026-03-31"
+      }
+    ],
+    "firstSeen": "2026-03-22",
+    "lastSeen": "2026-03-31"
+  },
+  {
+    "toolSlug": "openai-o3",
+    "toolName": "OpenAI o3",
+    "buzzScore": 7.9,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "OpenAI releases o3: next-gen reasoning model",
+        "date": "2026-03-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "OpenAI o3 benchmarks show significant reasoning improvements",
+        "score": 650,
+        "date": "2026-03-20"
+      }
+    ],
+    "firstSeen": "2026-03-15",
+    "lastSeen": "2026-03-20"
+  },
+  {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 7.2,
+    "mentions": [
+      {
+        "source": "reddit",
+        "title": "DeepSeek V3 is surprisingly good for a free model",
+        "score": 1800,
+        "date": "2026-03-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "DeepSeek challenges OpenAI with open-source approach",
+        "date": "2026-03-25"
+      }
+    ],
+    "firstSeen": "2026-03-10",
+    "lastSeen": "2026-03-25"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 6.8,
+    "mentions": [
+      {
+        "source": "reddit",
+        "title": "Cursor 1.0 release - biggest update yet",
+        "score": 950,
+        "date": "2026-03-20"
+      }
+    ],
+    "firstSeen": "2026-03-15",
+    "lastSeen": "2026-03-20"
+  },
+  {
+    "toolSlug": "google-veo-2",
+    "toolName": "Google Veo 2",
+    "buzzScore": 6.5,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google Veo 2 generates stunning 4K videos from text",
+        "date": "2026-03-12"
+      }
+    ],
+    "firstSeen": "2026-03-10",
+    "lastSeen": "2026-03-12"
+  }
+]

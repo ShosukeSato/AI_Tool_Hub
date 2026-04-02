@@ -1,0 +1,605 @@
+[
+  {
+    "toolSlug": "chatgpt",
+    "overall": 8.4,
+    "performance": 9,
+    "buzz": 7,
+    "easeOfUse": 9,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "claude",
+    "overall": 8.4,
+    "performance": 9,
+    "buzz": 7,
+    "easeOfUse": 9,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "gemini",
+    "overall": 7.9,
+    "performance": 8,
+    "buzz": 7,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "perplexity",
+    "overall": 7.9,
+    "performance": 8,
+    "buzz": 7,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "genspark",
+    "overall": 7.3,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 9,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "notebooklm",
+    "overall": 8.4,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "midjourney",
+    "overall": 7.6,
+    "performance": 9,
+    "buzz": 7,
+    "easeOfUse": 8,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "dall-e-3",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "suno",
+    "overall": 7.9,
+    "performance": 8,
+    "buzz": 7,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "cursor",
+    "overall": 8.7,
+    "performance": 9,
+    "buzz": 9,
+    "easeOfUse": 9,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "claude-code",
+    "overall": 7.6,
+    "performance": 9,
+    "buzz": 9,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "github-copilot",
+    "overall": 7.9,
+    "performance": 8,
+    "buzz": 7,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "vrew",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "manus",
+    "overall": 7.3,
+    "performance": 8,
+    "buzz": 9,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "stable-diffusion",
+    "overall": 8.7,
+    "performance": 8,
+    "buzz": 7,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "deepseek",
+    "overall": 9,
+    "performance": 8,
+    "buzz": 9,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "grok",
+    "overall": 6.4,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 7,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "overall": 6.4,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 7,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "sora",
+    "overall": 7,
+    "performance": 8,
+    "buzz": 7,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "runway",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "pika",
+    "overall": 7,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 7,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "heygen",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "overall": 8.4,
+    "performance": 9,
+    "buzz": 7,
+    "easeOfUse": 9,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "udio",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "leonardo-ai",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "ideogram",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "flux",
+    "overall": 8.6,
+    "performance": 8,
+    "buzz": 6,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "canva-ai",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "windsurf",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "devin",
+    "overall": 5.6,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 6,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "replit-agent",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "v0",
+    "overall": 8.2,
+    "performance": 8,
+    "buzz": 9,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "bolt",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "lovable",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "notion-ai",
+    "overall": 6.7,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "jasper",
+    "overall": 5.6,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 6,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "gamma",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "descript",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "capcut",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "otter-ai",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "whisper",
+    "overall": 8.9,
+    "performance": 9,
+    "buzz": 6,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "deepl",
+    "overall": 8.4,
+    "performance": 9,
+    "buzz": 7,
+    "easeOfUse": 9,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "figma-ai",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "dify",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "coze",
+    "overall": 7,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 7,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "chatwork-ai",
+    "overall": 5.6,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 6,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "copilot-plus",
+    "overall": 5.6,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 6,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "perplexity-spaces",
+    "overall": 6.1,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "claude-mcp",
+    "overall": 8.4,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "openai-o1",
+    "overall": 7.2,
+    "performance": 9,
+    "buzz": 6,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "synthesia",
+    "overall": 6.7,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "napkin-ai",
+    "overall": 7,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 7,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "llama",
+    "overall": 8.4,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "you-com",
+    "overall": 6.4,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 7,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "openai-o3",
+    "overall": 7.9,
+    "performance": 9,
+    "buzz": 9,
+    "easeOfUse": 8,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "claude-computer-use",
+    "overall": 6.9,
+    "performance": 8,
+    "buzz": 6,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "google-veo-2",
+    "overall": 8.5,
+    "performance": 9,
+    "buzz": 9,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "doubao",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "recraft-ai",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "sakana-ai-scientist",
+    "overall": 6.6,
+    "performance": 9,
+    "buzz": 6,
+    "easeOfUse": 7,
+    "costPerformance": 4,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "typeless",
+    "overall": 8.7,
+    "performance": 9,
+    "buzz": 9,
+    "easeOfUse": 9,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "notta",
+    "overall": 8,
+    "performance": 9,
+    "buzz": 6,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "grammarly",
+    "overall": 8.3,
+    "performance": 9,
+    "buzz": 6,
+    "easeOfUse": 9,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "superhuman",
+    "overall": 6.7,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "deepgram",
+    "overall": 7.6,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-02"
+  },
+  {
+    "toolSlug": "openclaw",
+    "overall": 8.2,
+    "performance": 7,
+    "buzz": 9,
+    "easeOfUse": 8,
+    "costPerformance": 9,
+    "lastCalculated": "2026-04-02"
+  }
+]

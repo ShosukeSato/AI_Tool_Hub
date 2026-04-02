@@ -1,13 +1,23 @@
 import Link from "next/link";
-import { getAllTools, getAllCategories, getAllComparisons } from "@/lib/data";
+import {
+  getAllTools,
+  getAllCategories,
+  getAllComparisons,
+  getTrendingTools,
+  getAllNews,
+} from "@/lib/data";
 import { ToolCard } from "@/components/tools/ToolCard";
 import { CategoryCard } from "@/components/category/CategoryCard";
 import { ComparisonCard } from "@/components/compare/ComparisonCard";
+import { TrendingSection } from "@/components/news/TrendingSection";
+import { NewsCard } from "@/components/news/NewsCard";
 
 export default function Home() {
   const tools = getAllTools();
   const categories = getAllCategories();
   const comparisons = getAllComparisons();
+  const trending = getTrendingTools().slice(0, 6);
+  const news = getAllNews().slice(0, 3);
 
   const featuredTools = tools.slice(0, 6);
 
@@ -56,6 +66,48 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      {/* Trending */}
+      {trending.length > 0 && (
+        <section className="bg-white py-16">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex items-center justify-between mb-8">
+              <h2 className="text-2xl font-bold text-gray-900">
+                🔥 今話題のAIツール
+              </h2>
+              <Link
+                href="/news"
+                className="text-primary-600 hover:text-primary-700 text-sm font-medium"
+              >
+                すべて見る →
+              </Link>
+            </div>
+            <TrendingSection items={trending} />
+          </div>
+        </section>
+      )}
+
+      {/* Latest News */}
+      {news.length > 0 && (
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <div className="flex items-center justify-between mb-8">
+            <h2 className="text-2xl font-bold text-gray-900">
+              📰 最新ニュース
+            </h2>
+            <Link
+              href="/news"
+              className="text-primary-600 hover:text-primary-700 text-sm font-medium"
+            >
+              すべて見る →
+            </Link>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {news.map((item) => (
+              <NewsCard key={item.id} item={item} />
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Categories */}
       <section className="bg-white py-16">

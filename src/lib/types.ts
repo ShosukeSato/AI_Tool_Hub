@@ -53,3 +53,41 @@ export interface ComparisonPoint {
   type: "text" | "rating" | "boolean";
   values: Record<string, string | number | boolean>;
 }
+
+export interface ToolRanking {
+  toolSlug: string;
+  overall: number;
+  performance: number;
+  buzz: number;
+  easeOfUse: number;
+  costPerformance: number;
+  lastCalculated: string;
+}
+
+export interface TrendingMention {
+  source: string;
+  title: string;
+  url?: string;
+  score?: number;
+  date: string;
+}
+
+export interface TrendingItem {
+  toolSlug: string;
+  toolName: string;
+  buzzScore: number;
+  mentions: TrendingMention[];
+  firstSeen: string;
+  lastSeen: string;
+}
+
+export interface NewsItem {
+  id: string;
+  type: "new-tool" | "update" | "trending";
+  toolSlug?: string;
+  title: string;
+  summary: string;
+  date: string;
+  source?: string;
+  url?: string;
+}

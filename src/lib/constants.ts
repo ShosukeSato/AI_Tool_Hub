@@ -8,4 +8,13 @@ export const NAV_ITEMS = [
   { label: "ツール一覧", href: "/tools" },
   { label: "比較", href: "/compare" },
   { label: "カテゴリー", href: "/category" },
+  { label: "ニュース", href: "/news" },
+] as const;
+
+export const RANKING_DIMENSIONS = [
+  { key: "overall", label: "総合スコア", icon: "🏆" },
+  { key: "performance", label: "性能・品質", icon: "⚡" },
+  { key: "buzz", label: "話題性", icon: "🔥" },
+  { key: "easeOfUse", label: "使いやすさ", icon: "👍" },
+  { key: "costPerformance", label: "コストパフォーマンス", icon: "💰" },
 ] as const;

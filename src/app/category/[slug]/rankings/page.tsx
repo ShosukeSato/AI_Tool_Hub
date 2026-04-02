@@ -5,8 +5,9 @@ import {
   getAllCategories,
   getCategoryBySlug,
   getToolsByCategory,
+  getRankingsByCategory,
 } from "@/lib/data";
-import { ToolCard } from "@/components/tools/ToolCard";
+import { DimensionTabs } from "@/components/rankings/DimensionTabs";
 
 export function generateStaticParams() {
   return getAllCategories().map((c) => ({ slug: c.slug }));
@@ -21,13 +22,13 @@ export function generateMetadata({
     const category = getCategoryBySlug(slug);
     if (!category) return { title: "カテゴリーが見つかりません" };
     return {
-      title: `${category.name}のAIツール一覧`,
-      description: `${category.description}おすすめの${category.name}ツールを比較・解説します。`,
+      title: `${category.name}ランキング`,
+      description: `${category.name}のAIツールを性能・話題性・使いやすさ・コスパで徹底ランキング。`,
     };
   });
 }
 
-export default async function CategoryDetailPage({
+export default async function CategoryRankingsPage({
   params,
 }: {
   params: Promise<{ slug: string }>;
@@ -37,10 +38,10 @@ export default async function CategoryDetailPage({
   if (!category) notFound();
 
   const tools = getToolsByCategory(slug);
+  const rankings = getRankingsByCategory(slug);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6 flex gap-2">
         <Link href="/" className="hover:text-primary-600">
           ホーム
@@ -50,33 +51,31 @@ export default async function CategoryDetailPage({
           カテゴリー
         </Link>
         <span>/</span>
-        <span className="text-gray-900">{category.name}</span>
+        <Link
+          href={`/category/${slug}`}
+          className="hover:text-primary-600"
+        >
+          {category.name}
+        </Link>
+        <span>/</span>
+        <span className="text-gray-900">ランキング</span>
       </nav>
 
       <div className="flex items-center gap-3 mb-2">
         <span className="text-4xl">{category.icon}</span>
-        <h1 className="text-3xl font-bold text-gray-900">{category.name}</h1>
+        <h1 className="text-3xl font-bold text-gray-900">
+          {category.name} ランキング
+        </h1>
       </div>
-      <p className="text-gray-600 mb-6">{category.description}</p>
+      <p className="text-gray-600 mb-8">
+        {category.name}のAIツールを複数の観点からランキング。部門を切り替えて比較できます。
+      </p>
 
-      <div className="mb-8">
-        <Link
-          href={`/category/${slug}/rankings`}
-          className="inline-flex items-center gap-2 bg-primary-600 text-white px-5 py-2.5 rounded-lg font-medium hover:bg-primary-700 transition-colors"
-        >
-          🏆 ランキングを見る →
-        </Link>
-      </div>
-
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {tools.map((tool) => (
-          <ToolCard key={tool.slug} tool={tool} />
-        ))}
-      </div>
-
-      {tools.length === 0 && (
+      {rankings.length > 0 ? (
+        <DimensionTabs rankings={rankings} tools={tools} />
+      ) : (
         <div className="text-center py-12 text-gray-500">
-          <p>このカテゴリーにはまだツールが登録されていません。</p>
+          <p>ランキングデータはまだありません。</p>
         </div>
       )}
     </div>

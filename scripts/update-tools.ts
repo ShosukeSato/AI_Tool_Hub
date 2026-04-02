@@ -71,10 +71,51 @@ interface WebSource {
 
 // --- 設定 ---
 
+interface TrendingMention {
+  source: string;
+  title: string;
+  url?: string;
+  score?: number;
+  date: string;
+}
+
+interface TrendingItem {
+  toolSlug: string;
+  toolName: string;
+  buzzScore: number;
+  mentions: TrendingMention[];
+  firstSeen: string;
+  lastSeen: string;
+}
+
+interface ToolRanking {
+  toolSlug: string;
+  overall: number;
+  performance: number;
+  buzz: number;
+  easeOfUse: number;
+  costPerformance: number;
+  lastCalculated: string;
+}
+
+interface NewsItem {
+  id: string;
+  type: "new-tool" | "update" | "trending";
+  toolSlug?: string;
+  title: string;
+  summary: string;
+  date: string;
+  source?: string;
+  url?: string;
+}
+
 const DATA_DIR = path.join(process.cwd(), "data");
 const TOOLS_FILE = path.join(DATA_DIR, "tools.json");
 const CATEGORIES_FILE = path.join(DATA_DIR, "categories.json");
 const WATCHLIST_FILE = path.join(DATA_DIR, "watchlist.json");
+const TRENDING_FILE = path.join(DATA_DIR, "trending.json");
+const RANKINGS_FILE = path.join(DATA_DIR, "rankings.json");
+const NEWS_FILE = path.join(DATA_DIR, "news.json");
 
 // ウェブ情報源
 const SOURCES = {
@@ -122,6 +163,33 @@ function saveWatchlist(list: string[]): void {
 
 function saveTools(tools: Tool[]): void {
   fs.writeFileSync(TOOLS_FILE, JSON.stringify(tools, null, 2) + "\n", "utf-8");
+}
+
+function loadTrending(): TrendingItem[] {
+  if (!fs.existsSync(TRENDING_FILE)) return [];
+  return JSON.parse(fs.readFileSync(TRENDING_FILE, "utf-8"));
+}
+
+function saveTrending(items: TrendingItem[]): void {
+  fs.writeFileSync(TRENDING_FILE, JSON.stringify(items, null, 2) + "\n", "utf-8");
+}
+
+function loadRankings(): ToolRanking[] {
+  if (!fs.existsSync(RANKINGS_FILE)) return [];
+  return JSON.parse(fs.readFileSync(RANKINGS_FILE, "utf-8"));
+}
+
+function saveRankings(rankings: ToolRanking[]): void {
+  fs.writeFileSync(RANKINGS_FILE, JSON.stringify(rankings, null, 2) + "\n", "utf-8");
+}
+
+function loadNews(): NewsItem[] {
+  if (!fs.existsSync(NEWS_FILE)) return [];
+  return JSON.parse(fs.readFileSync(NEWS_FILE, "utf-8"));
+}
+
+function saveNews(items: NewsItem[]): void {
+  fs.writeFileSync(NEWS_FILE, JSON.stringify(items, null, 2) + "\n", "utf-8");
 }
 
 function today(): string {
@@ -700,6 +768,453 @@ function writeChangelog(changelog: string[]): void {
   console.log(`📄 ログ: ${logFile}`);
 }
 
+// --- バズスコア計算 ---
+
+const SOURCE_WEIGHTS: Record<string, number> = {
+  hackernews: 1.0,
+  reddit: 0.7,
+  producthunt: 1.2,
+  googlenews: 0.8,
+  techcrunch: 1.5,
+  rss: 0.8,
+};
+
+function getRecencyDecay(dateStr: string): number {
+  const days =
+    (Date.now() - new Date(dateStr).getTime()) / (1000 * 60 * 60 * 24);
+  if (days < 3) return 1.0;
+  if (days < 7) return 0.7;
+  if (days < 14) return 0.4;
+  if (days < 30) return 0.2;
+  return 0;
+}
+
+function matchToolInText(
+  text: string,
+  tools: Tool[]
+): { tool: Tool; score: number } | null {
+  const lower = text.toLowerCase();
+  for (const tool of tools) {
+    const name = tool.name.toLowerCase();
+    // Require word-boundary-like match for short names
+    if (name.length <= 3) {
+      const regex = new RegExp(`\\b${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, "i");
+      if (regex.test(text)) return { tool, score: 1 };
+    } else if (lower.includes(name)) {
+      return { tool, score: 1 };
+    }
+  }
+  return null;
+}
+
+interface RawMention {
+  source: string;
+  title: string;
+  url?: string;
+  score: number;
+  date: string;
+}
+
+function extractMentionsFromWebData(
+  webSources: WebSource[]
+): RawMention[] {
+  const mentions: RawMention[] = [];
+  const todayStr = today();
+
+  for (const source of webSources) {
+    const lines = source.data.split("\n").filter((l) => l.trim());
+    for (const line of lines) {
+      // Parse [Source Xpts] Title (URL) format
+      const hnMatch = line.match(
+        /\[(?:HN|r\/\w+)\s+(\d+)pts\]\s+(.+?)(?:\s+\((.+)\))?$/
+      );
+      const rssMatch = line.match(/\[([^\]]+)\]\s+(.+)/);
+
+      if (hnMatch) {
+        const sourceName = source.name.toLowerCase().includes("reddit")
+          ? "reddit"
+          : "hackernews";
+        mentions.push({
+          source: sourceName,
+          title: hnMatch[2].trim(),
+          url: hnMatch[3] || undefined,
+          score: parseInt(hnMatch[1]) || 0,
+          date: todayStr,
+        });
+      } else if (rssMatch) {
+        const sourceName = rssMatch[1].toLowerCase().includes("techcrunch")
+          ? "techcrunch"
+          : "googlenews";
+        mentions.push({
+          source: sourceName,
+          title: rssMatch[2].trim(),
+          score: 1,
+          date: todayStr,
+        });
+      }
+    }
+  }
+
+  return mentions;
+}
+
+function calculateBuzzScores(
+  webSources: WebSource[],
+  tools: Tool[]
+): TrendingItem[] {
+  console.log("\n📊 バズスコアを計算中...");
+
+  const rawMentions = extractMentionsFromWebData(webSources);
+  const existing = loadTrending();
+  const existingMap = new Map(existing.map((t) => [t.toolSlug, t]));
+
+  // Match mentions to tools
+  const toolMentions = new Map<string, { tool: Tool; mentions: RawMention[] }>();
+
+  for (const mention of rawMentions) {
+    const match = matchToolInText(mention.title, tools);
+    if (match) {
+      const slug = match.tool.slug;
+      if (!toolMentions.has(slug)) {
+        toolMentions.set(slug, { tool: match.tool, mentions: [] });
+      }
+      toolMentions.get(slug)!.mentions.push(mention);
+    }
+  }
+
+  // Calculate scores
+  const scores: { slug: string; raw: number }[] = [];
+  for (const [slug, data] of toolMentions) {
+    let rawScore = 0;
+    for (const m of data.mentions) {
+      const sourceWeight = SOURCE_WEIGHTS[m.source] || 0.5;
+      const mentionWeight = Math.min(m.score / 100, 10); // cap at 10
+      const decay = getRecencyDecay(m.date);
+      rawScore += mentionWeight * sourceWeight * decay;
+    }
+    scores.push({ slug, raw: rawScore });
+  }
+
+  // Normalize to 1-10 scale
+  const maxRaw = Math.max(...scores.map((s) => s.raw), 1);
+
+  const trending: TrendingItem[] = [];
+  const todayStr = today();
+
+  for (const { slug, raw } of scores) {
+    const data = toolMentions.get(slug)!;
+    const buzzScore =
+      Math.round((1 + (raw / maxRaw) * 9) * 10) / 10;
+
+    const prev = existingMap.get(slug);
+    trending.push({
+      toolSlug: slug,
+      toolName: data.tool.name,
+      buzzScore,
+      mentions: data.mentions.map((m) => ({
+        source: m.source,
+        title: m.title,
+        url: m.url,
+        score: m.score,
+        date: m.date,
+      })),
+      firstSeen: prev?.firstSeen || todayStr,
+      lastSeen: todayStr,
+    });
+  }
+
+  // Keep existing trending items not in new data (if within 30 days)
+  const thirtyDaysAgo = new Date();
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+  const newSlugs = new Set(trending.map((t) => t.toolSlug));
+
+  for (const prev of existing) {
+    if (
+      !newSlugs.has(prev.toolSlug) &&
+      new Date(prev.lastSeen) >= thirtyDaysAgo
+    ) {
+      // Decay the score by 10% each run
+      prev.buzzScore = Math.round(prev.buzzScore * 0.9 * 10) / 10;
+      if (prev.buzzScore > 0.5) {
+        trending.push(prev);
+      }
+    }
+  }
+
+  trending.sort((a, b) => b.buzzScore - a.buzzScore);
+  console.log(`  → ${trending.length}件のトレンドツールを検出`);
+  return trending;
+}
+
+// --- ランキング更新 ---
+
+async function updateRankings(
+  client: Anthropic,
+  tools: Tool[],
+  trendingItems: TrendingItem[]
+): Promise<ToolRanking[]> {
+  console.log("\n🏆 ランキングスコアを更新中...");
+
+  const existing = loadRankings();
+  const existingMap = new Map(existing.map((r) => [r.toolSlug, r]));
+
+  // Build buzz lookup
+  const buzzMap = new Map(trendingItems.map((t) => [t.toolSlug, t.buzzScore]));
+
+  // Group tools by category for batch API calls
+  const categories = loadCategories();
+  const todayStr = today();
+  const allRankings: ToolRanking[] = [];
+
+  // Pick one category to update via API (rotate based on day of year)
+  const dayOfYear = Math.floor(
+    (Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) /
+      (1000 * 60 * 60 * 24)
+  );
+  const categoryToUpdate = categories[dayOfYear % categories.length];
+
+  for (const cat of categories) {
+    const catTools = tools.filter(
+      (t) =>
+        t.category === cat.slug || t.subcategories?.includes(cat.slug)
+    );
+
+    if (cat.slug === categoryToUpdate.slug) {
+      // Full API-based evaluation for this category
+      try {
+        const toolList = catTools
+          .map(
+            (t) =>
+              `- ${t.name}: ${t.shortDescription} (${t.pricing.type}, rating: ${t.rating || "N/A"})`
+          )
+          .join("\n");
+
+        const response = await client.messages.create({
+          model: "claude-sonnet-4-20250514",
+          max_tokens: 4000,
+          messages: [
+            {
+              role: "user",
+              content: `以下の${cat.name}カテゴリのAIツールを3つの観点で1-10のスコアで評価してください。
+
+ツール一覧:
+${toolList}
+
+評価観点:
+1. performance（性能・品質）: ツールとしての実力、出力品質、機能の充実度
+2. easeOfUse（使いやすさ）: UI/UX、学習コスト、ドキュメント充実度
+3. costPerformance（コストパフォーマンス）: 無料なら高め、価格に対する価値
+
+JSON配列で返してください（JSONだけ返す）:
+[{"slug": "tool-slug", "performance": 8, "easeOfUse": 7, "costPerformance": 6}]`,
+            },
+          ],
+        });
+
+        const text =
+          response.content[0].type === "text" ? response.content[0].text : "";
+        const jsonMatch = text.match(/\[[\s\S]*\]/);
+        if (jsonMatch) {
+          const scores: {
+            slug: string;
+            performance: number;
+            easeOfUse: number;
+            costPerformance: number;
+          }[] = JSON.parse(jsonMatch[0]);
+
+          for (const s of scores) {
+            const buzz = buzzMap.get(s.slug) || existingMap.get(s.slug)?.buzz || 3;
+            const overall =
+              Math.round(
+                (0.3 * s.performance +
+                  0.15 * buzz +
+                  0.25 * s.easeOfUse +
+                  0.3 * s.costPerformance) *
+                  10
+              ) / 10;
+
+            allRankings.push({
+              toolSlug: s.slug,
+              overall,
+              performance: s.performance,
+              buzz,
+              easeOfUse: s.easeOfUse,
+              costPerformance: s.costPerformance,
+              lastCalculated: todayStr,
+            });
+          }
+          console.log(
+            `  ✅ ${cat.name}: ${scores.length}件をAPI評価`
+          );
+        }
+      } catch (e) {
+        console.log(`  ⚠️ ${cat.name}: API評価エラー ${e}`);
+      }
+    }
+
+    // For non-API categories, reuse existing or generate from tool data
+    for (const tool of catTools) {
+      if (allRankings.some((r) => r.toolSlug === tool.slug)) continue;
+
+      const prev = existingMap.get(tool.slug);
+      if (prev) {
+        // Update buzz score only
+        const buzz = buzzMap.get(tool.slug) || prev.buzz;
+        const overall =
+          Math.round(
+            (0.3 * prev.performance +
+              0.15 * buzz +
+              0.25 * prev.easeOfUse +
+              0.3 * prev.costPerformance) *
+              10
+          ) / 10;
+        allRankings.push({ ...prev, buzz, overall, lastCalculated: todayStr });
+      } else {
+        // Generate basic scores from tool metadata
+        const rating = tool.rating || 3.5;
+        const performance = Math.round(((rating - 1) / 4) * 9 + 1);
+        const easeMap: Record<string, number> = { free: 8, freemium: 7, paid: 6, enterprise: 5 };
+        const easeOfUse = Math.min(
+          10,
+          Math.max(1, (easeMap[tool.pricing.type] || 6) + Math.round((rating - 3.5) * 1.5))
+        );
+        const costMap: Record<string, number> = { free: 9, freemium: 7, paid: 5, enterprise: 3 };
+        const costPerformance = Math.min(
+          10,
+          Math.max(1, (costMap[tool.pricing.type] || 5) + Math.round((rating - 3.5) * 1))
+        );
+        const buzz = buzzMap.get(tool.slug) || 3;
+        const overall =
+          Math.round(
+            (0.3 * performance + 0.15 * buzz + 0.25 * easeOfUse + 0.3 * costPerformance) * 10
+          ) / 10;
+
+        allRankings.push({
+          toolSlug: tool.slug,
+          overall,
+          performance,
+          buzz,
+          easeOfUse,
+          costPerformance,
+          lastCalculated: todayStr,
+        });
+      }
+    }
+  }
+
+  // Deduplicate (a tool might appear in multiple categories)
+  const deduped = new Map<string, ToolRanking>();
+  for (const r of allRankings) {
+    if (!deduped.has(r.toolSlug) || r.lastCalculated > deduped.get(r.toolSlug)!.lastCalculated) {
+      deduped.set(r.toolSlug, r);
+    }
+  }
+
+  const result = Array.from(deduped.values());
+  console.log(`  → ${result.length}件のランキングを更新`);
+  return result;
+}
+
+// --- ニュース生成 ---
+
+function generateNewsItems(
+  changelog: string[],
+  trendingItems: TrendingItem[],
+  tools: Tool[]
+): NewsItem[] {
+  console.log("\n📰 ニュースを生成中...");
+
+  const existing = loadNews();
+  const existingIds = new Set(existing.map((n) => n.id));
+  const newItems: NewsItem[] = [];
+  const todayStr = today();
+  const toolMap = new Map(tools.map((t) => [t.name.toLowerCase(), t]));
+
+  // From changelog
+  for (const entry of changelog) {
+    const newMatch = entry.match(/\[NEW\]\s+(.+?):\s+(.+)/);
+    const addMatch = entry.match(/\[ADD\]\s+(.+?)\s+\((.+?)\):\s+(.+)/);
+    const updateMatch = entry.match(/\[UPDATE\]\s+(.+?):\s+(.+)/);
+    const watchMatch = entry.match(/\[WATCHLIST\]\s+(.+?):\s+(.+)/);
+
+    if (newMatch || addMatch || watchMatch) {
+      const name = newMatch
+        ? newMatch[1]
+        : addMatch
+          ? addMatch[1]
+          : watchMatch![1];
+      const summary = newMatch
+        ? newMatch[2]
+        : addMatch
+          ? addMatch[3]
+          : watchMatch![2];
+      const tool = toolMap.get(name.toLowerCase());
+      const id = `new-${slugify(name)}-${todayStr}`;
+
+      if (!existingIds.has(id)) {
+        newItems.push({
+          id,
+          type: "new-tool",
+          toolSlug: tool?.slug,
+          title: `${name} が新しく追加されました`,
+          summary,
+          date: todayStr,
+        });
+      }
+    } else if (updateMatch) {
+      const name = updateMatch[1];
+      const tool = toolMap.get(name.toLowerCase());
+      const id = `update-${slugify(name)}-${todayStr}`;
+
+      if (!existingIds.has(id)) {
+        newItems.push({
+          id,
+          type: "update",
+          toolSlug: tool?.slug,
+          title: `${name} がアップデート`,
+          summary: updateMatch[2],
+          date: todayStr,
+        });
+      }
+    }
+  }
+
+  // From trending spikes (buzz >= 7)
+  for (const item of trendingItems) {
+    if (item.buzzScore >= 7) {
+      const id = `trending-${item.toolSlug}-${todayStr}`;
+      if (!existingIds.has(id)) {
+        const topMention = item.mentions[0];
+        newItems.push({
+          id,
+          type: "trending",
+          toolSlug: item.toolSlug,
+          title: `${item.toolName} が話題沸騰中（バズスコア: ${item.buzzScore}）`,
+          summary: topMention
+            ? `${topMention.source}で注目: ${topMention.title}`
+            : `バズスコア${item.buzzScore}を記録`,
+          date: todayStr,
+          source: topMention?.source,
+        });
+      }
+    }
+  }
+
+  // Merge with existing, remove items older than 30 days
+  const thirtyDaysAgo = new Date();
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+  const filtered = existing.filter(
+    (n) => new Date(n.date) >= thirtyDaysAgo
+  );
+
+  const allNews = [...filtered, ...newItems].sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  );
+
+  console.log(`  → ${newItems.length}件の新規ニュースを追加（合計 ${allNews.length}件）`);
+  return allNews;
+}
+
 // --- メイン ---
 
 async function main() {
@@ -721,8 +1236,8 @@ async function main() {
   const runAll = !discoverOnly && !updateOnly && !addToolName;
 
   console.log("╔════════════════════════════════════════════════╗");
-  console.log("║  AIツールハブ 自動更新スクリプト v3.0          ║");
-  console.log("║  ウェブリアルタイム検索 + Claude分析           ║");
+  console.log("║  AIツールハブ 自動更新スクリプト v4.0          ║");
+  console.log("║  ウェブ検索 + バズスコア + ランキング + ニュース  ║");
   console.log("╚════════════════════════════════════════════════╝");
   console.log(`📅 ${today()}`);
   if (dryRun) console.log("📋 ドライランモード");
@@ -732,6 +1247,7 @@ async function main() {
   const tools = loadTools();
   let updatedTools = [...tools];
   const changelog: string[] = [];
+  let webSources: WebSource[] = [];
 
   // 0. --add: 特定ツールを即座に追加（--url でウェブ情報も取得可能）
   if (addToolName) {
@@ -759,7 +1275,7 @@ async function main() {
   // 1. ウェブからリアルタイムデータ収集 + 新ツール発見
   if (runAll || discoverOnly) {
     // Step 1: ウェブデータ収集
-    const webSources = await gatherWebData();
+    webSources = await gatherWebData();
 
     // Step 2: ウェブデータからAIツールを抽出
     try {
@@ -830,29 +1346,67 @@ async function main() {
     }
   }
 
-  // 3. 保存
+  // 3. バズスコア・ランキング・ニュース更新
+  let trendingItems: TrendingItem[] = [];
+  let rankings: ToolRanking[] = [];
+
+  if (runAll || discoverOnly) {
+    // バズスコア計算
+    trendingItems = calculateBuzzScores(webSources, updatedTools);
+
+    // ランキング更新
+    try {
+      rankings = await updateRankings(client, updatedTools, trendingItems);
+    } catch (e) {
+      console.error("⚠️ ランキング更新エラー:", e);
+      rankings = loadRankings(); // fallback
+    }
+  }
+
+  // ニュース生成
+  const newsItems = generateNewsItems(
+    changelog,
+    trendingItems.length > 0 ? trendingItems : loadTrending(),
+    updatedTools
+  );
+
+  // 4. 保存
   console.log("\n" + "═".repeat(50));
 
   if (changelog.length > 0) {
     console.log(`📝 変更 (${changelog.length}件):`);
     changelog.forEach((c) => console.log(`  ${c}`));
+  }
 
-    if (!dryRun) {
+  if (!dryRun) {
+    if (changelog.length > 0) {
       saveTools(updatedTools);
-      console.log(
-        `\n💾 保存完了: ${updatedTools.length}件のツール`
-      );
+      console.log(`\n💾 ツール保存完了: ${updatedTools.length}件`);
       writeChangelog(changelog);
-    } else {
-      console.log("\n📋 ドライラン: 変更は保存されませんでした");
     }
+
+    if (trendingItems.length > 0) {
+      saveTrending(trendingItems);
+      console.log(`💾 トレンド保存完了: ${trendingItems.length}件`);
+    }
+
+    if (rankings.length > 0) {
+      saveRankings(rankings);
+      console.log(`💾 ランキング保存完了: ${rankings.length}件`);
+    }
+
+    saveNews(newsItems);
+    console.log(`💾 ニュース保存完了: ${newsItems.length}件`);
   } else {
-    console.log("ℹ️  更新なし");
+    console.log("\n📋 ドライラン: 変更は保存されませんでした");
   }
 
   console.log("\n📊 統計:");
   console.log(`  ツール数: ${updatedTools.length}`);
   console.log(`  カテゴリ数: ${loadCategories().length}`);
+  console.log(`  トレンド: ${trendingItems.length}件`);
+  console.log(`  ランキング: ${rankings.length}件`);
+  console.log(`  ニュース: ${newsItems.length}件`);
   console.log(`  今回の変更: ${changelog.length}件`);
   console.log(`  情報源: Hacker News, Reddit(4), Google News(2), TechCrunch`);
   console.log("\n✅ 完了");
