@@ -1,5 +1,99 @@
 [
   {
+    "id": "new-lemonade-2026-04-02",
+    "type": "new-tool",
+    "toolSlug": "lemonade",
+    "title": "Lemonade が新しく追加されました",
+    "summary": "AMD GPU/NPU特化の高速ローカルLLMサーバー",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "new-litellm-2026-04-02",
+    "type": "new-tool",
+    "toolSlug": "litellm",
+    "title": "LiteLLM が新しく追加されました",
+    "summary": "複数LLMプロバイダーの統一ゲートウェイ",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "new-claude-content-writer-2026-04-02",
+    "type": "new-tool",
+    "toolSlug": "claude-content-writer",
+    "title": "Claude Content Writer が新しく追加されました",
+    "summary": "Claude Code用コンテンツ生成ワークフロー",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "new-crewworks-2026-04-02",
+    "type": "new-tool",
+    "toolSlug": "crewworks",
+    "title": "CrewWorks が新しく追加されました",
+    "summary": "AIエージェント搭載ナレッジ活用プラットフォーム",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "new--2026-04-02",
+    "type": "new-tool",
+    "toolSlug": "",
+    "title": "文賢 が新しく追加されました",
+    "summary": "セキュリティ機能付きAI文章校正ツール",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "trending-claude-2026-04-02",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: DMCA-resistant Claude Code source code",
+    "date": "2026-04-02",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-1-bit-bonsai-2026-04-02",
+    "type": "trending",
+    "toolSlug": "1-bit-bonsai",
+    "title": "1-Bit Bonsai が話題沸騰中（バズスコア: 8.9）",
+    "summary": "hackernewsで注目: Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "date": "2026-04-02",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-typeless-2026-04-02",
+    "type": "trending",
+    "toolSlug": "typeless",
+    "title": "Typeless が話題沸騰中（バズスコア: 8.3）",
+    "summary": "hackernewsで注目: Typeless: AI-powered keyboard that predicts your next sentence",
+    "date": "2026-04-02",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-code-2026-04-02",
+    "type": "trending",
+    "toolSlug": "claude-code",
+    "title": "Claude Code が話題沸騰中（バズスコア: 7.9）",
+    "summary": "hackernewsで注目: Claude Code: Anthropic's new CLI coding agent",
+    "date": "2026-04-02",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-openai-o3-2026-04-02",
+    "type": "trending",
+    "toolSlug": "openai-o3",
+    "title": "OpenAI o3 が話題沸騰中（バズスコア: 7.1）",
+    "summary": "techcrunchで注目: OpenAI releases o3: next-gen reasoning model",
+    "date": "2026-04-02",
+    "source": "techcrunch"
+  },
+  {
+    "id": "openclaw-trending-20260329",
+    "type": "trending",
+    "toolSlug": "openclaw",
+    "title": "OpenClaw がGitHubスター20万突破、ただしセキュリティに懸念",
+    "summary": "オープンソースAIエージェント「OpenClaw」がGitHubスター20万を突破し爆発的人気。しかしroot権限を要求する仕組みにセキュリティ研究者が警告を発しており、仮想環境での利用が推奨されています。",
+    "date": "2026-03-29",
+    "source": "Hacker News"
+  },
+  {
     "id": "typeless-trending-20260328",
     "type": "trending",
     "toolSlug": "typeless",
@@ -15,24 +109,6 @@
     "title": "Claude Code がCLIコーディングエージェントとして正式リリース",
     "summary": "AnthropicがClaude Codeを正式リリース。ターミナルベースのAIコーディングアシスタントとして、コード生成・デバッグ・リファクタリングをCLIから直接実行可能に。開発者コミュニティで大きな反響。",
     "date": "2026-03-27",
-    "source": "TechCrunch"
-  },
-  {
-    "id": "openclaw-trending-20260329",
-    "type": "trending",
-    "toolSlug": "openclaw",
-    "title": "OpenClaw がGitHubスター20万突破、ただしセキュリティに懸念",
-    "summary": "オープンソースAIエージェント「OpenClaw」がGitHubスター20万を突破し爆発的人気。しかしroot権限を要求する仕組みにセキュリティ研究者が警告を発しており、仮想環境での利用が推奨されています。",
-    "date": "2026-03-29",
-    "source": "Hacker News"
-  },
-  {
-    "id": "openai-o3-release-20260318",
-    "type": "new-tool",
-    "toolSlug": "openai-o3",
-    "title": "OpenAI o3 リリース：次世代推論モデル",
-    "summary": "OpenAIが推論特化モデル「o3」を発表。数学・科学・コーディングのベンチマークで大幅な性能向上を達成。o1からの進化版として高度な論理的推論が可能に。",
-    "date": "2026-03-18",
     "source": "TechCrunch"
   },
   {
@@ -52,6 +128,15 @@
     "summary": "AIコーディングエディタCursorが1.0を正式リリース。マルチファイル編集の精度向上、新しいエージェントモード、パフォーマンス改善など多数の新機能が追加されました。",
     "date": "2026-03-20",
     "source": "Reddit"
+  },
+  {
+    "id": "openai-o3-release-20260318",
+    "type": "new-tool",
+    "toolSlug": "openai-o3",
+    "title": "OpenAI o3 リリース：次世代推論モデル",
+    "summary": "OpenAIが推論特化モデル「o3」を発表。数学・科学・コーディングのベンチマークで大幅な性能向上を達成。o1からの進化版として高度な論理的推論が可能に。",
+    "date": "2026-03-18",
+    "source": "TechCrunch"
   },
   {
     "id": "veo2-update-20260312",

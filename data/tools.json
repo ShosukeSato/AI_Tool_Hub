@@ -4683,5 +4683,281 @@
     "releaseYear": 2026,
     "developer": "Kronaxis",
     "lastUpdated": "2026-04-02"
+  },
+  {
+    "slug": "lemonade",
+    "name": "Lemonade",
+    "nameJa": "レモネード",
+    "description": "AMD製GPUとNPUに特化したローカルLLMサーバーで、従来のCPU実行よりも高速な推論を実現します。オープンソースで提供され、プライバシーを重視するユーザーに適しています。AMD製ハードウェアの性能を最大限活用し、企業や開発者が自社環境でLLMを運用できる画期的なソリューションです。セキュリティを重視する組織にとって、クラウドサービスに依存しない選択肢として注目されています。",
+    "shortDescription": "AMD GPU/NPU特化の高速ローカルLLMサーバー",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "GPU/NPU加速",
+            "ローカル実行",
+            "オープンソース"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AMD GPU/NPU最適化",
+      "高速推論処理",
+      "ローカル実行",
+      "オープンソース",
+      "プライバシー保護"
+    ],
+    "pros": [
+      "AMD製ハードウェアに特化した最適化",
+      "完全ローカル実行でプライバシー確保",
+      "無料のオープンソース",
+      "高速な推論性能"
+    ],
+    "cons": [
+      "AMD製ハードウェアが必要",
+      "セットアップが技術的",
+      "コミュニティサポート中心"
+    ],
+    "officialUrl": "https://lemonade-server.ai",
+    "logoPath": "/logos/lemonade.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AMD GPU所有者",
+      "プライバシー重視の開発者",
+      "企業のローカルAI導入担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "AMD Community",
+    "lastUpdated": "2026-04-02"
+  },
+  {
+    "slug": "litellm",
+    "name": "LiteLLM",
+    "nameJa": "ライトLLM",
+    "description": "複数のLLMプロバイダーを統一したAPIで管理できるゲートウェイサービスです。OpenAI、Anthropic、Google、Azureなど20以上のLLMサービスを単一のインターフェースで利用可能。最近セキュリティインシデントが発生し注目を集めましたが、迅速な対応により信頼性を回復。開発者がマルチプロバイダー環境で効率的にLLMを活用するための必須ツールとして、多くの企業で採用されています。",
+    "shortDescription": "複数LLMプロバイダーの統一ゲートウェイ",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料",
+          "price": "0円",
+          "features": [
+            "基本API統合",
+            "コミュニティサポート"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$50/月",
+          "features": [
+            "高度な分析",
+            "プライオリティサポート",
+            "カスタム統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "20+のLLMプロバイダー統合",
+      "統一API",
+      "負荷分散",
+      "コスト追跡",
+      "セキュリティ管理"
+    ],
+    "pros": [
+      "複数プロバイダーの一元管理",
+      "API切り替えが簡単",
+      "コスト最適化機能",
+      "豊富な統合オプション"
+    ],
+    "cons": [
+      "最近のセキュリティインシデント",
+      "設定の複雑さ",
+      "依存関係のリスク"
+    ],
+    "officialUrl": "https://litellm.ai",
+    "logoPath": "/logos/litellm.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "マルチLLM環境の開発者",
+      "コスト最適化を求める企業",
+      "AIインフラ管理者"
+    ],
+    "releaseYear": 2023,
+    "developer": "BerriAI",
+    "lastUpdated": "2026-04-02"
+  },
+  {
+    "slug": "claude-content-writer",
+    "name": "Claude Content Writer",
+    "nameJa": "クロードコンテントライター",
+    "description": "Claude Codeのスキルとして開発されたオープンソースのコンテンツライティングワークフローツールです。NPMパッケージとして提供され、開発者が独自のコンテンツ生成パイプラインを構築できます。SEO最適化された記事作成、ブログ投稿、マーケティングコンテンツの自動生成が可能。企業のコンテンツマーケティング戦略を支援し、一貫性のある高品質なコンテンツを効率的に生産できる実践的なツールとして注目されています。",
+    "shortDescription": "Claude Code用コンテンツ生成ワークフロー",
+    "category": "writing-content",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "NPMパッケージ",
+            "カスタマイズ可能",
+            "オープンソース"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "SEO最適化記事作成",
+      "ブログ投稿生成",
+      "マーケティングコンテンツ",
+      "ワークフロー自動化",
+      "Claude Code統合"
+    ],
+    "pros": [
+      "完全無料のオープンソース",
+      "Claude Codeとの統合",
+      "カスタマイズ性が高い",
+      "実践的なワークフロー"
+    ],
+    "cons": [
+      "Claude Codeが必要",
+      "技術的な知識が必要",
+      "英語中心の内容"
+    ],
+    "officialUrl": "https://www.npmjs.com/package/claude-content-writer",
+    "logoPath": "/logos/claude-content-writer.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "Claude Codeユーザー",
+      "コンテンツマーケター",
+      "開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Community Developers",
+    "lastUpdated": "2026-04-02"
+  },
+  {
+    "slug": "crewworks",
+    "name": "CrewWorks",
+    "nameJa": "クルーワークス",
+    "description": "ナレッジ活用を加速するAIエージェント搭載のビジネスプラットフォームです。Japan DX Week 春 2026で新機能が初公開され、企業内の知識管理と業務効率化を革新的に改善します。チーム内の情報共有、プロジェクト管理、ナレッジベース構築を統合し、AIエージェントが適切な情報を適切なタイミングで提供。日本企業のDX推進において、実用的で効果的なソリューションとして期待されています。",
+    "shortDescription": "AIエージェント搭載ナレッジ活用プラットフォーム",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問合せ",
+          "features": [
+            "AIエージェント",
+            "ナレッジ管理",
+            "チーム協業"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェント機能",
+      "ナレッジベース管理",
+      "チーム協業支援",
+      "情報検索最適化",
+      "業務フロー統合"
+    ],
+    "pros": [
+      "日本企業向け設計",
+      "実用的なDXソリューション",
+      "包括的な機能統合",
+      "AIエージェント活用"
+    ],
+    "cons": [
+      "価格が不明確",
+      "導入コストが高そう",
+      "学習コストあり"
+    ],
+    "officialUrl": "https://crewworks.jp",
+    "logoPath": "/logos/crewworks.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "日本の中堅・大企業",
+      "DX推進担当者",
+      "ナレッジワーカー"
+    ],
+    "releaseYear": "2024",
+    "developer": "CrewWorks Inc.",
+    "lastUpdated": "2026-04-02"
+  },
+  {
+    "slug": "",
+    "name": "文賢",
+    "nameJa": "ブンケン",
+    "description": "現場が安心して使えるAI校正ツールとして、個人情報や機密情報をマスキングできる新機能をリリースしました。日本語の文章校正に特化し、企業での実用性を重視したセキュリティ機能を搭載。敬語の使い方、表現の統一、誤字脱字の検出など、ビジネス文書の品質向上を包括的にサポート。機密性の高い文書も安全に校正できるため、官公庁や金融機関などでの導入が期待されています。",
+    "shortDescription": "セキュリティ機能付きAI文章校正ツール",
+    "category": "writing-content",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "個人",
+          "price": "2,180円/月",
+          "features": [
+            "基本校正機能",
+            "セキュリティマスキング"
+          ]
+        },
+        {
+          "name": "チーム",
+          "price": "4,378円/月",
+          "features": [
+            "チーム機能",
+            "管理者機能",
+            "高度なセキュリティ"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "日本語文章校正",
+      "個人情報マスキング",
+      "機密情報保護",
+      "敬語チェック",
+      "表現統一"
+    ],
+    "pros": [
+      "日本語に特化した高精度",
+      "セキュリティ機能が充実",
+      "企業向け機能",
+      "使いやすいインターfaces"
+    ],
+    "cons": [
+      "日本語のみ対応",
+      "月額料金が必要",
+      "高度な機能は上位プラン"
+    ],
+    "officialUrl": "https://rider-store.jp/bunken/",
+    "logoPath": "/logos/.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "企業の文書作成担当者",
+      "ライター・編集者",
+      "官公庁職員"
+    ],
+    "releaseYear": 2020,
+    "developer": "株式会社ウェブライダー",
+    "lastUpdated": "2026-04-02"
   }
 ]

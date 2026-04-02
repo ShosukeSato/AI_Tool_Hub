@@ -1,8 +1,67 @@
 [
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "DMCA-resistant Claude Code source code",
+        "url": "https://codeberg.org/tornikeo/claude-code",
+        "score": 17,
+        "date": "2026-04-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "The Claude Code Leak",
+        "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+        "score": 172,
+        "date": "2026-04-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
+        "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+        "score": 262,
+        "date": "2026-04-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: We open-sourced our content writing workflow as a Claude Code skill",
+        "url": "https://www.npmjs.com/package/claude-content-writer",
+        "score": 12,
+        "date": "2026-04-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "1-bit-bonsai",
+    "toolName": "1-Bit Bonsai",
+    "buzzScore": 8.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+        "url": "https://prismml.com/",
+        "score": 406,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 9.2,
+    "buzzScore": 8.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -24,7 +83,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 8.8,
+    "buzzScore": 7.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -49,30 +108,9 @@
     "lastSeen": "2026-03-29"
   },
   {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 8.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenClaw: Open-source AI agent with 200k GitHub stars",
-        "url": "https://news.ycombinator.com/item?id=example3",
-        "score": 780,
-        "date": "2026-03-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "OpenClaw gains massive traction but security researchers raise concerns",
-        "date": "2026-03-31"
-      }
-    ],
-    "firstSeen": "2026-03-22",
-    "lastSeen": "2026-03-31"
-  },
-  {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 7.9,
+    "buzzScore": 7.1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -92,7 +130,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 7.2,
+    "buzzScore": 6.5,
     "mentions": [
       {
         "source": "reddit",
@@ -112,7 +150,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 6.8,
+    "buzzScore": 6.1,
     "mentions": [
       {
         "source": "reddit",
@@ -127,7 +165,7 @@
   {
     "toolSlug": "google-veo-2",
     "toolName": "Google Veo 2",
-    "buzzScore": 6.5,
+    "buzzScore": 5.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -137,5 +175,139 @@
     ],
     "firstSeen": "2026-03-10",
     "lastSeen": "2026-03-12"
+  },
+  {
+    "toolSlug": "litellm",
+    "toolName": "LiteLLM",
+    "buzzScore": 2.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+        "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+        "score": 83,
+        "date": "2026-04-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+        "score": 1,
+        "date": "2026-04-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+        "score": 1,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "lemonade",
+    "toolName": "Lemonade",
+    "buzzScore": 2.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "url": "https://lemonade-server.ai",
+        "score": 65,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "attie",
+    "toolName": "Attie",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance - TechCrunch",
+        "score": 1,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - The New York Times",
+        "score": 1,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-03-22",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "crewworks",
+    "toolName": "CrewWorks",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント搭載でナレッジ活用を加速させる ［CrewWorks］がJapan DX Week 春 2026 で新機能を初公開（PR TIMES） - 毎日新聞",
+        "score": 1,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "地権者とつながる不動産AIツール『WHERE』、全国の衛星データと不動産情報約7,300万件をデータベース化。条件に合う候補物件数を最短1秒で可視化 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "runway",
+    "toolName": "Runway",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+        "score": 1,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
   }
 ]
