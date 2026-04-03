@@ -1,5 +1,98 @@
 [
   {
+    "id": "new-qwen3-6-plus-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "qwen3-6-plus",
+    "title": "Qwen3.6-Plus が新しく追加されました",
+    "summary": "リアルワールド対応のマルチモーダルAIエージェント",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new-gemma-4-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "gemma-4",
+    "title": "Gemma 4 が新しく追加されました",
+    "summary": "Googleの軽量高性能オープンソースLLM",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new-yomel-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "yomel",
+    "title": "YOMEL が新しく追加されました",
+    "summary": "日本語最適化されたAI議事録自動作成ツール",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new-tbpn-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "tbpn",
+    "title": "TBPN が新しく追加されました",
+    "summary": "AIビジネストークショー制作ツール",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new-google-vids-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "google-vids",
+    "title": "Google Vids が新しく追加されました",
+    "summary": "プロンプトでアバター操作可能なGoogle動画作成AI",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new-shortbooster-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "shortbooster",
+    "title": "SHORTBOOSTER が新しく追加されました",
+    "summary": "ショート動画特化のAI自動生成ツール",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "trending-lemonade-2026-04-03",
+    "type": "trending",
+    "toolSlug": "lemonade",
+    "title": "Lemonade が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "date": "2026-04-03",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-qwen3-6-plus-2026-04-03",
+    "type": "trending",
+    "toolSlug": "qwen3-6-plus",
+    "title": "Qwen3.6-Plus が話題沸騰中（バズスコア: 9.7）",
+    "summary": "hackernewsで注目: Qwen3.6-Plus: Towards real world agents",
+    "date": "2026-04-03",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-1-bit-bonsai-2026-04-03",
+    "type": "trending",
+    "toolSlug": "1-bit-bonsai",
+    "title": "1-Bit Bonsai が話題沸騰中（バズスコア: 8）",
+    "summary": "hackernewsで注目: Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "date": "2026-04-03",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-typeless-2026-04-03",
+    "type": "trending",
+    "toolSlug": "typeless",
+    "title": "Typeless が話題沸騰中（バズスコア: 7.5）",
+    "summary": "hackernewsで注目: Typeless: AI-powered keyboard that predicts your next sentence",
+    "date": "2026-04-03",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-code-2026-04-03",
+    "type": "trending",
+    "toolSlug": "claude-code",
+    "title": "Claude Code が話題沸騰中（バズスコア: 7.1）",
+    "summary": "hackernewsで注目: Claude Code: Anthropic's new CLI coding agent",
+    "date": "2026-04-03",
+    "source": "hackernews"
+  },
+  {
     "id": "new-lemonade-2026-04-02",
     "type": "new-tool",
     "toolSlug": "lemonade",

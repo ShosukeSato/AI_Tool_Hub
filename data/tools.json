@@ -4959,5 +4959,356 @@
     "releaseYear": 2020,
     "developer": "株式会社ウェブライダー",
     "lastUpdated": "2026-04-02"
+  },
+  {
+    "slug": "qwen3-6-plus",
+    "name": "Qwen3.6-Plus",
+    "nameJa": "クエン3.6プラス",
+    "description": "Alibabaが開発したマルチモーダル大規模言語モデルで、リアルワールドでのAIエージェント機能に特化している。テキスト、画像、音声を統合処理し、複雑なタスクを自律的に実行できる。従来のチャットボットとは異なり、実際の業務環境での問題解決能力に重点を置いて設計されており、データ分析、文書処理、画像解析などを組み合わせた複合タスクに優れている。",
+    "shortDescription": "リアルワールド対応のマルチモーダルAIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本プラン",
+          "price": "無料",
+          "features": [
+            "基本的なチャット機能",
+            "画像認識",
+            "月間制限あり"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "$20/月（約3,000円）",
+          "features": [
+            "エージェント機能",
+            "API利用",
+            "高速処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチモーダル処理",
+      "自律的タスク実行",
+      "リアルタイム推論",
+      "複合タスク対応",
+      "API統合"
+    ],
+    "pros": [
+      "実用的なエージェント機能",
+      "高い推論能力",
+      "多言語対応",
+      "柔軟なAPI"
+    ],
+    "cons": [
+      "まだ実験段階",
+      "中国企業製品への懸念",
+      "日本語最適化が不完全"
+    ],
+    "officialUrl": "https://qwen.ai/",
+    "logoPath": "/logos/qwen3-6-plus.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AI研究者",
+      "企業の自動化担当者",
+      "先端技術を試したい開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Alibaba Cloud",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "gemma-4",
+    "name": "Gemma 4",
+    "nameJa": "ジェンマ4",
+    "description": "Googleが発表した最新のオープンソース言語モデルで、「バイト単位で最も高性能」を謳っている。軽量でありながら高い性能を実現し、ローカル環境での実行に最適化されている。従来のGemmaシリーズから大幅にアップグレードされ、効率的な推論処理と低メモリ消費を両立している。開発者が独自のAIアプリケーションを構築する際の基盤モデルとして設計されている。",
+    "shortDescription": "Googleの軽量高性能オープンソースLLM",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "完全オープンソース",
+            "商用利用可能",
+            "カスタマイズ自由"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "軽量アーキテクチャ",
+      "高効率推論",
+      "ローカル実行対応",
+      "オープンソース",
+      "商用利用可能"
+    ],
+    "pros": [
+      "完全無料",
+      "軽量で高速",
+      "カスタマイズ性が高い",
+      "Googleの信頼性"
+    ],
+    "cons": [
+      "技術的知識が必要",
+      "サポートが限定的",
+      "クラウド版がない"
+    ],
+    "officialUrl": "https://ai.google.dev/gemma",
+    "logoPath": "/logos/gemma-4.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "AI開発者",
+      "研究者",
+      "プライバシー重視のユーザー"
+    ],
+    "releaseYear": 2024,
+    "developer": "Google DeepMind",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "yomel",
+    "name": "YOMEL",
+    "nameJa": "ヨメル",
+    "description": "日本で開発されたAI議事録ツールで、導入社数が2,000社を突破し話題になっている。会議音声をリアルタイムで文字起こしし、重要なポイントを自動抽出して構造化された議事録を生成する。日本語の自然な表現や敬語にも対応し、会議の文脈を理解した要約機能が特徴。Teams、Zoom、Google Meetなど主要な会議ツールと連携可能で、議事録作成の工数を大幅に削減できる。",
+    "shortDescription": "日本語最適化されたAI議事録自動作成ツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "月10時間まで",
+            "基本的な文字起こし",
+            "簡易要約"
+          ]
+        },
+        {
+          "name": "ビジネスプラン",
+          "price": "1,980円/月",
+          "features": [
+            "無制限利用",
+            "高精度AI要約",
+            "会議ツール連携",
+            "チーム共有"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "リアルタイム文字起こし",
+      "AI要約機能",
+      "会議ツール連携",
+      "日本語最適化",
+      "チーム共有"
+    ],
+    "pros": [
+      "日本語の精度が高い",
+      "使いやすいUI",
+      "主要会議ツール対応",
+      "コスト効率が良い"
+    ],
+    "cons": [
+      "英語対応が限定的",
+      "ノイズ環境で精度低下",
+      "カスタマイズ性が限定的"
+    ],
+    "officialUrl": "https://yomel.co.jp/",
+    "logoPath": "/logos/yomel.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "会議の多い企業",
+      "議事録作成担当者",
+      "リモートワーカー"
+    ],
+    "releaseYear": 2023,
+    "developer": "株式会社YOMEL",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "tbpn",
+    "name": "TBPN",
+    "nameJa": "ティービーピーエヌ",
+    "description": "OpenAIが買収したことで注目を集めている企業で、AIを活用したビジネストークショー形式のコンテンツ制作ツールを開発している。創業者主導の革新的なアプローチで、AIが自然な対話形式でビジネス情報を伝える動画コンテンツを生成できる。従来の静的なプレゼンテーションではなく、インタラクティブで魅力的なビジネスコミュニケーションを実現する次世代のツールとして期待されている。",
+    "shortDescription": "AIビジネストークショー制作ツール",
+    "category": "video-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問合せ",
+          "features": [
+            "カスタム開発",
+            "OpenAI統合",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI対話生成",
+      "ビジネスコンテンツ制作",
+      "インタラクティブ動画",
+      "OpenAI統合",
+      "カスタマイズ可能"
+    ],
+    "pros": [
+      "OpenAIとの統合",
+      "革新的なアプローチ",
+      "高品質な出力",
+      "ビジネス特化"
+    ],
+    "cons": [
+      "詳細不明",
+      "高価格帯",
+      "限定的なアクセス"
+    ],
+    "officialUrl": "https://openai.com/index/openai-acquires-tbpn/",
+    "logoPath": "/logos/tbpn.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "大企業のマーケティング部門",
+      "コンテンツクリエイター",
+      "革新的ツールを求める企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "TBPN (OpenAI傘下)",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "google-vids",
+    "name": "Google Vids",
+    "nameJa": "グーグルビッズ",
+    "description": "GoogleのAI動画作成ツールで、最新アップデートによりプロンプトを通じてアバターを直接操作できるようになった。テキスト指示だけでアバターの動作、表情、話し方を細かく制御でき、プロフェッショナルなプレゼンテーション動画や教育コンテンツを簡単に作成できる。Google Workspaceと完全統合されており、スライド、ドキュメント、スプレッドシートの内容を自動で動画化する機能も搭載している。",
+    "shortDescription": "プロンプトでアバター操作可能なGoogle動画作成AI",
+    "category": "video-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "個人",
+          "price": "無料",
+          "features": [
+            "基本的なアバター",
+            "月5本まで",
+            "720p出力"
+          ]
+        },
+        {
+          "name": "Google Workspace",
+          "price": "1,360円/月（Businessプラン込み）",
+          "features": [
+            "高品質アバター",
+            "無制限作成",
+            "4K出力",
+            "チーム共有"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "プロンプトアバター制御",
+      "Google Workspace統合",
+      "自動動画化",
+      "多様なテンプレート",
+      "リアルタイム編集"
+    ],
+    "pros": [
+      "直感的な操作",
+      "Google統合の利便性",
+      "高品質なアバター",
+      "豊富なテンプレート"
+    ],
+    "cons": [
+      "Google依存",
+      "カスタマイズに制限",
+      "日本語音声が不自然"
+    ],
+    "officialUrl": "https://workspace.google.com/products/vids/",
+    "logoPath": "/logos/google-vids.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "Google Workspaceユーザー",
+      "企業研修担当者",
+      "教育関係者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Google",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "shortbooster",
+    "name": "SHORTBOOSTER",
+    "nameJa": "ショートブースター",
+    "description": "AI動画生成モデルを大幅に拡充した日本発のショート動画特化ツール。TikTok、YouTube Shorts、Instagram Reelsに最適化された動画を自動生成し、トレンドに合わせたコンテンツ制作を支援する。最新アップデートでは音楽同期、字幕自動生成、エフェクト適用などの機能が強化され、バイラル動画の要素を分析して効果的なコンテンツを提案する独自のAIアルゴリズムを搭載している。",
+    "shortDescription": "ショート動画特化のAI自動生成ツール",
+    "category": "video-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "月10本まで",
+            "基本テンプレート",
+            "720p出力"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "2,980円/月",
+          "features": [
+            "無制限生成",
+            "プレミアムテンプレート",
+            "4K出力",
+            "トレンド分析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ショート動画特化",
+      "音楽自動同期",
+      "字幕自動生成",
+      "トレンド分析",
+      "マルチプラットフォーム対応"
+    ],
+    "pros": [
+      "日本市場に最適化",
+      "ショート動画に特化",
+      "トレンド機能",
+      "使いやすいインターフェース"
+    ],
+    "cons": [
+      "長尺動画非対応",
+      "テンプレートが限定的",
+      "高度な編集機能不足"
+    ],
+    "officialUrl": "https://shortbooster.ai/",
+    "logoPath": "/logos/shortbooster.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "SNSマーケター",
+      "インフルエンサー",
+      "ショート動画クリエイター"
+    ],
+    "releaseYear": 2024,
+    "developer": "株式会社SHORTBOOSTER",
+    "lastUpdated": "2026-04-03"
   }
 ]
