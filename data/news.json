@@ -93,6 +93,46 @@
     "source": "hackernews"
   },
   {
+    "id": "new-apfel-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "apfel",
+    "title": "Apfel が新しく追加されました",
+    "summary": "Mac上で動作する無料ローカルAIアシスタント",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new-llmnesia-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "llmnesia",
+    "title": "LLMnesia が新しく追加されました",
+    "summary": "複数AIチャット履歴をローカル検索する拡張機能",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new-superpowers-for-claude-code-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "superpowers-for-claude-code",
+    "title": "Superpowers for Claude Code が新しく追加されました",
+    "summary": "Claudeのコーディング機能を強化する開発ツール",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new-findy-ai-2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "findy-ai",
+    "title": "Findy AI+ が新しく追加されました",
+    "summary": "開発組織のAI投資効果を横断分析するプラットフォーム",
+    "date": "2026-04-03"
+  },
+  {
+    "id": "new--2026-04-03",
+    "type": "new-tool",
+    "toolSlug": "",
+    "title": "ナレフルチャット が新しく追加されました",
+    "summary": "1000社導入の企業向け社内AI活用プラットフォーム",
+    "date": "2026-04-03"
+  },
+  {
     "id": "new-lemonade-2026-04-02",
     "type": "new-tool",
     "toolSlug": "lemonade",

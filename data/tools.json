@@ -5310,5 +5310,297 @@
     "releaseYear": 2024,
     "developer": "株式会社SHORTBOOSTER",
     "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "apfel",
+    "name": "Apfel",
+    "nameJa": "アプフェル",
+    "description": "Mac上で動作する無料のローカルAIアシスタントです。クラウドに依存せずmacOSのシステム機能を活用してAI処理を実行します。プライバシーを重視しつつ、テキスト生成や質問応答などの基本的なAI機能を提供。オフライン環境でも利用可能で、データが外部に送信されない安全性が特徴です。",
+    "shortDescription": "Mac上で動作する無料ローカルAIアシスタント",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "ローカルAI処理",
+            "プライバシー保護",
+            "オフライン利用"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ローカルAI処理",
+      "プライバシー保護",
+      "オフライン利用可能",
+      "macOSネイティブ対応",
+      "クラウド不要"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "データが外部に送信されない",
+      "オフラインでも動作",
+      "macOSに最適化"
+    ],
+    "cons": [
+      "Mac専用でWindows未対応",
+      "ローカル処理のため性能に限界",
+      "機能が基本的"
+    ],
+    "officialUrl": "https://apfel.franzai.com",
+    "logoPath": "/logos/apfel.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "プライバシーを重視するMacユーザー",
+      "オフライン環境で作業する人",
+      "無料でAIを試したい初心者"
+    ],
+    "releaseYear": 2024,
+    "developer": "FranzAI",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "llmnesia",
+    "name": "LLMnesia",
+    "nameJa": "エルエルエムネシア",
+    "description": "ChatGPT、Claude、Geminiなど複数のAIチャットの履歴をローカルで横断検索できるChrome拡張機能です。過去の会話内容を効率的に検索・参照でき、AI利用の生産性を大幅に向上させます。プライバシーを保護しながら、散らばったAI会話履歴を統合管理。研究者や頻繁にAIを使用するユーザーに最適です。",
+    "shortDescription": "複数AIチャット履歴をローカル検索する拡張機能",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本プラン",
+          "price": "無料",
+          "features": [
+            "基本検索機能",
+            "3つのAIサービス対応"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "$9.99/月",
+          "features": [
+            "高度検索",
+            "無制限サービス対応",
+            "エクスポート機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "複数AIサービス横断検索",
+      "ローカルデータ保存",
+      "履歴統合管理",
+      "Chrome拡張機能",
+      "プライバシー保護"
+    ],
+    "pros": [
+      "複数のAIチャット履歴を一元管理",
+      "ローカル処理でプライバシー安全",
+      "検索機能が高性能",
+      "Chrome拡張で簡単利用"
+    ],
+    "cons": [
+      "Chrome専用でブラウザ制限",
+      "対応AIサービスが限定的",
+      "大量データ処理時の動作重さ"
+    ],
+    "officialUrl": "https://chromewebstore.google.com/detail/llmnesia/leekfgbdojiaabifbjbbgiiclannjdkf",
+    "logoPath": "/logos/llmnesia.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "複数のAIサービスを使い分ける人",
+      "AI会話履歴を効率管理したい研究者",
+      "プライバシー重視のAIユーザー"
+    ],
+    "releaseYear": 2024,
+    "developer": "LLMnesia Team",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "superpowers-for-claude-code",
+    "name": "Superpowers for Claude Code",
+    "nameJa": "スーパーパワーズ フォー クロード コード",
+    "description": "Claudeのコーディング機能を大幅に拡張するツールです。コード生成、デバッグ、リファクタリングなどの開発作業を効率化し、Claude単体では難しい複雑な開発タスクを可能にします。プロジェクト管理機能やコード品質チェック機能も搭載。開発者がClaudeをより実践的なコーディングパートナーとして活用できるよう設計されています。",
+    "shortDescription": "Claudeのコーディング機能を強化する開発ツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "基本的な拡張機能",
+            "小規模プロジェクト対応"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "$19/月",
+          "features": [
+            "全機能利用",
+            "大規模プロジェクト対応",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "コード生成強化",
+      "デバッグ支援",
+      "リファクタリング機能",
+      "プロジェクト管理",
+      "コード品質チェック"
+    ],
+    "pros": [
+      "Claudeの能力を大幅拡張",
+      "開発ワークフロー統合",
+      "コード品質向上支援",
+      "直感的なインターフェース"
+    ],
+    "cons": [
+      "Claude必須で単独利用不可",
+      "学習コストがある",
+      "一部機能は有料プランのみ"
+    ],
+    "officialUrl": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+    "logoPath": "/logos/superpowers-for-claude-code.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "Claudeを開発に活用したいエンジニア",
+      "コード品質を重視する開発者",
+      "AI支援開発を始めたい人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Superpowers Team",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "findy-ai",
+    "name": "Findy AI+",
+    "nameJa": "ファインディー エーアイプラス",
+    "description": "開発組織のAI投資効果を可視化・自動改善するプラットフォームです。Claude Code、GitHub Copilotなど7つのAIツールの利用状況を横断分析し、開発生産性向上を定量化します。β版では無料でAIツールの投資対効果測定が可能。開発チームのAI活用戦略立案に必要なデータとインサイトを提供し、組織のAI導入を科学的にサポートします。",
+    "shortDescription": "開発組織のAI投資効果を横断分析するプラットフォーム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "β版",
+          "price": "無料",
+          "features": [
+            "7つのAIツール分析",
+            "基本レポート機能"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "全機能利用",
+            "カスタム分析",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "7つのAIツール横断分析",
+      "開発生産性定量化",
+      "投資効果測定",
+      "自動改善提案",
+      "チーム利用状況可視化"
+    ],
+    "pros": [
+      "AIツール投資を科学的に分析",
+      "複数ツールを一元管理",
+      "データ駆動の意思決定支援",
+      "β版は無料で利用可能"
+    ],
+    "cons": [
+      "対応AIツールが限定的",
+      "日本企業向け機能が不明",
+      "エンタープライズ版の料金非公開"
+    ],
+    "officialUrl": "https://findy-code.io/",
+    "logoPath": "/logos/findy-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "開発チームのマネージャー",
+      "AI投資効果を測定したい企業",
+      "データ駆動でAI活用を最適化したい組織"
+    ],
+    "releaseYear": 2024,
+    "developer": "ファインディ株式会社",
+    "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "",
+    "name": "ナレフルチャット",
+    "nameJa": "ナレフルチャット",
+    "description": "1000社が導入実績を持つ企業向け社内AI活用プラットフォームです。セキュアな環境で生成AIを業務に組み込み、社内ナレッジと連携した高精度な回答を実現します。企業のコンプライアンス要件に対応し、部署横断での知識共有を促進。導入から運用まで日本企業に特化したサポートを提供し、組織全体のDX推進を加速させる国産AIソリューションです。",
+    "shortDescription": "1000社導入の企業向け社内AI活用プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "スタンダード",
+          "price": "要問い合わせ",
+          "features": [
+            "基本AI機能",
+            "セキュリティ対応"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "高度なカスタマイズ",
+            "専用サポート",
+            "オンプレミス対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "社内ナレッジ連携",
+      "エンタープライズセキュリティ",
+      "部署横断知識共有",
+      "日本語特化",
+      "導入サポート"
+    ],
+    "pros": [
+      "1000社の導入実績",
+      "日本企業に特化した設計",
+      "強固なセキュリティ",
+      "豊富な導入サポート"
+    ],
+    "cons": [
+      "個人利用には不向き",
+      "料金が非公開",
+      "中小企業には高コスト"
+    ],
+    "officialUrl": "https://narefuru.ai/",
+    "logoPath": "/logos/.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "大企業のDX担当者",
+      "社内AI活用を推進したい組織",
+      "セキュリティを重視する日本企業"
+    ],
+    "releaseYear": 2023,
+    "developer": "株式会社ナレフル",
+    "lastUpdated": "2026-04-03"
   }
 ]

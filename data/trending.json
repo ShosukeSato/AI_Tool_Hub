@@ -1,30 +1,14 @@
 [
   {
-    "toolSlug": "lemonade",
-    "toolName": "Lemonade",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-        "url": "https://lemonade-server.ai",
-        "score": 447,
-        "date": "2026-04-03"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-03"
-  },
-  {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 9.7,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Qwen3.6-Plus: Towards real world agents",
         "url": "https://qwen.ai/blog?id=qwen3.6",
-        "score": 431,
+        "score": 555,
         "date": "2026-04-03"
       }
     ],
@@ -32,9 +16,25 @@
     "lastSeen": "2026-04-03"
   },
   {
+    "toolSlug": "lemonade",
+    "toolName": "Lemonade",
+    "buzzScore": 9.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "url": "https://lemonade-server.ai",
+        "score": 528,
+        "date": "2026-04-03"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-03"
+  },
+  {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 8,
+    "buzzScore": 7.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -50,7 +50,7 @@
   {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 7.5,
+    "buzzScore": 6.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -72,7 +72,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 7.1,
+    "buzzScore": 6.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -99,7 +99,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 6.4,
+    "buzzScore": 5.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -119,7 +119,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 5.9,
+    "buzzScore": 5.3,
     "mentions": [
       {
         "source": "reddit",
@@ -139,7 +139,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 5.5,
+    "buzzScore": 5,
     "mentions": [
       {
         "source": "reddit",
@@ -152,9 +152,25 @@
     "lastSeen": "2026-03-20"
   },
   {
+    "toolSlug": "apfel",
+    "toolName": "Apfel",
+    "buzzScore": 4.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Apfel – The free AI already on your Mac",
+        "url": "https://apfel.franzai.com",
+        "score": 236,
+        "date": "2026-04-03"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-03"
+  },
+  {
     "toolSlug": "google-veo-2",
     "toolName": "Google Veo 2",
-    "buzzScore": 5.3,
+    "buzzScore": 4.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -168,13 +184,13 @@
   {
     "toolSlug": "tbpn",
     "toolName": "TBPN",
-    "buzzScore": 4.1,
+    "buzzScore": 4.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "OpenAI Acquires TBPN",
         "url": "https://openai.com/index/openai-acquires-tbpn/",
-        "score": 152,
+        "score": 219,
         "date": "2026-04-03"
       },
       {
@@ -190,13 +206,13 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 3.8,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
         "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-        "score": 136,
+        "score": 144,
         "date": "2026-04-03"
       },
       {
@@ -216,14 +232,15 @@
     "lastSeen": "2026-04-03"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 1,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
+        "source": "hackernews",
+        "title": "Show HN: LLMnesia – search across ChatGPT, Claude, Gemini chats locally",
+        "url": "https://chromewebstore.google.com/detail/llmnesia/leekfgbdojiaabifbjbbgiiclannjdkf",
+        "score": 6,
         "date": "2026-04-03"
       }
     ],
@@ -246,13 +263,13 @@
     "lastSeen": "2026-04-03"
   },
   {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
+    "toolSlug": "",
+    "toolName": "ナレフルチャット",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "AI議事録ツール「YOMEL」導入社数2,000社を突破 - ニコニコニュース",
+        "title": "1000社が導入、社内AI活用を変える「ナレフルチャット」がJapan DX Week 春2026「第9回 AI・業務自動化展」に出展 - Excite エキサイト",
         "score": 1,
         "date": "2026-04-03"
       }
@@ -261,33 +278,18 @@
     "lastSeen": "2026-04-03"
   },
   {
-    "toolSlug": "shortbooster",
-    "toolName": "SHORTBOOSTER",
+    "toolSlug": "sora",
+    "toolName": "Sora",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "SHORTBOOSTER AI動画生成モデル 大幅拡充のお知らせ - ニコニコニュース",
+        "title": "【2026年3月提供終了】動画生成AI「Sora2」完全ガイド｜使い方・活用事例など解説 - sogyotecho.jp",
         "score": 1,
         "date": "2026-04-03"
       }
     ],
     "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-03"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-04-03"
-      }
-    ],
-    "firstSeen": "2026-04-02",
     "lastSeen": "2026-04-03"
   },
   {
@@ -312,22 +314,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - prtimes.jp",
-        "score": 1,
-        "date": "2026-04-03"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-03"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "地権者とつながる不動産AIツール『WHERE』、全国の衛星データと不動産情報約7,300万件をデータベース化。条件に合う候補物件数を最短1秒で可視化 - prtimes.jp",
+        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
         "score": 1,
         "date": "2026-04-03"
       }
@@ -351,9 +338,84 @@
     "lastSeen": "2026-04-03"
   },
   {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
+        "date": "2026-04-03"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-03"
+  },
+  {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AI議事録ツール「YOMEL」導入社数2,000社を突破 - ニコニコニュース",
+        "score": 1,
+        "date": "2026-04-03"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-03"
+  },
+  {
+    "toolSlug": "shortbooster",
+    "toolName": "SHORTBOOSTER",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SHORTBOOSTER AI動画生成モデル 大幅拡充のお知らせ - ニコニコニュース",
+        "score": 1,
+        "date": "2026-04-03"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-03"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-04-03"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-03"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "地権者とつながる不動産AIツール『WHERE』、全国の衛星データと不動産情報約7,300万件をデータベース化。条件に合う候補物件数を最短1秒で可視化 - prtimes.jp",
+        "score": 1,
+        "date": "2026-04-03"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-03"
+  },
+  {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
