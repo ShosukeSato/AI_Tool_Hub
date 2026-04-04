@@ -67,6 +67,63 @@
     "source": "hackernews"
   },
   {
+    "id": "new-ctx-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "ctx",
+    "title": "ctx が新しく追加されました",
+    "summary": "AIエージェントが自律開発するADE環境",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-travel-hacking-toolkit-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "travel-hacking-toolkit",
+    "title": "Travel Hacking Toolkit が新しく追加されました",
+    "summary": "AIによるポイント活用旅行計画ツール",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-mintlify-virtual-filesystem-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "mintlify-virtual-filesystem",
+    "title": "Mintlify Virtual Filesystem が新しく追加されました",
+    "summary": "RAGを超える仮想FS型AIアシスタント",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-pleasanter-mcp-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "pleasanter-mcp",
+    "title": "Pleasanter MCP が新しく追加されました",
+    "summary": "AI連携対応のローコード開発プラットフォーム",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-cognichip-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "cognichip",
+    "title": "Cognichip が新しく追加されました",
+    "summary": "AIによるAI専用チップ自動設計システム",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-slack-ai-features-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "slack-ai-features",
+    "title": "Slack AI Features が新しく追加されました",
+    "summary": "30の新AI機能を搭載したSlackアップデート",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "trending-claude-2026-04-04",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw ()",
+    "date": "2026-04-04",
+    "source": "hackernews"
+  },
+  {
     "id": "new-qwen3-6-plus-2026-04-03",
     "type": "new-tool",
     "toolSlug": "qwen3-6-plus",

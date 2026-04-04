@@ -5882,5 +5882,353 @@
     "releaseYear": 2024,
     "developer": "Coefficient Bio (Anthropic)",
     "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "ctx",
+    "name": "ctx",
+    "nameJa": "コンテクスト",
+    "description": "エージェント開発環境（ADE）として設計された、AIを活用したプログラミングツール。従来のIDEとは異なり、AIエージェントが自律的にコードを書き、テストし、デバッグを行う新しい開発パラダイムを提供。コンテキストを保持しながらプロジェクト全体を理解し、複雑な開発タスクを自動化することで、開発者の生産性を大幅に向上させる次世代の開発環境。",
+    "shortDescription": "AIエージェントが自律開発するADE環境",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本的なAIエージェント機能",
+            "小規模プロジェクト対応"
+          ]
+        },
+        {
+          "name": "Pro版",
+          "price": "月額$29（約4,500円）",
+          "features": [
+            "高度なエージェント機能",
+            "大規模プロジェクト対応",
+            "カスタムエージェント作成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自律的なコード生成",
+      "プロジェクト全体の理解",
+      "自動テスト実行",
+      "エージェント型開発",
+      "コンテキスト保持"
+    ],
+    "pros": [
+      "従来のIDEを超えた開発体験",
+      "AIが自律的に開発を進行",
+      "複雑なプロジェクトの管理が容易",
+      "開発速度の大幅向上"
+    ],
+    "cons": [
+      "新しい概念で学習コストが高い",
+      "従来の開発フローからの移行が必要",
+      "エージェントの制御が難しい場合がある"
+    ],
+    "officialUrl": "https://ctx.rs",
+    "logoPath": "/logos/ctx.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "最新の開発手法を試したい開発者",
+      "AIを活用した効率化を求める企業",
+      "複雑なプロジェクトを管理するチーム"
+    ],
+    "releaseYear": 2024,
+    "developer": "ctx.rs",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "travel-hacking-toolkit",
+    "name": "Travel Hacking Toolkit",
+    "nameJa": "トラベルハッキングツールキット",
+    "description": "航空会社のポイントやマイルを効率的に活用した旅行計画をAIが支援するオープンソースツール。複数の航空会社の特典航空券の空席状況を検索し、最適なルートや日程を提案。ポイント獲得戦略やクレジットカードの活用方法も含めた総合的な旅行ハッキング手法をAIが分析・提案することで、通常よりも大幅に安く旅行できる計画を立てることが可能。",
+    "shortDescription": "AIによるポイント活用旅行計画ツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース版",
+          "price": "無料",
+          "features": [
+            "ポイント検索機能",
+            "旅行計画作成",
+            "ルート最適化",
+            "GitHub上で利用可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "特典航空券検索",
+      "ポイント最適化提案",
+      "旅行ルート計画",
+      "コスト分析",
+      "オープンソース"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "旅行費用を大幅削減",
+      "複数航空会社を横断検索",
+      "カスタマイズ可能"
+    ],
+    "cons": [
+      "技術的な知識が必要",
+      "日本の航空会社への対応が限定的",
+      "セットアップが複雑"
+    ],
+    "officialUrl": "https://github.com/borski/travel-hacking-toolkit",
+    "logoPath": "/logos/travel-hacking-toolkit.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "頻繁に旅行する人",
+      "ポイント活用に興味がある人",
+      "プログラミング知識のある旅行好き"
+    ],
+    "releaseYear": 2024,
+    "developer": "borski",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "mintlify-virtual-filesystem",
+    "name": "Mintlify Virtual Filesystem",
+    "nameJa": "ミントリファイ仮想ファイルシステム",
+    "description": "従来のRAG（Retrieval-Augmented Generation）に代わる革新的なアプローチとして開発された、AIドキュメントアシスタント向けの仮想ファイルシステム。ドキュメントを単純な検索対象として扱うのではなく、ファイルシステムのような構造で整理・管理することで、より正確で文脈に適した回答を生成。技術文書やAPI仕様書の理解において従来手法を大きく上回る精度を実現している。",
+    "shortDescription": "RAGを超える仮想FS型AIアシスタント",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "仮想ファイルシステム",
+            "高精度検索",
+            "カスタム統合",
+            "企業サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "仮想ファイルシステム構造",
+      "高精度文書検索",
+      "コンテキスト保持",
+      "API統合",
+      "企業向け機能"
+    ],
+    "pros": [
+      "RAGより高い検索精度",
+      "文脈理解が優秀",
+      "大規模文書に対応",
+      "革新的なアプローチ"
+    ],
+    "cons": [
+      "企業向けのみで個人利用不可",
+      "導入コストが高い",
+      "新しい技術で事例が少ない"
+    ],
+    "officialUrl": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+    "logoPath": "/logos/mintlify-virtual-filesystem.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "大量の技術文書を扱う企業",
+      "高精度な文書検索が必要な組織",
+      "革新的なAI技術を導入したい企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Mintlify",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "pleasanter-mcp",
+    "name": "Pleasanter MCP",
+    "nameJa": "プリザンターMCP",
+    "description": "日本のオープンソース・ローコード開発ツール「プリザンター」に新搭載されたAI連携機能。MCP（Model Context Protocol）を実装することで、業務アプリケーションの開発・運用にAIを統合。データベース設計、画面レイアウト作成、業務フローの自動化などを自然言語で指示でき、プログラミング知識がなくても高度な業務システムを構築可能。日本企業の業務に特化した設計が特徴。",
+    "shortDescription": "AI連携対応のローコード開発プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "オープンソース版",
+          "price": "無料",
+          "features": [
+            "基本的なローコード機能",
+            "AI連携（制限あり）"
+          ]
+        },
+        {
+          "name": "Enterprise版",
+          "price": "要問い合わせ",
+          "features": [
+            "フルAI連携機能",
+            "企業サポート",
+            "高度なカスタマイズ"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ローコード開発",
+      "AI連携機能",
+      "自然言語での操作",
+      "業務フロー自動化",
+      "日本語対応"
+    ],
+    "pros": [
+      "日本の業務に特化した設計",
+      "プログラミング不要",
+      "オープンソースで透明性が高い",
+      "豊富な業務テンプレート"
+    ],
+    "cons": [
+      "海外展開は限定的",
+      "高度なカスタマイズには技術知識が必要",
+      "AI機能は発展途上"
+    ],
+    "officialUrl": "https://pleasanter.org",
+    "logoPath": "/logos/pleasanter-mcp.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "日本の中小企業",
+      "業務システムを内製したい企業",
+      "ローコード開発に興味がある開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Implem Inc.",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "cognichip",
+    "name": "Cognichip",
+    "nameJa": "コグニチップ",
+    "description": "AIがAI用チップを設計する革新的な半導体設計プラットフォーム。従来は人間の設計者が数ヶ月かけて行っていたチップ設計プロセスを、AIが自動化・最適化することで大幅に短縮。特にAI処理に特化したチップアーキテクチャの設計において、従来手法を上回る性能とエネルギー効率を実現。6000万ドルの資金調達を完了し、次世代AI計算基盤の構築を目指している。",
+    "shortDescription": "AIによるAI専用チップ自動設計システム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "自動チップ設計",
+            "AI最適化",
+            "カスタム設計",
+            "技術サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動チップ設計",
+      "AI最適化技術",
+      "エネルギー効率向上",
+      "設計期間短縮",
+      "カスタムアーキテクチャ"
+    ],
+    "pros": [
+      "設計期間を大幅短縮",
+      "AI特化の高性能チップ",
+      "エネルギー効率が優秀",
+      "革新的なアプローチ"
+    ],
+    "cons": [
+      "超高額な企業向けサービス",
+      "専門知識が必要",
+      "まだ発展段階の技術"
+    ],
+    "officialUrl": "https://cognichip.com",
+    "logoPath": "/logos/cognichip.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "半導体企業",
+      "AI研究機関",
+      "大規模テック企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Cognichip",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "slack-ai-features",
+    "name": "Slack AI Features",
+    "nameJa": "スラックAI機能",
+    "description": "Salesforceが発表したSlackの大規模AI機能アップデート。30の新しいAI機能を搭載し、チーム内のコミュニケーションと作業効率を劇的に向上。会話の自動要約、重要メッセージの抽出、プロジェクト進捗の自動追跡、AIによる会議議事録作成などを提供。既存のSlackワークフローにシームレスに統合され、チーム全体の生産性向上を実現する包括的なAIアシスタント機能群。",
+    "shortDescription": "30の新AI機能を搭載したSlackアップデート",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的なAI機能",
+            "限定的な要約機能"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額$7.25（約1,100円）",
+          "features": [
+            "全AI機能",
+            "高度な要約",
+            "自動議事録"
+          ]
+        },
+        {
+          "name": "Business+",
+          "price": "月額$12.50（約1,900円）",
+          "features": [
+            "企業向けAI機能",
+            "高度な分析",
+            "カスタム統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "会話自動要約",
+      "重要メッセージ抽出",
+      "プロジェクト追跡",
+      "AI議事録作成",
+      "ワークフロー自動化"
+    ],
+    "pros": [
+      "既存Slackに統合",
+      "30もの豊富な機能",
+      "チーム全体の効率向上",
+      "直感的な操作"
+    ],
+    "cons": [
+      "有料プランでないと制限が多い",
+      "日本語対応の精度に課題",
+      "大量データが必要"
+    ],
+    "officialUrl": "https://slack.com",
+    "logoPath": "/logos/slack-ai-features.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "Slackを使用するチーム",
+      "リモートワーク中心の企業",
+      "会議が多い組織"
+    ],
+    "releaseYear": 2024,
+    "developer": "Salesforce",
+    "lastUpdated": "2026-04-04"
   }
 ]
