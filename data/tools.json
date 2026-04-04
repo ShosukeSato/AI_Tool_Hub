@@ -5602,5 +5602,285 @@
     "releaseYear": 2023,
     "developer": "株式会社ナレフル",
     "lastUpdated": "2026-04-03"
+  },
+  {
+    "slug": "podroid",
+    "name": "Podroid",
+    "nameJa": "ポドロイド",
+    "description": "AndroidデバイスでLinuxコンテナをroot権限なしで実行できる革新的なツール。開発環境の構築やLinuxアプリケーションの実行が可能で、モバイル開発者にとって画期的なソリューションを提供します。従来の仮想化技術と異なり、軽量で高速な動作を実現し、Android上での本格的な開発作業を可能にします。",
+    "shortDescription": "Android上でLinuxコンテナを実行",
+    "category": "productivity",
+    "subcategories": [
+      "development",
+      "containerization"
+    ],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "Linuxコンテナ実行",
+            "root権限不要",
+            "軽量動作",
+            "GitHub提供"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "root権限不要でLinuxコンテナ実行",
+      "Android上での開発環境構築",
+      "軽量で高速な動作",
+      "オープンソース提供",
+      "モバイル開発支援"
+    ],
+    "pros": [
+      "root化不要で安全",
+      "軽量で高速動作",
+      "無料のオープンソース",
+      "モバイル開発の自由度向上"
+    ],
+    "cons": [
+      "Android専用で汎用性限定",
+      "技術的知識が必要",
+      "まだ新しいツール"
+    ],
+    "officialUrl": "https://github.com/ExTV/Podroid",
+    "logoPath": "/logos/podroid.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "Android開発者",
+      "モバイル開発者",
+      "Linux愛用者"
+    ],
+    "releaseYear": 2024,
+    "developer": "ExTV",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "piguard",
+    "name": "PIGuard",
+    "nameJa": "パイガード",
+    "description": "プロンプトインジェクション攻撃を防ぐAIセキュリティガードレール。過度な防御による誤検知を抑制しながら、効果的にプロンプトインジェクション攻撃をブロックします。LLMアプリケーションのセキュリティを向上させ、実用的な保護機能を提供。企業のAI導入における重要なセキュリティソリューションとして注目されています。",
+    "shortDescription": "プロンプトインジェクション攻撃防止",
+    "category": "ai-platform",
+    "subcategories": [
+      "security",
+      "guardrails"
+    ],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "研究版",
+          "price": "無料",
+          "features": [
+            "プロンプト保護",
+            "誤検知軽減",
+            "研究用途",
+            "オープンソース"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "プロンプトインジェクション防止",
+      "過度な防御の軽減",
+      "LLMセキュリティ向上",
+      "実用的な保護機能",
+      "研究ベースの手法"
+    ],
+    "pros": [
+      "AIセキュリティの向上",
+      "誤検知を抑制",
+      "無料で利用可能",
+      "実用的なアプローチ"
+    ],
+    "cons": [
+      "まだ研究段階",
+      "商用サポート未確定",
+      "技術的専門知識が必要"
+    ],
+    "officialUrl": "https://injecguard.github.io/",
+    "logoPath": "/logos/piguard.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AI開発者",
+      "セキュリティエンジニア",
+      "企業のAI担当者"
+    ],
+    "releaseYear": 2024,
+    "developer": "InjecGuard Team",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "vectorcast-2026",
+    "name": "VectorCAST 2026",
+    "nameJa": "ベクターキャスト2026",
+    "description": "AI技術を活用したテスト作成機能を搭載した最新版ソフトウェアテスティングツール。従来の手動テスト作成を大幅に効率化し、AIが自動的にテストケースを生成・最適化します。組み込みソフトウェア開発において、品質保証プロセスの革新を実現。開発チームの生産性向上と品質向上を同時に達成できる画期的なソリューションです。",
+    "shortDescription": "AI搭載ソフトウェアテスティングツール",
+    "category": "productivity",
+    "subcategories": [
+      "testing",
+      "development"
+    ],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問合せ",
+          "features": [
+            "AIテスト生成",
+            "自動最適化",
+            "組み込み対応",
+            "企業サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIによるテストケース自動生成",
+      "テスト最適化機能",
+      "組み込みソフトウェア対応",
+      "品質保証プロセス効率化",
+      "開発生産性向上"
+    ],
+    "pros": [
+      "テスト作成の大幅効率化",
+      "AI技術による高度な最適化",
+      "組み込み開発特化",
+      "品質向上と生産性向上の両立"
+    ],
+    "cons": [
+      "エンタープライズ価格",
+      "専門的な学習コストあり",
+      "組み込み分野特化"
+    ],
+    "officialUrl": "https://www.vector.com/",
+    "logoPath": "/logos/vectorcast-2026.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "組み込みソフトウェア開発者",
+      "品質保証エンジニア",
+      "テスト自動化担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Vector",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "vegas-pro-2026",
+    "name": "Vegas Pro 2026",
+    "nameJa": "ベガスプロ2026",
+    "description": "Boris FXによる新体制での初リリースとなる動画編集ソフトウェア。ContinuumタイトルパックとZ-Depth 2.0を標準搭載し、AI音声機能を新たに追加。プロフェッショナルな動画制作において、従来の編集機能にAI技術を組み合わせることで、より効率的で高品質な作品制作を実現します。クリエイターの創造性を最大限に引き出すツールとして進化しています。",
+    "shortDescription": "AI音声機能搭載の動画編集ソフト",
+    "category": "video-editing",
+    "subcategories": [
+      "professional-editing",
+      "ai-features"
+    ],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Vegas Pro 2026",
+          "price": "約60,000円",
+          "features": [
+            "Continuumタイトルパック",
+            "Z-Depth 2.0",
+            "AI音声機能",
+            "プロフェッショナル編集"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI音声機能",
+      "Continuumタイトルパック標準搭載",
+      "Z-Depth 2.0対応",
+      "プロフェッショナル編集機能",
+      "Boris FX新体制での開発"
+    ],
+    "pros": [
+      "AI音声機能による効率化",
+      "充実したタイトル機能",
+      "プロフェッショナル品質",
+      "長年の実績とノウハウ"
+    ],
+    "cons": [
+      "高価な価格設定",
+      "学習コストが高い",
+      "ハードウェア要求が高い"
+    ],
+    "officialUrl": "https://www.vegascreativesoftware.com/",
+    "logoPath": "/logos/vegas-pro-2026.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "プロの動画編集者",
+      "映像制作者",
+      "YouTubeクリエイター"
+    ],
+    "releaseYear": 2026,
+    "developer": "Boris FX",
+    "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "coefficient-bio",
+    "name": "Coefficient Bio",
+    "nameJa": "コエフィシエント・バイオ",
+    "description": "Anthropicが4億ドルで買収したバイオテクノロジースタートアップ。AIとバイオテクノロジーの融合により、創薬研究や生物学的プロセスの理解を革新的に進歩させます。ClaudeのAI技術をバイオロジー分野に応用し、新薬開発や疾患治療の研究を加速。科学研究におけるAIの活用可能性を大幅に拡張する画期的な取り組みとして注目されています。",
+    "shortDescription": "AIとバイオテクノロジーの融合",
+    "category": "ai-platform",
+    "subcategories": [
+      "biotech",
+      "research"
+    ],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "研究機関向け",
+          "price": "要問合せ",
+          "features": [
+            "AI創薬支援",
+            "バイオ研究",
+            "Anthropic統合",
+            "専門サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI創薬研究支援",
+      "生物学的プロセス解析",
+      "Anthropic AI技術統合",
+      "バイオテクノロジー革新",
+      "科学研究加速"
+    ],
+    "pros": [
+      "最先端のAIバイオ技術",
+      "Anthropicの強力なバックアップ",
+      "創薬研究の革新",
+      "科学的発見の加速"
+    ],
+    "cons": [
+      "専門分野限定",
+      "高額な導入コスト",
+      "研究機関向け"
+    ],
+    "officialUrl": "https://www.anthropic.com/",
+    "logoPath": "/logos/coefficient-bio.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "創薬研究者",
+      "バイオテクノロジー企業",
+      "医学研究機関"
+    ],
+    "releaseYear": 2024,
+    "developer": "Coefficient Bio (Anthropic)",
+    "lastUpdated": "2026-04-04"
   }
 ]

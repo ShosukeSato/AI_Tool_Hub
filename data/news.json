@@ -1,5 +1,72 @@
 [
   {
+    "id": "new-podroid-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "podroid",
+    "title": "Podroid が新しく追加されました",
+    "summary": "Android上でLinuxコンテナを実行",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-piguard-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "piguard",
+    "title": "PIGuard が新しく追加されました",
+    "summary": "プロンプトインジェクション攻撃防止",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-vectorcast-2026-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "vectorcast-2026",
+    "title": "VectorCAST 2026 が新しく追加されました",
+    "summary": "AI搭載ソフトウェアテスティングツール",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-vegas-pro-2026-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "vegas-pro-2026",
+    "title": "Vegas Pro 2026 が新しく追加されました",
+    "summary": "AI音声機能搭載の動画編集ソフト",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "new-coefficient-bio-2026-04-04",
+    "type": "new-tool",
+    "toolSlug": "coefficient-bio",
+    "title": "Coefficient Bio が新しく追加されました",
+    "summary": "AIとバイオテクノロジーの融合",
+    "date": "2026-04-04"
+  },
+  {
+    "id": "trending-apfel-2026-04-04",
+    "type": "trending",
+    "toolSlug": "apfel",
+    "title": "Apfel が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Apfel – The free AI already on your Mac",
+    "date": "2026-04-04",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-qwen3-6-plus-2026-04-04",
+    "type": "trending",
+    "toolSlug": "qwen3-6-plus",
+    "title": "Qwen3.6-Plus が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Qwen3.6-Plus: Towards real world agents",
+    "date": "2026-04-04",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-lemonade-2026-04-04",
+    "type": "trending",
+    "toolSlug": "lemonade",
+    "title": "Lemonade が話題沸騰中（バズスコア: 8.6）",
+    "summary": "hackernewsで注目: Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "date": "2026-04-04",
+    "source": "hackernews"
+  },
+  {
     "id": "new-qwen3-6-plus-2026-04-03",
     "type": "new-tool",
     "toolSlug": "qwen3-6-plus",
