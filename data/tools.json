@@ -6230,5 +6230,323 @@
     "releaseYear": 2024,
     "developer": "Salesforce",
     "lastUpdated": "2026-04-04"
+  },
+  {
+    "slug": "sllm",
+    "name": "sllm",
+    "nameJa": "エスエルエルエム",
+    "description": "複数の開発者でGPUノードを共有できるクラウドプラットフォーム。従来の高額なGPUレンタルサービスと異なり、必要な分だけGPUリソースを分割して利用でき、無制限のトークン数で各種LLMを実行可能。個人開発者や小規模チームでも手軽にAI開発に参加できる革新的なコスト効率化ソリューション。",
+    "shortDescription": "GPU共有でAI開発コストを大幅削減",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "共有プラン",
+          "price": "従量制（詳細は要確認）",
+          "features": [
+            "GPU共有利用",
+            "無制限トークン",
+            "複数LLM対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "GPU共有機能",
+      "無制限トークン生成",
+      "複数LLM対応",
+      "従量課金制",
+      "開発者向けAPI"
+    ],
+    "pros": [
+      "大幅なコスト削減",
+      "柔軟なリソース利用",
+      "無制限トークン",
+      "小規模開発者に優しい"
+    ],
+    "cons": [
+      "共有環境での性能制限",
+      "新サービスでの安定性",
+      "詳細料金の不透明さ"
+    ],
+    "officialUrl": "https://sllm.cloud",
+    "logoPath": "/logos/sllm.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "個人AI開発者",
+      "スタートアップ",
+      "コスト重視の開発チーム"
+    ],
+    "releaseYear": 2024,
+    "developer": "sllm",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "pluck",
+    "name": "Pluck",
+    "nameJa": "プラック",
+    "description": "任意のWebサイトからUI要素をコピーして、AIコーディングツールにペーストできる画期的なツール。デザイナーや開発者が気に入ったUIコンポーネントを見つけた際、従来の手作業での再現が不要になり、直接AIツールで利用可能な形式に変換。Web開発の効率化と創作活動のスピードアップを実現する。",
+    "shortDescription": "WebサイトのUIをAIツールで再現",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本プラン",
+          "price": "無料",
+          "features": [
+            "基本UI抽出",
+            "限定回数利用"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "UI要素抽出",
+      "AIツール連携",
+      "ワンクリックコピー",
+      "複数サイト対応",
+      "コード生成支援"
+    ],
+    "pros": [
+      "開発時間の大幅短縮",
+      "直感的な操作",
+      "AIツールとの高い親和性",
+      "創作活動の効率化"
+    ],
+    "cons": [
+      "著作権への配慮が必要",
+      "複雑なUIでの制限",
+      "ブラウザ依存の動作"
+    ],
+    "officialUrl": "https://www.pluck.so/",
+    "logoPath": "/logos/pluck.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "Web開発者",
+      "UIデザイナー",
+      "プロトタイプ制作者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Pluck",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "openrouter",
+    "name": "OpenRouter",
+    "nameJa": "オープンルーター",
+    "description": "複数のAIモデルを統合管理できるAPIプラットフォーム。企業が用途に応じて最適なAIモデルを選択し、統一されたインターフェースで利用可能。GPT-4、Claude、Geminiなど様々なモデルを比較検討しながら活用でき、13億ドルの評価額で1億2000万ドルを調達した注目の成長企業。コスト最適化と性能向上を両立。",
+    "shortDescription": "複数AIモデルを統合管理するAPI",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "スタータープラン",
+          "price": "従量制",
+          "features": [
+            "基本API利用",
+            "複数モデル対応"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要相談",
+          "features": [
+            "専用サポート",
+            "カスタム統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "複数AIモデル統合",
+      "統一API",
+      "コスト最適化",
+      "性能比較機能",
+      "企業向け管理画面"
+    ],
+    "pros": [
+      "モデル選択の柔軟性",
+      "コスト効率の向上",
+      "統一された管理",
+      "高い成長性"
+    ],
+    "cons": [
+      "複雑な料金体系",
+      "依存リスク",
+      "学習コストの存在"
+    ],
+    "officialUrl": "https://openrouter.ai/",
+    "logoPath": "/logos/openrouter.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "企業のAI担当者",
+      "開発チーム",
+      "AIサービス提供者"
+    ],
+    "releaseYear": 2023,
+    "developer": "OpenRouter",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "imbue-mngr",
+    "name": "Imbue MNGR",
+    "nameJa": "インビュー マネージャー",
+    "description": "100体以上のClaudeエージェントを並列実行してテストを行う先進的なAIエージェント管理システム。複雑なタスクを複数のAIエージェントに分散させ、大規模な自動化処理を実現。従来の単体AIツールでは不可能だった、チーム作業のようなAI協調システムの実用化事例として注目を集めている革新的プラットフォーム。",
+    "shortDescription": "大量AIエージェントの並列実行システム",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要相談",
+          "features": [
+            "大量エージェント並列実行",
+            "カスタム統合",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "100+エージェント並列実行",
+      "Claude統合",
+      "大規模テスト自動化",
+      "分散処理システム",
+      "リアルタイム監視"
+    ],
+    "pros": [
+      "圧倒的なスケール",
+      "複雑タスクの自動化",
+      "先進的なAI活用",
+      "高い処理効率"
+    ],
+    "cons": [
+      "高額な導入コスト",
+      "複雑なセットアップ",
+      "企業向け限定"
+    ],
+    "officialUrl": "https://imbue.com/",
+    "logoPath": "/logos/imbue-mngr.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "大企業のAI部門",
+      "研究機関",
+      "AIサービス開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Imbue",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "mbodi-ai",
+    "name": "Mbodi AI",
+    "nameJa": "エムボディ エーアイ",
+    "description": "Y Combinator P25期生として注目されるロボティクスAIスタートアップ。物理世界でのAI応用に特化し、ロボットの動作制御や環境認識にAIを統合したソリューションを開発。製造業、物流、サービス業での実用化を目指し、従来の産業用ロボットをよりインテリジェントで柔軟な存在に進化させる次世代技術を提供している。",
+    "shortDescription": "ロボティクス特化のAI技術開発",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "カスタムソリューション",
+          "price": "要相談",
+          "features": [
+            "ロボット制御AI",
+            "環境認識",
+            "産業用統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ロボット動作制御",
+      "環境認識AI",
+      "産業用統合",
+      "リアルタイム処理",
+      "カスタムソリューション"
+    ],
+    "pros": [
+      "物理世界への応用",
+      "Y Combinator支援",
+      "産業用途に特化",
+      "次世代技術"
+    ],
+    "cons": [
+      "開発初期段階",
+      "限定的な応用範囲",
+      "高い技術的ハードル"
+    ],
+    "officialUrl": "https://www.ycombinator.com/companies/mbodi-ai/",
+    "logoPath": "/logos/mbodi-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "製造業関係者",
+      "ロボティクス研究者",
+      "産業自動化担当者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Mbodi AI",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "alibaba-agentic-ai",
+    "name": "Alibaba Agentic AI",
+    "nameJa": "アリババ エージェンティック エーアイ",
+    "description": "Alibabaが開発したビジネス向けエージェント型AIツール。SlackやMicrosoft Teamsとの統合を予定し、企業のコミュニケーションプラットフォーム上で自動的にタスクを実行。単純な質問応答を超え、複雑なビジネスプロセスを理解し、自律的に業務を遂行する次世代AIアシスタント。中国市場での実績をベースに世界展開を目指す。",
+    "shortDescription": "Slack/Teams統合のビジネスAI",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "ビジネスプラン",
+          "price": "要相談",
+          "features": [
+            "Slack/Teams統合",
+            "自動タスク実行",
+            "多言語対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Slack/Teams統合",
+      "自動業務実行",
+      "多言語サポート",
+      "ビジネスプロセス理解",
+      "企業データ連携"
+    ],
+    "pros": [
+      "大手企業の信頼性",
+      "既存ツール統合",
+      "豊富な実績",
+      "グローバル対応"
+    ],
+    "cons": [
+      "中国系企業への懸念",
+      "複雑な導入プロセス",
+      "データプライバシー課題"
+    ],
+    "officialUrl": "https://www.alibabacloud.com/",
+    "logoPath": "/logos/alibaba-agentic-ai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "大企業の業務効率化担当",
+      "国際展開企業",
+      "チームコミュニケーション管理者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Alibaba",
+    "lastUpdated": "2026-04-05"
   }
 ]

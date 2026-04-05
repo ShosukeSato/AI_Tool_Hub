@@ -1,5 +1,62 @@
 [
   {
+    "id": "new-sllm-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "sllm",
+    "title": "sllm が新しく追加されました",
+    "summary": "GPU共有でAI開発コストを大幅削減",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-pluck-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "pluck",
+    "title": "Pluck が新しく追加されました",
+    "summary": "WebサイトのUIをAIツールで再現",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-openrouter-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "openrouter",
+    "title": "OpenRouter が新しく追加されました",
+    "summary": "複数AIモデルを統合管理するAPI",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-imbue-mngr-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "imbue-mngr",
+    "title": "Imbue MNGR が新しく追加されました",
+    "summary": "大量AIエージェントの並列実行システム",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-mbodi-ai-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "mbodi-ai",
+    "title": "Mbodi AI が新しく追加されました",
+    "summary": "ロボティクス特化のAI技術開発",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-alibaba-agentic-ai-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "alibaba-agentic-ai",
+    "title": "Alibaba Agentic AI が新しく追加されました",
+    "summary": "Slack/Teams統合のビジネスAI",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "trending-claude-2026-04-05",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: A case study in testing with 100+ Claude agents in parallel",
+    "date": "2026-04-05",
+    "source": "hackernews"
+  },
+  {
     "id": "new-podroid-2026-04-04",
     "type": "new-tool",
     "toolSlug": "podroid",
