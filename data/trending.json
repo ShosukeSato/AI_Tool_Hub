@@ -6,27 +6,27 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "A case study in testing with 100+ Claude agents in parallel",
-        "url": "https://imbue.com/product/mngr_part_2/",
-        "score": 4,
-        "date": "2026-04-05"
-      },
-      {
-        "source": "hackernews",
         "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw ()",
-        "score": 1036,
+        "score": 1050,
         "date": "2026-04-05"
       },
       {
         "source": "hackernews",
         "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
         "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-        "score": 367,
+        "score": 397,
+        "date": "2026-04-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "Getting Claude to QA its own work",
+        "url": "https://www.skyvern.com/blog/getting-claude-to-qa-its-own-work/",
+        "score": 17,
         "date": "2026-04-05"
       },
       {
         "source": "googlenews",
-        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - prtimes.jp",
         "score": 1,
         "date": "2026-04-05"
       },
@@ -43,13 +43,13 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 5.7,
+    "buzzScore": 5.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Apfel – The free AI already on your Mac",
         "url": "https://apfel.franzai.com",
-        "score": 710,
+        "score": 719,
         "date": "2026-04-05"
       }
     ],
@@ -59,7 +59,7 @@
   {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 5.6,
+    "buzzScore": 5,
     "mentions": [
       {
         "source": "hackernews",
@@ -75,7 +75,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 5.4,
+    "buzzScore": 4.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -91,7 +91,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 5.3,
+    "buzzScore": 4.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -107,7 +107,7 @@
   {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 5,
+    "buzzScore": 4.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -129,7 +129,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 4.7,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -156,7 +156,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 4.2,
+    "buzzScore": 3.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -176,7 +176,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.9,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "reddit",
@@ -196,7 +196,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "reddit",
@@ -211,7 +211,7 @@
   {
     "toolSlug": "google-veo-2",
     "toolName": "Google Veo 2",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "techcrunch",
@@ -225,13 +225,13 @@
   {
     "toolSlug": "sllm",
     "toolName": "sllm",
-    "buzzScore": 1.8,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
         "url": "https://sllm.cloud",
-        "score": 128,
+        "score": 165,
         "date": "2026-04-05"
       }
     ],
@@ -241,7 +241,7 @@
   {
     "toolSlug": "travel-hacking-toolkit",
     "toolName": "Travel Hacking Toolkit",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -257,7 +257,7 @@
   {
     "toolSlug": "ctx",
     "toolName": "ctx",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -279,7 +279,7 @@
         "source": "hackernews",
         "title": "Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",
         "url": "https://www.pluck.so/",
-        "score": 15,
+        "score": 17,
         "date": "2026-04-05"
       }
     ],
@@ -287,31 +287,15 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "openrouter",
-    "toolName": "OpenRouter",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenRouter Raises $120M at a $1.3B Valuation",
-        "url": "https://www.inc.com/ben-sherry/openrouter-helps-companies-pick-the-best-ai-for-the-job-and-could-be-worth-1-3-billion/91325983",
-        "score": 9,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-05"
-  },
-  {
-    "toolSlug": "mbodi-ai",
-    "toolName": "Mbodi AI",
+    "toolSlug": "manus",
+    "toolName": "Manus",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Mbodi AI",
-        "url": "YC P25) Is Hiring (https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
-        "score": 1,
+        "title": "Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses",
+        "url": "1559) (https://publicdomainreview.org/collection/histoires-prodigieuses/",
+        "score": 4,
         "date": "2026-04-05"
       }
     ],
@@ -334,18 +318,33 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "vegas-pro-2026",
-    "toolName": "Vegas Pro 2026",
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - CGinterest",
+        "title": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - The New York Times",
         "score": 1,
         "date": "2026-04-05"
       }
     ],
-    "firstSeen": "2026-04-04",
+    "firstSeen": "2026-03-22",
+    "lastSeen": "2026-04-05"
+  },
+  {
+    "toolSlug": "stitch",
+    "toolName": "Stitch",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing “vibe design” with Stitch - blog.google",
+        "score": 1,
+        "date": "2026-04-05"
+      }
+    ],
+    "firstSeen": "2026-04-05",
     "lastSeen": "2026-04-05"
   },
   {
@@ -364,33 +363,18 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "crewworks",
-    "toolName": "CrewWorks",
+    "toolSlug": "vegas-pro-2026",
+    "toolName": "Vegas Pro 2026",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "AIエージェント搭載でナレッジ活用を加速させる ［CrewWorks］がJapan DX Week 春 2026 で新機能を初公開（PR TIMES） - 毎日新聞",
+        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - CGinterest",
         "score": 1,
         "date": "2026-04-05"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-05"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-02",
+    "firstSeen": "2026-04-04",
     "lastSeen": "2026-04-05"
   },
   {
@@ -409,28 +393,13 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AI議事録ツール「YOMEL」、会議内容に合わせた最適な要約を出力する「カスタム要約」機能を正式リリース - PR TIMES",
-        "score": 1,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-05"
-  },
-  {
     "toolSlug": "findy-architecture-ai",
     "toolName": "Findy Architecture AI",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
+        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - prtimes.jp",
         "score": 1,
         "date": "2026-04-05"
       }
@@ -499,24 +468,86 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
+    "toolSlug": "openrouter",
+    "toolName": "OpenRouter",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenRouter Raises $120M at a $1.3B Valuation",
+        "url": "https://www.inc.com/ben-sherry/openrouter-helps-companies-pick-the-best-ai-for-the-job-and-could-be-worth-1-3-billion/91325983",
+        "score": 9,
+        "date": "2026-04-05"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-05"
+  },
+  {
+    "toolSlug": "mbodi-ai",
+    "toolName": "Mbodi AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Mbodi AI",
+        "url": "YC P25) Is Hiring (https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+        "score": 1,
+        "date": "2026-04-05"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-05"
+  },
+  {
+    "toolSlug": "crewworks",
+    "toolName": "CrewWorks",
     "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - The New York Times",
+        "title": "AIエージェント搭載でナレッジ活用を加速させる ［CrewWorks］がJapan DX Week 春 2026 で新機能を初公開（PR TIMES） - 毎日新聞",
         "score": 1,
-        "date": "2026-04-04"
+        "date": "2026-04-05"
       }
     ],
-    "firstSeen": "2026-03-22",
-    "lastSeen": "2026-04-04"
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-05"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-04-05"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-05"
+  },
+  {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AI議事録ツール「YOMEL」、会議内容に合わせた最適な要約を出力する「カスタム要約」機能を正式リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-05"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-05"
   },
   {
     "toolSlug": "pleasanter-mcp",
     "toolName": "Pleasanter MCP",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -531,7 +562,7 @@
   {
     "toolSlug": "piguard",
     "toolName": "PIGuard",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -547,7 +578,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -562,7 +593,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -578,7 +609,7 @@
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -593,41 +624,11 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-        "score": 1,
-        "date": "2026-04-03"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-03"
-  },
-  {
-    "toolSlug": "shortbooster",
-    "toolName": "SHORTBOOSTER",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SHORTBOOSTER AI動画生成モデル 大幅拡充のお知らせ - ニコニコニュース",
-        "score": 1,
-        "date": "2026-04-03"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-03"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "地権者とつながる不動産AIツール『WHERE』、全国の衛星データと不動産情報約7,300万件をデータベース化。条件に合う候補物件数を最短1秒で可視化 - prtimes.jp",
         "score": 1,
         "date": "2026-04-03"
       }

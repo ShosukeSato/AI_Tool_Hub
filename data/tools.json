@@ -6548,5 +6548,441 @@
     "releaseYear": 2024,
     "developer": "Alibaba",
     "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "zevo-gpt-5-4",
+    "name": "Zevo GPT-5.4",
+    "nameJa": "ゼボ ジーピーティー5.4",
+    "description": "自治体業務に特化したAIアシスタントで、2026年3月11日より提供開始。行政手続きの自動化、住民からの問い合わせ対応、文書作成支援など、公共サービス向けに最適化されたGPT-5.4モデルを採用。多言語対応と個人情報保護機能を強化し、地方自治体のデジタル変革を支援する次世代の行政AI。",
+    "shortDescription": "自治体業務に特化したGPT-5.4搭載AI",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "自治体向け",
+          "price": "お問い合わせ",
+          "features": [
+            "行政手続き自動化",
+            "多言語対応",
+            "個人情報保護"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "行政手続きの自動化",
+      "住民問い合わせ対応",
+      "公文書作成支援",
+      "多言語対応",
+      "個人情報マスキング"
+    ],
+    "pros": [
+      "自治体業務に最適化",
+      "個人情報保護機能",
+      "多言語対応で外国人住民にも対応",
+      "行政効率化に貢献"
+    ],
+    "cons": [
+      "企業向けではない",
+      "導入コストが高い",
+      "カスタマイズに時間がかかる"
+    ],
+    "officialUrl": "https://shiftplus.inc",
+    "logoPath": "/logos/zevo-gpt-5-4.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "地方自治体の職員",
+      "行政デジタル化担当者",
+      "公共サービス提供者"
+    ],
+    "releaseYear": 2026,
+    "developer": "シフトプラス",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "hitpaw-ai-suite",
+    "name": "HitPaw AI Suite",
+    "nameJa": "ヒットポウ エーアイスイート",
+    "description": "新生活応援セールで最大60%OFFを実施中の総合AIツールセット。動画編集、画像生成、音声処理、文書作成など、日常業務からクリエイティブ作業まで幅広くカバー。初心者でも使いやすいインターフェースと豊富なテンプレートを提供し、個人から企業まで様々なニーズに対応する包括的AIソリューション。",
+    "shortDescription": "総合AIツールセットで新生活応援セール中",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "セール価格",
+          "price": "通常価格から最大60%OFF",
+          "features": [
+            "動画編集",
+            "画像生成",
+            "音声処理",
+            "文書作成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "動画編集AI",
+      "画像生成・加工",
+      "音声処理",
+      "文書作成支援",
+      "テンプレート豊富"
+    ],
+    "pros": [
+      "現在セール価格でお得",
+      "オールインワンで便利",
+      "初心者にも使いやすい",
+      "豊富なテンプレート"
+    ],
+    "cons": [
+      "セール期間限定",
+      "すべての機能が最高品質ではない",
+      "学習コストがかかる"
+    ],
+    "officialUrl": "https://hitpaw.jp",
+    "logoPath": "/logos/hitpaw-ai-suite.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "新生活を始める人",
+      "クリエイター初心者",
+      "個人事業主"
+    ],
+    "releaseYear": 2025,
+    "developer": "HitPaw",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "stitch",
+    "name": "Stitch",
+    "nameJa": "スティッチ",
+    "description": "Googleが新たに導入した「vibe design」というアプローチを採用したデザインAI。感情や雰囲気を理解してデザインを自動生成し、ユーザーの感性に合わせたビジュアルコンテンツを作成。従来の機能的なデザインツールとは異なり、感情的な共鳴を重視した新しいデザイン体験を提供する革新的なクリエイティブツール。",
+    "shortDescription": "感情を理解する次世代デザインAI",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本プラン",
+          "price": "無料",
+          "features": [
+            "基本デザイン生成",
+            "感情分析"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "$9.99/月",
+          "features": [
+            "高度なvibe design",
+            "商用利用可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "感情ベースデザイン生成",
+      "vibe design技術",
+      "雰囲気自動調整",
+      "感性マッチング",
+      "リアルタイムプレビュー"
+    ],
+    "pros": [
+      "感情を理解する新技術",
+      "Googleの技術力",
+      "直感的な操作",
+      "ユニークなアプローチ"
+    ],
+    "cons": [
+      "まだ新しい技術",
+      "日本語対応が限定的",
+      "学習に時間がかかる"
+    ],
+    "officialUrl": "https://blog.google",
+    "logoPath": "/logos/stitch.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "感性重視のデザイナー",
+      "ブランドクリエイター",
+      "マーケティング担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "meta-anti-scam-ai",
+    "name": "Meta Anti-Scam AI",
+    "nameJa": "メタ アンチスカム エーアイ",
+    "description": "Metaが新たに導入した詐欺対策AI技術。FacebookやInstagram上でのスキャム（詐欺）を自動検出し、ユーザーを保護する。機械学習アルゴリズムにより怪しいアカウント、投稿、メッセージを識別し、リアルタイムでブロック。フィッシング詐欺、偽商品販売、なりすましアカウントなど様々な詐欺手法に対応した包括的セキュリティソリューション。",
+    "shortDescription": "SNS詐欺を自動検出・防御するAI",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料",
+          "price": "無料（Meta製品に内蔵）",
+          "features": [
+            "詐欺自動検出",
+            "リアルタイム保護",
+            "怪しいアカウント識別"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "詐欺自動検出",
+      "リアルタイム監視",
+      "怪しいアカウント識別",
+      "フィッシング防止",
+      "なりすまし対策"
+    ],
+    "pros": [
+      "Meta製品に自動統合",
+      "完全無料",
+      "リアルタイム保護",
+      "包括的な詐欺対策"
+    ],
+    "cons": [
+      "Meta製品のみ",
+      "誤検知の可能性",
+      "プライバシー懸念",
+      "他プラットフォーム未対応"
+    ],
+    "officialUrl": "https://meta.com",
+    "logoPath": "/logos/meta-anti-scam-ai.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "SNSユーザー全般",
+      "高齢者",
+      "オンライン初心者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Meta",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "cisco-agentic-security",
+    "name": "Cisco Agentic Security",
+    "nameJa": "シスコ エージェンティック セキュリティ",
+    "description": "Ciscoが発表した自律型セキュリティAIエージェント。従来の受動的なセキュリティシステムとは異なり、脅威を予測し自動で対処する能動的セキュリティを実現。機械学習により企業ネットワークの行動パターンを学習し、異常を検知すると即座に対応策を実行。未知の脅威にも柔軟に対応できる次世代企業セキュリティソリューション。",
+    "shortDescription": "自律型企業セキュリティAIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "企業向け",
+          "price": "お問い合わせ",
+          "features": [
+            "自律脅威対応",
+            "予測セキュリティ",
+            "ネットワーク監視"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自律脅威対応",
+      "予測型セキュリティ",
+      "リアルタイム監視",
+      "自動対処実行",
+      "未知脅威対応"
+    ],
+    "pros": [
+      "完全自律動作",
+      "Ciscoの信頼性",
+      "予測能力が高い",
+      "企業向け特化"
+    ],
+    "cons": [
+      "高額な導入コスト",
+      "設定が複雑",
+      "大企業向けのみ",
+      "専門知識が必要"
+    ],
+    "officialUrl": "https://cisco.com",
+    "logoPath": "/logos/cisco-agentic-security.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "大企業IT管理者",
+      "セキュリティ担当者",
+      "ネットワーク管理者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Cisco",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "visa-ai-dispute-manager",
+    "name": "Visa AI Dispute Manager",
+    "nameJa": "ビザ エーアイ ディスピュート マネージャー",
+    "description": "Visaが新たに導入したAI搭載チャージバック（支払い異議申し立て）管理システム。クレジットカード取引の不正利用や誤請求に対する異議申し立てプロセスを自動化し、処理時間を大幅短縮。機械学習により過去の案件パターンを分析し、最適な解決策を提案。加盟店と消費者双方の負担を軽減する革新的な決済トラブル解決ツール。",
+    "shortDescription": "AI搭載クレカ異議申し立て管理システム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "加盟店向け",
+          "price": "お問い合わせ",
+          "features": [
+            "異議申し立て自動化",
+            "不正検知",
+            "処理時間短縮"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "異議申し立て自動化",
+      "不正パターン分析",
+      "処理時間短縮",
+      "最適解決策提案",
+      "リアルタイム判定"
+    ],
+    "pros": [
+      "処理時間大幅短縮",
+      "Visaの信頼性",
+      "自動化による効率化",
+      "双方の負担軽減"
+    ],
+    "cons": [
+      "加盟店向けのみ",
+      "導入コストが高い",
+      "複雑な設定",
+      "Visa加盟店限定"
+    ],
+    "officialUrl": "https://visa.com",
+    "logoPath": "/logos/visa-ai-dispute-manager.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "クレカ加盟店",
+      "決済代行業者",
+      "EC事業者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Visa",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "usgs-drought-forecast-ai",
+    "name": "USGS Drought Forecast AI",
+    "nameJa": "USGS 干ばつ予測 AI",
+    "description": "アメリカ地質調査所（USGS）が開発した90日先まで干ばつを予測する革新的AIツール。衛星データ、気象観測データ、地下水位データなどを統合解析し、全米規模で干ばつリスクを予測。農業従事者、水資源管理者、政策立案者が早期に対策を講じることを可能にし、干ばつ被害の最小化に貢献する公共性の高いAIシステム。",
+    "shortDescription": "90日先の干ばつを予測する気象AI",
+    "category": "search-research",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料",
+          "price": "無料（公共サービス）",
+          "features": [
+            "90日先予測",
+            "全米対応",
+            "リアルタイム更新"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "90日先干ばつ予測",
+      "衛星データ統合",
+      "全米規模対応",
+      "リアルタイム更新",
+      "地域別詳細分析"
+    ],
+    "pros": [
+      "完全無料の公共サービス",
+      "高精度な長期予測",
+      "農業に直接役立つ",
+      "科学的根拠が確実"
+    ],
+    "cons": [
+      "アメリカ限定",
+      "日本では直接利用不可",
+      "専門知識が必要",
+      "英語のみ"
+    ],
+    "officialUrl": "https://usgs.gov",
+    "logoPath": "/logos/usgs-drought-forecast-ai.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "農業研究者",
+      "気象予報士",
+      "水資源管理者"
+    ],
+    "releaseYear": 2026,
+    "developer": "USGS",
+    "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "new-relic-ai-agent-platform",
+    "name": "New Relic AI Agent Platform",
+    "nameJa": "ニューレリック AI エージェント プラットフォーム",
+    "description": "New Relicが新たに発表したAIエージェント開発プラットフォーム。OpenTelemetryツールと統合し、システム監視とAI自動化を組み合わせたソリューション。アプリケーションのパフォーマンス問題を自動検知し、AIエージェントが自律的に解決策を実行。DevOpsチームの負荷軽減と運用効率化を実現する次世代のモニタリング&自動化プラットフォーム。",
+    "shortDescription": "システム監視とAI自動化を統合",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "スタンダード",
+          "price": "$99/月",
+          "features": [
+            "基本AI監視",
+            "自動アラート"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "$349/月",
+          "features": [
+            "高度なAI自動化",
+            "カスタムエージェント"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI自動問題解決",
+      "OpenTelemetry統合",
+      "リアルタイム監視",
+      "自律エージェント",
+      "DevOps自動化"
+    ],
+    "pros": [
+      "開発者に人気のNew Relic",
+      "OpenTelemetry対応",
+      "自動問題解決",
+      "運用効率化"
+    ],
+    "cons": [
+      "技術的専門性必要",
+      "料金が高め",
+      "学習コストあり",
+      "企業向け"
+    ],
+    "officialUrl": "https://newrelic.com",
+    "logoPath": "/logos/new-relic-ai-agent-platform.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "DevOpsエンジニア",
+      "システム管理者",
+      "開発チームリーダー"
+    ],
+    "releaseYear": 2026,
+    "developer": "New Relic",
+    "lastUpdated": "2026-04-05"
   }
 ]

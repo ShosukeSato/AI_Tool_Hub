@@ -57,6 +57,70 @@
     "source": "hackernews"
   },
   {
+    "id": "new-zevo-gpt-5-4-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "zevo-gpt-5-4",
+    "title": "Zevo GPT-5.4 が新しく追加されました",
+    "summary": "自治体業務に特化したGPT-5.4搭載AI",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-hitpaw-ai-suite-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "hitpaw-ai-suite",
+    "title": "HitPaw AI Suite が新しく追加されました",
+    "summary": "総合AIツールセットで新生活応援セール中",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-stitch-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "stitch",
+    "title": "Stitch が新しく追加されました",
+    "summary": "感情を理解する次世代デザインAI",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-meta-anti-scam-ai-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "meta-anti-scam-ai",
+    "title": "Meta Anti-Scam AI が新しく追加されました",
+    "summary": "SNS詐欺を自動検出・防御するAI",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-cisco-agentic-security-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "cisco-agentic-security",
+    "title": "Cisco Agentic Security が新しく追加されました",
+    "summary": "自律型企業セキュリティAIエージェント",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-visa-ai-dispute-manager-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "visa-ai-dispute-manager",
+    "title": "Visa AI Dispute Manager が新しく追加されました",
+    "summary": "AI搭載クレカ異議申し立て管理システム",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-usgs-drought-forecast-ai-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "usgs-drought-forecast-ai",
+    "title": "USGS Drought Forecast AI が新しく追加されました",
+    "summary": "90日先の干ばつを予測する気象AI",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "new-new-relic-ai-agent-platform-2026-04-05",
+    "type": "new-tool",
+    "toolSlug": "new-relic-ai-agent-platform",
+    "title": "New Relic AI Agent Platform が新しく追加されました",
+    "summary": "システム監視とAI自動化を統合",
+    "date": "2026-04-05"
+  },
+  {
     "id": "new-podroid-2026-04-04",
     "type": "new-tool",
     "toolSlug": "podroid",
