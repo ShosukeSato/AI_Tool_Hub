@@ -7365,5 +7365,341 @@
     "releaseYear": 2026,
     "developer": "miibo",
     "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "parlor",
+    "name": "Parlor",
+    "nameJa": "パーラー",
+    "description": "M3 ProチップでローカルでリアルタイムAI音声・動画処理を実現するオープンソースツール。Gemma E2Bモデルを使用して、音声や動画を入力し、即座に音声で応答が得られる。クラウドAPIに依存せず、完全にローカルで動作するため、プライバシーを保護しながら高速な音声AI体験を提供。GitHubで公開され、Apple Silicon搭載Macでの最適化が図られている。",
+    "shortDescription": "ローカルでリアルタイムAI音声処理",
+    "category": "voice-audio",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "ローカル実行",
+            "リアルタイム処理",
+            "プライバシー保護"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "音声・動画入力対応",
+      "リアルタイム音声出力",
+      "ローカル実行",
+      "Gemma E2B統合",
+      "Apple Silicon最適化"
+    ],
+    "pros": [
+      "完全ローカル実行でプライバシー保護",
+      "低遅延のリアルタイム処理",
+      "オープンソースで自由にカスタマイズ可能",
+      "Apple Silicon最適化済み"
+    ],
+    "cons": [
+      "M3 Pro以上のハードウェアが必要",
+      "英語のドキュメントのみ",
+      "GPU性能に依存"
+    ],
+    "officialUrl": "https://github.com/fikrikarim/parlor",
+    "logoPath": "/logos/parlor.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "プライバシーを重視するユーザー",
+      "ローカルAI実行を求める開発者",
+      "Apple Silicon Macユーザー"
+    ],
+    "releaseYear": 2024,
+    "developer": "Fikri Karim",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "syntaqlite",
+    "name": "SyntaQLite",
+    "nameJa": "シンタキューライト",
+    "description": "8年間構想を練り、AI技術を活用して3ヶ月で開発されたSQLiteベースの革新的なデータベースツール。自然言語でデータベースクエリを記述できる機能を持ち、従来のSQL構文を大幅に簡素化。AI支援による開発プロセスの効率化を実証したプロジェクトとして話題になっている。開発者の長期ビジョンと現代のAI技術の組み合わせにより実現した注目のプロダクト。",
+    "shortDescription": "AI支援で開発されたSQL簡素化ツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本",
+          "price": "無料",
+          "features": [
+            "基本クエリ機能",
+            "SQLite互換"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/月",
+          "features": [
+            "高度なクエリ",
+            "チーム機能",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自然言語でのデータベースクエリ",
+      "SQLite完全互換",
+      "AI支援クエリ生成",
+      "直感的なインターフェース",
+      "高速検索機能"
+    ],
+    "pros": [
+      "SQLの知識不要で使用可能",
+      "8年の構想による洗練された設計",
+      "AI開発プロセスの成功例",
+      "軽量で高速動作"
+    ],
+    "cons": [
+      "新しいツールで事例が少ない",
+      "複雑なクエリは制限がある",
+      "英語インターフェースのみ"
+    ],
+    "officialUrl": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "logoPath": "/logos/syntaqlite.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "SQLを学習中の開発者",
+      "データ分析を始めたい人",
+      "AI支援開発に興味がある人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Lalit Mistry",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "home-depot-ai-assistant",
+    "name": "Home Depot AI Assistant",
+    "nameJa": "ホームデポAIアシスタント",
+    "description": "Home DepotとGoogle Cloudが共同開発したAIエージェントツール。DIYプロジェクトの計画から完成まで、顧客と店舗スタッフの両方をサポート。商品選択、使用方法の説明、プロジェクトの手順ガイドなどを提供し、「How-to」から「Done」まで一貫したサポートを実現。小売業界でのAIエージェント活用の先進事例として注目されている。",
+    "shortDescription": "DIYプロジェクト支援AIアシスタント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "店舗利用",
+          "price": "無料",
+          "features": [
+            "商品選択支援",
+            "プロジェクトガイド",
+            "店舗スタッフサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "DIYプロジェクト計画支援",
+      "商品推奨機能",
+      "手順ガイド提供",
+      "店舗スタッフ支援",
+      "Google Cloud AI統合"
+    ],
+    "pros": [
+      "専門的なDIYアドバイス提供",
+      "店舗とオンラインの統合体験",
+      "Google Cloud技術による高精度",
+      "無料で利用可能"
+    ],
+    "cons": [
+      "Home Depot店舗でのみ利用可能",
+      "英語対応のみ",
+      "日本では利用不可"
+    ],
+    "officialUrl": "https://corporate.homedepot.com/",
+    "logoPath": "/logos/home-depot-ai-assistant.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "DIY愛好者",
+      "ホームリフォームを検討中の人",
+      "建設業関係者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Home Depot & Google Cloud",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "admina-ai",
+    "name": "Admina AIヘルプデスク",
+    "nameJa": "アドミナAIヘルプデスク",
+    "description": "マネーフォワードiが2026年5月より提供開始予定の新しいAIヘルプデスクサービス。企業の内部問い合わせ対応を自動化し、従業員からの質問に即座に回答。社内ドキュメントやFAQを学習してカスタマイズされた回答を生成。日本企業向けに最適化されており、日本語での自然な対話が可能。企業の情報システム部門の負担軽減と従業員の生産性向上を同時に実現する。",
+    "shortDescription": "企業内問い合わせ対応AI自動化",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "カスタマイズ対応",
+            "社内システム連携",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "社内FAQ自動回答",
+      "ドキュメント学習機能",
+      "日本語自然対話",
+      "システム連携",
+      "使用状況分析"
+    ],
+    "pros": [
+      "日本企業向けに特化",
+      "マネーフォワードの信頼性",
+      "社内システムとの連携が容易",
+      "情シス部門の負担軽減"
+    ],
+    "cons": [
+      "2026年5月まで利用不可",
+      "エンタープライズ向けで個人利用不可",
+      "詳細な機能が未公開"
+    ],
+    "officialUrl": "https://biz.moneyforward.com/",
+    "logoPath": "/logos/admina-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "企業の情報システム担当者",
+      "社内問い合わせ対応に悩む企業",
+      "業務効率化を求める中小企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "マネーフォワードi",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "aisle-assistant",
+    "name": "aiSLE Assistant",
+    "nameJa": "アイスリーアシスタント",
+    "description": "Loverlyが開発した結婚式プランニング専用AIアシスタント。結婚式の準備における複雑なタスク管理、ベンダー選択、予算管理、スケジュール調整などの混乱を解決。カップルの好みや予算に基づいて最適な提案を行い、結婚式準備のストレスを大幅に軽減。ウェディング業界特化のAIとして、専門知識とパーソナライゼーションを両立した画期的なツール。",
+    "shortDescription": "結婚式プランニング専用AIアシスタント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本",
+          "price": "無料",
+          "features": [
+            "基本プランニング",
+            "ベンダー検索"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "$29/月",
+          "features": [
+            "詳細スケジュール管理",
+            "予算最適化",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "結婚式タスク管理",
+      "ベンダー推奨",
+      "予算管理",
+      "スケジュール調整",
+      "パーソナライズ提案"
+    ],
+    "pros": [
+      "結婚式準備の専門性",
+      "ストレス軽減効果",
+      "包括的なプランニング支援",
+      "カップルの好みを学習"
+    ],
+    "cons": [
+      "英語対応のみ",
+      "日本の結婚式文化に未対応",
+      "新しいサービスで実績が少ない"
+    ],
+    "officialUrl": "https://loverly.com/",
+    "logoPath": "/logos/aisle-assistant.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "結婚式を計画中のカップル",
+      "ウェディングプランナー",
+      "結婚式準備にストレスを感じる人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Loverly",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "xoople",
+    "name": "Xoople",
+    "nameJa": "ズープル",
+    "description": "スペインのスタートアップが開発したAI向け地球マッピングサービス。1.3億ドルのシリーズB調達を完了し、衛星データと高精度な地理空間情報を活用してAIモデルのトレーニング用データを提供。自動運転、都市計画、環境監視などの分野でAI開発を支援。リアルタイム地球観測データをAI処理可能な形式で提供し、位置情報ベースのAIアプリケーション開発を加速する。",
+    "shortDescription": "AI向け地球マッピング・地理空間データ",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "スタンダード",
+          "price": "要問い合わせ",
+          "features": [
+            "基本マッピングAPI",
+            "月間制限あり"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "無制限API",
+            "カスタムデータ",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高精度地球マッピング",
+      "リアルタイム衛星データ",
+      "AI学習用データセット",
+      "地理空間分析API",
+      "カスタムデータ生成"
+    ],
+    "pros": [
+      "大規模資金調達による安定性",
+      "高精度な地理空間データ",
+      "AI開発に特化したデータ形式",
+      "リアルタイム更新"
+    ],
+    "cons": [
+      "エンタープライズ向けで高価格",
+      "個人開発者には不向き",
+      "技術的な専門知識が必要"
+    ],
+    "officialUrl": "https://xoople.com/",
+    "logoPath": "/logos/xoople.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AI研究者・開発者",
+      "自動運転技術企業",
+      "地理空間分析事業者"
+    ],
+    "releaseYear": 2023,
+    "developer": "Xoople",
+    "lastUpdated": "2026-04-06"
   }
 ]

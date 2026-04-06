@@ -65,6 +65,54 @@
     "source": "hackernews"
   },
   {
+    "id": "new-parlor-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "parlor",
+    "title": "Parlor が新しく追加されました",
+    "summary": "ローカルでリアルタイムAI音声処理",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-syntaqlite-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "syntaqlite",
+    "title": "SyntaQLite が新しく追加されました",
+    "summary": "AI支援で開発されたSQL簡素化ツール",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-home-depot-ai-assistant-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "home-depot-ai-assistant",
+    "title": "Home Depot AI Assistant が新しく追加されました",
+    "summary": "DIYプロジェクト支援AIアシスタント",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-admina-ai-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "admina-ai",
+    "title": "Admina AIヘルプデスク が新しく追加されました",
+    "summary": "企業内問い合わせ対応AI自動化",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-aisle-assistant-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "aisle-assistant",
+    "title": "aiSLE Assistant が新しく追加されました",
+    "summary": "結婚式プランニング専用AIアシスタント",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-xoople-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "xoople",
+    "title": "Xoople が新しく追加されました",
+    "summary": "AI向け地球マッピング・地理空間データ",
+    "date": "2026-04-06"
+  },
+  {
     "id": "new-sllm-2026-04-05",
     "type": "new-tool",
     "toolSlug": "sllm",

@@ -8,34 +8,27 @@
         "source": "hackernews",
         "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
         "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-        "score": 198,
+        "score": 307,
         "date": "2026-04-06"
       },
       {
         "source": "hackernews",
         "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
         "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-        "score": 159,
+        "score": 193,
         "date": "2026-04-06"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Mdarena – Benchmark your Claude.md against your own PRs",
-        "url": "https://github.com/HudsonGri/mdarena",
-        "score": 8,
+        "title": "I stopped hitting Claude's usage limits – things I changed",
+        "url": "https://twitter.com/0x_kaize/status/2038286026284667239",
+        "score": 11,
         "date": "2026-04-06"
       },
       {
         "source": "hackernews",
         "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw ()",
-        "score": 1073,
-        "date": "2026-04-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "A case study in testing with 100+ Claude agents in parallel",
-        "url": "https://imbue.com/product/mngr_part_2/",
-        "score": 61,
+        "score": 1079,
         "date": "2026-04-06"
       },
       {
@@ -57,7 +50,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 5,
+    "buzzScore": 4.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -73,7 +66,7 @@
   {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 4.5,
+    "buzzScore": 4.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -89,7 +82,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 4.4,
+    "buzzScore": 4,
     "mentions": [
       {
         "source": "hackernews",
@@ -105,7 +98,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -121,7 +114,7 @@
   {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 4.1,
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -143,7 +136,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 3.8,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -170,7 +163,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 3.4,
+    "buzzScore": 3.1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -190,7 +183,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "reddit",
@@ -210,7 +203,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "reddit",
@@ -225,7 +218,7 @@
   {
     "toolSlug": "google-veo-2",
     "toolName": "Google Veo 2",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -237,9 +230,25 @@
     "lastSeen": "2026-03-12"
   },
   {
+    "toolSlug": "gemma-gem",
+    "toolName": "Gemma Gem",
+    "buzzScore": 1.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+        "url": "https://github.com/kessler/gemma-gem",
+        "score": 101,
+        "date": "2026-04-06"
+      }
+    ],
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-06"
+  },
+  {
     "toolSlug": "sllm",
     "toolName": "sllm",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -255,7 +264,7 @@
   {
     "toolSlug": "travel-hacking-toolkit",
     "toolName": "Travel Hacking Toolkit",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -267,54 +276,6 @@
     ],
     "firstSeen": "2026-04-04",
     "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "ctx",
-    "toolName": "ctx",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: ctx – an Agentic Development Environment",
-        "url": "ADE) (https://ctx.rs",
-        "score": 43,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-04",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "apex-protocol",
-    "toolName": "Apex Protocol",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Apex Protocol – An open MCP-based standard for AI agent trading",
-        "url": "https://apexstandard.org/",
-        "score": 7,
-        "date": "2026-04-06"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-06"
-  },
-  {
-    "toolSlug": "gemma-gem",
-    "toolName": "Gemma Gem",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-        "url": "https://github.com/kessler/gemma-gem",
-        "score": 5,
-        "date": "2026-04-06"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-06"
   },
   {
     "toolSlug": "gemma-4",
@@ -329,6 +290,21 @@
       }
     ],
     "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-06"
+  },
+  {
+    "toolSlug": "aisle-assistant",
+    "toolName": "aiSLE Assistant",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Loverly Launches aiSLE Assistant, the AI Tool That Fixes Wedding Planning Chaos - National Today",
+        "score": 1,
+        "date": "2026-04-06"
+      }
+    ],
+    "firstSeen": "2026-04-06",
     "lastSeen": "2026-04-06"
   },
   {
@@ -347,18 +323,48 @@
     "lastSeen": "2026-04-06"
   },
   {
-    "toolSlug": "stitch",
-    "toolName": "Stitch",
+    "toolSlug": "admina-ai",
+    "toolName": "Admina AIヘルプデスク",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Introducing “vibe design” with Stitch - blog.google",
+        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
         "score": 1,
         "date": "2026-04-06"
       }
     ],
-    "firstSeen": "2026-04-05",
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-06"
+  },
+  {
+    "toolSlug": "vegas-pro-2026",
+    "toolName": "Vegas Pro 2026",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - CGinterest",
+        "score": 1,
+        "date": "2026-04-06"
+      }
+    ],
+    "firstSeen": "2026-04-04",
+    "lastSeen": "2026-04-06"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-04-06"
+      }
+    ],
+    "firstSeen": "2026-04-06",
     "lastSeen": "2026-04-06"
   },
   {
@@ -377,28 +383,13 @@
     "lastSeen": "2026-04-06"
   },
   {
-    "toolSlug": "findy-architecture-ai",
-    "toolName": "Findy Architecture AI",
+    "toolSlug": "xoople",
+    "toolName": "Xoople",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-04-06"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-06"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - PR TIMES",
+        "source": "techcrunch",
+        "title": "Spain&#8217;s Xoople raises $130 million Series B to map the Earth for AI",
         "score": 1,
         "date": "2026-04-06"
       }
@@ -452,9 +443,71 @@
     "lastSeen": "2026-04-06"
   },
   {
+    "toolSlug": "ctx",
+    "toolName": "ctx",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: ctx – an Agentic Development Environment",
+        "url": "ADE) (https://ctx.rs",
+        "score": 43,
+        "date": "2026-04-04"
+      }
+    ],
+    "firstSeen": "2026-04-04",
+    "lastSeen": "2026-04-04"
+  },
+  {
+    "toolSlug": "apex-protocol",
+    "toolName": "Apex Protocol",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Apex Protocol – An open MCP-based standard for AI agent trading",
+        "url": "https://apexstandard.org/",
+        "score": 7,
+        "date": "2026-04-06"
+      }
+    ],
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-06"
+  },
+  {
+    "toolSlug": "stitch",
+    "toolName": "Stitch",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing “vibe design” with Stitch - blog.google",
+        "score": 1,
+        "date": "2026-04-06"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-06"
+  },
+  {
+    "toolSlug": "findy-architecture-ai",
+    "toolName": "Findy Architecture AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-04-06"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-06"
+  },
+  {
     "toolSlug": "pluck",
     "toolName": "Pluck",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -470,7 +523,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -486,7 +539,7 @@
   {
     "toolSlug": "vectorcast-2026",
     "toolName": "VectorCAST 2026",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -499,24 +552,9 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "vegas-pro-2026",
-    "toolName": "Vegas Pro 2026",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - CGinterest",
-        "score": 1,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-04",
-    "lastSeen": "2026-04-05"
-  },
-  {
     "toolSlug": "sora",
     "toolName": "Sora",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -531,7 +569,7 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -546,7 +584,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -562,7 +600,7 @@
   {
     "toolSlug": "mbodi-ai",
     "toolName": "Mbodi AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -578,7 +616,7 @@
   {
     "toolSlug": "crewworks",
     "toolName": "CrewWorks",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -593,7 +631,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -608,7 +646,7 @@
   {
     "toolSlug": "pleasanter-mcp",
     "toolName": "Pleasanter MCP",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -623,7 +661,7 @@
   {
     "toolSlug": "piguard",
     "toolName": "PIGuard",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -635,36 +673,5 @@
     ],
     "firstSeen": "2026-04-04",
     "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "attie",
-    "toolName": "Attie",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance - TechCrunch",
-        "score": 1,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: LLMnesia – search across ChatGPT, Claude, Gemini chats locally",
-        "url": "https://chromewebstore.google.com/detail/llmnesia/leekfgbdojiaabifbjbbgiiclannjdkf",
-        "score": 6,
-        "date": "2026-04-03"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-03"
   }
 ]
