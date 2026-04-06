@@ -6984,5 +6984,386 @@
     "releaseYear": 2026,
     "developer": "New Relic",
     "lastUpdated": "2026-04-05"
+  },
+  {
+    "slug": "guppylm",
+    "name": "GuppyLM",
+    "nameJa": "ガッピーエルエム",
+    "description": "言語モデルの動作原理を理解するために設計された超軽量なLLMです。教育目的に特化しており、トークン化、アテンション機構、トランスフォーマーアーキテクチャなどの基本概念を実際のコードで学べます。複雑な大規模モデルとは異なり、数百行のコードで実装されているため、AI初学者でも内部構造を完全に理解できるのが特徴です。",
+    "shortDescription": "LLM学習用の超軽量言語モデル",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "完全なソースコード",
+            "教育用ドキュメント",
+            "サンプルコード"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "軽量なトランスフォーマー実装",
+      "教育用詳細コメント",
+      "段階的学習サポート",
+      "実行可能なサンプル",
+      "視覚的説明資料"
+    ],
+    "pros": [
+      "AI初学者にも理解しやすい",
+      "完全にオープンソース",
+      "軽量で高速実行",
+      "詳細な学習資料付き"
+    ],
+    "cons": [
+      "実用的な性能は限定的",
+      "教育目的のみ",
+      "日本語サポートなし"
+    ],
+    "officialUrl": "https://github.com/arman-bd/guppylm",
+    "logoPath": "/logos/guppylm.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AI学習者",
+      "機械学習エンジニア志望者",
+      "LLMの仕組みを理解したい人"
+    ],
+    "releaseYear": 2026,
+    "developer": "Arman BD",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "gemma-gem",
+    "name": "Gemma Gem",
+    "nameJa": "ジェマ・ジェム",
+    "description": "ブラウザ内で直接動作するAIモデルで、APIキーやクラウド接続が不要な完全プライベートなAI体験を提供します。Googleの軽量モデルGemmaをWebAssemblyで実装し、全ての処理をローカルで実行するため、データプライバシーが完全に保護されます。インターネット接続なしでも使用でき、企業の機密情報処理にも適しています。",
+    "shortDescription": "ブラウザ内完結型プライベートAI",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "ローカル実行",
+            "プライバシー保護",
+            "オフライン対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ブラウザ内AI実行",
+      "完全プライベート処理",
+      "オフライン対応",
+      "APIキー不要",
+      "軽量実装"
+    ],
+    "pros": [
+      "完全なプライバシー保護",
+      "ランニングコスト不要",
+      "オフライン使用可能",
+      "企業での機密利用に適している"
+    ],
+    "cons": [
+      "処理速度が制限的",
+      "大規模タスクには不向き",
+      "ブラウザ依存"
+    ],
+    "officialUrl": "https://github.com/kessler/gemma-gem",
+    "logoPath": "/logos/gemma-gem.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "プライバシー重視のユーザー",
+      "企業の機密データ処理担当者",
+      "オフライン環境作業者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Kessler",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "mdarena",
+    "name": "Mdarena",
+    "nameJa": "エムディーアリーナ",
+    "description": "自社のプルリクエスト（PR）を使ってClaude.mdの性能をベンチマークできる開発者向けツールです。実際のコードベースでのAIコード生成品質を客観的に評価し、チームの開発効率向上に役立つ指標を提供します。GitHubと連携して過去のPRデータを分析し、AIツールの実用性を定量的に測定できるため、開発チームのAI導入判断に重要な情報を提供します。",
+    "shortDescription": "PRベースのAIコード評価ツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "PR分析",
+            "性能ベンチマーク",
+            "GitHub連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "PR品質分析",
+      "Claude.mdベンチマーク",
+      "GitHub統合",
+      "定量的評価指標",
+      "チーム向けレポート"
+    ],
+    "pros": [
+      "実際のコードベースで評価",
+      "客観的な性能指標",
+      "チーム導入判断に有用",
+      "無料で利用可能"
+    ],
+    "cons": [
+      "Claude.mdに特化",
+      "セットアップが必要",
+      "大規模プロジェクト向け"
+    ],
+    "officialUrl": "https://github.com/HudsonGri/mdarena",
+    "logoPath": "/logos/mdarena.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "開発チームリーダー",
+      "AIツール導入検討者",
+      "品質管理担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Hudson Gri",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "nanocode",
+    "name": "Nanocode",
+    "nameJa": "ナノコード",
+    "description": "純粋なJAXでTPU上で動作する、200ドルという低予算で実現されたClaude Code代替システムです。Google CloudのTPU v4を活用して高性能なコード生成を提供し、従来の高額なAIコーディングツールに対する cost-effective な選択肢として注目されています。オープンソースで提供され、研究者や小規模チームでも最先端のAIコード生成技術にアクセスできます。",
+    "shortDescription": "低コストTPU駆動コード生成AI",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料（TPU使用料別途）",
+          "features": [
+            "JAX実装",
+            "TPU最適化",
+            "コード生成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "TPU v4最適化",
+      "純JAX実装",
+      "低コスト運用",
+      "高性能コード生成",
+      "オープンソース"
+    ],
+    "pros": [
+      "非常にコスト効率的",
+      "TPUでの高速処理",
+      "オープンソースで透明性が高い",
+      "研究目的に適している"
+    ],
+    "cons": [
+      "TPUクラウド環境が必要",
+      "セットアップが複雑",
+      "商用サポートなし"
+    ],
+    "officialUrl": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+    "logoPath": "/logos/nanocode.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AI研究者",
+      "予算限定のスタートアップ",
+      "TPU活用したい開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Salman Mohammadi",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "lm-studio-headless-cli",
+    "name": "LM Studio Headless CLI",
+    "nameJa": "エルエムスタジオヘッドレス",
+    "description": "ローカル環境でGemma 4などの大規模言語モデルを効率的に実行できるヘッドレス型CLIツールです。グラフィカルインターフェースを持たずコマンドライン操作に特化しており、サーバー環境やCI/CDパイプラインでの自動化に最適です。Claude Codeと組み合わせることで、プライベートなコード生成環境を構築でき、企業のセキュリティ要件を満たしながらAI開発が可能になります。",
+    "shortDescription": "ローカルLLM実行用CLI環境",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本版",
+          "price": "無料",
+          "features": [
+            "基本的なモデル実行",
+            "CLI操作",
+            "ローカル処理"
+          ]
+        },
+        {
+          "name": "プロ版",
+          "price": "$29/月",
+          "features": [
+            "商用利用",
+            "拡張サポート",
+            "高度な設定"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ヘッドレス実行",
+      "Gemma 4対応",
+      "CLI操作",
+      "サーバー環境対応",
+      "自動化サポート"
+    ],
+    "pros": [
+      "サーバー環境に最適",
+      "完全ローカル実行",
+      "自動化しやすい",
+      "プライバシー保護"
+    ],
+    "cons": [
+      "コマンドライン知識が必要",
+      "GUI がない",
+      "初期設定が複雑"
+    ],
+    "officialUrl": "https://lmstudio.ai/",
+    "logoPath": "/logos/lm-studio-headless-cli.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "サーバー管理者",
+      "DevOpsエンジニア",
+      "プライバシー重視の企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "LM Studio",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "apex-protocol",
+    "name": "Apex Protocol",
+    "nameJa": "エイペックスプロトコル",
+    "description": "Model Context Protocol（MCP）をベースとしたAIエージェント取引の新しいオープンスタンダードです。金融取引におけるAI自動化を安全かつ透明性高く実現するためのプロトコルで、複数のAIシステム間でのスマートな取引執行を可能にします。ブロックチェーン技術と組み合わせることで、信頼性の高い自動取引環境を提供し、DeFiや従来の金融サービスの両方に対応します。",
+    "shortDescription": "AIエージェント取引標準プロトコル",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンプロトコル",
+          "price": "無料",
+          "features": [
+            "プロトコル仕様",
+            "開発ツール",
+            "ドキュメント"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "MCP準拠",
+      "取引自動化",
+      "マルチエージェント対応",
+      "ブロックチェーン統合",
+      "透明性確保"
+    ],
+    "pros": [
+      "オープンスタンダード",
+      "高い透明性",
+      "複数システム対応",
+      "セキュリティ重視"
+    ],
+    "cons": [
+      "まだ初期段階",
+      "実装が複雑",
+      "法的課題が存在"
+    ],
+    "officialUrl": "https://apexstandard.org/",
+    "logoPath": "/logos/apex-protocol.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "DeFi開発者",
+      "金融AI研究者",
+      "自動取引システム開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Apex Protocol Foundation",
+    "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "miibo-web",
+    "name": "miibo Web検索ツール",
+    "nameJa": "ミーボウェブ検索ツール",
+    "description": "ノーコードで構築できる会話型AI「miibo」の新機能として追加されたWeb検索機能です。リアルタイムの情報検索を対話に組み込むことで、より正確で最新の情報を提供するチャットボットを簡単に作成できます。従来の固定的な回答から脱却し、動的な情報取得により顧客対応やFAQシステムの品質を大幅に向上させることができます。日本語に完全対応しており、国内企業での導入が進んでいます。",
+    "shortDescription": "ノーコードAIのWeb検索機能",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本版",
+          "price": "無料",
+          "features": [
+            "基本的な会話AI",
+            "限定検索機能"
+          ]
+        },
+        {
+          "name": "プロ版",
+          "price": "月額29,800円",
+          "features": [
+            "無制限Web検索",
+            "高度なカスタマイズ",
+            "API連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ノーコード構築",
+      "リアルタイム検索",
+      "日本語完全対応",
+      "カスタマイズ可能",
+      "API統合"
+    ],
+    "pros": [
+      "プログラミング不要",
+      "リアルタイム情報対応",
+      "日本語サポートが充実",
+      "導入が簡単"
+    ],
+    "cons": [
+      "検索精度に制限",
+      "月額費用が必要",
+      "カスタマイズ性に限界"
+    ],
+    "officialUrl": "https://miibo.jp/",
+    "logoPath": "/logos/miibo-web.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "中小企業の担当者",
+      "カスタマーサポート部門",
+      "非技術者のAI導入希望者"
+    ],
+    "releaseYear": 2026,
+    "developer": "miibo",
+    "lastUpdated": "2026-04-06"
   }
 ]

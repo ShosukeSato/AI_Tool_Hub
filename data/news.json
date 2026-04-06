@@ -1,5 +1,70 @@
 [
   {
+    "id": "new-guppylm-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "guppylm",
+    "title": "GuppyLM が新しく追加されました",
+    "summary": "LLM学習用の超軽量言語モデル",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-gemma-gem-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "gemma-gem",
+    "title": "Gemma Gem が新しく追加されました",
+    "summary": "ブラウザ内完結型プライベートAI",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-mdarena-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "mdarena",
+    "title": "Mdarena が新しく追加されました",
+    "summary": "PRベースのAIコード評価ツール",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-nanocode-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "nanocode",
+    "title": "Nanocode が新しく追加されました",
+    "summary": "低コストTPU駆動コード生成AI",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-lm-studio-headless-cli-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "lm-studio-headless-cli",
+    "title": "LM Studio Headless CLI が新しく追加されました",
+    "summary": "ローカルLLM実行用CLI環境",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-apex-protocol-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "apex-protocol",
+    "title": "Apex Protocol が新しく追加されました",
+    "summary": "AIエージェント取引標準プロトコル",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "new-miibo-web-2026-04-06",
+    "type": "new-tool",
+    "toolSlug": "miibo-web",
+    "title": "miibo Web検索ツール が新しく追加されました",
+    "summary": "ノーコードAIのWeb検索機能",
+    "date": "2026-04-06"
+  },
+  {
+    "id": "trending-claude-2026-04-06",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "date": "2026-04-06",
+    "source": "hackernews"
+  },
+  {
     "id": "new-sllm-2026-04-05",
     "type": "new-tool",
     "toolSlug": "sllm",
