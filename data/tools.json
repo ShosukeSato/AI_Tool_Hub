@@ -7701,5 +7701,290 @@
     "releaseYear": 2023,
     "developer": "Xoople",
     "lastUpdated": "2026-04-06"
+  },
+  {
+    "slug": "freestyle",
+    "name": "Freestyle",
+    "nameJa": "フリースタイル",
+    "description": "コーディングエージェント専用のサンドボックス環境を提供するプラットフォーム。AIエージェントが安全にコードを実行し、テストできる隔離された環境を構築可能。複雑なエンジニアリングタスクに対応し、Claude CodeやCursor等の既存ツールでは困難な大規模開発プロジェクトをサポート。リアルタイムでのコード実行結果確認や、マルチ言語対応により開発効率を大幅に向上させます。",
+    "shortDescription": "AIコーディングエージェント用サンドボックス環境",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "0円",
+          "features": [
+            "基本サンドボックス",
+            "月100時間まで"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "$29/月（約4,500円）",
+          "features": [
+            "無制限サンドボックス",
+            "優先サポート",
+            "チーム機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "安全なコード実行環境",
+      "マルチ言語サポート",
+      "リアルタイム結果確認",
+      "AIエージェント統合",
+      "チーム協働機能"
+    ],
+    "pros": [
+      "複雑なエンジニアリングタスクに対応",
+      "安全な実行環境",
+      "既存AIツールとの連携",
+      "高速な実行速度"
+    ],
+    "cons": [
+      "新しいサービスで実績が少ない",
+      "高度な設定が必要",
+      "日本語サポートが限定的"
+    ],
+    "officialUrl": "https://www.freestyle.sh/",
+    "logoPath": "/logos/freestyle.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AIを活用する開発者",
+      "複雑なプロジェクトに携わるエンジニア",
+      "コーディングエージェントを利用する企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "Freestyle Team",
+    "lastUpdated": "2026-04-07"
+  },
+  {
+    "slug": "hippo-memory",
+    "name": "Hippo Memory",
+    "nameJa": "ヒッポメモリー",
+    "description": "生物学的な海馬の記憶メカニズムからインスピレーションを得たAIエージェント向けメモリシステム。従来のRAGやベクトル検索とは異なり、人間の記憶形成過程を模倣した階層的記憶構造を実装。短期記憶から長期記憶への変換、忘却と想起のバランスを自動調整し、AIエージェントがより自然で効率的な学習と記憶を実現します。",
+    "shortDescription": "生物学的記憶を模倣したAIエージェント用メモリ",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "0円",
+          "features": [
+            "フル機能利用可能",
+            "コミュニティサポート",
+            "カスタマイズ自由"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "階層的記憶構造",
+      "自動忘却メカニズム",
+      "エピソード記憶機能",
+      "感情と記憶の関連付け",
+      "長期学習最適化"
+    ],
+    "pros": [
+      "生物学的アプローチで高精度",
+      "オープンソースで無料",
+      "既存AIシステムに組み込み可能",
+      "メモリ効率が優秀"
+    ],
+    "cons": [
+      "実装に専門知識が必要",
+      "大規模データでの検証が不足",
+      "日本語ドキュメントが限定的"
+    ],
+    "officialUrl": "https://github.com/kitfunso/hippo-memory",
+    "logoPath": "/logos/hippo-memory.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "AI研究者",
+      "エージェント開発者",
+      "機械学習エンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "kitfunso",
+    "lastUpdated": "2026-04-07"
+  },
+  {
+    "slug": "meta-agent",
+    "name": "Meta-Agent",
+    "nameJa": "メタエージェント",
+    "description": "実際の実行トレースから学習し自己改善を行うメタレベルのAIエージェントシステム。従来の固定的なエージェントとは異なり、タスク実行の結果を分析して自動的に改善点を発見し、次回の実行で活用する仕組みを持っています。ライブトレースからリアルタイムで学習し、継続的にパフォーマンスを向上させる革新的なアプローチを採用しています。",
+    "shortDescription": "実行結果から自己改善するメタAIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "0円",
+          "features": [
+            "フル機能利用可能",
+            "GitHub上で公開",
+            "コミュニティ開発"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自己改善機能",
+      "ライブトレース分析",
+      "継続学習",
+      "パフォーマンス最適化",
+      "メタ学習アルゴリズム"
+    ],
+    "pros": [
+      "継続的な性能向上",
+      "自動最適化機能",
+      "オープンソースで透明性が高い",
+      "革新的なアプローチ"
+    ],
+    "cons": [
+      "実験的段階のため安定性に課題",
+      "高度な設定が必要",
+      "商用サポートなし"
+    ],
+    "officialUrl": "https://github.com/canvas-org/meta-agent",
+    "logoPath": "/logos/meta-agent.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AI研究者",
+      "アドバンストな開発者",
+      "実験的技術に興味がある企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "Canvas Organization",
+    "lastUpdated": "2026-04-07"
+  },
+  {
+    "slug": "agent-reading-test",
+    "name": "Agent Reading Test",
+    "nameJa": "エージェントリーディングテスト",
+    "description": "AIエージェントの文章理解能力を客観的に評価するための専門テストプラットフォーム。従来のベンチマークでは測定困難な実践的な読解力、推論力、文脈理解力を多角的に評価します。複雑なドキュメント理解、要約能力、質問応答精度など、実業務で重要な能力を定量的に測定し、AIエージェントの性能比較や改善点の特定をサポートします。",
+    "shortDescription": "AIエージェントの読解力評価プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料テスト",
+          "price": "0円",
+          "features": [
+            "基本的な評価",
+            "月5回まで"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "$19/月（約2,900円）",
+          "features": [
+            "詳細分析",
+            "無制限テスト",
+            "カスタムベンチマーク"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "多角的読解力評価",
+      "ベンチマーク比較",
+      "詳細分析レポート",
+      "カスタム評価項目",
+      "API統合"
+    ],
+    "pros": [
+      "客観的な性能評価が可能",
+      "実務レベルの評価項目",
+      "比較分析機能が充実",
+      "API連携で自動化可能"
+    ],
+    "cons": [
+      "評価基準が厳しい",
+      "日本語特化の評価項目が少ない",
+      "結果の解釈に専門知識が必要"
+    ],
+    "officialUrl": "https://agentreadingtest.com",
+    "logoPath": "/logos/agent-reading-test.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AI開発企業",
+      "AIエージェントの性能評価担当者",
+      "研究機関"
+    ],
+    "releaseYear": 2026,
+    "developer": "Agent Reading Test Team",
+    "lastUpdated": "2026-04-07"
+  },
+  {
+    "slug": "prism-ai",
+    "name": "Prism AI",
+    "nameJa": "プリズムAI",
+    "description": "科学者専用のAIワークスペースとしてOpenAIが新たにリリースした革新的なプラットフォーム。研究データの分析、論文執筆支援、実験設計の最適化、共同研究のためのコラボレーション機能を統合。複雑な科学計算や統計解析をAIがサポートし、研究プロセス全体を効率化します。特に生物学、化学、物理学分野での利用に最適化されており、査読論文の品質向上にも貢献します。",
+    "shortDescription": "科学者専用のAIワークスペース",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "研究者プラン",
+          "price": "$49/月（約7,500円）",
+          "features": [
+            "データ分析AI",
+            "論文執筆支援",
+            "月50時間利用"
+          ]
+        },
+        {
+          "name": "チームプラン",
+          "price": "$199/月（約30,000円）",
+          "features": [
+            "無制限利用",
+            "チーム共有",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "科学データ分析",
+      "論文執筆支援",
+      "実験設計最適化",
+      "統計解析自動化",
+      "研究チーム協働"
+    ],
+    "pros": [
+      "科学分野に特化した高精度AI",
+      "研究プロセス全体をカバー",
+      "OpenAIの最新技術を活用",
+      "査読論文の品質向上に貢献"
+    ],
+    "cons": [
+      "高額な料金設定",
+      "科学分野以外では利用価値が限定的",
+      "日本の研究機関との連携が不明"
+    ],
+    "officialUrl": "https://openai.com/prism",
+    "logoPath": "/logos/prism-ai.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "研究者",
+      "大学の研究室",
+      "科学分野の企業研究部門"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-04-07"
   }
 ]

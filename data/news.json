@@ -1,5 +1,54 @@
 [
   {
+    "id": "new-freestyle-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "freestyle",
+    "title": "Freestyle が新しく追加されました",
+    "summary": "AIコーディングエージェント用サンドボックス環境",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "new-hippo-memory-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "hippo-memory",
+    "title": "Hippo Memory が新しく追加されました",
+    "summary": "生物学的記憶を模倣したAIエージェント用メモリ",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "new-meta-agent-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "meta-agent",
+    "title": "Meta-Agent が新しく追加されました",
+    "summary": "実行結果から自己改善するメタAIエージェント",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "new-agent-reading-test-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "agent-reading-test",
+    "title": "Agent Reading Test が新しく追加されました",
+    "summary": "AIエージェントの読解力評価プラットフォーム",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "new-prism-ai-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "prism-ai",
+    "title": "Prism AI が新しく追加されました",
+    "summary": "科学者専用のAIワークスペース",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "trending-claude-2026-04-07",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "date": "2026-04-07",
+    "source": "hackernews"
+  },
+  {
     "id": "new-guppylm-2026-04-06",
     "type": "new-tool",
     "toolSlug": "guppylm",
