@@ -8,28 +8,28 @@
         "source": "hackernews",
         "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
         "url": "https://github.com/anthropics/claude-code/issues/42796",
-        "score": 763,
+        "score": 1194,
         "date": "2026-04-07"
       },
       {
         "source": "hackernews",
         "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
         "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-        "score": 204,
+        "score": 214,
+        "date": "2026-04-07"
+      },
+      {
+        "source": "hackernews",
+        "title": "Someone made a digital whip to make Claude work faster",
+        "url": "https://old.reddit.com/r/ClaudeAI/comments/1sek7gk/someone_made_a_digital_whip_to_make_claude_work/",
+        "score": 4,
         "date": "2026-04-07"
       },
       {
         "source": "hackernews",
         "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
         "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-        "score": 390,
-        "date": "2026-04-07"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: I just built a MCP Server that connects Claude to all your wearables",
-        "url": "https://pacetraining.co/",
-        "score": 16,
+        "score": 400,
         "date": "2026-04-07"
       },
       {
@@ -51,7 +51,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 4.1,
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -67,7 +67,7 @@
   {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,7 +83,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 3.6,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -99,7 +99,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -115,7 +115,7 @@
   {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 3.3,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
@@ -137,7 +137,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 3.1,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -162,9 +162,25 @@
     "lastSeen": "2026-03-29"
   },
   {
+    "toolSlug": "freestyle",
+    "toolName": "Freestyle",
+    "buzzScore": 2.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+        "url": "https://www.freestyle.sh/",
+        "score": 291,
+        "date": "2026-04-07"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-07"
+  },
+  {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "techcrunch",
@@ -184,7 +200,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "reddit",
@@ -204,7 +220,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "reddit",
@@ -217,25 +233,9 @@
     "lastSeen": "2026-03-20"
   },
   {
-    "toolSlug": "freestyle",
-    "toolName": "Freestyle",
-    "buzzScore": 2.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-        "url": "https://www.freestyle.sh/",
-        "score": 206,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-07"
-  },
-  {
     "toolSlug": "google-veo-2",
     "toolName": "Google Veo 2",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -249,13 +249,13 @@
   {
     "toolSlug": "gemma-gem",
     "toolName": "Gemma Gem",
-    "buzzScore": 1.9,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
         "url": "https://github.com/kessler/gemma-gem",
-        "score": 144,
+        "score": 152,
         "date": "2026-04-07"
       }
     ],
@@ -263,9 +263,25 @@
     "lastSeen": "2026-04-07"
   },
   {
+    "toolSlug": "agent-reading-test",
+    "toolName": "Agent Reading Test",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Agent Reading Test",
+        "url": "https://agentreadingtest.com",
+        "score": 65,
+        "date": "2026-04-07"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-07"
+  },
+  {
     "toolSlug": "sllm",
     "toolName": "sllm",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -277,54 +293,6 @@
     ],
     "firstSeen": "2026-04-05",
     "lastSeen": "2026-04-05"
-  },
-  {
-    "toolSlug": "agent-reading-test",
-    "toolName": "Agent Reading Test",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Agent Reading Test",
-        "url": "https://agentreadingtest.com",
-        "score": 49,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "travel-hacking-toolkit",
-    "toolName": "Travel Hacking Toolkit",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-        "url": "https://github.com/borski/travel-hacking-toolkit",
-        "score": 75,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-04",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "meta-agent",
-    "toolName": "Meta-Agent",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Meta-agent: self-improving agent harnesses from live traces",
-        "url": "https://github.com/canvas-org/meta-agent",
-        "score": 7,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-07"
   },
   {
     "toolSlug": "gemma-4",
@@ -357,6 +325,51 @@
     "lastSeen": "2026-04-07"
   },
   {
+    "toolSlug": "istudy-ai-platform",
+    "toolName": "iStudy AI Platform",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "次世代プラットフォーム『iStudy AI Platform』をリリース〜ＡＩが「教え、添削し、分析する」。教育実務を強力サポート〜 - 沖縄タイムス社",
+        "score": 1,
+        "date": "2026-04-07"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-07"
+  },
+  {
+    "toolSlug": "oiioii",
+    "toolName": "OiiOii",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "業務効率を革新するOiiOii、AIによる動画制作ワークフロー一気通貫サポートを正式リリース - ニコニコニュース",
+        "score": 1,
+        "date": "2026-04-07"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-07"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-04-07"
+      }
+    ],
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-07"
+  },
+  {
     "toolSlug": "admina-ai",
     "toolName": "Admina AIヘルプデスク",
     "buzzScore": 1,
@@ -369,21 +382,6 @@
       }
     ],
     "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "vegas-pro-2026",
-    "toolName": "Vegas Pro 2026",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - cginterest.com",
-        "score": 1,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-04",
     "lastSeen": "2026-04-07"
   },
   {
@@ -402,18 +400,18 @@
     "lastSeen": "2026-04-07"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - PR TIMES",
+        "source": "techcrunch",
+        "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
         "score": 1,
         "date": "2026-04-07"
       }
     ],
-    "firstSeen": "2026-04-06",
+    "firstSeen": "2026-04-07",
     "lastSeen": "2026-04-07"
   },
   {
@@ -462,9 +460,56 @@
     "lastSeen": "2026-04-07"
   },
   {
+    "toolSlug": "travel-hacking-toolkit",
+    "toolName": "Travel Hacking Toolkit",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+        "url": "https://github.com/borski/travel-hacking-toolkit",
+        "score": 75,
+        "date": "2026-04-04"
+      }
+    ],
+    "firstSeen": "2026-04-04",
+    "lastSeen": "2026-04-04"
+  },
+  {
+    "toolSlug": "meta-agent",
+    "toolName": "Meta-Agent",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Meta-agent: self-improving agent harnesses from live traces",
+        "url": "https://github.com/canvas-org/meta-agent",
+        "score": 7,
+        "date": "2026-04-07"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-07"
+  },
+  {
+    "toolSlug": "vegas-pro-2026",
+    "toolName": "Vegas Pro 2026",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - cginterest.com",
+        "score": 1,
+        "date": "2026-04-07"
+      }
+    ],
+    "firstSeen": "2026-04-04",
+    "lastSeen": "2026-04-07"
+  },
+  {
     "toolSlug": "aisle-assistant",
     "toolName": "aiSLE Assistant",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -479,7 +524,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -494,7 +539,7 @@
   {
     "toolSlug": "tbpn",
     "toolName": "TBPN",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -509,7 +554,7 @@
   {
     "toolSlug": "cognichip",
     "toolName": "Cognichip",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -524,7 +569,7 @@
   {
     "toolSlug": "ctx",
     "toolName": "ctx",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -540,7 +585,7 @@
   {
     "toolSlug": "apex-protocol",
     "toolName": "Apex Protocol",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -556,7 +601,7 @@
   {
     "toolSlug": "stitch",
     "toolName": "Stitch",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -571,7 +616,7 @@
   {
     "toolSlug": "pluck",
     "toolName": "Pluck",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -587,7 +632,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -603,7 +648,7 @@
   {
     "toolSlug": "vectorcast-2026",
     "toolName": "VectorCAST 2026",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -618,7 +663,7 @@
   {
     "toolSlug": "sora",
     "toolName": "Sora",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -633,7 +678,7 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -648,7 +693,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -659,52 +704,6 @@
       }
     ],
     "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-05"
-  },
-  {
-    "toolSlug": "mbodi-ai",
-    "toolName": "Mbodi AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Mbodi AI",
-        "url": "YC P25) Is Hiring (https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
-        "score": 1,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-05"
-  },
-  {
-    "toolSlug": "crewworks",
-    "toolName": "CrewWorks",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント搭載でナレッジ活用を加速させる ［CrewWorks］がJapan DX Week 春 2026 で新機能を初公開（PR TIMES） - 毎日新聞",
-        "score": 1,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-05"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-02",
     "lastSeen": "2026-04-05"
   }
 ]

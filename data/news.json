@@ -49,6 +49,46 @@
     "source": "hackernews"
   },
   {
+    "id": "new-rocket-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "rocket",
+    "title": "Rocket が新しく追加されました",
+    "summary": "AI自動生成でマッキンゼー風レポート作成",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "new-eluvio-ai-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "eluvio-ai",
+    "title": "Eluvio AI が新しく追加されました",
+    "summary": "フレーム単位で正確な動画編集AI",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "new-oiioii-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "oiioii",
+    "title": "OiiOii が新しく追加されました",
+    "summary": "動画制作ワークフロー一気通貫AI",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "new-istudy-ai-platform-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "istudy-ai-platform",
+    "title": "iStudy AI Platform が新しく追加されました",
+    "summary": "AIが教育実務を強力サポートする学習プラットフォーム",
+    "date": "2026-04-07"
+  },
+  {
+    "id": "new-moneyforward-ai-cowork-2026-04-07",
+    "type": "new-tool",
+    "toolSlug": "moneyforward-ai-cowork",
+    "title": "MoneyForward AI Cowork が新しく追加されました",
+    "summary": "バックオフィス業務を自律実行するAI",
+    "date": "2026-04-07"
+  },
+  {
     "id": "new-guppylm-2026-04-06",
     "type": "new-tool",
     "toolSlug": "guppylm",
