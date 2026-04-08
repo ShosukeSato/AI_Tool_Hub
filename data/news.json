@@ -1,5 +1,62 @@
 [
   {
+    "id": "new-claude-mythos-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "claude-mythos",
+    "title": "Claude Mythos が新しく追加されました",
+    "summary": "サイバーセキュリティに特化した最新AIモデル",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-project-glasswing-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "project-glasswing",
+    "title": "Project Glasswing が新しく追加されました",
+    "summary": "AI時代のソフトウェアセキュリティ確保プラットフォーム",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-google-scion-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "google-scion",
+    "title": "Google Scion が新しく追加されました",
+    "summary": "マルチAIエージェント開発・テスト環境",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-tailslayer-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "tailslayer",
+    "title": "Tailslayer が新しく追加されました",
+    "summary": "メモリアクセス遅延を大幅削減するライブラリ",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-mempalace-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "mempalace",
+    "title": "MemPalace が新しく追加されました",
+    "summary": "AI記憶術で学習効率を向上させるツール",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-adobe-student-spaces-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "adobe-student-spaces",
+    "title": "Adobe Student Spaces が新しく追加されました",
+    "summary": "PDF学習をAIでサポートする学生向け無料ツール",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "trending-claude-2026-04-08",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: System Card: Claude Mythos Preview [pdf]",
+    "date": "2026-04-08",
+    "source": "hackernews"
+  },
+  {
     "id": "new-freestyle-2026-04-07",
     "type": "new-tool",
     "toolSlug": "freestyle",
