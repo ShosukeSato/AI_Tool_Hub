@@ -8626,5 +8626,341 @@
     "releaseYear": 2026,
     "developer": "Adobe",
     "lastUpdated": "2026-04-08"
+  },
+  {
+    "slug": "megatrain",
+    "name": "MegaTrain",
+    "nameJa": "メガトレイン",
+    "description": "単一のGPUで100B以上のパラメータを持つ大規模言語モデル（LLM）を完全精度でトレーニングできる革新的なフレームワークです。従来は複数の高性能GPUが必要だった大規模モデルの学習を、メモリ効率化技術により1台のGPUで実現。研究者や中小企業でも大規模AIモデルの開発が可能になり、AIの民主化に大きく貢献します。",
+    "shortDescription": "1台のGPUで大規模LLMをトレーニング",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "完全精度トレーニング",
+            "メモリ最適化",
+            "研究利用可"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "単一GPU対応",
+      "100B+パラメータモデル対応",
+      "完全精度トレーニング",
+      "メモリ効率最適化",
+      "オープンソース"
+    ],
+    "pros": [
+      "ハードウェアコストを大幅削減",
+      "中小規模でもLLM開発可能",
+      "学術研究に最適",
+      "技術的ハードルを下げる"
+    ],
+    "cons": [
+      "学習時間が長い可能性",
+      "単一GPU性能に依存",
+      "実装の複雑さ"
+    ],
+    "officialUrl": "https://arxiv.org/abs/2604.05091",
+    "logoPath": "/logos/megatrain.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AI研究者",
+      "中小企業のAI開発チーム",
+      "予算制約のある開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "研究チーム",
+    "lastUpdated": "2026-04-08"
+  },
+  {
+    "slug": "beeble-ai-rotoscoping",
+    "name": "Beeble AI Rotoscoping",
+    "nameJa": "ビーブル AIロトスコーピング",
+    "description": "映画・動画制作における最も時間のかかる作業の一つであるロトスコーピング（オブジェクトの輪郭抽出）をAI技術で自動化するツールです。従来は手作業で何時間もかかっていた精密なマスク作成を、AIが数分で完了。VFX制作者や映像クリエイターの作業効率を劇的に向上させ、より創造的な作業に時間を割けるようになります。",
+    "shortDescription": "AI技術でロトスコーピングを自動化",
+    "category": "video-editing",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本的なロトスコーピング",
+            "低解像度出力"
+          ]
+        },
+        {
+          "name": "プロ版",
+          "price": "$29/月（約4,400円）",
+          "features": [
+            "高解像度出力",
+            "バッチ処理",
+            "プレミアムサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動オブジェクト抽出",
+      "精密マスク生成",
+      "バッチ処理",
+      "高解像度対応",
+      "VFXソフト連携"
+    ],
+    "pros": [
+      "作業時間を大幅短縮",
+      "手作業の精度を上回る",
+      "コスト効率が良い",
+      "直感的なインターフェース"
+    ],
+    "cons": [
+      "複雑なシーンでは精度が落ちる",
+      "インターネット接続が必要",
+      "学習コストがある"
+    ],
+    "officialUrl": "https://beeble.ai",
+    "logoPath": "/logos/beeble-ai-rotoscoping.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "VFXアーティスト",
+      "映像クリエイター",
+      "動画制作会社"
+    ],
+    "releaseYear": 2026,
+    "developer": "Beeble",
+    "lastUpdated": "2026-04-08"
+  },
+  {
+    "slug": "oldnyc-ai",
+    "name": "OldNYC AI",
+    "nameJa": "オールドNYC AI",
+    "description": "AIを活用して歴史的なニューヨーク市の写真アーカイブに1万枚の新しい写真を追加したプロジェクトです。機械学習技術により古い写真の分類、地理的マッピング、メタデータの自動生成を行い、貴重な歴史資料をデジタル化。都市史研究者や写真愛好家にとって貴重なリソースとなり、AI技術の文化保存への応用事例として注目されています。",
+    "shortDescription": "AIで歴史写真アーカイブを拡充",
+    "category": "search-research",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料公開",
+          "price": "無料",
+          "features": [
+            "全写真閲覧",
+            "地図検索",
+            "メタデータ検索"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "歴史写真検索",
+      "地理的マッピング",
+      "自動分類",
+      "メタデータ生成",
+      "時系列ブラウジング"
+    ],
+    "pros": [
+      "貴重な歴史資料へのアクセス",
+      "研究に有用",
+      "無料で利用可能",
+      "直感的な検索機能"
+    ],
+    "cons": [
+      "NYCに限定",
+      "写真の品質にばらつき",
+      "一部メタデータが不完全"
+    ],
+    "officialUrl": "https://www.oldnyc.org",
+    "logoPath": "/logos/oldnyc-ai.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "歴史研究者",
+      "写真愛好家",
+      "都市計画関係者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Dan Vanderkam",
+    "lastUpdated": "2026-04-08"
+  },
+  {
+    "slug": "arcee-ai",
+    "name": "Arcee AI",
+    "nameJa": "アーシーAI",
+    "description": "小規模ながら高性能なオープンソースAIモデルを開発するスタートアップです。「バイト単位で最も性能の良いモデル」をコンセプトに、効率的なアーキテクチャで大手企業に匹敵する性能を実現。リソース制約のある環境でも動作する軽量モデルを提供し、エッジデバイスやコスト重視の企業向けAIソリューションとして注目を集めています。",
+    "shortDescription": "軽量で高性能なオープンソースAI",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "基本モデル",
+            "コミュニティサポート"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "カスタムモデル",
+            "商用ライセンス",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "軽量アーキテクチャ",
+      "高効率推論",
+      "オープンソース",
+      "エッジデプロイ対応",
+      "カスタマイズ可能"
+    ],
+    "pros": [
+      "リソース効率が優秀",
+      "オープンソースで透明性が高い",
+      "エッジデバイス対応",
+      "コスト効率が良い"
+    ],
+    "cons": [
+      "まだ発展途上",
+      "大手企業のサポート体制に劣る",
+      "ドキュメントが限定的"
+    ],
+    "officialUrl": "https://www.arcee.ai",
+    "logoPath": "/logos/arcee-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "スタートアップ",
+      "エッジAI開発者",
+      "コスト重視の企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Arcee AI",
+    "lastUpdated": "2026-04-08"
+  },
+  {
+    "slug": "google-ai-dictation",
+    "name": "Google AI Dictation",
+    "nameJa": "Google AI音声入力",
+    "description": "Googleが静かにリリースしたオフライン対応のAI音声入力アプリです。インターネット接続なしでも高精度な音声認識が可能で、プライバシーを重視するユーザーや通信環境の悪い場所での利用に最適。従来のオンライン音声認識と同等の精度を維持しながら、データが外部に送信されない安全性を実現しています。",
+    "shortDescription": "オフライン対応の高精度音声入力",
+    "category": "voice-audio",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料",
+          "price": "無料",
+          "features": [
+            "オフライン音声認識",
+            "多言語対応",
+            "リアルタイム変換"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "オフライン動作",
+      "高精度音声認識",
+      "多言語対応",
+      "リアルタイム変換",
+      "プライバシー保護"
+    ],
+    "pros": [
+      "インターネット不要",
+      "プライバシー保護",
+      "高精度認識",
+      "無料で利用可能"
+    ],
+    "cons": [
+      "機能が限定的",
+      "オンライン版より精度が劣る場合がある",
+      "対応言語が制限される"
+    ],
+    "officialUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.dictation",
+    "logoPath": "/logos/google-ai-dictation.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "プライバシー重視のユーザー",
+      "通信環境の悪い場所の利用者",
+      "音声入力を頻繁に使う人"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google",
+    "lastUpdated": "2026-04-08"
+  },
+  {
+    "slug": "loverly-ai",
+    "name": "Loverly AI",
+    "nameJa": "ラバリーAI",
+    "description": "結婚式の計画を効率化するAIツールです。予算管理、ベンダー選択、スケジュール調整、ゲスト管理など結婚式準備の複雑なタスクをAIがサポート。個人の好みや予算に基づいて最適な提案を行い、ストレスの多い結婚式準備をスムーズに進められます。ウェディングプランナーの経験を活かしたAIアルゴリズムが特徴です。",
+    "shortDescription": "AI技術で結婚式準備を効率化",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "基本的な計画機能",
+            "限定的な提案"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "$19.99/月（約3,000円）",
+          "features": [
+            "全機能利用",
+            "無制限提案",
+            "専門サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "予算管理",
+      "ベンダー提案",
+      "スケジュール管理",
+      "ゲスト管理",
+      "個人化された提案"
+    ],
+    "pros": [
+      "結婚式準備の効率化",
+      "コスト最適化",
+      "ストレス軽減",
+      "専門的なアドバイス"
+    ],
+    "cons": [
+      "日本の結婚式文化に対応が限定的",
+      "英語中心",
+      "地域限定の情報"
+    ],
+    "officialUrl": "https://loverly.com/ai",
+    "logoPath": "/logos/loverly-ai.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "結婚式を計画中のカップル",
+      "ウェディングプランナー",
+      "イベント企画者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Loverly",
+    "lastUpdated": "2026-04-08"
   }
 ]

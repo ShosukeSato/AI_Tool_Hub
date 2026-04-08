@@ -57,6 +57,54 @@
     "source": "hackernews"
   },
   {
+    "id": "new-megatrain-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "megatrain",
+    "title": "MegaTrain が新しく追加されました",
+    "summary": "1台のGPUで大規模LLMをトレーニング",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-beeble-ai-rotoscoping-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "beeble-ai-rotoscoping",
+    "title": "Beeble AI Rotoscoping が新しく追加されました",
+    "summary": "AI技術でロトスコーピングを自動化",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-oldnyc-ai-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "oldnyc-ai",
+    "title": "OldNYC AI が新しく追加されました",
+    "summary": "AIで歴史写真アーカイブを拡充",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-arcee-ai-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "arcee-ai",
+    "title": "Arcee AI が新しく追加されました",
+    "summary": "軽量で高性能なオープンソースAI",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-google-ai-dictation-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "google-ai-dictation",
+    "title": "Google AI Dictation が新しく追加されました",
+    "summary": "オフライン対応の高精度音声入力",
+    "date": "2026-04-08"
+  },
+  {
+    "id": "new-loverly-ai-2026-04-08",
+    "type": "new-tool",
+    "toolSlug": "loverly-ai",
+    "title": "Loverly AI が新しく追加されました",
+    "summary": "AI技術で結婚式準備を効率化",
+    "date": "2026-04-08"
+  },
+  {
     "id": "new-freestyle-2026-04-07",
     "type": "new-tool",
     "toolSlug": "freestyle",

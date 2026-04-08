@@ -8,21 +8,21 @@
         "source": "hackernews",
         "title": "System Card: Claude Mythos Preview [pdf]",
         "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-        "score": 543,
+        "score": 750,
         "date": "2026-04-08"
       },
       {
         "source": "hackernews",
         "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
         "url": "https://red.anthropic.com/2026/mythos-preview/",
-        "score": 255,
+        "score": 293,
         "date": "2026-04-08"
       },
       {
         "source": "hackernews",
         "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
         "url": "https://github.com/anthropics/claude-code/issues/42796",
-        "score": 1292,
+        "score": 1316,
         "date": "2026-04-08"
       },
       {
@@ -38,13 +38,13 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 5.6,
+    "buzzScore": 5.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Project Glasswing: Securing critical software for the AI era",
         "url": "https://www.anthropic.com/glasswing",
-        "score": 921,
+        "score": 1359,
         "date": "2026-04-08"
       }
     ],
@@ -54,7 +54,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 3.3,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
@@ -70,7 +70,7 @@
   {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -86,7 +86,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -102,7 +102,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -116,9 +116,25 @@
     "lastSeen": "2026-04-02"
   },
   {
+    "toolSlug": "freestyle",
+    "toolName": "Freestyle",
+    "buzzScore": 2.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+        "url": "https://www.freestyle.sh/",
+        "score": 317,
+        "date": "2026-04-08"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-08"
+  },
+  {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -138,25 +154,9 @@
     "lastSeen": "2026-03-30"
   },
   {
-    "toolSlug": "freestyle",
-    "toolName": "Freestyle",
-    "buzzScore": 2.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-        "url": "https://www.freestyle.sh/",
-        "score": 314,
-        "date": "2026-04-08"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-08"
-  },
-  {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -183,7 +183,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -203,7 +203,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "reddit",
@@ -223,7 +223,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "reddit",
@@ -238,7 +238,7 @@
   {
     "toolSlug": "google-veo-2",
     "toolName": "Google Veo 2",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -252,7 +252,7 @@
   {
     "toolSlug": "gemma-gem",
     "toolName": "Gemma Gem",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -266,9 +266,25 @@
     "lastSeen": "2026-04-07"
   },
   {
+    "toolSlug": "tailslayer",
+    "toolName": "Tailslayer",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Tailslayer: Library for reducing tail latency in RAM reads",
+        "url": "https://github.com/LaurieWired/tailslayer",
+        "score": 62,
+        "date": "2026-04-08"
+      }
+    ],
+    "firstSeen": "2026-04-08",
+    "lastSeen": "2026-04-08"
+  },
+  {
     "toolSlug": "agent-reading-test",
     "toolName": "Agent Reading Test",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -282,15 +298,15 @@
     "lastSeen": "2026-04-07"
   },
   {
-    "toolSlug": "tailslayer",
-    "toolName": "Tailslayer",
-    "buzzScore": 1.2,
+    "toolSlug": "megatrain",
+    "toolName": "MegaTrain",
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Tailslayer: Library for reducing tail latency in RAM reads",
-        "url": "https://github.com/LaurieWired/tailslayer",
-        "score": 43,
+        "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+        "url": "https://arxiv.org/abs/2604.05091",
+        "score": 22,
         "date": "2026-04-08"
       }
     ],
@@ -300,7 +316,7 @@
   {
     "toolSlug": "sllm",
     "toolName": "sllm",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -314,19 +330,18 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "mempalace",
-    "toolName": "MemPalace",
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Fifth Element Star Milla Jovovich Reveals AI Memory Tool MemPalace",
-        "url": "https://decrypt.co/363524/fifth-element-milla-jovovich-ai-tool-mempalace",
-        "score": 6,
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
         "date": "2026-04-08"
       }
     ],
-    "firstSeen": "2026-04-08",
+    "firstSeen": "2026-04-03",
     "lastSeen": "2026-04-08"
   },
   {
@@ -441,24 +456,25 @@
     "lastSeen": "2026-04-08"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
+    "toolSlug": "mempalace",
+    "toolName": "MemPalace",
     "buzzScore": 0.9,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-07"
+        "source": "hackernews",
+        "title": "Fifth Element Star Milla Jovovich Reveals AI Memory Tool MemPalace",
+        "url": "https://decrypt.co/363524/fifth-element-milla-jovovich-ai-tool-mempalace",
+        "score": 6,
+        "date": "2026-04-08"
       }
     ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-07"
+    "firstSeen": "2026-04-08",
+    "lastSeen": "2026-04-08"
   },
   {
     "toolSlug": "istudy-ai-platform",
     "toolName": "iStudy AI Platform",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -473,7 +489,7 @@
   {
     "toolSlug": "oiioii",
     "toolName": "OiiOii",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -488,7 +504,7 @@
   {
     "toolSlug": "findy-architecture-ai",
     "toolName": "Findy Architecture AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -503,7 +519,7 @@
   {
     "toolSlug": "coefficient-bio",
     "toolName": "Coefficient Bio",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -518,7 +534,7 @@
   {
     "toolSlug": "travel-hacking-toolkit",
     "toolName": "Travel Hacking Toolkit",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -534,7 +550,7 @@
   {
     "toolSlug": "meta-agent",
     "toolName": "Meta-Agent",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -550,7 +566,7 @@
   {
     "toolSlug": "vegas-pro-2026",
     "toolName": "Vegas Pro 2026",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -565,7 +581,7 @@
   {
     "toolSlug": "aisle-assistant",
     "toolName": "aiSLE Assistant",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -580,7 +596,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -595,7 +611,7 @@
   {
     "toolSlug": "tbpn",
     "toolName": "TBPN",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -610,7 +626,7 @@
   {
     "toolSlug": "cognichip",
     "toolName": "Cognichip",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -625,7 +641,7 @@
   {
     "toolSlug": "ctx",
     "toolName": "ctx",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -637,52 +653,5 @@
     ],
     "firstSeen": "2026-04-04",
     "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "apex-protocol",
-    "toolName": "Apex Protocol",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Apex Protocol – An open MCP-based standard for AI agent trading",
-        "url": "https://apexstandard.org/",
-        "score": 7,
-        "date": "2026-04-06"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-06"
-  },
-  {
-    "toolSlug": "stitch",
-    "toolName": "Stitch",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing “vibe design” with Stitch - blog.google",
-        "score": 1,
-        "date": "2026-04-06"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-06"
-  },
-  {
-    "toolSlug": "pluck",
-    "toolName": "Pluck",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",
-        "url": "https://www.pluck.so/",
-        "score": 17,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-05"
   }
 ]
