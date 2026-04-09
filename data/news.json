@@ -1,5 +1,71 @@
 [
   {
+    "id": "new-skrun-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "skrun",
+    "title": "Skrun が新しく追加されました",
+    "summary": "AIエージェントスキルをAPI化するプラットフォーム",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-tui-use-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "tui-use",
+    "title": "TUI-use が新しく追加されました",
+    "summary": "AIエージェントでターミナルプログラムを制御",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-claude-managed-agents-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "claude-managed-agents",
+    "title": "Claude Managed Agents が新しく追加されました",
+    "summary": "企業向けAIエージェント統合管理サービス",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-nile-local-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "nile-local",
+    "title": "Nile Local が新しく追加されました",
+    "summary": "ローカル動作するAI データエンジニアリングIDE",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-pvp-ai-commander-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "pvp-ai-commander",
+    "title": "PVP AI Commander が新しく追加されました",
+    "summary": "LLMがレトロゲームを自動プレイするAI実験",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-poke-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "poke",
+    "title": "Poke が新しく追加されました",
+    "summary": "テキスト送信だけで使えるAIエージェント",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "trending-claude-2026-04-09",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Managed Agents Overview",
+    "date": "2026-04-09",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-project-glasswing-2026-04-09",
+    "type": "trending",
+    "toolSlug": "project-glasswing",
+    "title": "Project Glasswing が話題沸騰中（バズスコア: 9.9）",
+    "summary": "hackernewsで注目: Project Glasswing: Securing critical software for the AI era",
+    "date": "2026-04-09",
+    "source": "hackernews"
+  },
+  {
     "id": "new-claude-mythos-2026-04-08",
     "type": "new-tool",
     "toolSlug": "claude-mythos",

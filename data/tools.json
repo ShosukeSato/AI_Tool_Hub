@@ -8962,5 +8962,336 @@
     "releaseYear": 2026,
     "developer": "Loverly",
     "lastUpdated": "2026-04-08"
+  },
+  {
+    "slug": "skrun",
+    "name": "Skrun",
+    "nameJa": "スクラン",
+    "description": "AIエージェントのスキルを簡単にAPI化できる開発プラットフォーム。複雑なAIエージェント機能を標準的なWeb APIとして公開し、他のアプリケーションから呼び出し可能にする。GitHub上でオープンソースとして公開されており、開発者が独自のエージェント機能を素早くサービス化できる。マイクロサービス化によってAIエージェントの機能を分散・再利用しやすくする点が特徴的。",
+    "shortDescription": "AIエージェントスキルをAPI化するプラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "GitHub公開",
+            "API化機能",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "エージェントスキルのAPI化",
+      "オープンソース開発",
+      "マイクロサービス対応",
+      "開発者向けツール",
+      "GitHub統合"
+    ],
+    "pros": [
+      "オープンソースで無料利用可能",
+      "エージェント機能の再利用性向上",
+      "API標準化による統合の簡易化",
+      "開発コミュニティの活発さ"
+    ],
+    "cons": [
+      "技術的な専門知識が必要",
+      "ドキュメントが限定的",
+      "企業サポートなし"
+    ],
+    "officialUrl": "https://github.com/skrun-dev/skrun",
+    "logoPath": "/logos/skrun.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AIエージェント開発者",
+      "API開発エンジニア",
+      "マイクロサービス設計者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Skrun Development Team",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "tui-use",
+    "name": "TUI-use",
+    "nameJa": "ティーユーアイ ユーズ",
+    "description": "AIエージェントがターミナル上のインタラクティブプログラム（TUI）を制御できるツール。コマンドライン環境でのAI操作を可能にし、開発者がAIにターミナルベースのタスクを実行させることができる。従来は人間が操作していたターミナルアプリケーションを、AIが自動で操作・制御する革新的なアプローチ。開発・運用作業の自動化において新たな可能性を開拓している。",
+    "shortDescription": "AIエージェントでターミナルプログラムを制御",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "GitHub公開",
+            "TUI制御機能",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ターミナルUI制御",
+      "AIエージェント統合",
+      "インタラクティブプログラム操作",
+      "自動化支援",
+      "開発者ツール"
+    ],
+    "pros": [
+      "ターミナル作業の完全自動化",
+      "従来不可能だった操作の実現",
+      "開発効率の大幅向上",
+      "オープンソースで拡張性高い"
+    ],
+    "cons": [
+      "ターミナル操作の知識が必要",
+      "対応アプリケーションが限定的",
+      "セットアップが複雑"
+    ],
+    "officialUrl": "https://github.com/onesuper/tui-use",
+    "logoPath": "/logos/tui-use.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "DevOpsエンジニア",
+      "システム管理者",
+      "ターミナル愛用者"
+    ],
+    "releaseYear": 2024,
+    "developer": "onesuper",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "claude-managed-agents",
+    "name": "Claude Managed Agents",
+    "nameJa": "クロード マネージド エージェンツ",
+    "description": "Anthropicが提供するAIエージェント管理サービス。複数のAIエージェントを統合管理し、企業の業務フローに組み込める。従来のClaude APIを拡張し、エージェント間の連携や長期的なタスク実行を可能にする。コンピューター操作機能と組み合わせることで、実際のアプリケーションを使った業務自動化を実現。企業向けのエージェント導入を簡易化する包括的なソリューション。",
+    "shortDescription": "企業向けAIエージェント統合管理サービス",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "マルチエージェント管理",
+            "API統合",
+            "企業サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチエージェント管理",
+      "コンピューター操作統合",
+      "エンタープライズAPI",
+      "セキュリティ機能",
+      "業務フロー自動化"
+    ],
+    "pros": [
+      "企業レベルの信頼性",
+      "包括的なエージェント管理",
+      "既存システムとの統合性",
+      "Anthropicの技術力"
+    ],
+    "cons": [
+      "高額な企業向け価格設定",
+      "個人利用には不向き",
+      "複雑なセットアップ"
+    ],
+    "officialUrl": "https://platform.claude.com/docs/en/managed-agents/overview",
+    "logoPath": "/logos/claude-managed-agents.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "大企業のIT部門",
+      "システム統合業者",
+      "AI導入コンサルタント"
+    ],
+    "releaseYear": 2024,
+    "developer": "Anthropic",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "nile-local",
+    "name": "Nile Local",
+    "nameJa": "ナイル ローカル",
+    "description": "ローカル環境で動作するAI搭載データエンジニアリング・分析IDE。データレイクを個人のマシン上に構築し、AIを活用したデータ処理と分析を可能にする。プライバシーを重視しつつ、企業レベルのデータ分析機能をローカル環境で提供。データサイエンティストや分析者が、クラウドに依存せずに高度なデータ処理を実行できる革新的なツール。",
+    "shortDescription": "ローカル動作するAI データエンジニアリングIDE",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "ベーシック",
+          "price": "無料",
+          "features": [
+            "基本分析機能",
+            "ローカル処理",
+            "コミュニティサポート"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "月額99ドル（約15,000円）",
+          "features": [
+            "高度AI分析",
+            "大規模データ対応",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ローカルデータレイク",
+      "AI分析エンジン",
+      "プライバシー保護",
+      "オフライン動作",
+      "データビジュアライゼーション"
+    ],
+    "pros": [
+      "完全なデータプライバシー",
+      "インターネット不要で動作",
+      "企業データ漏洩リスクなし",
+      "カスタマイズ性が高い"
+    ],
+    "cons": [
+      "ローカルマシンのスペック要求が高い",
+      "クラウド連携機能が限定的",
+      "セットアップが複雑"
+    ],
+    "officialUrl": "https://stream-sock-3f5.notion.site/Nile-Local-an-AI-Data-IDE-that-runs-on-your-local-machine-33b126c4d01a8052a96cc879c2dea08e",
+    "logoPath": "/logos/nile-local.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "データサイエンティスト",
+      "プライバシー重視企業",
+      "オフライン作業者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Nile Development Team",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "pvp-ai-commander",
+    "name": "PVP AI Commander",
+    "nameJa": "ピーブイピー AIコマンダー",
+    "description": "8bit Commander X16ゲームをLLMが自動プレイするAI実験プロジェクト。構造化された「スマートセンス」機能を使用してAIがレトロゲームを理解・操作する。ゲーミングAIの新たなアプローチとして、従来の機械学習ではなく言語モデルによるゲーム制御を実現。レトロコンピューティングとモダンAIの融合による独創的な研究事例として注目を集めている。",
+    "shortDescription": "LLMがレトロゲームを自動プレイするAI実験",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "実験版",
+          "price": "無料",
+          "features": [
+            "ゲームプレイ機能",
+            "実験的機能",
+            "研究用途"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "レトロゲーム自動プレイ",
+      "スマートセンス機能",
+      "LLMゲーム制御",
+      "8bit Commander X16対応",
+      "AIゲーミング実験"
+    ],
+    "pros": [
+      "ユニークな研究アプローチ",
+      "レトロゲーム愛好家に面白い",
+      "AI研究の新分野開拓",
+      "実験的価値が高い"
+    ],
+    "cons": [
+      "実用性は限定的",
+      "対応ゲームが少ない",
+      "まだ実験段階",
+      "商業利用には不向き"
+    ],
+    "officialUrl": "https://pvp-ai.russell-harper.com",
+    "logoPath": "/logos/pvp-ai-commander.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "AI研究者",
+      "レトロゲーム愛好家",
+      "実験的技術に興味ある人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Russell Harper",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "poke",
+    "name": "Poke",
+    "nameJa": "ポーク",
+    "description": "テキストメッセージを送るだけでAIエージェントを簡単に利用できるサービス。複雑なセットアップや専門アプリ不要で、SMS感覚でAIエージェントとやり取りできる。TechCrunchで取り上げられた注目のスタートアップで、AIエージェントの敷居を大幅に下げる革新的なアプローチを採用。誰でも手軽にAIアシスタント機能を活用できる次世代インターフェースを提供している。",
+    "shortDescription": "テキスト送信だけで使えるAIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "ベーシック",
+          "price": "無料",
+          "features": [
+            "基本メッセージ機能",
+            "限定エージェント利用",
+            "月間制限あり"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "月額19ドル（約2,900円）",
+          "features": [
+            "無制限メッセージ",
+            "全エージェント利用",
+            "優先処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "SMS風インターフェース",
+      "簡単AIエージェント利用",
+      "アプリ不要",
+      "マルチエージェント対応",
+      "即座のレスポンス"
+    ],
+    "pros": [
+      "極めて簡単な操作性",
+      "特別なアプリが不要",
+      "直感的なユーザー体験",
+      "導入コストが低い"
+    ],
+    "cons": [
+      "機能の詳細が不明",
+      "まだ新しいサービス",
+      "日本語対応状況不明"
+    ],
+    "officialUrl": "https://poke.ai",
+    "logoPath": "/logos/poke.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "AIエージェント初心者",
+      "シンプルさ重視ユーザー",
+      "テクノロジー早期採用者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Poke Inc",
+    "lastUpdated": "2026-04-09"
   }
 ]
