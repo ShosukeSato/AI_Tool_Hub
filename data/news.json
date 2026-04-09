@@ -66,6 +66,62 @@
     "source": "hackernews"
   },
   {
+    "id": "new-css-studio-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "css-studio",
+    "title": "CSS Studio が新しく追加されました",
+    "summary": "手描きデザインをAIが自動でCSSコードに変換",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-botctl-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "botctl",
+    "title": "Botctl が新しく追加されました",
+    "summary": "AIエージェントの実行管理とプロセス制御ツール",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-railway-frontend-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "railway-frontend",
+    "title": "Railway Frontend が新しく追加されました",
+    "summary": "超高速ビルドを実現する次世代フロントエンド",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-zed-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "zed",
+    "title": "Zed が新しく追加されました",
+    "summary": "AI機能内蔵の超高速コードエディタ",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-tubi-chatgpt-app-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "tubi-chatgpt-app",
+    "title": "Tubi ChatGPT App が新しく追加されました",
+    "summary": "ChatGPT内で動画視聴できる革新アプリ",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-astropad-workbench-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "astropad-workbench",
+    "title": "Astropad Workbench が新しく追加されました",
+    "summary": "AIエージェント専用リモートデスクトップ",
+    "date": "2026-04-09"
+  },
+  {
+    "id": "new-google-maps-ai-captions-2026-04-09",
+    "type": "new-tool",
+    "toolSlug": "google-maps-ai-captions",
+    "title": "Google Maps AI Captions が新しく追加されました",
+    "summary": "写真から自動でマップ情報を生成するAI",
+    "date": "2026-04-09"
+  },
+  {
     "id": "new-claude-mythos-2026-04-08",
     "type": "new-tool",
     "toolSlug": "claude-mythos",

@@ -6,37 +6,30 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Claude mixes up who said what and that's not OK",
+        "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+        "score": 197,
+        "date": "2026-04-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+        "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+        "score": 66,
+        "date": "2026-04-09"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude Managed Agents Overview",
         "url": "https://platform.claude.com/docs/en/managed-agents/overview",
-        "score": 3,
-        "date": "2026-04-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Managed Agents",
-        "url": "https://claude.com/blog/claude-managed-agents",
-        "score": 144,
-        "date": "2026-04-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Glass",
-        "url": "Or Black Mirror) (https://en.wikipedia.org/wiki/Claude_glass",
-        "score": 7,
-        "date": "2026-04-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "AMD AI director says Claude Code is becoming dumber and lazier since update",
-        "url": "https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/",
-        "score": 29,
+        "score": 32,
         "date": "2026-04-09"
       },
       {
         "source": "hackernews",
         "title": "System Card: Claude Mythos Preview [pdf]",
         "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-        "score": 821,
+        "score": 832,
         "date": "2026-04-09"
       },
       {
@@ -58,13 +51,13 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 9.9,
+    "buzzScore": 9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Project Glasswing: Securing critical software for the AI era",
         "url": "https://www.anthropic.com/glasswing",
-        "score": 1479,
+        "score": 1496,
         "date": "2026-04-09"
       }
     ],
@@ -74,13 +67,13 @@
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 3.9,
+    "buzzScore": 3.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
         "url": "https://www.freestyle.sh/",
-        "score": 319,
+        "score": 320,
         "date": "2026-04-09"
       }
     ],
@@ -90,13 +83,13 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 3.3,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
         "url": "https://arxiv.org/abs/2604.05091",
-        "score": 261,
+        "score": 313,
         "date": "2026-04-09"
       }
     ],
@@ -106,7 +99,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,7 +115,7 @@
   {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -138,7 +131,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -154,7 +147,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -170,7 +163,7 @@
   {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -192,7 +185,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -219,7 +212,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -239,7 +232,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "reddit",
@@ -257,9 +250,57 @@
     "lastSeen": "2026-03-25"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: CSS Studio. Design by hand, code by agent",
+        "url": "https://cssstudio.ai",
+        "score": 49,
+        "date": "2026-04-09"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-09"
+  },
+  {
+    "toolSlug": "tui-use",
+    "toolName": "TUI-use",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+        "url": "https://github.com/onesuper/tui-use",
+        "score": 47,
+        "date": "2026-04-09"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-09"
+  },
+  {
+    "toolSlug": "skrun",
+    "toolName": "Skrun",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Skrun – Deploy any agent skill as an API",
+        "url": "https://github.com/skrun-dev/skrun",
+        "score": 56,
+        "date": "2026-04-09"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-09"
+  },
+  {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "reddit",
@@ -274,7 +315,7 @@
   {
     "toolSlug": "google-veo-2",
     "toolName": "Google Veo 2",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "techcrunch",
@@ -286,41 +327,9 @@
     "lastSeen": "2026-03-12"
   },
   {
-    "toolSlug": "skrun",
-    "toolName": "Skrun",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Skrun – Deploy any agent skill as an API",
-        "url": "https://github.com/skrun-dev/skrun",
-        "score": 44,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "tui-use",
-    "toolName": "TUI-use",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-        "url": "https://github.com/onesuper/tui-use",
-        "score": 37,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-09"
-  },
-  {
     "toolSlug": "gemma-gem",
     "toolName": "Gemma Gem",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -336,7 +345,7 @@
   {
     "toolSlug": "tailslayer",
     "toolName": "Tailslayer",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -348,37 +357,6 @@
     ],
     "firstSeen": "2026-04-08",
     "lastSeen": "2026-04-08"
-  },
-  {
-    "toolSlug": "agent-reading-test",
-    "toolName": "Agent Reading Test",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Agent Reading Test",
-        "url": "https://agentreadingtest.com",
-        "score": 65,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Perplexity AI Sees 50% Revenue Surge from AI Agent Strategy Shift - MLQ.ai",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-09"
   },
   {
     "toolSlug": "gemma-4",
@@ -393,21 +371,6 @@
       }
     ],
     "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "admina-ai",
-    "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-06",
     "lastSeen": "2026-04-09"
   },
   {
@@ -426,33 +389,33 @@
     "lastSeen": "2026-04-09"
   },
   {
-    "toolSlug": "findy-architecture-ai",
-    "toolName": "Findy Architecture AI",
+    "toolSlug": "vegas-pro-2026",
+    "toolName": "Vegas Pro 2026",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
+        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - CGinterest",
         "score": 1,
         "date": "2026-04-09"
       }
     ],
-    "firstSeen": "2026-04-05",
+    "firstSeen": "2026-04-04",
     "lastSeen": "2026-04-09"
   },
   {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
+    "toolSlug": "admina-ai",
+    "toolName": "Admina AIヘルプデスク",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "AI議事録ツール「YOMEL」、会議内容に合わせた最適な要約を出力する「カスタム要約」機能を正式リリース - PR TIMES",
+        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
         "score": 1,
         "date": "2026-04-09"
       }
     ],
-    "firstSeen": "2026-04-03",
+    "firstSeen": "2026-04-06",
     "lastSeen": "2026-04-09"
   },
   {
@@ -501,9 +464,70 @@
     "lastSeen": "2026-04-09"
   },
   {
+    "toolSlug": "agent-reading-test",
+    "toolName": "Agent Reading Test",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Agent Reading Test",
+        "url": "https://agentreadingtest.com",
+        "score": 65,
+        "date": "2026-04-07"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-07"
+  },
+  {
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Perplexity AI Sees 50% Revenue Surge from AI Agent Strategy Shift - MLQ.ai",
+        "score": 1,
+        "date": "2026-04-09"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-09"
+  },
+  {
+    "toolSlug": "findy-architecture-ai",
+    "toolName": "Findy Architecture AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-04-09"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-09"
+  },
+  {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AI議事録ツール「YOMEL」、会議内容に合わせた最適な要約を出力する「カスタム要約」機能を正式リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-09"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-09"
+  },
+  {
     "toolSlug": "sllm",
     "toolName": "sllm",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -519,7 +543,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -534,7 +558,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -549,7 +573,7 @@
   {
     "toolSlug": "xoople",
     "toolName": "Xoople",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -564,7 +588,7 @@
   {
     "toolSlug": "mempalace",
     "toolName": "MemPalace",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -580,7 +604,7 @@
   {
     "toolSlug": "istudy-ai-platform",
     "toolName": "iStudy AI Platform",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -595,7 +619,7 @@
   {
     "toolSlug": "oiioii",
     "toolName": "OiiOii",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -610,7 +634,7 @@
   {
     "toolSlug": "coefficient-bio",
     "toolName": "Coefficient Bio",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -625,7 +649,7 @@
   {
     "toolSlug": "travel-hacking-toolkit",
     "toolName": "Travel Hacking Toolkit",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -637,36 +661,5 @@
     ],
     "firstSeen": "2026-04-04",
     "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "meta-agent",
-    "toolName": "Meta-Agent",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Meta-agent: self-improving agent harnesses from live traces",
-        "url": "https://github.com/canvas-org/meta-agent",
-        "score": 7,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "vegas-pro-2026",
-    "toolName": "Vegas Pro 2026",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - cginterest.com",
-        "score": 1,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-04",
-    "lastSeen": "2026-04-07"
   }
 ]

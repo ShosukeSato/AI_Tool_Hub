@@ -9293,5 +9293,402 @@
     "releaseYear": 2024,
     "developer": "Poke Inc",
     "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "css-studio",
+    "name": "CSS Studio",
+    "nameJa": "CSSスタジオ",
+    "description": "手作業でデザインを描き、AIエージェントが自動でコードを生成するWebデザインツール。従来のコーディング作業を大幅に効率化し、デザイナーでもプロ品質のCSSコードを簡単に作成可能。ビジュアルデザインからコード生成まで一貫してサポートし、レスポンシブ対応も自動で行う。デザインとコーディングの境界を取り払う革新的なアプローチで注目を集めている。",
+    "shortDescription": "手描きデザインをAIが自動でCSSコードに変換",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "フリー",
+          "price": "無料",
+          "features": [
+            "基本的なデザイン機能",
+            "月10回のコード生成"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "$29/月（約4,500円）",
+          "features": [
+            "無制限のコード生成",
+            "高度なコンポーネント",
+            "チーム機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "手描きデザインからのコード生成",
+      "レスポンシブデザイン対応",
+      "リアルタイムプレビュー",
+      "コンポーネントライブラリ",
+      "チームコラボレーション"
+    ],
+    "pros": [
+      "コーディング知識不要でWebサイト作成",
+      "デザインからコードまで一貫した作業",
+      "高品質なコード出力",
+      "時間大幅短縮"
+    ],
+    "cons": [
+      "複雑なインタラクションは制限あり",
+      "カスタマイズの自由度に限界",
+      "日本語対応が不完全"
+    ],
+    "officialUrl": "https://cssstudio.ai",
+    "logoPath": "/logos/css-studio.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "Webデザイナー",
+      "フロントエンド開発者",
+      "起業家・個人事業主"
+    ],
+    "releaseYear": 2026,
+    "developer": "CSS Studio AI",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "botctl",
+    "name": "Botctl",
+    "nameJa": "ボットコントロール",
+    "description": "自律型AIエージェントのプロセス管理に特化したツール。複数のAIエージェントの実行状況を監視し、タスクの優先順位付けや実行制御を効率的に行う。システムリソースの最適化、エラーハンドリング、ログ管理機能を統合し、本格的なAIエージェント運用を可能にする。企業レベルでのAIエージェント活用において必須のインフラツールとして開発された。",
+    "shortDescription": "AIエージェントの実行管理とプロセス制御ツール",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "コミュニティ",
+          "price": "無料",
+          "features": [
+            "最大3エージェント管理",
+            "基本監視機能"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "$49/月（約7,500円）",
+          "features": [
+            "無制限エージェント",
+            "高度な分析",
+            "アラート機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチエージェント管理",
+      "リアルタイム監視",
+      "自動スケーリング",
+      "エラー回復機能",
+      "詳細ログ分析"
+    ],
+    "pros": [
+      "複数AIエージェントの効率管理",
+      "システムリソース最適化",
+      "障害時の自動回復",
+      "詳細な実行分析"
+    ],
+    "cons": [
+      "技術的な知識が必要",
+      "セットアップが複雑",
+      "日本語ドキュメント不足"
+    ],
+    "officialUrl": "https://botctl.dev",
+    "logoPath": "/logos/botctl.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "AI開発者",
+      "システム管理者",
+      "DevOpsエンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "Botctl Team",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "railway-frontend",
+    "name": "Railway Frontend",
+    "nameJa": "レイルウェイフロントエンド",
+    "description": "Next.jsから移行して話題となったRailwayの新しいフロントエンドアーキテクチャ。ビルド時間を10分以上から2分以下に短縮する革新的な最適化を実現。モダンなツールチェーンとカスタムビルドシステムを組み合わせ、開発者体験を大幅に改善。高速デプロイメントとスケーラブルな構成で、大規模Webアプリケーションの開発効率を劇的に向上させる。",
+    "shortDescription": "超高速ビルドを実現する次世代フロントエンド",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "スターター",
+          "price": "無料",
+          "features": [
+            "基本デプロイ機能",
+            "月500GB転送"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "$20/月（約3,000円）",
+          "features": [
+            "優先ビルド",
+            "高速デプロイ",
+            "カスタムドメイン"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "超高速ビルドシステム",
+      "自動最適化",
+      "リアルタイムプレビュー",
+      "スマートキャッシング",
+      "一発デプロイ"
+    ],
+    "pros": [
+      "ビルド時間大幅短縮",
+      "開発効率の向上",
+      "スケーラブルな構成",
+      "使いやすいUI"
+    ],
+    "cons": [
+      "学習コストがある",
+      "カスタマイズに制限",
+      "料金が高めの場合も"
+    ],
+    "officialUrl": "https://railway.app",
+    "logoPath": "/logos/railway-frontend.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "Web開発者",
+      "フロントエンドエンジニア",
+      "スタートアップ"
+    ],
+    "releaseYear": 2026,
+    "developer": "Railway",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "zed",
+    "name": "Zed",
+    "nameJa": "ゼッド",
+    "description": "Claude Codeの代替として注目されるAI統合型コードエディタ。月100ドルのClaude予算をOpenRouterと組み合わせて効率化を図る開発者に支持されている。高速なパフォーマンス、直感的なAIコード補完、リアルタイムコラボレーション機能を提供。Rustで構築された軽量設計により、大規模プロジェクトでも快適な編集体験を実現し、従来のIDEを上回る生産性を提供する。",
+    "shortDescription": "AI機能内蔵の超高速コードエディタ",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本エディタ機能",
+            "AI補完",
+            "コラボレーション"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI駆動コード補完",
+      "リアルタイム共同編集",
+      "高速ファイル検索",
+      "統合ターミナル",
+      "拡張機能サポート"
+    ],
+    "pros": [
+      "極めて高速なパフォーマンス",
+      "優秀なAIアシスタント",
+      "無料で高機能",
+      "直感的なUI"
+    ],
+    "cons": [
+      "新しいツールで情報少ない",
+      "一部機能が未完成",
+      "VS Codeからの移行コスト"
+    ],
+    "officialUrl": "https://zed.dev",
+    "logoPath": "/logos/zed.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "プログラマー",
+      "Web開発者",
+      "チーム開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Zed Industries",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "tubi-chatgpt-app",
+    "name": "Tubi ChatGPT App",
+    "nameJa": "チューブアイ・チャットGPTアプリ",
+    "description": "TubiがChatGPT内で初めてリリースしたネイティブストリーミングアプリ。ChatGPTを通じて映画やTV番組を直接視聴できる革新的なサービス。AIとの会話で好みを伝えるだけで最適なコンテンツを推薦し、そのままアプリ内で視聴可能。従来のストリーミングサービスの概念を変える新しい体験を提供し、エンターテイメント業界のAI活用事例として注目されている。",
+    "shortDescription": "ChatGPT内で動画視聴できる革新アプリ",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料（広告付き）",
+          "features": [
+            "映画・TV番組視聴",
+            "AIレコメンド",
+            "ChatGPT統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ChatGPT内動画再生",
+      "AI駆動コンテンツ推薦",
+      "音声コマンド対応",
+      "パーソナライズ機能",
+      "無料視聴"
+    ],
+    "pros": [
+      "完全無料で視聴可能",
+      "AIによる的確な推薦",
+      "新しい視聴体験",
+      "ChatGPTとシームレス統合"
+    ],
+    "cons": [
+      "広告が表示される",
+      "コンテンツが限定的",
+      "日本語コンテンツ少ない"
+    ],
+    "officialUrl": "https://tubiapp.com",
+    "logoPath": "/logos/tubi-chatgpt-app.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "映画好き",
+      "ChatGPTユーザー",
+      "無料動画視聴者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Tubi",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "astropad-workbench",
+    "name": "Astropad Workbench",
+    "nameJa": "アストロパッド・ワークベンチ",
+    "description": "AIエージェント専用に設計された革新的なリモートデスクトップソリューション。従来のIT サポート向けツールとは異なり、AIエージェントがコンピュータを効率的に操作できるよう最適化されている。高精度な画面認識、自動化タスク実行、セキュアな接続機能を提供し、AIエージェントによる業務自動化を次のレベルに押し上げる。リモートワーク環境でのAI活用において必須のインフラツールとなりつつある。",
+    "shortDescription": "AIエージェント専用リモートデスクトップ",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "プロ",
+          "price": "$19.99/月（約3,000円）",
+          "features": [
+            "無制限接続",
+            "AIエージェント最適化",
+            "セキュア接続"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "カスタム価格",
+          "features": [
+            "チーム管理",
+            "API統合",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI最適化画面共有",
+      "自動化タスク実行",
+      "セキュアリモート接続",
+      "マルチデバイス対応",
+      "API統合"
+    ],
+    "pros": [
+      "AIエージェント専用設計",
+      "高セキュリティ",
+      "安定した接続",
+      "業務自動化に最適"
+    ],
+    "cons": [
+      "価格がやや高い",
+      "学習コスト必要",
+      "日本語サポート限定"
+    ],
+    "officialUrl": "https://astropad.com/workbench",
+    "logoPath": "/logos/astropad-workbench.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AI開発者",
+      "リモートワーカー",
+      "業務自動化担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Astropad",
+    "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "google-maps-ai-captions",
+    "name": "Google Maps AI Captions",
+    "nameJa": "グーグルマップAIキャプション",
+    "description": "Google MapsにAI機能が追加され、アップロードした写真に自動でキャプションを生成する新機能。場所の特徴、雰囲気、おすすめポイントなどを的確に文章化し、他のユーザーとの情報共有を効率化する。観光地やレストランの口コミ作成が劇的に簡単になり、地域情報の充実に貢献。画像認識AIと位置情報を組み合わせた革新的なサービスで、マップアプリの新しい可能性を示している。",
+    "shortDescription": "写真から自動でマップ情報を生成するAI",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "自動キャプション生成",
+            "写真アップロード",
+            "位置情報連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動キャプション生成",
+      "画像認識AI",
+      "多言語対応",
+      "位置情報統合",
+      "リアルタイム更新"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "精度の高いキャプション",
+      "多言語サポート",
+      "既存Googleアカウントで利用"
+    ],
+    "cons": [
+      "プライバシーの懸念",
+      "オフライン機能制限",
+      "精度にばらつき"
+    ],
+    "officialUrl": "https://maps.google.com",
+    "logoPath": "/logos/google-maps-ai-captions.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "旅行者",
+      "ブロガー",
+      "地域情報発信者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google",
+    "lastUpdated": "2026-04-09"
   }
 ]
