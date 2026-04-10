@@ -1,73 +1,60 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude mixes up who said what and that's not OK",
-        "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-        "score": 197,
-        "date": "2026-04-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-        "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-        "score": 66,
-        "date": "2026-04-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Managed Agents Overview",
-        "url": "https://platform.claude.com/docs/en/managed-agents/overview",
-        "score": 32,
-        "date": "2026-04-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "System Card: Claude Mythos Preview [pdf]",
-        "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-        "score": 832,
-        "date": "2026-04-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic says Claude can now use your computer to finish tasks for you in AI agent push - CNBC",
-        "score": 1,
-        "date": "2026-04-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-09"
-  },
-  {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 9,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Project Glasswing: Securing critical software for the AI era",
         "url": "https://www.anthropic.com/glasswing",
-        "score": 1496,
-        "date": "2026-04-09"
+        "score": 1510,
+        "date": "2026-04-10"
       }
     ],
     "firstSeen": "2026-04-08",
-    "lastSeen": "2026-04-09"
+    "lastSeen": "2026-04-10"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 9.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+        "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+        "score": 296,
+        "date": "2026-04-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude mixes up who said what",
+        "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+        "score": 412,
+        "date": "2026-04-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "The Vercel plugin on Claude Code wants to read your prompts",
+        "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+        "score": 255,
+        "date": "2026-04-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-10"
   },
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 3.6,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,7 +70,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -97,9 +84,75 @@
     "lastSeen": "2026-04-09"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 2.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT Pro now starts at $100/month",
+        "url": "https://chatgpt.com/pricing/",
+        "score": 194,
+        "date": "2026-04-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "ChatGPT finally offers $100/month Pro plan",
+        "score": 1,
+        "date": "2026-04-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "score": 1,
+        "date": "2026-04-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+        "score": 1,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-10"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 2.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: CSS Studio. Design by hand, code by agent",
+        "url": "https://cssstudio.ai",
+        "score": 142,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-10"
+  },
+  {
+    "toolSlug": "research-driven-agents",
+    "toolName": "Research-Driven Agents",
+    "buzzScore": 2.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Research-Driven Agents: When an agent reads before it codes",
+        "url": "https://blog.skypilot.co/research-driven-agents/",
+        "score": 135,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-10",
+    "lastSeen": "2026-04-10"
+  },
+  {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -115,7 +168,7 @@
   {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -131,7 +184,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -147,7 +200,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -161,9 +214,25 @@
     "lastSeen": "2026-04-02"
   },
   {
+    "toolSlug": "instant-1-0",
+    "toolName": "Instant 1.0",
+    "buzzScore": 1.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Instant 1.0, a backend for AI-coded apps",
+        "url": "https://www.instantdb.com/essays/architecture",
+        "score": 94,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-10",
+    "lastSeen": "2026-04-10"
+  },
+  {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -185,7 +254,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -212,7 +281,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "techcrunch",
@@ -232,7 +301,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "reddit",
@@ -250,25 +319,9 @@
     "lastSeen": "2026-03-25"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: CSS Studio. Design by hand, code by agent",
-        "url": "https://cssstudio.ai",
-        "score": 49,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-09"
-  },
-  {
     "toolSlug": "tui-use",
     "toolName": "TUI-use",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -284,7 +337,7 @@
   {
     "toolSlug": "skrun",
     "toolName": "Skrun",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -300,7 +353,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "reddit",
@@ -315,7 +368,7 @@
   {
     "toolSlug": "google-veo-2",
     "toolName": "Google Veo 2",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "techcrunch",
@@ -329,7 +382,7 @@
   {
     "toolSlug": "gemma-gem",
     "toolName": "Gemma Gem",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -343,9 +396,54 @@
     "lastSeen": "2026-04-07"
   },
   {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-10"
+  },
+  {
+    "toolSlug": "admina-ai",
+    "toolName": "Admina AIヘルプデスク",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-10"
+  },
+  {
+    "toolSlug": "poke",
+    "toolName": "Poke",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Poke makes using AI agents as easy as sending a text",
+        "score": 1,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-10"
+  },
+  {
     "toolSlug": "tailslayer",
     "toolName": "Tailslayer",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -361,7 +459,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -374,24 +472,9 @@
     "lastSeen": "2026-04-09"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-09"
-  },
-  {
     "toolSlug": "vegas-pro-2026",
     "toolName": "Vegas Pro 2026",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -404,54 +487,9 @@
     "lastSeen": "2026-04-09"
   },
   {
-    "toolSlug": "admina-ai",
-    "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "poke",
-    "toolName": "Poke",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Poke makes using AI agents as easy as sending a text",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-09"
-  },
-  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -466,7 +504,7 @@
   {
     "toolSlug": "agent-reading-test",
     "toolName": "Agent Reading Test",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -482,7 +520,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -497,7 +535,7 @@
   {
     "toolSlug": "findy-architecture-ai",
     "toolName": "Findy Architecture AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -512,7 +550,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -527,7 +565,7 @@
   {
     "toolSlug": "sllm",
     "toolName": "sllm",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -543,7 +581,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -558,7 +596,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -573,7 +611,7 @@
   {
     "toolSlug": "xoople",
     "toolName": "Xoople",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -588,7 +626,7 @@
   {
     "toolSlug": "mempalace",
     "toolName": "MemPalace",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -600,66 +638,5 @@
     ],
     "firstSeen": "2026-04-08",
     "lastSeen": "2026-04-08"
-  },
-  {
-    "toolSlug": "istudy-ai-platform",
-    "toolName": "iStudy AI Platform",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "次世代プラットフォーム『iStudy AI Platform』をリリース〜ＡＩが「教え、添削し、分析する」。教育実務を強力サポート〜 - 沖縄タイムス社",
-        "score": 1,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "oiioii",
-    "toolName": "OiiOii",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "業務効率を革新するOiiOii、AIによる動画制作ワークフロー一気通貫サポートを正式リリース - ニコニコニュース",
-        "score": 1,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "coefficient-bio",
-    "toolName": "Coefficient Bio",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-        "score": 1,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-04",
-    "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "travel-hacking-toolkit",
-    "toolName": "Travel Hacking Toolkit",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-        "url": "https://github.com/borski/travel-hacking-toolkit",
-        "score": 75,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-04",
-    "lastSeen": "2026-04-04"
   }
 ]

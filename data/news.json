@@ -1,5 +1,63 @@
 [
   {
+    "id": "new-instant-1-0-2026-04-10",
+    "type": "new-tool",
+    "toolSlug": "instant-1-0",
+    "title": "Instant 1.0 が新しく追加されました",
+    "summary": "AI生成アプリ専用のバックエンドサービス",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "new-research-driven-agents-2026-04-10",
+    "type": "new-tool",
+    "toolSlug": "research-driven-agents",
+    "title": "Research-Driven Agents が新しく追加されました",
+    "summary": "調査してからコーディングするAIエージェント",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "new-autograd-engine-2026-04-10",
+    "type": "new-tool",
+    "toolSlug": "autograd-engine",
+    "title": "AutoGrad Engine が新しく追加されました",
+    "summary": "600行のC#で作られた軽量GPTエンジン",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "new-lrnnsmdds-2026-04-10",
+    "type": "new-tool",
+    "toolSlug": "lrnnsmdds",
+    "title": "LRNNSMDDS が新しく追加されました",
+    "summary": "単一Cファイルの超軽量生成AIモデル",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "new-confluence-ai-agents-2026-04-10",
+    "type": "new-tool",
+    "toolSlug": "confluence-ai-agents",
+    "title": "Confluence AI Agents が新しく追加されました",
+    "summary": "Confluence向けビジュアルAIと外部エージェント統合",
+    "date": "2026-04-10"
+  },
+  {
+    "id": "trending-project-glasswing-2026-04-10",
+    "type": "trending",
+    "toolSlug": "project-glasswing",
+    "title": "Project Glasswing が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Project Glasswing: Securing critical software for the AI era",
+    "date": "2026-04-10",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-04-10",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 9.7）",
+    "summary": "hackernewsで注目: Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+    "date": "2026-04-10",
+    "source": "hackernews"
+  },
+  {
     "id": "new-skrun-2026-04-09",
     "type": "new-tool",
     "toolSlug": "skrun",

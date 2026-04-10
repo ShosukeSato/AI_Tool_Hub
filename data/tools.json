@@ -9690,5 +9690,286 @@
     "releaseYear": 2026,
     "developer": "Google",
     "lastUpdated": "2026-04-09"
+  },
+  {
+    "slug": "instant-1-0",
+    "name": "Instant 1.0",
+    "nameJa": "インスタント",
+    "description": "AI生成コードアプリケーション専用に設計されたバックエンドサービス。従来のBaaS（Backend as a Service）とは異なり、AIエージェントが自動的にスキーマを構築し、リアルタイムデータベースとの同期を実現。開発者がフロントエンドのコードを書くだけで、バックエンドの複雑な設定や管理を完全に自動化。特にClaude CodeやCursorなどのAIコーディングツールとの親和性が高く、プロトタイプから本格的なアプリケーションまでを短時間で構築可能。",
+    "shortDescription": "AI生成アプリ専用のバックエンドサービス",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本データベース機能",
+            "リアルタイム同期",
+            "AIエージェント統合"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$29/月（約4,350円）",
+          "features": [
+            "高度なスキーマ管理",
+            "カスタムAPI",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI自動スキーマ生成",
+      "リアルタイムデータ同期",
+      "AIエージェント統合",
+      "自動バックエンド構築",
+      "フロントエンド最適化"
+    ],
+    "pros": [
+      "AIツールとの完璧な統合",
+      "バックエンド知識不要で開発可能",
+      "高速プロトタイピング",
+      "リアルタイム機能が標準装備"
+    ],
+    "cons": [
+      "新しいサービスで実績が少ない",
+      "AI依存度が高い",
+      "カスタマイズ性に制限がある可能性"
+    ],
+    "officialUrl": "https://www.instantdb.com/",
+    "logoPath": "/logos/instant-1-0.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AIコーディングツールを使う開発者",
+      "バックエンド開発を簡素化したい人",
+      "プロトタイプを素早く作りたい人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Instant",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "slug": "research-driven-agents",
+    "name": "Research-Driven Agents",
+    "nameJa": "リサーチドリブンエージェント",
+    "description": "コーディング前に自動で関連情報を調査・研究するAIエージェント。従来のコーディングアシスタントとは異なり、プログラミングタスクを受け取ると、まず関連するドキュメント、ライブラリの仕様、ベストプラクティスを自動収集・分析してからコードを生成。これにより、より正確で最新の技術トレンドを反映したコードを出力。特に新しいフレームワークやライブラリを使用する際の学習コストを大幅に削減し、開発者の生産性を向上させる次世代のAIコーディングアプローチ。",
+    "shortDescription": "調査してからコーディングするAIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "自動リサーチ機能",
+            "コード生成",
+            "技術文書分析",
+            "カスタム統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動技術調査",
+      "ドキュメント分析",
+      "コンテキスト理解",
+      "高品質コード生成",
+      "最新技術対応"
+    ],
+    "pros": [
+      "より正確なコード生成",
+      "新技術への迅速対応",
+      "学習コスト削減",
+      "開発効率大幅向上"
+    ],
+    "cons": [
+      "企業向けサービス",
+      "調査時間がかかる場合がある",
+      "料金が不明確"
+    ],
+    "officialUrl": "https://blog.skypilot.co/research-driven-agents/",
+    "logoPath": "/logos/research-driven-agents.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "エンタープライズ開発チーム",
+      "新技術を頻繁に使う開発者",
+      "高品質なコードを求める企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "SkyPilot",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "slug": "autograd-engine",
+    "name": "AutoGrad Engine",
+    "nameJa": "オートグラッドエンジン",
+    "description": "わずか600行のC#コードで完全なGPT言語モデルを実装した、依存関係ゼロの軽量AI開発フレームワーク。教育目的や実験的なAI開発に最適で、大規模なライブラリやフレームワークに依存せずに、言語モデルの仕組みを理解しながら開発できる。自動微分機能を内蔵し、ニューラルネットワークの学習プロセスを透明化。研究者や学習者が言語モデルの内部動作を詳細に理解したい場合や、軽量なAIソリューションを構築したい開発者に特に有用。",
+    "shortDescription": "600行のC#で作られた軽量GPTエンジン",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Open Source",
+          "price": "無料",
+          "features": [
+            "完全なソースコード",
+            "GPTモデル実装",
+            "自動微分機能",
+            "依存関係なし"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "軽量GPT実装",
+      "自動微分エンジン",
+      "依存関係ゼロ",
+      "教育向け設計",
+      "C#による実装"
+    ],
+    "pros": [
+      "学習目的に最適",
+      "軽量で高速",
+      "完全にオープンソース",
+      "仕組みが理解しやすい"
+    ],
+    "cons": [
+      "本格的な商用利用には不向き",
+      "機能が基本的",
+      "C#のみの対応"
+    ],
+    "officialUrl": "https://github.com/milanm/AutoGrad-Engine",
+    "logoPath": "/logos/autograd-engine.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AI学習者",
+      "研究者・学生",
+      "軽量AIソリューションを求める開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Milan M",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "slug": "lrnnsmdds",
+    "name": "LRNNSMDDS",
+    "nameJa": "エルアールエヌエヌエスエムディディーエス",
+    "description": "Linear RNNとReservoirの特徴を組み合わせたハイブリッド生成モデルで、単一のCファイル（依存関係なし）で動作する超軽量AI実装。従来のトランスフォーマーモデルと比べて、メモリ使用量を大幅に削減しながら、時系列データの生成能力を提供。組み込みシステムやリソース制約のある環境での動作に特化し、リアルタイム生成が可能。研究者や実験的な開発者が新しいアーキテクチャを試したい場合や、エッジデバイスでのAI推論を実現したい開発者に最適。",
+    "shortDescription": "単一Cファイルの超軽量生成AIモデル",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Open Source",
+          "price": "無料",
+          "features": [
+            "単一Cファイル",
+            "依存関係なし",
+            "Linear RNN実装",
+            "Reservoirハイブリッド"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Linear RNN+Reservoir",
+      "依存関係ゼロ",
+      "超軽量実装",
+      "リアルタイム生成",
+      "組み込みシステム対応"
+    ],
+    "pros": [
+      "極めて軽量",
+      "組み込みシステム対応",
+      "独特なアーキテクチャ",
+      "学習コストが低い"
+    ],
+    "cons": [
+      "実験的な段階",
+      "ドキュメントが少ない",
+      "汎用性に限界がある"
+    ],
+    "officialUrl": "https://raw.githubusercontent.com/bggb7781-collab/lrnnsmdds/refs/heads/main/lrnnsmdds",
+    "logoPath": "/logos/lrnnsmdds.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "組み込み開発者",
+      "実験的なAI研究者",
+      "リソース制約がある環境の開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "bggb7781-collab",
+    "lastUpdated": "2026-04-10"
+  },
+  {
+    "slug": "confluence-ai-agents",
+    "name": "Confluence AI Agents",
+    "nameJa": "コンフルエンス AIエージェント",
+    "description": "Atlassianが新たにリリースしたConfluence向けのビジュアルAIツールとサードパーティエージェント統合機能。文書作成時に自動でビジュアル要素を提案し、チーム協作を促進する機能を搭載。外部のAIエージェントとの連携により、プロジェクト管理、コンテンツ生成、データ分析などの業務を自動化。特に企業のナレッジマネジメントとドキュメント作成プロセスを劇的に効率化。Slack、Jira、Trelloなどとの統合により、情報の一元管理と自動化されたワークフローを実現する企業向けの包括的なAIソリューション。",
+    "shortDescription": "Confluence向けビジュアルAIと外部エージェント統合",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Standard",
+          "price": "$6/ユーザー/月（約900円）",
+          "features": [
+            "基本AI機能",
+            "ビジュアルツール",
+            "基本統合"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$12/ユーザー/月（約1,800円）",
+          "features": [
+            "高度なAIエージェント",
+            "カスタム統合",
+            "分析機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ビジュアルAIツール",
+      "サードパーティエージェント統合",
+      "自動コンテンツ生成",
+      "チーム協作機能",
+      "ワークフロー自動化"
+    ],
+    "pros": [
+      "企業向けに最適化",
+      "既存ツールとの統合",
+      "ビジュアル要素の自動生成",
+      "チーム生産性向上"
+    ],
+    "cons": [
+      "企業向けで個人利用は高額",
+      "学習コストがある",
+      "Atlassianエコシステム依存"
+    ],
+    "officialUrl": "https://www.atlassian.com/software/confluence",
+    "logoPath": "/logos/confluence-ai-agents.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "企業のドキュメント管理者",
+      "プロジェクトマネージャー",
+      "チーム協作を重視する組織"
+    ],
+    "releaseYear": 2024,
+    "developer": "Atlassian",
+    "lastUpdated": "2026-04-10"
   }
 ]
