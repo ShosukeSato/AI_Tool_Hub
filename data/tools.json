@@ -10306,5 +10306,320 @@
     "releaseYear": 2025,
     "developer": "Bild AI Inc.",
     "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "voicelog",
+    "name": "VoiceLog",
+    "nameJa": "ボイスログ",
+    "description": "アピリッツが提供するクチコミ・レビュー投稿管理ツールに新たに追加された生成AI機能。大量のレビューデータを自動で要約し、ビジネスに役立つインサイトを抽出できる。従来は手動で行っていたレビュー分析作業を大幅に効率化し、顧客の声から改善点や強みを素早く把握することが可能。日本企業向けに最適化されており、日本語レビューの微細なニュアンスも正確に理解して要約する。",
+    "shortDescription": "レビュー管理と生成AI要約機能を統合",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "企業向けプラン",
+          "price": "要問い合わせ",
+          "features": [
+            "レビュー管理",
+            "AI要約機能",
+            "インサイト抽出"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "レビュー自動要約",
+      "顧客インサイト抽出",
+      "日本語対応",
+      "管理ダッシュボード",
+      "API連携"
+    ],
+    "pros": [
+      "日本語レビューの高精度要約",
+      "ビジネスインサイトの自動生成",
+      "既存システムとの統合が容易",
+      "企業向けサポート体制"
+    ],
+    "cons": [
+      "企業向けのため個人利用は困難",
+      "価格が非公開",
+      "新機能のため実績が少ない"
+    ],
+    "officialUrl": "https://voicelog.jp",
+    "logoPath": "/logos/voicelog.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "EC事業者",
+      "レビュー分析担当者",
+      "マーケティング担当者"
+    ],
+    "releaseYear": 2024,
+    "developer": "アピリッツ",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "arisealpha",
+    "name": "AriseAlpha",
+    "nameJa": "アライズアルファ",
+    "description": "無料で提供される AI 駆動の暗号通貨・株式取引プラットフォーム。自動取引ツールとポートフォリオ管理機能を統合し、初心者でも高度な投資戦略を実行できる。AIが市場データを24時間分析し、最適な取引タイミングを自動判断。リスク管理機能も内蔵されており、損失を最小限に抑えながら利益を最大化する。従来の高額な投資ツールとは異なり、完全無料で提供されている点が革新的。",
+    "shortDescription": "無料のAI自動取引プラットフォーム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "自動取引",
+            "ポートフォリオ管理",
+            "AI分析",
+            "リスク管理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動取引実行",
+      "ポートフォリオ最適化",
+      "リアルタイム市場分析",
+      "リスク管理",
+      "暗号通貨・株式対応"
+    ],
+    "pros": [
+      "完全無料で高機能",
+      "24時間自動取引",
+      "初心者にも使いやすい",
+      "リスク管理機能搭載"
+    ],
+    "cons": [
+      "投資リスクは自己責任",
+      "新しいサービスのため実績不明",
+      "日本の規制に対応しているか不明"
+    ],
+    "officialUrl": "https://arrisealpha.com",
+    "logoPath": "/logos/arisealpha.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "投資初心者",
+      "自動取引に興味がある人",
+      "暗号通貨投資家"
+    ],
+    "releaseYear": 2026,
+    "developer": "AriseAlpha",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "amazon-pet-matcher-ai",
+    "name": "Amazon Pet Matcher AI",
+    "nameJa": "アマゾン ペットマッチャー AI",
+    "description": "Amazonが新たに発表したペット譲渡支援AIツール。機械学習アルゴリズムを使用して、ペットの性格や特徴と飼い主の生活スタイルや経験を分析し、最適なマッチングを実現する。従来の直感的な選択とは異なり、科学的データに基づいて相性の良いペットを提案。動物保護施設との連携により、より多くのペットが適切な家庭に迎えられることを目指している。ペット産業における革新的なアプローチとして注目されている。",
+    "shortDescription": "AIによるペットと飼い主のマッチング",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料サービス",
+          "price": "無料",
+          "features": [
+            "マッチング分析",
+            "保護施設連携",
+            "飼育アドバイス"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "性格分析マッチング",
+      "生活スタイル診断",
+      "保護施設連携",
+      "飼育アドバイス",
+      "継続サポート"
+    ],
+    "pros": [
+      "科学的根拠に基づくマッチング",
+      "動物保護に貢献",
+      "Amazonの信頼性",
+      "無料で利用可能"
+    ],
+    "cons": [
+      "日本での利用可能性不明",
+      "対応ペット種類が限定的",
+      "地域制限がある可能性"
+    ],
+    "officialUrl": "https://amazon.com/pet-matcher",
+    "logoPath": "/logos/amazon-pet-matcher-ai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "初回ペット飼育者",
+      "ペット譲渡検討中の人",
+      "動物保護活動関係者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Amazon",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "andon-market-ai",
+    "name": "Andon Market AI",
+    "nameJa": "アンドン マーケット AI",
+    "description": "Andon Labsが開発した自律型AIエージェントが運営する実店舗プロジェクト。AIが3年間のリース契約を結び、実際に物理的な店舗を開業・運営している革新的な実験。在庫管理から顧客対応、マーケティング戦略まで全てAIが自律的に判断・実行する。人間の介入を最小限に抑えながら、収益性の高い店舗運営を目指している。AIエージェントの実用性を証明する先進的なケーススタディとして業界の注目を集めている。",
+    "shortDescription": "AIが自律運営する実店舗プロジェクト",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "実証実験",
+          "price": "非商用",
+          "features": [
+            "自律店舗運営",
+            "AI意思決定",
+            "実績データ収集"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自律店舗運営",
+      "在庫管理AI",
+      "顧客対応自動化",
+      "マーケティング最適化",
+      "収益分析"
+    ],
+    "pros": [
+      "完全自律型の革新性",
+      "実店舗での実証実験",
+      "将来的なビジネスモデル",
+      "AIエージェント技術の発展"
+    ],
+    "cons": [
+      "実験段階で一般利用不可",
+      "成功事例がまだ少ない",
+      "規制面での課題"
+    ],
+    "officialUrl": "https://andonlabs.com",
+    "logoPath": "/logos/andon-market-ai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "AI研究者",
+      "小売業界関係者",
+      "起業家・投資家"
+    ],
+    "releaseYear": 2026,
+    "developer": "Andon Labs",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "samsara-ai-insights-2026",
+    "name": "Samsara AI Insights 2026",
+    "nameJa": "サムサラ AI インサイツ",
+    "description": "IoT企業Samsaraが2026年に発表した新しいAIツール群。車両管理、設備監視、安全管理の分野で収集された大量のセンサーデータをAIが分析し、予測保守や効率最適化を実現する。従来の反応型メンテナンスから予測型メンテナンスへの転換を支援し、コスト削減と安全性向上を同時に達成。製造業、物流業、建設業などの産業IoT分野で革新的なソリューションを提供している。",
+    "shortDescription": "IoTデータ分析による予測保守AI",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "企業プラン",
+          "price": "要問い合わせ",
+          "features": [
+            "IoTデータ分析",
+            "予測保守",
+            "効率最適化",
+            "安全管理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "予測保守分析",
+      "車両管理最適化",
+      "設備監視AI",
+      "安全性予測",
+      "コスト削減提案"
+    ],
+    "pros": [
+      "IoT特化の高精度分析",
+      "産業界での実績",
+      "包括的なソリューション",
+      "ROI向上効果"
+    ],
+    "cons": [
+      "企業向けで個人利用不可",
+      "導入コストが高額",
+      "専門知識が必要"
+    ],
+    "officialUrl": "https://samsara.com",
+    "logoPath": "/logos/samsara-ai-insights-2026.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "製造業IT担当者",
+      "物流業界管理者",
+      "設備保守担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Samsara",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "narit-ai-gujarat-2026",
+    "name": "NARIT AI Gujarat 2026",
+    "nameJa": "ナリット AI グジャラート",
+    "description": "グジャラート州警察が2026年に導入した薬物犯罪捜査支援AIシステム。NDPS（麻薬・向精神薬法）違反事件の有罪率向上を目的として開発された。過去の事件データ、証拠パターン、法的先例を機械学習で分析し、検察官に最適な起訴戦略を提案する。従来の経験頼りの捜査から、データ駆動型の科学的アプローチへの転換を実現。インドの法執行機関におけるAI活用の先進事例として国際的にも注目されている。",
+    "shortDescription": "薬物犯罪捜査を支援するAIシステム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "政府機関専用",
+          "price": "非公開",
+          "features": [
+            "事件分析",
+            "起訴戦略提案",
+            "証拠パターン解析",
+            "法的先例検索"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "事件データ分析",
+      "起訴戦略AI",
+      "証拠パターン認識",
+      "法的先例マッチング",
+      "有罪率向上支援"
+    ],
+    "pros": [
+      "法執行効率の向上",
+      "科学的捜査手法",
+      "有罪率の改善",
+      "国際的な先進事例"
+    ],
+    "cons": [
+      "政府機関専用で一般利用不可",
+      "プライバシー懸念",
+      "技術詳細が非公開"
+    ],
+    "officialUrl": "https://gujaratpolice.gov.in",
+    "logoPath": "/logos/narit-ai-gujarat-2026.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "法執行機関",
+      "司法関係者",
+      "政策立案者"
+    ],
+    "releaseYear": 2026,
+    "developer": "グジャラート州警察",
+    "lastUpdated": "2026-04-11"
   }
 ]

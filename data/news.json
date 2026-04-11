@@ -66,6 +66,54 @@
     "source": "hackernews"
   },
   {
+    "id": "new-voicelog-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "voicelog",
+    "title": "VoiceLog が新しく追加されました",
+    "summary": "レビュー管理と生成AI要約機能を統合",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-arisealpha-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "arisealpha",
+    "title": "AriseAlpha が新しく追加されました",
+    "summary": "無料のAI自動取引プラットフォーム",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-amazon-pet-matcher-ai-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "amazon-pet-matcher-ai",
+    "title": "Amazon Pet Matcher AI が新しく追加されました",
+    "summary": "AIによるペットと飼い主のマッチング",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-andon-market-ai-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "andon-market-ai",
+    "title": "Andon Market AI が新しく追加されました",
+    "summary": "AIが自律運営する実店舗プロジェクト",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-samsara-ai-insights-2026-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "samsara-ai-insights-2026",
+    "title": "Samsara AI Insights 2026 が新しく追加されました",
+    "summary": "IoTデータ分析による予測保守AI",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-narit-ai-gujarat-2026-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "narit-ai-gujarat-2026",
+    "title": "NARIT AI Gujarat 2026 が新しく追加されました",
+    "summary": "薬物犯罪捜査を支援するAIシステム",
+    "date": "2026-04-11"
+  },
+  {
     "id": "new-instant-1-0-2026-04-10",
     "type": "new-tool",
     "toolSlug": "instant-1-0",

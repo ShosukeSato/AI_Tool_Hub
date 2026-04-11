@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Instant 1.0, a backend for AI-coded apps",
         "url": "https://www.instantdb.com/essays/architecture",
-        "score": 206,
+        "score": 209,
         "date": "2026-04-11"
       }
     ],
@@ -18,7 +18,7 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 9,
+    "buzzScore": 8.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -34,13 +34,13 @@
   {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 6.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
         "url": "https://github.com/marimo-team/marimo-pair",
-        "score": 122,
+        "score": 131,
         "date": "2026-04-11"
       }
     ],
@@ -50,7 +50,7 @@
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -66,7 +66,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -82,7 +82,7 @@
   {
     "toolSlug": "research-driven-agents",
     "toolName": "Research-Driven Agents",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -98,7 +98,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -114,7 +114,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -130,7 +130,7 @@
   {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -146,7 +146,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -162,7 +162,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -174,71 +174,6 @@
     ],
     "firstSeen": "2026-04-02",
     "lastSeen": "2026-04-02"
-  },
-  {
-    "toolSlug": "typeless",
-    "toolName": "Typeless",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Typeless: AI-powered keyboard that predicts your next sentence",
-        "url": "https://news.ycombinator.com/item?id=example1",
-        "score": 850,
-        "date": "2026-03-28"
-      },
-      {
-        "source": "reddit",
-        "title": "Typeless is changing how we type - AI keyboard review",
-        "score": 1200,
-        "date": "2026-03-30"
-      }
-    ],
-    "firstSeen": "2026-03-25",
-    "lastSeen": "2026-03-30"
-  },
-  {
-    "toolSlug": "claude-code",
-    "toolName": "Claude Code",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude Code: Anthropic's new CLI coding agent",
-        "url": "https://news.ycombinator.com/item?id=example2",
-        "score": 920,
-        "date": "2026-03-26"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic launches Claude Code, a terminal-based AI coding assistant",
-        "date": "2026-03-27"
-      },
-      {
-        "source": "reddit",
-        "title": "Claude Code vs Cursor vs Copilot - real world comparison",
-        "score": 2100,
-        "date": "2026-03-29"
-      }
-    ],
-    "firstSeen": "2026-03-20",
-    "lastSeen": "2026-03-29"
-  },
-  {
-    "toolSlug": "gbrain",
-    "toolName": "GBrain",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GBrain – The memex, built for people who think for a living",
-        "url": "https://github.com/garrytan/gbrain",
-        "score": 7,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-11"
   },
   {
     "toolSlug": "chatgpt",
@@ -274,9 +209,74 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "typeless",
+    "toolName": "Typeless",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Typeless: AI-powered keyboard that predicts your next sentence",
+        "url": "https://news.ycombinator.com/item?id=example1",
+        "score": 850,
+        "date": "2026-03-28"
+      },
+      {
+        "source": "reddit",
+        "title": "Typeless is changing how we type - AI keyboard review",
+        "score": 1200,
+        "date": "2026-03-30"
+      }
+    ],
+    "firstSeen": "2026-03-25",
+    "lastSeen": "2026-03-30"
+  },
+  {
+    "toolSlug": "claude-code",
+    "toolName": "Claude Code",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude Code: Anthropic's new CLI coding agent",
+        "url": "https://news.ycombinator.com/item?id=example2",
+        "score": 920,
+        "date": "2026-03-26"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic launches Claude Code, a terminal-based AI coding assistant",
+        "date": "2026-03-27"
+      },
+      {
+        "source": "reddit",
+        "title": "Claude Code vs Cursor vs Copilot - real world comparison",
+        "score": 2100,
+        "date": "2026-03-29"
+      }
+    ],
+    "firstSeen": "2026-03-20",
+    "lastSeen": "2026-03-29"
+  },
+  {
+    "toolSlug": "gbrain",
+    "toolName": "GBrain",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GBrain – The memex, built for people who think for a living",
+        "url": "https://github.com/garrytan/gbrain",
+        "score": 7,
+        "date": "2026-04-11"
+      }
+    ],
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-11"
+  },
+  {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "techcrunch",
@@ -292,26 +292,6 @@
     ],
     "firstSeen": "2026-03-15",
     "lastSeen": "2026-03-20"
-  },
-  {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "reddit",
-        "title": "DeepSeek V3 is surprisingly good for a free model",
-        "score": 1800,
-        "date": "2026-03-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "DeepSeek challenges OpenAI with open-source approach",
-        "date": "2026-03-25"
-      }
-    ],
-    "firstSeen": "2026-03-10",
-    "lastSeen": "2026-03-25"
   },
   {
     "toolSlug": "claude",
@@ -350,51 +330,24 @@
     "lastSeen": "2026-04-11"
   },
   {
-    "toolSlug": "tui-use",
-    "toolName": "TUI-use",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-        "url": "https://github.com/onesuper/tui-use",
-        "score": 47,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "skrun",
-    "toolName": "Skrun",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Skrun – Deploy any agent skill as an API",
-        "url": "https://github.com/skrun-dev/skrun",
-        "score": 56,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "reddit",
-        "title": "Cursor 1.0 release - biggest update yet",
-        "score": 950,
-        "date": "2026-03-20"
+        "title": "DeepSeek V3 is surprisingly good for a free model",
+        "score": 1800,
+        "date": "2026-03-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "DeepSeek challenges OpenAI with open-source approach",
+        "date": "2026-03-25"
       }
     ],
-    "firstSeen": "2026-03-15",
-    "lastSeen": "2026-03-20"
+    "firstSeen": "2026-03-10",
+    "lastSeen": "2026-03-25"
   },
   {
     "toolSlug": "bild-ai",
@@ -413,18 +366,48 @@
     "lastSeen": "2026-04-11"
   },
   {
-    "toolSlug": "stitch",
-    "toolName": "Stitch",
+    "toolSlug": "arisealpha",
+    "toolName": "AriseAlpha",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Introducing “vibe design” with Stitch - blog.google",
+        "title": "AriseAlpha Launches Free AI Crypto & Stock Trading Platform with Automated Trading Tools and Portfolio Management (2026) - markets.businessinsider.com",
         "score": 1,
         "date": "2026-04-11"
       }
     ],
-    "firstSeen": "2026-04-10",
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-11"
+  },
+  {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
+        "date": "2026-04-11"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-11"
+  },
+  {
+    "toolSlug": "narit-ai-gujarat-2026",
+    "toolName": "NARIT AI Gujarat 2026",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "NARIT AI Gujarat 2026: Police launch tool to boost NDPS convictions - Deccan Herald",
+        "score": 1,
+        "date": "2026-04-11"
+      }
+    ],
+    "firstSeen": "2026-04-11",
     "lastSeen": "2026-04-11"
   },
   {
@@ -443,18 +426,18 @@
     "lastSeen": "2026-04-11"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
+    "toolSlug": "stitch",
+    "toolName": "Stitch",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "バイタリフィ、「AI博覧会 Spring 2026」の出展が大盛況で終了！Dify活用や生成AIチャットボットの導入に関心が集まる - ドリームニュース",
+        "title": "Introducing “vibe design” with Stitch - blog.google",
         "score": 1,
         "date": "2026-04-11"
       }
     ],
-    "firstSeen": "2026-04-06",
+    "firstSeen": "2026-04-10",
     "lastSeen": "2026-04-11"
   },
   {
@@ -488,9 +471,86 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "voicelog",
+    "toolName": "VoiceLog",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "アピリッツ、クチコミ・レビュー投稿管理ツール「VoiceLog」に生成AIを活用した新機能「レビュー要約機能」をリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-11"
+      }
+    ],
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-11"
+  },
+  {
+    "toolSlug": "tui-use",
+    "toolName": "TUI-use",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+        "url": "https://github.com/onesuper/tui-use",
+        "score": 47,
+        "date": "2026-04-09"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-09"
+  },
+  {
+    "toolSlug": "skrun",
+    "toolName": "Skrun",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Skrun – Deploy any agent skill as an API",
+        "url": "https://github.com/skrun-dev/skrun",
+        "score": 56,
+        "date": "2026-04-09"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-09"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "reddit",
+        "title": "Cursor 1.0 release - biggest update yet",
+        "score": 950,
+        "date": "2026-03-20"
+      }
+    ],
+    "firstSeen": "2026-03-15",
+    "lastSeen": "2026-03-20"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "バイタリフィ、「AI博覧会 Spring 2026」の出展が大盛況で終了！Dify活用や生成AIチャットボットの導入に関心が集まる - ドリームニュース",
+        "score": 1,
+        "date": "2026-04-11"
+      }
+    ],
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-11"
+  },
+  {
     "toolSlug": "gemma-gem",
     "toolName": "Gemma Gem",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -506,7 +566,7 @@
   {
     "toolSlug": "tailslayer",
     "toolName": "Tailslayer",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -520,24 +580,9 @@
     "lastSeen": "2026-04-08"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-09"
-  },
-  {
     "toolSlug": "vegas-pro-2026",
     "toolName": "Vegas Pro 2026",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -552,7 +597,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -567,7 +612,7 @@
   {
     "toolSlug": "agent-reading-test",
     "toolName": "Agent Reading Test",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -579,51 +624,5 @@
     ],
     "firstSeen": "2026-04-07",
     "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Perplexity AI Sees 50% Revenue Surge from AI Agent Strategy Shift - MLQ.ai",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AI議事録ツール「YOMEL」、会議内容に合わせた最適な要約を出力する「カスタム要約」機能を正式リリース - PR TIMES",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "sllm",
-    "toolName": "sllm",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-        "url": "https://sllm.cloud",
-        "score": 165,
-        "date": "2026-04-05"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-05"
   }
 ]
