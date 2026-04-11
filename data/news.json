@@ -1,5 +1,71 @@
 [
   {
+    "id": "new-twill-ai-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "twill-ai",
+    "title": "Twill AI が新しく追加されました",
+    "summary": "AIエージェントがコードを書いてPRを作成",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-marimo-pair-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "marimo-pair",
+    "title": "Marimo Pair が新しく追加されました",
+    "summary": "AIエージェント用リアクティブPythonノートブック",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-unlegacy-ai-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "unlegacy-ai",
+    "title": "Unlegacy AI が新しく追加されました",
+    "summary": "レガシーコードからAI生成コードまで自動文書化",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-gbrain-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "gbrain",
+    "title": "GBrain が新しく追加されました",
+    "summary": "思考職向けAI記憶増強システム",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-gitbutler-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "gitbutler",
+    "title": "GitButler が新しく追加されました",
+    "summary": "Gitの次世代バージョン管理システム",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "new-bild-ai-2026-04-11",
+    "type": "new-tool",
+    "toolSlug": "bild-ai",
+    "title": "Bild AI が新しく追加されました",
+    "summary": "YC W25の注目AIスタートアップ",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "trending-instant-1-0-2026-04-11",
+    "type": "trending",
+    "toolSlug": "instant-1-0",
+    "title": "Instant 1.0 が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Instant 1.0, a backend for AI-coded apps",
+    "date": "2026-04-11",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-project-glasswing-2026-04-11",
+    "type": "trending",
+    "toolSlug": "project-glasswing",
+    "title": "Project Glasswing が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Project Glasswing: Securing critical software for the AI era",
+    "date": "2026-04-11",
+    "source": "hackernews"
+  },
+  {
     "id": "new-instant-1-0-2026-04-10",
     "type": "new-tool",
     "toolSlug": "instant-1-0",
@@ -1001,15 +1067,6 @@
     "title": "OpenAI o3 リリース：次世代推論モデル",
     "summary": "OpenAIが推論特化モデル「o3」を発表。数学・科学・コーディングのベンチマークで大幅な性能向上を達成。o1からの進化版として高度な論理的推論が可能に。",
     "date": "2026-03-18",
-    "source": "TechCrunch"
-  },
-  {
-    "id": "veo2-update-20260312",
-    "type": "update",
-    "toolSlug": "google-veo-2",
-    "title": "Google Veo 2：テキストから4K動画を生成",
-    "summary": "GoogleのVeo 2が4K動画生成に対応。テキストプロンプトから高品質な動画を生成する能力が大幅に向上し、Soraとの競争が激化しています。",
-    "date": "2026-03-12",
     "source": "TechCrunch"
   }
 ]

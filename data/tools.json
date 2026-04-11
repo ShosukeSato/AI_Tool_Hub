@@ -9971,5 +9971,340 @@
     "releaseYear": 2024,
     "developer": "Atlassian",
     "lastUpdated": "2026-04-10"
+  },
+  {
+    "slug": "twill-ai",
+    "name": "Twill AI",
+    "nameJa": "トゥウィルAI",
+    "description": "クラウドエージェントにタスクを委譲し、プルリクエストとして結果を受け取ることができるAI開発支援サービス。Y Combinator S25のスタートアップで、開発者がコーディング作業を自動化できる革新的なプラットフォーム。複雑なタスクを自然言語で指示すると、AIエージェントが実際のコードを生成してGitリポジトリにプルリクエストとして提出。従来のコーディングアシスタントと異なり、完全な機能実装まで自動で行うのが特徴。",
+    "shortDescription": "AIエージェントがコードを書いてPRを作成",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "0円/月",
+          "features": [
+            "基本的なタスク処理",
+            "月5回まで"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "約3,000円/月",
+          "features": [
+            "無制限タスク",
+            "高度なコード生成",
+            "チーム機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自然言語でのタスク指示",
+      "自動コード生成",
+      "プルリクエスト作成",
+      "Gitリポジトリ連携",
+      "チーム共有機能"
+    ],
+    "pros": [
+      "完全な機能実装を自動化",
+      "開発効率が大幅向上",
+      "プルリクエストベースの安全な運用",
+      "YCバックアップの信頼性"
+    ],
+    "cons": [
+      "新しいサービスで実績が少ない",
+      "複雑なタスクでは精度に不安",
+      "料金体系が不明確"
+    ],
+    "officialUrl": "https://twill.ai",
+    "logoPath": "/logos/twill-ai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "開発チームリーダー",
+      "スタートアップ開発者",
+      "コード品質向上を目指すエンジニア"
+    ],
+    "releaseYear": 2025,
+    "developer": "Twill AI Inc.",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "marimo-pair",
+    "name": "Marimo Pair",
+    "nameJa": "マリモペア",
+    "description": "AIエージェントのための反応型Pythonノートブック環境。従来のJupyterノートブックとは異なり、リアクティブな実行モデルを採用し、セルの変更が自動的に依存関係のあるセルに反映される。AIエージェントが効率的に作業できるよう設計されており、データサイエンスや機械学習の実験を高速化。Show HNで注目を集めており、GitHubで122ポイントを獲得。Python開発者にとって新しいワークフロー体験を提供する。",
+    "shortDescription": "AIエージェント用リアクティブPythonノートブック",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "0円",
+          "features": [
+            "無制限利用",
+            "コミュニティサポート",
+            "GitHub統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "リアクティブ実行モデル",
+      "AIエージェント最適化",
+      "自動依存関係解決",
+      "Python統合",
+      "GitHub連携"
+    ],
+    "pros": [
+      "完全無料のオープンソース",
+      "革新的なリアクティブモデル",
+      "AIエージェントとの相性が良い",
+      "開発効率が向上"
+    ],
+    "cons": [
+      "学習コストが必要",
+      "Jupyter慣れしたユーザーには戸惑い",
+      "日本語サポートが限定的"
+    ],
+    "officialUrl": "https://github.com/marimo-team/marimo-pair",
+    "logoPath": "/logos/marimo-pair.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "データサイエンティスト",
+      "機械学習エンジニア",
+      "Python開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Marimo Team",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "unlegacy-ai",
+    "name": "Unlegacy AI",
+    "nameJa": "アンレガシーAI",
+    "description": "COBOLからAI生成コードまで、あらゆるレガシーコードとモダンコードを文書化するAIプラットフォーム。企業が抱える古いシステムの理解とメンテナンスを劇的に改善し、技術債務の解決を支援する。Show HNで発表されたばかりの新しいサービスで、コードの自動解析、依存関係の可視化、ドキュメント生成を行う。特に大企業のレガシーシステム移行プロジェクトで威力を発揮し、開発チームの生産性向上に貢献する。",
+    "shortDescription": "レガシーコードからAI生成コードまで自動文書化",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "スターター",
+          "price": "0円/月",
+          "features": [
+            "小規模プロジェクト",
+            "基本文書化"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "大規模システム対応",
+            "カスタマイズ",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "多言語コード解析",
+      "自動ドキュメント生成",
+      "依存関係可視化",
+      "レガシーシステム対応",
+      "AI生成コード理解"
+    ],
+    "pros": [
+      "幅広いプログラミング言語対応",
+      "レガシーシステム特化",
+      "技術債務解決に効果的",
+      "自動化による効率性"
+    ],
+    "cons": [
+      "新しいサービスで実績不明",
+      "複雑なシステムでの精度未知数",
+      "日本語対応状況不明"
+    ],
+    "officialUrl": "https://www.unlegacy.ai/",
+    "logoPath": "/logos/unlegacy-ai.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "レガシーシステム管理者",
+      "エンタープライズ開発チーム",
+      "技術債務解決担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Unlegacy AI",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "gbrain",
+    "name": "GBrain",
+    "nameJa": "ジーブレイン",
+    "description": "思考する職業の人々のために構築された現代版memex（記憶増強システム）。ナレッジワーカーの思考プロセスを支援し、情報の保存、検索、関連付けを高度化するAIツール。GitHubで公開されており、個人の知識管理を革新的に改善する。従来のノート管理ツールとは異なり、AIが文脈を理解して関連情報を自動提示。研究者、ライター、コンサルタントなどの知的労働者の思考を拡張し、創造性を高める次世代の知識管理プラットフォーム。",
+    "shortDescription": "思考職向けAI記憶増強システム",
+    "category": "note-knowledge",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "0円",
+          "features": [
+            "セルフホスト可能",
+            "カスタマイズ自由",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI駆動知識検索",
+      "自動関連付け",
+      "文脈理解",
+      "思考プロセス支援",
+      "オープンソース"
+    ],
+    "pros": [
+      "完全無料利用可能",
+      "プライバシー重視設計",
+      "高度なAI知識管理",
+      "研究用途に最適"
+    ],
+    "cons": [
+      "技術者向けセットアップ",
+      "日本語対応不明",
+      "UIの使いやすさ未知数"
+    ],
+    "officialUrl": "https://github.com/garrytan/gbrain",
+    "logoPath": "/logos/gbrain.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "研究者・学者",
+      "ナレッジワーカー",
+      "技術文書作成者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Garry Tan",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "gitbutler",
+    "name": "GitButler",
+    "nameJa": "ギットバトラー",
+    "description": "Gitの次世代を目指すバージョン管理システムとして1,700万ドルの資金調達を完了。従来のGitワークフローの複雑さを解決し、より直感的で効率的なコード管理を実現。AIを活用した自動マージ、コンフリクト解決、ブランチ管理などの高度な機能を提供。特に大規模開発チームでの並行作業を劇的に改善し、開発者の生産性を向上させる。Hacker Newsで307ポイントを獲得し、開発コミュニティから高い注目を集めている革新的なツール。",
+    "shortDescription": "Gitの次世代バージョン管理システム",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "個人利用",
+          "price": "0円/月",
+          "features": [
+            "基本機能",
+            "小規模プロジェクト"
+          ]
+        },
+        {
+          "name": "チームプラン",
+          "price": "約1,500円/月",
+          "features": [
+            "チーム機能",
+            "高度なAI機能",
+            "エンタープライズサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI自動マージ",
+      "直感的UI",
+      "高度なブランチ管理",
+      "コンフリクト自動解決",
+      "チーム協業機能"
+    ],
+    "pros": [
+      "Gitの複雑さを大幅軽減",
+      "大規模資金調達で安定性",
+      "開発効率が劇的向上",
+      "チーム協業に最適"
+    ],
+    "cons": [
+      "新しいツールで学習コスト",
+      "既存Gitとの互換性課題",
+      "エンタープライズ価格が高額"
+    ],
+    "officialUrl": "https://blog.gitbutler.com/series-a",
+    "logoPath": "/logos/gitbutler.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "開発チームリーダー",
+      "大規模プロジェクト管理者",
+      "Git操作に悩む開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "GitButler Inc.",
+    "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "bild-ai",
+    "name": "Bild AI",
+    "nameJa": "ビルドAI",
+    "description": "Y Combinator W25バッチの新星AIスタートアップで、現在創設メンバーとしてプロダクトエンジニアを積極採用中。AI技術を活用した革新的なプロダクト開発に取り組んでおり、シリコンバレーの注目スタートアップとして急成長中。具体的なサービス内容は開発段階だが、YCの厳格な選考を通過した実力派チーム。AI業界での経験を積みたいエンジニアにとって絶好の機会を提供しており、次世代AIツールの開発に携わることができる。",
+    "shortDescription": "YC W25の注目AIスタートアップ",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "未発表",
+          "price": "開発中",
+          "features": [
+            "詳細未公開"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI技術活用",
+      "YCバックアップ",
+      "革新的プロダクト",
+      "急成長スタートアップ",
+      "シリコンバレー拠点"
+    ],
+    "pros": [
+      "Y Combinator選出の信頼性",
+      "成長企業での経験機会",
+      "AI最前線技術に携われる",
+      "国際的な環境"
+    ],
+    "cons": [
+      "サービス内容が不明確",
+      "スタートアップリスク",
+      "日本からの参加困難",
+      "安定性に不安"
+    ],
+    "officialUrl": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
+    "logoPath": "/logos/bild-ai.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "AI業界志望エンジニア",
+      "スタートアップ経験希望者",
+      "海外挑戦意欲のある開発者"
+    ],
+    "releaseYear": 2025,
+    "developer": "Bild AI Inc.",
+    "lastUpdated": "2026-04-11"
   }
 ]
