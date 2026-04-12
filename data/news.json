@@ -67,6 +67,46 @@
     "source": "hackernews"
   },
   {
+    "id": "new-sierra-ai-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "sierra-ai",
+    "title": "Sierra AI が新しく追加されました",
+    "summary": "自然言語で業務を自動化するAIエージェント",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "new-world-human-verification-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "world-human-verification",
+    "title": "World Human Verification が新しく追加されました",
+    "summary": "AIエージェントの背後の人間を認証するシステム",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "new-freee-it-ai-shadow-detection-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "freee-it-ai-shadow-detection",
+    "title": "freee IT管理 AI Shadow Detection が新しく追加されました",
+    "summary": "企業内の無許可AI利用を検知・管理",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "new-youtube-ai-avatar-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "youtube-ai-avatar",
+    "title": "YouTube AI Avatar が新しく追加されました",
+    "summary": "Shorts向けリアルなAIアバターを生成",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "new-meta-muse-spark-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "meta-muse-spark",
+    "title": "Meta Muse Spark が新しく追加されました",
+    "summary": "統合型クリエイティブAI生成ツール",
+    "date": "2026-04-12"
+  },
+  {
     "id": "new-twill-ai-2026-04-11",
     "type": "new-tool",
     "toolSlug": "twill-ai",

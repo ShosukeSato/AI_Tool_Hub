@@ -10881,5 +10881,298 @@
     "releaseYear": 2024,
     "developer": "IEEE Research",
     "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "sierra-ai",
+    "name": "Sierra AI",
+    "nameJa": "シエラAI",
+    "description": "元SalesforceのBret Taylor氏が創設したAIエージェント企業で、「クリックボタンの時代は終わった」と宣言し、自然言語による業務自動化を実現します。顧客サービスや社内業務を音声・テキストで直接指示でき、従来のUI操作を大幅に削減。企業向けの高度な対話型AIエージェントとして注目されています。",
+    "shortDescription": "自然言語で業務を自動化するAIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "カスタムAIエージェント",
+            "自然言語業務自動化",
+            "企業システム連携",
+            "24/7サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自然言語による業務指示",
+      "マルチシステム連携",
+      "リアルタイム処理",
+      "カスタマイズ可能なワークフロー",
+      "音声・テキスト対応"
+    ],
+    "pros": [
+      "直感的な自然言語操作",
+      "複雑な業務プロセスの自動化",
+      "高いカスタマイズ性",
+      "豊富な企業実績"
+    ],
+    "cons": [
+      "企業向けのため個人利用は困難",
+      "詳細な料金が非公開",
+      "導入に時間がかかる可能性"
+    ],
+    "officialUrl": "https://sierra.ai",
+    "logoPath": "/logos/sierra-ai.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "大企業の業務効率化担当者",
+      "カスタマーサービス部門",
+      "デジタル変革を推進する経営陣"
+    ],
+    "releaseYear": 2024,
+    "developer": "Sierra",
+    "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "world-human-verification",
+    "name": "World Human Verification",
+    "nameJa": "ワールド人間認証",
+    "description": "WorldがリリースしたAIショッピングエージェントの背後にいる人間を検証するツールです。AIエージェントが商取引を行う際に、その指示を出している人間の身元を虹彩認証などで確実に特定。AI詐欺やなりすましを防ぎ、安全な自動取引環境を実現します。Web3とAIの融合による次世代の本人確認システムとして注目されています。",
+    "shortDescription": "AIエージェントの背後の人間を認証するシステム",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "無料",
+          "features": [
+            "基本的な人間認証",
+            "AIエージェント連携",
+            "標準セキュリティ"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$29/月（約4,500円）",
+          "features": [
+            "高度な虹彩認証",
+            "企業向けAPI",
+            "24/7サポート",
+            "カスタム統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "虹彩認証技術",
+      "AIエージェント統合",
+      "リアルタイム本人確認",
+      "詐欺防止システム",
+      "API提供"
+    ],
+    "pros": [
+      "高精度な生体認証",
+      "AI詐欺の防止",
+      "簡単なAPI統合",
+      "プライバシー保護設計"
+    ],
+    "cons": [
+      "まだ対応サービスが限定的",
+      "生体認証デバイスが必要",
+      "新しい技術で実績が少ない"
+    ],
+    "officialUrl": "https://worldcoin.org",
+    "logoPath": "/logos/world-human-verification.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "ECサイト運営者",
+      "AIエージェントを活用する企業",
+      "セキュリティを重視する開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "World",
+    "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "freee-it-ai-shadow-detection",
+    "name": "freee IT管理 AI Shadow Detection",
+    "nameJa": "フリーIT管理AIシャドー検知",
+    "description": "freee IT管理が提供する、企業内での無許可AI利用（シャドーAI）を検知・管理するセキュリティツールです。15,000以上のAIツールの利用状況をモニタリングし、情報漏洩リスクを未然に防ぎます。従業員のAI利用を可視化し、適切なガバナンス体制構築をサポート。日本企業のAIセキュリティ課題に特化した実用的なソリューションです。",
+    "shortDescription": "企業内の無許可AI利用を検知・管理",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Standard",
+          "price": "要問い合わせ",
+          "features": [
+            "AIツール検知",
+            "利用状況レポート",
+            "基本的なアラート機能"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "高度な分析機能",
+            "カスタムポリシー設定",
+            "API連携",
+            "専任サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "15,000以上のAIツール検知",
+      "リアルタイムモニタリング",
+      "リスク評価機能",
+      "レポート自動生成",
+      "ポリシー管理"
+    ],
+    "pros": [
+      "包括的なAIツール検知",
+      "日本企業向けの設計",
+      "直感的なダッシュボード",
+      "コンプライアンス対応"
+    ],
+    "cons": [
+      "企業向けのため個人利用不可",
+      "料金が非公開",
+      "導入に専門知識が必要"
+    ],
+    "officialUrl": "https://freee.co.jp/it-kanri/",
+    "logoPath": "/logos/freee-it-ai-shadow-detection.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "IT管理者",
+      "セキュリティ担当者",
+      "コンプライアンス責任者"
+    ],
+    "releaseYear": 2026,
+    "developer": "freee",
+    "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "youtube-ai-avatar",
+    "name": "YouTube AI Avatar",
+    "nameJa": "ユーチューブAIアバター",
+    "description": "YouTubeが新たにリリースしたShortsクリエイター向けのAIアバターツールです。実在の人物の顔や表情を学習し、リアルなアバターを自動生成してショート動画に活用できます。音声に合わせて自然な口の動きや表情を再現し、顔出しなしでも魅力的なコンテンツ制作が可能。クリエイターのプライバシーを保護しながら、エンゲージメントの高い動画制作を支援します。",
+    "shortDescription": "Shorts向けリアルなAIアバターを生成",
+    "category": "video-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "YouTube Premium",
+          "price": "無料（YouTube内蔵機能）",
+          "features": [
+            "AIアバター生成",
+            "音声同期",
+            "表情自動調整",
+            "Shorts統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "リアルなアバター生成",
+      "音声同期機能",
+      "表情・口の動き再現",
+      "Shorts直接投稿",
+      "カスタマイズ可能"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "YouTubeに直接統合",
+      "高品質なアバター生成",
+      "プライバシー保護"
+    ],
+    "cons": [
+      "Shortsのみ対応",
+      "カスタマイズ選択肢が限定的",
+      "他プラットフォームで利用不可"
+    ],
+    "officialUrl": "https://youtube.com",
+    "logoPath": "/logos/youtube-ai-avatar.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "YouTubeショートクリエイター",
+      "顔出しを避けたいコンテンツ制作者",
+      "バーチャル配信者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google/YouTube",
+    "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "meta-muse-spark",
+    "name": "Meta Muse Spark",
+    "nameJa": "メタミューズスパーク",
+    "description": "MetaがリリースしたクリエイティブAIツールで、Meta AIアプリが App Store ランキング5位まで急上昇する要因となりました。テキストプロンプトから高品質な画像、動画、音楽を統合的に生成し、InstagramやFacebookコンテンツに直接活用できます。特にソーシャルメディア向けのコンテンツ制作に特化し、トレンドを反映した魅力的なクリエイティブを瞬時に生成できる点が特徴です。",
+    "shortDescription": "統合型クリエイティブAI生成ツール",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的な画像生成",
+            "月50回まで",
+            "Meta SNS連携",
+            "標準解像度"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19.99/月（約3,000円）",
+          "features": [
+            "無制限生成",
+            "高解像度出力",
+            "動画・音楽生成",
+            "商用利用可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチモーダル生成",
+      "SNS直接連携",
+      "トレンド自動反映",
+      "リアルタイム編集",
+      "コラボレーション機能"
+    ],
+    "pros": [
+      "Meta SNSとの完全統合",
+      "高品質なマルチメディア生成",
+      "トレンドを自動反映",
+      "直感的な操作性"
+    ],
+    "cons": [
+      "Meta以外のSNSでの活用が限定的",
+      "生成内容のコントロールが難しい場合がある",
+      "日本語対応が一部制限"
+    ],
+    "officialUrl": "https://meta.ai",
+    "logoPath": "/logos/meta-muse-spark.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "ソーシャルメディアマーケター",
+      "インスタグラマー",
+      "デジタルクリエイター"
+    ],
+    "releaseYear": 2026,
+    "developer": "Meta",
+    "lastUpdated": "2026-04-12"
   }
 ]

@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Cirrus Labs to join OpenAI",
         "url": "https://cirruslabs.org/",
-        "score": 235,
+        "score": 271,
         "date": "2026-04-12"
       }
     ],
@@ -18,7 +18,7 @@
   {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 9,
+    "buzzScore": 8.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -34,7 +34,7 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -50,7 +50,7 @@
   {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 5.9,
+    "buzzScore": 5.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -64,9 +64,25 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "midnight-captain",
+    "toolName": "Midnight Captain",
+    "buzzScore": 2.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Midnight Captain – A midnight commander inspired file manager",
+        "url": "https://github.com/duguyue100/midnight-captain",
+        "score": 35,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-12",
+    "lastSeen": "2026-04-12"
+  },
+  {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -82,7 +98,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -98,7 +114,7 @@
   {
     "toolSlug": "research-driven-agents",
     "toolName": "Research-Driven Agents",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -114,7 +130,7 @@
   {
     "toolSlug": "bluehammer",
     "toolName": "BlueHammer",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -130,7 +146,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -144,25 +160,9 @@
     "lastSeen": "2026-04-10"
   },
   {
-    "toolSlug": "midnight-captain",
-    "toolName": "Midnight Captain",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Midnight Captain – A midnight commander inspired file manager",
-        "url": "https://github.com/duguyue100/midnight-captain",
-        "score": 10,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-12",
-    "lastSeen": "2026-04-12"
-  },
-  {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -174,54 +174,6 @@
     ],
     "firstSeen": "2026-04-03",
     "lastSeen": "2026-04-05"
-  },
-  {
-    "toolSlug": "qwen3-6-plus",
-    "toolName": "Qwen3.6-Plus",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Qwen3.6-Plus: Towards real world agents",
-        "url": "https://qwen.ai/blog?id=qwen3.6",
-        "score": 579,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "lemonade",
-    "toolName": "Lemonade",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-        "url": "https://lemonade-server.ai",
-        "score": 558,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "1-bit-bonsai",
-    "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-        "url": "https://prismml.com/",
-        "score": 406,
-        "date": "2026-04-02"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-02"
   },
   {
     "toolSlug": "chatgpt",
@@ -257,53 +209,52 @@
     "lastSeen": "2026-04-12"
   },
   {
-    "toolSlug": "typeless",
-    "toolName": "Typeless",
+    "toolSlug": "qwen3-6-plus",
+    "toolName": "Qwen3.6-Plus",
     "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Typeless: AI-powered keyboard that predicts your next sentence",
-        "url": "https://news.ycombinator.com/item?id=example1",
-        "score": 850,
-        "date": "2026-03-28"
-      },
-      {
-        "source": "reddit",
-        "title": "Typeless is changing how we type - AI keyboard review",
-        "score": 1200,
-        "date": "2026-03-30"
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "url": "https://qwen.ai/blog?id=qwen3.6",
+        "score": 579,
+        "date": "2026-04-04"
       }
     ],
-    "firstSeen": "2026-03-25",
-    "lastSeen": "2026-03-30"
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-04"
   },
   {
-    "toolSlug": "claude-code",
-    "toolName": "Claude Code",
+    "toolSlug": "lemonade",
+    "toolName": "Lemonade",
     "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Code: Anthropic's new CLI coding agent",
-        "url": "https://news.ycombinator.com/item?id=example2",
-        "score": 920,
-        "date": "2026-03-26"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic launches Claude Code, a terminal-based AI coding assistant",
-        "date": "2026-03-27"
-      },
-      {
-        "source": "reddit",
-        "title": "Claude Code vs Cursor vs Copilot - real world comparison",
-        "score": 2100,
-        "date": "2026-03-29"
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "url": "https://lemonade-server.ai",
+        "score": 558,
+        "date": "2026-04-04"
       }
     ],
-    "firstSeen": "2026-03-20",
-    "lastSeen": "2026-03-29"
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-04"
+  },
+  {
+    "toolSlug": "1-bit-bonsai",
+    "toolName": "1-Bit Bonsai",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+        "url": "https://prismml.com/",
+        "score": 406,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
   },
   {
     "toolSlug": "claude",
@@ -327,55 +278,53 @@
     "lastSeen": "2026-04-12"
   },
   {
-    "toolSlug": "poke",
-    "toolName": "Poke",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Poke makes using AI agents as easy as sending a text",
-        "score": 1,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-12"
-  },
-  {
-    "toolSlug": "gbrain",
-    "toolName": "GBrain",
+    "toolSlug": "typeless",
+    "toolName": "Typeless",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "GBrain – The memex, built for people who think for a living",
-        "url": "https://github.com/garrytan/gbrain",
-        "score": 7,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-11"
-  },
-  {
-    "toolSlug": "openai-o3",
-    "toolName": "OpenAI o3",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "OpenAI releases o3: next-gen reasoning model",
-        "date": "2026-03-18"
+        "title": "Typeless: AI-powered keyboard that predicts your next sentence",
+        "url": "https://news.ycombinator.com/item?id=example1",
+        "score": 850,
+        "date": "2026-03-28"
       },
       {
-        "source": "hackernews",
-        "title": "OpenAI o3 benchmarks show significant reasoning improvements",
-        "score": 650,
-        "date": "2026-03-20"
+        "source": "reddit",
+        "title": "Typeless is changing how we type - AI keyboard review",
+        "score": 1200,
+        "date": "2026-03-30"
       }
     ],
-    "firstSeen": "2026-03-15",
-    "lastSeen": "2026-03-20"
+    "firstSeen": "2026-03-25",
+    "lastSeen": "2026-03-30"
+  },
+  {
+    "toolSlug": "claude-code",
+    "toolName": "Claude Code",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude Code: Anthropic's new CLI coding agent",
+        "url": "https://news.ycombinator.com/item?id=example2",
+        "score": 920,
+        "date": "2026-03-26"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic launches Claude Code, a terminal-based AI coding assistant",
+        "date": "2026-03-27"
+      },
+      {
+        "source": "reddit",
+        "title": "Claude Code vs Cursor vs Copilot - real world comparison",
+        "score": 2100,
+        "date": "2026-03-29"
+      }
+    ],
+    "firstSeen": "2026-03-20",
+    "lastSeen": "2026-03-29"
   },
   {
     "toolSlug": "bild-ai",
@@ -406,6 +355,36 @@
       }
     ],
     "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-12"
+  },
+  {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-12"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - The New York Times",
+        "score": 1,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-03-22",
     "lastSeen": "2026-04-12"
   },
   {
@@ -454,9 +433,60 @@
     "lastSeen": "2026-04-12"
   },
   {
+    "toolSlug": "poke",
+    "toolName": "Poke",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Poke makes using AI agents as easy as sending a text",
+        "score": 1,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-12"
+  },
+  {
+    "toolSlug": "gbrain",
+    "toolName": "GBrain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GBrain – The memex, built for people who think for a living",
+        "url": "https://github.com/garrytan/gbrain",
+        "score": 7,
+        "date": "2026-04-11"
+      }
+    ],
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-11"
+  },
+  {
+    "toolSlug": "openai-o3",
+    "toolName": "OpenAI o3",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "OpenAI releases o3: next-gen reasoning model",
+        "date": "2026-03-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "OpenAI o3 benchmarks show significant reasoning improvements",
+        "score": 650,
+        "date": "2026-03-20"
+      }
+    ],
+    "firstSeen": "2026-03-15",
+    "lastSeen": "2026-03-20"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "reddit",
@@ -474,24 +504,9 @@
     "lastSeen": "2026-03-25"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-11"
-  },
-  {
     "toolSlug": "narit-ai-gujarat-2026",
     "toolName": "NARIT AI Gujarat 2026",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -504,24 +519,9 @@
     "lastSeen": "2026-04-11"
   },
   {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - The New York Times",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-03-22",
-    "lastSeen": "2026-04-11"
-  },
-  {
     "toolSlug": "stitch",
     "toolName": "Stitch",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -536,7 +536,7 @@
   {
     "toolSlug": "tui-use",
     "toolName": "TUI-use",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -552,7 +552,7 @@
   {
     "toolSlug": "skrun",
     "toolName": "Skrun",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -568,7 +568,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "reddit",
@@ -583,7 +583,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -598,7 +598,7 @@
   {
     "toolSlug": "gemma-gem",
     "toolName": "Gemma Gem",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -610,21 +610,5 @@
     ],
     "firstSeen": "2026-04-06",
     "lastSeen": "2026-04-07"
-  },
-  {
-    "toolSlug": "tailslayer",
-    "toolName": "Tailslayer",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Tailslayer: Library for reducing tail latency in RAM reads",
-        "url": "https://github.com/LaurieWired/tailslayer",
-        "score": 62,
-        "date": "2026-04-08"
-      }
-    ],
-    "firstSeen": "2026-04-08",
-    "lastSeen": "2026-04-08"
   }
 ]
