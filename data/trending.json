@@ -1,8 +1,24 @@
 [
   {
+    "toolSlug": "cirrus-labs",
+    "toolName": "Cirrus Labs",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Cirrus Labs to join OpenAI",
+        "url": "https://cirruslabs.org/",
+        "score": 235,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-12",
+    "lastSeen": "2026-04-12"
+  },
+  {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 10,
+    "buzzScore": 9,
     "mentions": [
       {
         "source": "hackernews",
@@ -18,7 +34,7 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 8.1,
+    "buzzScore": 7.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -34,7 +50,7 @@
   {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 6.6,
+    "buzzScore": 5.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -50,7 +66,7 @@
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -66,7 +82,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -82,7 +98,7 @@
   {
     "toolSlug": "research-driven-agents",
     "toolName": "Research-Driven Agents",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -96,9 +112,25 @@
     "lastSeen": "2026-04-10"
   },
   {
+    "toolSlug": "bluehammer",
+    "toolName": "BlueHammer",
+    "buzzScore": 1.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
+        "url": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
+        "score": 24,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-12",
+    "lastSeen": "2026-04-12"
+  },
+  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -112,9 +144,25 @@
     "lastSeen": "2026-04-10"
   },
   {
+    "toolSlug": "midnight-captain",
+    "toolName": "Midnight Captain",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Midnight Captain – A midnight commander inspired file manager",
+        "url": "https://github.com/duguyue100/midnight-captain",
+        "score": 10,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-12",
+    "lastSeen": "2026-04-12"
+  },
+  {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -130,7 +178,7 @@
   {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -146,7 +194,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -162,7 +210,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -178,40 +226,40 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
         "score": 1,
-        "date": "2026-04-11"
+        "date": "2026-04-12"
       },
       {
         "source": "techcrunch",
         "title": "ChatGPT finally offers $100/month Pro plan",
         "score": 1,
-        "date": "2026-04-11"
+        "date": "2026-04-12"
       },
       {
         "source": "techcrunch",
         "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
         "score": 1,
-        "date": "2026-04-11"
+        "date": "2026-04-12"
       },
       {
         "source": "techcrunch",
         "title": "Tubi is the first streamer to launch a native app within ChatGPT",
         "score": 1,
-        "date": "2026-04-11"
+        "date": "2026-04-12"
       }
     ],
     "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-11"
+    "lastSeen": "2026-04-12"
   },
   {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -233,7 +281,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -258,9 +306,45 @@
     "lastSeen": "2026-03-29"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-12"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic temporarily banned OpenClaw&#8217;s creator from accessing Claude",
+        "score": 1,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-12"
+  },
+  {
+    "toolSlug": "poke",
+    "toolName": "Poke",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Poke makes using AI agents as easy as sending a text",
+        "score": 1,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-12"
+  },
+  {
     "toolSlug": "gbrain",
     "toolName": "GBrain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -276,7 +360,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -294,45 +378,85 @@
     "lastSeen": "2026-03-20"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.1,
+    "toolSlug": "bild-ai",
+    "toolName": "Bild AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Bild AI",
+        "url": "YC W25) Is Hiring a Founding Product Engineer (https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
+        "score": 1,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-12"
+  },
+  {
+    "toolSlug": "arisealpha",
+    "toolName": "AriseAlpha",
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "title": "AriseAlpha Launches Free AI Crypto & Stock Trading Platform with Automated Trading Tools and Portfolio Management (2026) - markets.businessinsider.com",
         "score": 1,
-        "date": "2026-04-11"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic temporarily banned OpenClaw&#8217;s creator from accessing Claude",
-        "score": 1,
-        "date": "2026-04-11"
+        "date": "2026-04-12"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-11"
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-12"
   },
   {
-    "toolSlug": "poke",
-    "toolName": "Poke",
-    "buzzScore": 1.1,
+    "toolSlug": "admina-ai",
+    "toolName": "Admina AIヘルプデスク",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Poke makes using AI agents as easy as sending a text",
+        "source": "googlenews",
+        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
         "score": 1,
-        "date": "2026-04-11"
+        "date": "2026-04-12"
       }
     ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-11"
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-12"
+  },
+  {
+    "toolSlug": "findy-architecture-ai",
+    "toolName": "Findy Architecture AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-12"
+  },
+  {
+    "toolSlug": "voicelog",
+    "toolName": "VoiceLog",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "アピリッツ、クチコミ・レビュー投稿管理ツール「VoiceLog」に生成AIを活用した新機能「レビュー要約機能」をリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-12"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "reddit",
@@ -350,40 +474,9 @@
     "lastSeen": "2026-03-25"
   },
   {
-    "toolSlug": "bild-ai",
-    "toolName": "Bild AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Bild AI",
-        "url": "YC W25) Is Hiring a Founding Product Engineer (https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-11"
-  },
-  {
-    "toolSlug": "arisealpha",
-    "toolName": "AriseAlpha",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AriseAlpha Launches Free AI Crypto & Stock Trading Platform with Automated Trading Tools and Portfolio Management (2026) - markets.businessinsider.com",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-11"
-  },
-  {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -398,7 +491,7 @@
   {
     "toolSlug": "narit-ai-gujarat-2026",
     "toolName": "NARIT AI Gujarat 2026",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -413,7 +506,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -428,7 +521,7 @@
   {
     "toolSlug": "stitch",
     "toolName": "Stitch",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -441,54 +534,9 @@
     "lastSeen": "2026-04-11"
   },
   {
-    "toolSlug": "admina-ai",
-    "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-11"
-  },
-  {
-    "toolSlug": "findy-architecture-ai",
-    "toolName": "Findy Architecture AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-11"
-  },
-  {
-    "toolSlug": "voicelog",
-    "toolName": "VoiceLog",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "アピリッツ、クチコミ・レビュー投稿管理ツール「VoiceLog」に生成AIを活用した新機能「レビュー要約機能」をリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-11"
-  },
-  {
     "toolSlug": "tui-use",
     "toolName": "TUI-use",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -504,7 +552,7 @@
   {
     "toolSlug": "skrun",
     "toolName": "Skrun",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -520,7 +568,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "reddit",
@@ -535,7 +583,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -550,7 +598,7 @@
   {
     "toolSlug": "gemma-gem",
     "toolName": "Gemma Gem",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -566,7 +614,7 @@
   {
     "toolSlug": "tailslayer",
     "toolName": "Tailslayer",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -578,51 +626,5 @@
     ],
     "firstSeen": "2026-04-08",
     "lastSeen": "2026-04-08"
-  },
-  {
-    "toolSlug": "vegas-pro-2026",
-    "toolName": "Vegas Pro 2026",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など - CGinterest",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-04",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-        "score": 1,
-        "date": "2026-04-09"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "agent-reading-test",
-    "toolName": "Agent Reading Test",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Agent Reading Test",
-        "url": "https://agentreadingtest.com",
-        "score": 65,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-07"
   }
 ]

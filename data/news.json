@@ -1,5 +1,72 @@
 [
   {
+    "id": "new-midnight-captain-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "midnight-captain",
+    "title": "Midnight Captain が新しく追加されました",
+    "summary": "モダンなファイル管理ツール",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "new-bluehammer-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "bluehammer",
+    "title": "BlueHammer が新しく追加されました",
+    "summary": "セキュリティ検証ツール",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "new-cirrus-labs-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "cirrus-labs",
+    "title": "Cirrus Labs が新しく追加されました",
+    "summary": "AI統合開発プラットフォーム",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "new-linux-kernel-ai-assistant-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "linux-kernel-ai-assistant",
+    "title": "Linux Kernel AI Assistant が新しく追加されました",
+    "summary": "Linuxカーネル開発AI支援ツール",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "new-spray-paint-color-creator-2026-04-12",
+    "type": "new-tool",
+    "toolSlug": "spray-paint-color-creator",
+    "title": "Spray Paint Color Creator が新しく追加されました",
+    "summary": "革新的スプレーペイント技術",
+    "date": "2026-04-12"
+  },
+  {
+    "id": "trending-cirrus-labs-2026-04-12",
+    "type": "trending",
+    "toolSlug": "cirrus-labs",
+    "title": "Cirrus Labs が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Cirrus Labs to join OpenAI",
+    "date": "2026-04-12",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-instant-1-0-2026-04-12",
+    "type": "trending",
+    "toolSlug": "instant-1-0",
+    "title": "Instant 1.0 が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Instant 1.0, a backend for AI-coded apps",
+    "date": "2026-04-12",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-project-glasswing-2026-04-12",
+    "type": "trending",
+    "toolSlug": "project-glasswing",
+    "title": "Project Glasswing が話題沸騰中（バズスコア: 7.3）",
+    "summary": "hackernewsで注目: Project Glasswing: Securing critical software for the AI era",
+    "date": "2026-04-12",
+    "source": "hackernews"
+  },
+  {
     "id": "new-twill-ai-2026-04-11",
     "type": "new-tool",
     "toolSlug": "twill-ai",

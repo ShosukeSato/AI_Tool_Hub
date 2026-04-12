@@ -3,10 +3,10 @@
     "toolSlug": "chatgpt",
     "overall": 7.5,
     "performance": 9,
-    "buzz": 1.3,
+    "buzz": 1.2,
     "easeOfUse": 9,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "claude",
@@ -15,7 +15,7 @@
     "buzz": 1.1,
     "easeOfUse": 9,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "gemini",
@@ -24,16 +24,16 @@
     "buzz": 7,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "deepseek",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "grok",
@@ -42,7 +42,7 @@
     "buzz": 3,
     "easeOfUse": 7,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "microsoft-copilot",
@@ -51,7 +51,7 @@
     "buzz": 3,
     "easeOfUse": 7,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "openai-o1",
@@ -60,7 +60,7 @@
     "buzz": 6,
     "easeOfUse": 7,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "llama",
@@ -69,16 +69,16 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "openai-o3",
     "overall": 6.7,
     "performance": 9,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 8,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "doubao",
@@ -87,43 +87,43 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "1-bit-bonsai",
     "overall": 7,
     "performance": 8,
-    "buzz": 1.4,
+    "buzz": 1.3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "gemma-4",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "apfel",
     "overall": 7.9,
     "performance": 8,
-    "buzz": 1.6,
+    "buzz": 1.4,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "gemma-gem",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "claude-mythos",
@@ -132,25 +132,25 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "cursor",
     "overall": 7.5,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "claude-code",
     "overall": 6.4,
     "performance": 9,
-    "buzz": 1.3,
+    "buzz": 1.2,
     "easeOfUse": 7,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "github-copilot",
@@ -159,7 +159,7 @@
     "buzz": 7,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "windsurf",
@@ -168,7 +168,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "devin",
@@ -177,7 +177,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "replit-agent",
@@ -186,7 +186,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "v0",
@@ -195,7 +195,7 @@
     "buzz": 9,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "bolt",
@@ -204,7 +204,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "lovable",
@@ -213,16 +213,16 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "openclaw",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "findy-architecture-ai",
@@ -231,7 +231,7 @@
     "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "superpowers-for-claude-code",
@@ -240,7 +240,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "ctx",
@@ -249,7 +249,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "pluck",
@@ -258,7 +258,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "mdarena",
@@ -267,7 +267,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "nanocode",
@@ -276,16 +276,16 @@
     "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "freestyle",
     "overall": 7.1,
     "performance": 8,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "railway-frontend",
@@ -294,7 +294,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "zed",
@@ -303,7 +303,7 @@
     "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "twill-ai",
@@ -312,7 +312,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "unlegacy-ai",
@@ -321,7 +321,7 @@
     "buzz": 3,
     "easeOfUse": 7,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "gitbutler",
@@ -330,7 +330,25 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "cirrus-labs",
+    "overall": 7.2,
+    "performance": 9,
+    "buzz": 10,
+    "easeOfUse": 7,
+    "costPerformance": 4,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "linux-kernel-ai-assistant",
+    "overall": 9,
+    "performance": 10,
+    "buzz": 3,
+    "easeOfUse": 10,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "midjourney",
@@ -339,7 +357,7 @@
     "buzz": 7,
     "easeOfUse": 7,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "dall-e-3",
@@ -348,7 +366,7 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "stable-diffusion",
@@ -357,7 +375,7 @@
     "buzz": 7,
     "easeOfUse": 5,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "adobe-firefly",
@@ -366,7 +384,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "leonardo-ai",
@@ -375,7 +393,7 @@
     "buzz": 5,
     "easeOfUse": 7,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "ideogram",
@@ -384,7 +402,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "flux",
@@ -393,7 +411,7 @@
     "buzz": 6,
     "easeOfUse": 6,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "canva-ai",
@@ -402,7 +420,7 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "perplexity",
@@ -411,7 +429,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "genspark",
@@ -420,7 +438,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "perplexity-spaces",
@@ -429,7 +447,7 @@
     "buzz": 3,
     "easeOfUse": 7,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "you-com",
@@ -438,7 +456,7 @@
     "buzz": 3,
     "easeOfUse": 7,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "where",
@@ -447,7 +465,7 @@
     "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "kronaxis",
@@ -456,7 +474,7 @@
     "buzz": 3,
     "easeOfUse": 5,
     "costPerformance": 3,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "usgs-drought-forecast-ai",
@@ -465,7 +483,7 @@
     "buzz": 3,
     "easeOfUse": 10,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "oldnyc-ai",
@@ -474,7 +492,7 @@
     "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "manus",
@@ -483,16 +501,16 @@
     "buzz": 0.6,
     "easeOfUse": 5,
     "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "dify",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "coze",
@@ -501,7 +519,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "claude-computer-use",
@@ -510,7 +528,7 @@
     "buzz": 6,
     "easeOfUse": 6,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "sakana-ai-scientist",
@@ -519,7 +537,7 @@
     "buzz": 6,
     "easeOfUse": 3,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "attie",
@@ -528,7 +546,7 @@
     "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -537,7 +555,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "crewworks",
@@ -546,16 +564,16 @@
     "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "qwen3-6-plus",
     "overall": 6.2,
     "performance": 8,
-    "buzz": 1.4,
+    "buzz": 1.3,
     "easeOfUse": 6,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "imbue-mngr",
@@ -564,7 +582,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "mbodi-ai",
@@ -573,7 +591,7 @@
     "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "alibaba-agentic-ai",
@@ -582,7 +600,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "cisco-agentic-security",
@@ -591,7 +609,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "new-relic-ai-agent-platform",
@@ -600,7 +618,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "apex-protocol",
@@ -609,7 +627,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "miibo-web",
@@ -618,7 +636,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "home-depot-ai-assistant",
@@ -627,7 +645,7 @@
     "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "admina-ai",
@@ -636,7 +654,7 @@
     "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "aisle-assistant",
@@ -645,7 +663,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "hippo-memory",
@@ -654,7 +672,7 @@
     "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "meta-agent",
@@ -663,16 +681,16 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "tui-use",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "claude-managed-agents",
@@ -681,7 +699,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "pvp-ai-commander",
@@ -690,7 +708,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "poke",
@@ -699,7 +717,7 @@
     "buzz": 1.1,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "botctl",
@@ -708,7 +726,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "astropad-workbench",
@@ -717,16 +735,16 @@
     "buzz": 3,
     "easeOfUse": 7,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "research-driven-agents",
     "overall": 6,
     "performance": 9,
-    "buzz": 2.2,
+    "buzz": 2,
     "easeOfUse": 7,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "andon-market-ai",
@@ -735,7 +753,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "suno",
@@ -744,16 +762,16 @@
     "buzz": 7,
     "easeOfUse": 9,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "udio",
-    "overall": 6.9,
+    "overall": 6.8,
     "performance": 9,
-    "buzz": 2,
+    "buzz": 1.8,
     "easeOfUse": 7,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "sora",
@@ -762,7 +780,7 @@
     "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "runway",
@@ -771,7 +789,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "pika",
@@ -780,7 +798,7 @@
     "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "heygen",
@@ -789,7 +807,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "synthesia",
@@ -798,7 +816,7 @@
     "buzz": 5,
     "easeOfUse": 7,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "google-veo-2",
@@ -807,7 +825,7 @@
     "buzz": 1.2,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "nolang",
@@ -816,7 +834,7 @@
     "buzz": 3,
     "easeOfUse": 7,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "tbpn",
@@ -825,7 +843,7 @@
     "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "google-vids",
@@ -834,7 +852,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "shortbooster",
@@ -843,7 +861,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "vrew",
@@ -852,7 +870,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "descript",
@@ -861,7 +879,7 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "capcut",
@@ -870,7 +888,7 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "vegas-pro-2026",
@@ -879,7 +897,7 @@
     "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "eluvio-ai",
@@ -888,7 +906,7 @@
     "buzz": 3,
     "easeOfUse": 5,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "oiioii",
@@ -897,7 +915,7 @@
     "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "beeble-ai-rotoscoping",
@@ -906,7 +924,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "elevenlabs",
@@ -915,7 +933,7 @@
     "buzz": 7,
     "easeOfUse": 8,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "otter-ai",
@@ -924,7 +942,7 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "whisper",
@@ -933,16 +951,16 @@
     "buzz": 6,
     "easeOfUse": 6,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "typeless",
     "overall": 7.3,
     "performance": 9,
-    "buzz": 1.3,
+    "buzz": 1.2,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "notta",
@@ -951,7 +969,7 @@
     "buzz": 6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "deepgram",
@@ -960,7 +978,7 @@
     "buzz": 5,
     "easeOfUse": 7,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "parlor",
@@ -969,7 +987,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "google-ai-dictation",
@@ -978,7 +996,7 @@
     "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "notion-ai",
@@ -987,7 +1005,7 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "jasper",
@@ -996,7 +1014,7 @@
     "buzz": 3,
     "easeOfUse": 7,
     "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "deepl",
@@ -1005,7 +1023,7 @@
     "buzz": 7,
     "easeOfUse": 9,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "napkin-ai",
@@ -1014,7 +1032,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "grammarly",
@@ -1023,7 +1041,7 @@
     "buzz": 6,
     "easeOfUse": 9,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "claude-content-writer",
@@ -1032,7 +1050,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "",
@@ -1041,7 +1059,7 @@
     "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "gamma",
@@ -1050,7 +1068,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "figma-ai",
@@ -1059,7 +1077,7 @@
     "buzz": 5,
     "easeOfUse": 8,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "recraft-ai",
@@ -1068,16 +1086,16 @@
     "buzz": 5,
     "easeOfUse": 7,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "stitch",
-    "overall": 5.3,
+    "overall": 5.2,
     "performance": 6,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "css-studio",
@@ -1086,7 +1104,16 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "spray-paint-color-creator",
+    "overall": 6.4,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "chatwork-ai",
@@ -1095,259 +1122,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "copilot-plus-pc",
-    "overall": 5.8,
-    "performance": 7,
-    "buzz": 3,
-    "easeOfUse": 7,
-    "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "superhuman",
-    "overall": 7,
-    "performance": 8,
-    "buzz": 5,
-    "easeOfUse": 8,
-    "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "yomel",
-    "overall": 6.9,
-    "performance": 8,
-    "buzz": 0.6,
-    "easeOfUse": 8,
-    "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "llmnesia",
-    "overall": 7,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 7,
-    "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "findy-ai-plus",
-    "overall": 7,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 7,
-    "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "podroid",
-    "overall": 7,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 6,
-    "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "vectorcast-2026",
-    "overall": 5.8,
-    "performance": 9,
-    "buzz": 0.6,
-    "easeOfUse": 6,
-    "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "travel-hacking-toolkit",
-    "overall": 6.9,
-    "performance": 7,
-    "buzz": 0.6,
-    "easeOfUse": 8,
-    "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "slack-ai-features",
-    "overall": 7.5,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 9,
-    "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "zevo-gpt-5-4",
-    "overall": 6.7,
-    "performance": 9,
-    "buzz": 3,
-    "easeOfUse": 7,
-    "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "hitpaw-ai-suite",
-    "overall": 7,
-    "performance": 7,
-    "buzz": 3,
-    "easeOfUse": 8,
-    "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "meta-anti-scam-ai",
-    "overall": 8.4,
-    "performance": 9,
-    "buzz": 3,
-    "easeOfUse": 9,
-    "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "visa-ai-dispute-manager",
-    "overall": 6.1,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 7,
-    "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "syntaqlite",
-    "overall": 7.3,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 8,
-    "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "prism-ai",
-    "overall": 6.7,
-    "performance": 9,
-    "buzz": 3,
-    "easeOfUse": 7,
-    "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "rocket",
-    "overall": 6.9,
-    "performance": 8,
-    "buzz": 0.6,
-    "easeOfUse": 8,
-    "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "istudy-ai-platform",
-    "overall": 6.3,
-    "performance": 9,
-    "buzz": 0.6,
-    "easeOfUse": 7,
-    "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "moneyforward-ai-cowork",
-    "overall": 6.7,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 8,
-    "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "project-glasswing",
-    "overall": 6.6,
-    "performance": 8,
-    "buzz": 8.1,
-    "easeOfUse": 6,
-    "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "mempalace",
-    "overall": 6.3,
-    "performance": 7,
-    "buzz": 0.6,
-    "easeOfUse": 8,
-    "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "adobe-student-spaces",
-    "overall": 8.1,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 9,
-    "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "loverly-ai",
-    "overall": 6.7,
-    "performance": 7,
-    "buzz": 3,
-    "easeOfUse": 8,
-    "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "tubi-chatgpt-app",
-    "overall": 7.3,
-    "performance": 7,
-    "buzz": 3,
-    "easeOfUse": 8,
-    "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "google-maps-ai-captions",
-    "overall": 8.1,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 9,
-    "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "confluence-ai-agents",
-    "overall": 6.7,
-    "performance": 9,
-    "buzz": 3,
-    "easeOfUse": 7,
-    "costPerformance": 6,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "voicelog",
-    "overall": 5.8,
-    "performance": 8,
-    "buzz": 1,
-    "easeOfUse": 7,
-    "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "arisealpha",
-    "overall": 6.5,
-    "performance": 7,
-    "buzz": 1,
-    "easeOfUse": 6,
-    "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
-  },
-  {
-    "toolSlug": "amazon-pet-matcher-ai",
-    "overall": 8.1,
-    "performance": 8,
-    "buzz": 3,
-    "easeOfUse": 9,
-    "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "copilot-plus",
@@ -1356,7 +1131,34 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 5,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "superhuman",
+    "overall": 7,
+    "performance": 8,
+    "buzz": 5,
+    "easeOfUse": 8,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "yomel",
+    "overall": 6.9,
+    "performance": 8,
+    "buzz": 0.6,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "llmnesia",
+    "overall": 7,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "findy-ai",
@@ -1365,7 +1167,232 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "podroid",
+    "overall": 7,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 6,
+    "costPerformance": 9,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "vectorcast-2026",
+    "overall": 5.8,
+    "performance": 9,
+    "buzz": 0.6,
+    "easeOfUse": 6,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "travel-hacking-toolkit",
+    "overall": 6.9,
+    "performance": 7,
+    "buzz": 0.6,
+    "easeOfUse": 8,
+    "costPerformance": 9,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "slack-ai-features",
+    "overall": 7.5,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 9,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "zevo-gpt-5-4",
+    "overall": 6.7,
+    "performance": 9,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "hitpaw-ai-suite",
+    "overall": 7,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "meta-anti-scam-ai",
+    "overall": 8.4,
+    "performance": 9,
+    "buzz": 3,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "visa-ai-dispute-manager",
+    "overall": 6.1,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "syntaqlite",
+    "overall": 7.3,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "prism-ai",
+    "overall": 6.7,
+    "performance": 9,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "rocket",
+    "overall": 6.9,
+    "performance": 8,
+    "buzz": 0.6,
+    "easeOfUse": 8,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "istudy-ai-platform",
+    "overall": 6.3,
+    "performance": 9,
+    "buzz": 0.6,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "moneyforward-ai-cowork",
+    "overall": 6.7,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "project-glasswing",
+    "overall": 6.5,
+    "performance": 8,
+    "buzz": 7.3,
+    "easeOfUse": 6,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "mempalace",
+    "overall": 6.3,
+    "performance": 7,
+    "buzz": 0.6,
+    "easeOfUse": 8,
+    "costPerformance": 7,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "adobe-student-spaces",
+    "overall": 8.1,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "loverly-ai",
+    "overall": 6.7,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 7,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "tubi-chatgpt-app",
+    "overall": 7.3,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 9,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "google-maps-ai-captions",
+    "overall": 8.1,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "confluence-ai-agents",
+    "overall": 6.7,
+    "performance": 9,
+    "buzz": 3,
+    "easeOfUse": 7,
+    "costPerformance": 6,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "voicelog",
+    "overall": 5.8,
+    "performance": 8,
+    "buzz": 1,
+    "easeOfUse": 7,
+    "costPerformance": 5,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "arisealpha",
+    "overall": 6.5,
+    "performance": 7,
+    "buzz": 1,
+    "easeOfUse": 6,
+    "costPerformance": 9,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "amazon-pet-matcher-ai",
+    "overall": 8.1,
+    "performance": 8,
+    "buzz": 3,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "midnight-captain",
+    "overall": 7.9,
+    "performance": 8,
+    "buzz": 1.4,
+    "easeOfUse": 9,
+    "costPerformance": 10,
+    "lastCalculated": "2026-04-12"
+  },
+  {
+    "toolSlug": "bluehammer",
+    "overall": 7.1,
+    "performance": 7,
+    "buzz": 1.9,
+    "easeOfUse": 8,
+    "costPerformance": 9,
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "notebooklm",
@@ -1374,16 +1401,16 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "gbrain",
-    "overall": 7.5,
-    "performance": 8,
-    "buzz": 1.2,
-    "easeOfUse": 9,
-    "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "overall": 6.1,
+    "performance": 6,
+    "buzz": 1.1,
+    "easeOfUse": 7,
+    "costPerformance": 8,
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "claude-mcp",
@@ -1392,16 +1419,16 @@
     "buzz": 5,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "lemonade",
-    "overall": 7.9,
+    "overall": 7.8,
     "performance": 8,
-    "buzz": 1.4,
+    "buzz": 1.3,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "litellm",
@@ -1410,7 +1437,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "piguard",
@@ -1419,7 +1446,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "coefficient-bio",
@@ -1428,7 +1455,7 @@
     "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "mintlify-virtual-filesystem",
@@ -1437,7 +1464,7 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "pleasanter-mcp",
@@ -1446,7 +1473,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "cognichip",
@@ -1455,7 +1482,7 @@
     "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "sllm",
@@ -1464,7 +1491,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "openrouter",
@@ -1473,7 +1500,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "guppylm",
@@ -1482,7 +1509,7 @@
     "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "lm-studio-headless-cli",
@@ -1491,7 +1518,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "xoople",
@@ -1500,7 +1527,7 @@
     "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "agent-reading-test",
@@ -1509,7 +1536,7 @@
     "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "google-scion",
@@ -1518,25 +1545,25 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "tailslayer",
-    "overall": 7.8,
+    "overall": 7.7,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "megatrain",
     "overall": 8,
     "performance": 8,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "arcee-ai",
@@ -1545,16 +1572,16 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "skrun",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "nile-local",
@@ -1563,16 +1590,16 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 7,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "instant-1-0",
-    "overall": 8.3,
+    "overall": 8.2,
     "performance": 8,
-    "buzz": 10,
+    "buzz": 9,
     "easeOfUse": 8,
     "costPerformance": 8,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "autograd-engine",
@@ -1581,7 +1608,7 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "lrnnsmdds",
@@ -1590,16 +1617,16 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 9,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "marimo-pair",
-    "overall": 8.6,
+    "overall": 8.5,
     "performance": 8,
-    "buzz": 6.6,
+    "buzz": 5.9,
     "easeOfUse": 9,
     "costPerformance": 10,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "bild-ai",
@@ -1608,7 +1635,7 @@
     "buzz": 1,
     "easeOfUse": 5,
     "costPerformance": 3,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "samsara-ai-insights-2026",
@@ -1617,15 +1644,15 @@
     "buzz": 3,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   },
   {
     "toolSlug": "narit-ai-gujarat-2026",
-    "overall": 5.3,
+    "overall": 5.2,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 4,
-    "lastCalculated": "2026-04-11"
+    "lastCalculated": "2026-04-12"
   }
 ]

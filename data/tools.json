@@ -10621,5 +10621,265 @@
     "releaseYear": 2026,
     "developer": "グジャラート州警察",
     "lastUpdated": "2026-04-11"
+  },
+  {
+    "slug": "midnight-captain",
+    "name": "Midnight Captain",
+    "nameJa": "ミッドナイト・キャプテン",
+    "description": "Unix系システムで長年愛用されているファイルマネージャー「Midnight Commander」にインスパイアされたモダンなファイル管理ツール。直感的な2ペイン表示でファイル操作を効率化し、開発者やシステム管理者の作業フローを大幅に改善。GitHubで公開されており、コマンドライン作業に慣れ親しんだユーザーにとって馴染みやすいインターフェースを提供している。",
+    "shortDescription": "モダンなファイル管理ツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "2ペイン表示",
+            "ファイル操作",
+            "クロスプラットフォーム"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "2ペイン表示",
+      "高速ファイル操作",
+      "キーボードショートカット",
+      "クロスプラットフォーム対応",
+      "オープンソース"
+    ],
+    "pros": [
+      "直感的な操作性",
+      "開発者フレンドリー",
+      "無料で利用可能",
+      "軽量で高速"
+    ],
+    "cons": [
+      "学習コストが必要",
+      "GUI派には不向き",
+      "日本語サポートが限定的"
+    ],
+    "officialUrl": "https://github.com/duguyue100/midnight-captain",
+    "logoPath": "/logos/midnight-captain.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "開発者",
+      "システム管理者",
+      "コマンドライン愛用者"
+    ],
+    "releaseYear": 2024,
+    "developer": "duguyue100",
+    "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "bluehammer",
+    "name": "BlueHammer",
+    "nameJa": "ブルーハンマー",
+    "description": "Windows DefenderのアップデートプロセスやLinuxカーネル開発でのAI支援が注目される中、セキュリティの脆弱性を突くツールとしてBlueHammerが話題となっている。Windows DefenderのアップデートプロセスをSYSTEMアクセス獲得に悪用する手法で、サイバーセキュリティ業界で大きな関心を集めている。セキュリティ研究者や侵入テスト担当者にとって重要な検証ツールとなっている。",
+    "shortDescription": "セキュリティ検証ツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "研究用",
+          "price": "無料",
+          "features": [
+            "脆弱性検証",
+            "セキュリティテスト",
+            "研究目的利用"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "システムアクセス検証",
+      "脆弱性テスト",
+      "セキュリティ研究",
+      "侵入テスト支援",
+      "Windows環境対応"
+    ],
+    "pros": [
+      "セキュリティ研究に有用",
+      "実証的な検証が可能",
+      "最新の脆弱性に対応",
+      "研究者コミュニティで注目"
+    ],
+    "cons": [
+      "悪用のリスク",
+      "専門知識が必要",
+      "法的制約あり"
+    ],
+    "officialUrl": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
+    "logoPath": "/logos/bluehammer.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "セキュリティ研究者",
+      "侵入テスト担当者",
+      "サイバーセキュリティ専門家"
+    ],
+    "releaseYear": 2024,
+    "developer": "HackingPassion",
+    "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "cirrus-labs",
+    "name": "Cirrus Labs",
+    "nameJa": "サーラス・ラボ",
+    "description": "OpenAIに買収されることが発表された注目のスタートアップ。CI/CDパイプラインの自動化とクラウドネイティブな開発環境の提供で知られており、開発者の生産性向上に特化したツールを展開してきた。OpenAIとの統合により、AI支援による開発フローの革新が期待されている。235ポイントという高い注目度でHacker Newsでも話題となっており、開発者コミュニティから大きな期待を集めている。",
+    "shortDescription": "AI統合開発プラットフォーム",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問合せ",
+          "features": [
+            "CI/CD自動化",
+            "クラウドネイティブ",
+            "AI統合開発"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "CI/CD自動化",
+      "クラウドネイティブ開発",
+      "AI支援開発",
+      "OpenAI統合",
+      "スケーラブルインフラ"
+    ],
+    "pros": [
+      "OpenAI統合による先進性",
+      "開発効率の大幅向上",
+      "企業レベルでの実績",
+      "コミュニティからの高評価"
+    ],
+    "cons": [
+      "企業向け価格帯",
+      "個人利用には高額",
+      "OpenAI依存のリスク"
+    ],
+    "officialUrl": "https://cirruslabs.org/",
+    "logoPath": "/logos/cirrus-labs.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "エンタープライズ開発チーム",
+      "DevOpsエンジニア",
+      "スタートアップCTO"
+    ],
+    "releaseYear": 2022,
+    "developer": "Cirrus Labs",
+    "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "linux-kernel-ai-assistant",
+    "name": "Linux Kernel AI Assistant",
+    "nameJa": "リナックス・カーネルAI",
+    "description": "Linuxカーネル開発にAI支援を導入する画期的な取り組み。Linus Torvalds自身が承認したドキュメントに記載されており、カーネル開発者がAIツールを活用してコード品質向上や開発効率化を図ることができる。498ポイントという非常に高い注目度でHacker Newsでトップクラスの話題となっている。オープンソース開発の未来を変える可能性を秘めた革新的なアプローチとして、世界中の開発者から注目されている。",
+    "shortDescription": "Linuxカーネル開発AI支援ツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "カーネル開発支援",
+            "コード品質向上",
+            "開発効率化"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "カーネル開発AI支援",
+      "コード品質チェック",
+      "開発効率向上",
+      "オープンソース",
+      "Linus承認済み"
+    ],
+    "pros": [
+      "Linux創始者公認",
+      "世界最高レベルの開発支援",
+      "完全無料",
+      "オープンソースコミュニティ支援"
+    ],
+    "cons": [
+      "高度な専門知識必要",
+      "カーネル開発者限定",
+      "学習コストが高い"
+    ],
+    "officialUrl": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "logoPath": "/logos/linux-kernel-ai-assistant.svg",
+    "rating": 4.8,
+    "recommendedFor": [
+      "Linuxカーネル開発者",
+      "システムプログラマー",
+      "オープンソース貢献者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Linux Foundation",
+    "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "spray-paint-color-creator",
+    "name": "Spray Paint Color Creator",
+    "nameJa": "スプレーペイント・カラー・クリエーター",
+    "description": "従来のスプレーペイントの概念を革新する新しいカラーリング技術。IEEE Spectrumで紹介された注目の技術で、リアルタイムで色を生成・調整できる画期的なシステム。デザイナーやアーティストが現場で即座に理想の色を作り出せるため、創作活動の効率が大幅に向上する。製造業やアート分野での応用が期待されており、従来の塗装プロセスを大きく変革する可能性を秘めている。",
+    "shortDescription": "革新的スプレーペイント技術",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "プロフェッショナル",
+          "price": "要問合せ",
+          "features": [
+            "リアルタイム色生成",
+            "カスタムカラー",
+            "プロ仕様"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "リアルタイム色生成",
+      "カスタムカラー調整",
+      "高精度色再現",
+      "省材料化",
+      "環境配慮設計"
+    ],
+    "pros": [
+      "革新的な色生成技術",
+      "材料コスト削減",
+      "創作効率向上",
+      "環境に優しい"
+    ],
+    "cons": [
+      "初期導入コスト高",
+      "専用機器が必要",
+      "技術習得が必要"
+    ],
+    "officialUrl": "https://spectrum.ieee.org/spray-paint-color-creator",
+    "logoPath": "/logos/spray-paint-color-creator.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "プロアーティスト",
+      "製造業デザイナー",
+      "創作活動者"
+    ],
+    "releaseYear": 2024,
+    "developer": "IEEE Research",
+    "lastUpdated": "2026-04-12"
   }
 ]
