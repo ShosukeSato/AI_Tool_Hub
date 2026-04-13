@@ -1,5 +1,63 @@
 [
   {
+    "id": "new-claudraband-2026-04-13",
+    "type": "new-tool",
+    "toolSlug": "claudraband",
+    "title": "Claudraband が新しく追加されました",
+    "summary": "Claude AI用パワーユーザー向け拡張ツール",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "new-bouncer-2026-04-13",
+    "type": "new-tool",
+    "toolSlug": "bouncer",
+    "title": "Bouncer が新しく追加されました",
+    "summary": "X（Twitter）フィード用AIフィルタリングツール",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "new-trainjazz-2026-04-13",
+    "type": "new-tool",
+    "toolSlug": "trainjazz",
+    "title": "TrainJazz が新しく追加されました",
+    "summary": "電車の運行状況を音楽化するアートプロジェクト",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "new-picwish-ai-photo-enhancer-2026-04-13",
+    "type": "new-tool",
+    "toolSlug": "picwish-ai-photo-enhancer",
+    "title": "PicWish AI Photo Enhancer が新しく追加されました",
+    "summary": "高精度AI画像修復・高画質化ツール",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "new-bridgebench-2026-04-13",
+    "type": "new-tool",
+    "toolSlug": "bridgebench",
+    "title": "BridgeBench が新しく追加されました",
+    "summary": "AIハルシネーション検出・評価ツール",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "trending-cirrus-labs-2026-04-13",
+    "type": "trending",
+    "toolSlug": "cirrus-labs",
+    "title": "Cirrus Labs が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Cirrus Labs to join OpenAI",
+    "date": "2026-04-13",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-instant-1-0-2026-04-13",
+    "type": "trending",
+    "toolSlug": "instant-1-0",
+    "title": "Instant 1.0 が話題沸騰中（バズスコア: 7.3）",
+    "summary": "hackernewsで注目: Instant 1.0, a backend for AI-coded apps",
+    "date": "2026-04-13",
+    "source": "hackernews"
+  },
+  {
     "id": "new-midnight-captain-2026-04-12",
     "type": "new-tool",
     "toolSlug": "midnight-captain",

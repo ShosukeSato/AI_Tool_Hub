@@ -8,17 +8,17 @@
         "source": "hackernews",
         "title": "Cirrus Labs to join OpenAI",
         "url": "https://cirruslabs.org/",
-        "score": 271,
-        "date": "2026-04-12"
+        "score": 278,
+        "date": "2026-04-13"
       }
     ],
     "firstSeen": "2026-04-12",
-    "lastSeen": "2026-04-12"
+    "lastSeen": "2026-04-13"
   },
   {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 8.1,
+    "buzzScore": 7.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -32,9 +32,42 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 6.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT ()",
+        "score": 166,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
+        "score": 1,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "ChatGPT finally offers $100/month Pro plan",
+        "score": 1,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-13"
+  },
+  {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 6.6,
+    "buzzScore": 5.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -48,9 +81,50 @@
     "lastSeen": "2026-04-10"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 5.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Claudraband – Claude Code for the Power User",
+        "url": "https://github.com/halfwhey/claudraband",
+        "score": 92,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
+        "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
+        "score": 39,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "At the HumanX conference, everyone was talking about Claude",
+        "score": 1,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic temporarily banned OpenClaw&#8217;s creator from accessing Claude",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-13"
+  },
+  {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 5.3,
+    "buzzScore": 4.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -64,9 +138,25 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "bouncer",
+    "toolName": "Bouncer",
+    "buzzScore": 2.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
+        "url": "https://github.com/imbue-ai/bouncer",
+        "score": 40,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-13",
+    "lastSeen": "2026-04-13"
+  },
+  {
     "toolSlug": "midnight-captain",
     "toolName": "Midnight Captain",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -82,7 +172,7 @@
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -98,7 +188,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -114,7 +204,7 @@
   {
     "toolSlug": "research-driven-agents",
     "toolName": "Research-Driven Agents",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -130,7 +220,7 @@
   {
     "toolSlug": "bluehammer",
     "toolName": "BlueHammer",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -146,7 +236,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -162,7 +252,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -176,42 +266,9 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
-        "score": 1,
-        "date": "2026-04-12"
-      },
-      {
-        "source": "techcrunch",
-        "title": "ChatGPT finally offers $100/month Pro plan",
-        "score": 1,
-        "date": "2026-04-12"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-        "score": 1,
-        "date": "2026-04-12"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-        "score": 1,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-12"
-  },
-  {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -227,7 +284,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -243,7 +300,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -257,30 +314,99 @@
     "lastSeen": "2026-04-02"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.1,
+    "toolSlug": "arisealpha",
+    "toolName": "AriseAlpha",
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "title": "AriseAlpha Launches Free AI Crypto & Stock Trading Platform - GlobeNewswire",
         "score": 1,
-        "date": "2026-04-12"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic temporarily banned OpenClaw&#8217;s creator from accessing Claude",
-        "score": 1,
-        "date": "2026-04-12"
+        "date": "2026-04-13"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-12"
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-13"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - The New York Times",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-03-22",
+    "lastSeen": "2026-04-13"
+  },
+  {
+    "toolSlug": "stitch",
+    "toolName": "Stitch",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing “vibe design” with Stitch - blog.google",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-10",
+    "lastSeen": "2026-04-13"
+  },
+  {
+    "toolSlug": "admina-ai",
+    "toolName": "Admina AIヘルプデスク",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-06",
+    "lastSeen": "2026-04-13"
+  },
+  {
+    "toolSlug": "findy-architecture-ai",
+    "toolName": "Findy Architecture AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-13"
+  },
+  {
+    "toolSlug": "voicelog",
+    "toolName": "VoiceLog",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "アピリッツ、クチコミ・レビュー投稿管理ツール「VoiceLog」に生成AIを活用した新機能「レビュー要約機能」をリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-13"
   },
   {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -302,7 +428,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -329,7 +455,7 @@
   {
     "toolSlug": "bild-ai",
     "toolName": "Bild AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -343,24 +469,9 @@
     "lastSeen": "2026-04-12"
   },
   {
-    "toolSlug": "arisealpha",
-    "toolName": "AriseAlpha",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AriseAlpha Launches Free AI Crypto & Stock Trading Platform with Automated Trading Tools and Portfolio Management (2026) - markets.businessinsider.com",
-        "score": 1,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-12"
-  },
-  {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -373,69 +484,9 @@
     "lastSeen": "2026-04-12"
   },
   {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary - The New York Times",
-        "score": 1,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-03-22",
-    "lastSeen": "2026-04-12"
-  },
-  {
-    "toolSlug": "admina-ai",
-    "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-12"
-  },
-  {
-    "toolSlug": "findy-architecture-ai",
-    "toolName": "Findy Architecture AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-12"
-  },
-  {
-    "toolSlug": "voicelog",
-    "toolName": "VoiceLog",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "アピリッツ、クチコミ・レビュー投稿管理ツール「VoiceLog」に生成AIを活用した新機能「レビュー要約機能」をリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-12"
-  },
-  {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -450,7 +501,7 @@
   {
     "toolSlug": "gbrain",
     "toolName": "GBrain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -466,7 +517,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -486,7 +537,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "reddit",
@@ -506,7 +557,7 @@
   {
     "toolSlug": "narit-ai-gujarat-2026",
     "toolName": "NARIT AI Gujarat 2026",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -519,24 +570,9 @@
     "lastSeen": "2026-04-11"
   },
   {
-    "toolSlug": "stitch",
-    "toolName": "Stitch",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing “vibe design” with Stitch - blog.google",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-10",
-    "lastSeen": "2026-04-11"
-  },
-  {
     "toolSlug": "tui-use",
     "toolName": "TUI-use",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -552,7 +588,7 @@
   {
     "toolSlug": "skrun",
     "toolName": "Skrun",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -568,7 +604,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "reddit",
@@ -583,7 +619,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -594,21 +630,5 @@
     ],
     "firstSeen": "2026-04-06",
     "lastSeen": "2026-04-11"
-  },
-  {
-    "toolSlug": "gemma-gem",
-    "toolName": "Gemma Gem",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-        "url": "https://github.com/kessler/gemma-gem",
-        "score": 152,
-        "date": "2026-04-07"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-07"
   }
 ]

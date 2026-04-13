@@ -11174,5 +11174,288 @@
     "releaseYear": 2026,
     "developer": "Meta",
     "lastUpdated": "2026-04-12"
+  },
+  {
+    "slug": "claudraband",
+    "name": "Claudraband",
+    "nameJa": "クロードラバンド",
+    "description": "Claude AIをパワーユーザー向けに最適化したコマンドライン拡張ツール。複雑なプロンプトエンジニアリング、バッチ処理、API統合を効率的に行える。開発者やデータサイエンティストがClaude AIの能力を最大限に引き出すためのツールセットを提供し、自動化されたワークフローの構築が可能。",
+    "shortDescription": "Claude AI用パワーユーザー向け拡張ツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "コマンドライン操作",
+            "バッチ処理",
+            "API統合",
+            "プロンプト管理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "コマンドライン操作",
+      "バッチ処理機能",
+      "API統合サポート",
+      "プロンプト管理",
+      "ワークフロー自動化"
+    ],
+    "pros": [
+      "開発者向けに最適化",
+      "効率的なバッチ処理",
+      "豊富なカスタマイズ機能",
+      "オープンソースで拡張可能"
+    ],
+    "cons": [
+      "技術知識が必要",
+      "GUI未対応",
+      "初心者には難しい"
+    ],
+    "officialUrl": "https://github.com/halfwhey/claudraband",
+    "logoPath": "/logos/claudraband.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "開発者・エンジニア",
+      "データサイエンティスト",
+      "AI研究者"
+    ],
+    "releaseYear": 2024,
+    "developer": "halfwhey",
+    "lastUpdated": "2026-04-13"
+  },
+  {
+    "slug": "bouncer",
+    "name": "Bouncer",
+    "nameJa": "バウンサー",
+    "description": "X（旧Twitter）フィードから「仮想通貨」「政治的煽動」などの不要なコンテンツをAIで自動フィルタリングするツール。ユーザーが設定したキーワードやトピックを機械学習で識別し、タイムラインをクリーンに保つ。メンタルヘルスや情報の質向上を重視するユーザーに最適で、カスタマイズ可能なフィルター機能を提供。",
+    "shortDescription": "X（Twitter）フィード用AIフィルタリングツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "コンテンツフィルタリング",
+            "カスタムキーワード",
+            "機械学習識別",
+            "リアルタイム処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIコンテンツフィルタリング",
+      "カスタムキーワード設定",
+      "リアルタイム処理",
+      "機械学習識別",
+      "メンタルヘルス保護"
+    ],
+    "pros": [
+      "無料で利用可能",
+      "高精度なAI識別",
+      "カスタマイズ可能",
+      "メンタルヘルス配慮"
+    ],
+    "cons": [
+      "X（Twitter）専用",
+      "過度なフィルタリングのリスク",
+      "設定が複雑"
+    ],
+    "officialUrl": "https://github.com/imbue-ai/bouncer",
+    "logoPath": "/logos/bouncer.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "SNS利用者",
+      "情報収集を重視する人",
+      "メンタルヘルス重視の人"
+    ],
+    "releaseYear": 2024,
+    "developer": "Imbue AI",
+    "lastUpdated": "2026-04-13"
+  },
+  {
+    "slug": "trainjazz",
+    "name": "TrainJazz",
+    "nameJa": "トレインジャズ",
+    "description": "ニューヨークの全ての電車に楽器を割り当て、リアルタイムの運行状況を音楽として表現する革新的なアート×テクノロジープロジェクト。地下鉄やバスの動きがジャズアンサンブルとして聞こえ、都市交通を音楽体験に変換。データビジュアライゼーションとサウンドデザインを組み合わせた新しい形の都市体験ツール。",
+    "shortDescription": "電車の運行状況を音楽化するアートプロジェクト",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "ウェブ版",
+          "price": "無料",
+          "features": [
+            "リアルタイム音楽生成",
+            "交通データ連携",
+            "楽器カスタマイズ",
+            "録音機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "リアルタイム音楽生成",
+      "交通データ連携",
+      "楽器選択機能",
+      "録音・共有機能",
+      "ビジュアル表示"
+    ],
+    "pros": [
+      "独創的なコンセプト",
+      "リアルタイム更新",
+      "無料で楽しめる",
+      "アート性が高い"
+    ],
+    "cons": [
+      "NYC限定",
+      "実用性は限定的",
+      "音楽の好みに依存"
+    ],
+    "officialUrl": "https://www.trainjazz.com/",
+    "logoPath": "/logos/trainjazz.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "アート愛好者",
+      "音楽クリエイター",
+      "データビジュアライゼーションファン"
+    ],
+    "releaseYear": 2024,
+    "developer": "Independent Artist",
+    "lastUpdated": "2026-04-13"
+  },
+  {
+    "slug": "picwish-ai-photo-enhancer",
+    "name": "PicWish AI Photo Enhancer",
+    "nameJa": "ピックウィッシュAIフォトエンハンサー",
+    "description": "新しいAIモデルを搭載した画像修復・高画質化ツール。低解像度画像を最大8倍まで拡大し、ノイズ除去、ぼやけ補正、色彩強化を高精度で実行。古い写真の復元や、ウェブ用画像の品質向上に特化。バッチ処理対応で大量画像の一括処理も可能。最新のディープラーニング技術により、従来より自然な仕上がりを実現。",
+    "shortDescription": "高精度AI画像修復・高画質化ツール",
+    "category": "image-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "月10枚まで",
+            "基本的な高画質化",
+            "2倍拡大"
+          ]
+        },
+        {
+          "name": "プロ版",
+          "price": "月額1,980円",
+          "features": [
+            "無制限処理",
+            "8倍拡大",
+            "バッチ処理",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "最大8倍画像拡大",
+      "ノイズ除去",
+      "ぼやけ補正",
+      "色彩強化",
+      "バッチ処理"
+    ],
+    "pros": [
+      "高精度な画質向上",
+      "直感的な操作",
+      "バッチ処理対応",
+      "古い写真復元に最適"
+    ],
+    "cons": [
+      "高解像度は有料",
+      "処理時間がかかる場合がある",
+      "極端に劣化した画像は限界がある"
+    ],
+    "officialUrl": "https://picwish.com/",
+    "logoPath": "/logos/picwish-ai-photo-enhancer.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "写真愛好者",
+      "グラフィックデザイナー",
+      "ウェブ制作者"
+    ],
+    "releaseYear": 2024,
+    "developer": "PicWish",
+    "lastUpdated": "2026-04-13"
+  },
+  {
+    "slug": "bridgebench",
+    "name": "BridgeBench",
+    "nameJa": "ブリッジベンチ",
+    "description": "AIモデルのハルシネーション（幻覚）を検出・測定する専門ベンチマークツール。Claude、GPT、Geminiなど主要LLMの精度を客観的に評価し、誤情報生成率を数値化。企業のAI導入時の品質管理や、研究機関での性能比較に活用。リアルタイムでのモデル性能追跡機能により、AIの信頼性向上に貢献する評価プラットフォーム。",
+    "shortDescription": "AIハルシネーション検出・評価ツール",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "研究機関向け",
+          "price": "要相談",
+          "features": [
+            "基本評価機能",
+            "月次レポート",
+            "3モデル比較"
+          ]
+        },
+        {
+          "name": "企業向け",
+          "price": "要相談",
+          "features": [
+            "全機能",
+            "リアルタイム監視",
+            "無制限モデル評価",
+            "カスタムテスト"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ハルシネーション検出",
+      "モデル性能比較",
+      "リアルタイム監視",
+      "カスタム評価項目",
+      "詳細レポート生成"
+    ],
+    "pros": [
+      "高精度な評価",
+      "主要モデル対応",
+      "客観的な数値化",
+      "企業導入実績"
+    ],
+    "cons": [
+      "企業向けで高額",
+      "技術的な知識が必要",
+      "個人利用は難しい"
+    ],
+    "officialUrl": "https://bridgemind.ai/",
+    "logoPath": "/logos/bridgebench.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "AI研究者",
+      "企業のAI担当者",
+      "品質管理責任者"
+    ],
+    "releaseYear": 2024,
+    "developer": "BridgeMind AI",
+    "lastUpdated": "2026-04-13"
   }
 ]
