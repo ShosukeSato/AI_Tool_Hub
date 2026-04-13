@@ -58,6 +58,39 @@
     "source": "hackernews"
   },
   {
+    "id": "new-brightbean-studio-2026-04-13",
+    "type": "new-tool",
+    "toolSlug": "brightbean-studio",
+    "title": "BrightBean Studio が新しく追加されました",
+    "summary": "AI支援ソーシャルメディア管理ツール",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "new-rayse-b-w-ai-tools-2026-04-13",
+    "type": "new-tool",
+    "toolSlug": "rayse-b-w-ai-tools",
+    "title": "Rayse & B&W AI Tools が新しく追加されました",
+    "summary": "不動産業界特化型AIツール",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "new-atlassian-confluence-ai-agents-2026-04-13",
+    "type": "new-tool",
+    "toolSlug": "atlassian-confluence-ai-agents",
+    "title": "Atlassian Confluence AI Agents が新しく追加されました",
+    "summary": "企業向け知識管理AIエージェント",
+    "date": "2026-04-13"
+  },
+  {
+    "id": "trending-claude-2026-04-13",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 9.8）",
+    "summary": "hackernewsで注目: Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+    "date": "2026-04-13",
+    "source": "hackernews"
+  },
+  {
     "id": "new-midnight-captain-2026-04-12",
     "type": "new-tool",
     "toolSlug": "midnight-captain",

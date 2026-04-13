@@ -11457,5 +11457,172 @@
     "releaseYear": 2024,
     "developer": "BridgeMind AI",
     "lastUpdated": "2026-04-13"
+  },
+  {
+    "slug": "brightbean-studio",
+    "name": "BrightBean Studio",
+    "nameJa": "ブライトビーンスタジオ",
+    "description": "ClaudeとCodexを使って3週間で開発されたソーシャルメディア管理ツールです。複数のSNSプラットフォームの投稿スケジューリング、コンテンツ生成、分析機能を統合。AI支援による効率的なソーシャルメディア運用が可能で、中小企業やフリーランサーに最適化されています。Hacker Newsで話題となったオープンソースプロジェクトです。",
+    "shortDescription": "AI支援ソーシャルメディア管理ツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "SNS投稿管理",
+            "コンテンツ生成",
+            "分析機能",
+            "スケジューリング"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "複数SNS統合管理",
+      "AI投稿コンテンツ生成",
+      "投稿スケジューリング",
+      "エンゲージメント分析",
+      "オープンソース"
+    ],
+    "pros": [
+      "完全無料のオープンソース",
+      "AI支援による効率化",
+      "短期開発の実績",
+      "GitHub公開で透明性高"
+    ],
+    "cons": [
+      "新しいプロジェクトで安定性未知",
+      "サポート体制が不明",
+      "日本語対応状況不明"
+    ],
+    "officialUrl": "https://github.com/brightbeanxyz/brightbean-studio",
+    "logoPath": "/logos/brightbean-studio.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "ソーシャルメディア運用者",
+      "フリーランサー",
+      "中小企業マーケター"
+    ],
+    "releaseYear": 2026,
+    "developer": "BrightBean",
+    "lastUpdated": "2026-04-13"
+  },
+  {
+    "slug": "rayse-b-w-ai-tools",
+    "name": "Rayse & B&W AI Tools",
+    "nameJa": "レイズ・B&W AIツール",
+    "description": "不動産業界向けに開発された新しいAIツール群です。物件情報分析、市場価格予測、顧客マッチング機能を統合し、不動産仲介業務を効率化。CRMLSとの連携により、リアルタイムな市場データを活用した高精度な価格査定と顧客提案を実現する専門特化型AIソリューションです。",
+    "shortDescription": "不動産業界特化型AIツール",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "プロフェッショナル",
+          "price": "要問い合わせ",
+          "features": [
+            "価格査定AI",
+            "顧客マッチング",
+            "市場分析",
+            "レポート生成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI価格査定",
+      "顧客自動マッチング",
+      "市場トレンド分析",
+      "物件レポート生成",
+      "CRMLS連携"
+    ],
+    "pros": [
+      "不動産特化の専門性",
+      "高精度な価格予測",
+      "業務効率大幅改善",
+      "豊富な市場データ"
+    ],
+    "cons": [
+      "北米市場中心",
+      "日本市場未対応",
+      "高額な導入コスト"
+    ],
+    "officialUrl": "https://rayse.com",
+    "logoPath": "/logos/rayse-b-w-ai-tools.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "不動産仲介業者",
+      "不動産投資家",
+      "不動産分析者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Rayse & B&W",
+    "lastUpdated": "2026-04-13"
+  },
+  {
+    "slug": "atlassian-confluence-ai-agents",
+    "name": "Atlassian Confluence AI Agents",
+    "nameJa": "アトラシアン・コンフルエンスAIエージェント",
+    "description": "Atlassianが発表したConfluence向けの視覚的AIツールと第三者エージェント機能です。ドキュメント作成の自動化、知識ベースの整理、チーム間の情報共有を効率化。自然言語でのページ作成、自動タグ付け、関連コンテンツの推薦により、企業の知識管理を革新する統合ソリューションです。",
+    "shortDescription": "企業向け知識管理AIエージェント",
+    "category": "note-knowledge",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "月額0円",
+          "features": [
+            "基本AI機能",
+            "10ページ",
+            "3ユーザー"
+          ]
+        },
+        {
+          "name": "スタンダード",
+          "price": "月額5.75ドル（約875円）/ユーザー",
+          "features": [
+            "高度なAI機能",
+            "無制限ページ",
+            "チーム機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI自動ページ作成",
+      "視覚的コンテンツ生成",
+      "知識ベース整理",
+      "自動タグ付け",
+      "第三者エージェント統合"
+    ],
+    "pros": [
+      "Atlassian製品との統合",
+      "視覚的で直感的",
+      "豊富な第三者連携",
+      "企業向け機能充実"
+    ],
+    "cons": [
+      "英語UI中心",
+      "学習コスト必要",
+      "大企業向け価格設定"
+    ],
+    "officialUrl": "https://www.atlassian.com/software/confluence",
+    "logoPath": "/logos/atlassian-confluence-ai-agents.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "企業の知識管理者",
+      "プロジェクトマネージャー",
+      "技術文書作成者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Atlassian",
+    "lastUpdated": "2026-04-13"
   }
 ]

@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Cirrus Labs to join OpenAI",
         "url": "https://cirruslabs.org/",
-        "score": 278,
+        "score": 279,
         "date": "2026-04-13"
       }
     ],
@@ -16,87 +16,29 @@
     "lastSeen": "2026-04-13"
   },
   {
-    "toolSlug": "instant-1-0",
-    "toolName": "Instant 1.0",
-    "buzzScore": 7.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Instant 1.0, a backend for AI-coded apps",
-        "url": "https://www.instantdb.com/essays/architecture",
-        "score": 209,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-10",
-    "lastSeen": "2026-04-11"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 6.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT ()",
-        "score": 166,
-        "date": "2026-04-13"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
-        "score": 1,
-        "date": "2026-04-13"
-      },
-      {
-        "source": "techcrunch",
-        "title": "ChatGPT finally offers $100/month Pro plan",
-        "score": 1,
-        "date": "2026-04-13"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-        "score": 1,
-        "date": "2026-04-13"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-13"
-  },
-  {
-    "toolSlug": "project-glasswing",
-    "toolName": "Project Glasswing",
-    "buzzScore": 5.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Project Glasswing: Securing critical software for the AI era",
-        "url": "https://www.anthropic.com/glasswing",
-        "score": 1519,
-        "date": "2026-04-10"
-      }
-    ],
-    "firstSeen": "2026-04-08",
-    "lastSeen": "2026-04-10"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 5.4,
+    "buzzScore": 9.8,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+        "url": "https://github.com/brightbeanxyz/brightbean-studio",
+        "score": 96,
+        "date": "2026-04-13"
+      },
       {
         "source": "hackernews",
         "title": "Show HN: Claudraband – Claude Code for the Power User",
         "url": "https://github.com/halfwhey/claudraband",
-        "score": 92,
+        "score": 111,
         "date": "2026-04-13"
       },
       {
         "source": "hackernews",
         "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
         "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
-        "score": 39,
+        "score": 62,
         "date": "2026-04-13"
       },
       {
@@ -122,9 +64,74 @@
     "lastSeen": "2026-04-13"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 6.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT ()",
+        "score": 170,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
+        "score": 1,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "ChatGPT finally offers $100/month Pro plan",
+        "score": 1,
+        "date": "2026-04-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-13"
+  },
+  {
+    "toolSlug": "instant-1-0",
+    "toolName": "Instant 1.0",
+    "buzzScore": 6.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Instant 1.0, a backend for AI-coded apps",
+        "url": "https://www.instantdb.com/essays/architecture",
+        "score": 209,
+        "date": "2026-04-11"
+      }
+    ],
+    "firstSeen": "2026-04-10",
+    "lastSeen": "2026-04-11"
+  },
+  {
+    "toolSlug": "project-glasswing",
+    "toolName": "Project Glasswing",
+    "buzzScore": 5.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "url": "https://www.anthropic.com/glasswing",
+        "score": 1519,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-08",
+    "lastSeen": "2026-04-10"
+  },
+  {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 4.8,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -140,13 +147,13 @@
   {
     "toolSlug": "bouncer",
     "toolName": "Bouncer",
-    "buzzScore": 2.3,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
         "url": "https://github.com/imbue-ai/bouncer",
-        "score": 40,
+        "score": 49,
         "date": "2026-04-13"
       }
     ],
@@ -156,7 +163,7 @@
   {
     "toolSlug": "midnight-captain",
     "toolName": "Midnight Captain",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -172,7 +179,7 @@
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -188,7 +195,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -204,7 +211,7 @@
   {
     "toolSlug": "research-driven-agents",
     "toolName": "Research-Driven Agents",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -220,7 +227,7 @@
   {
     "toolSlug": "bluehammer",
     "toolName": "BlueHammer",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -236,7 +243,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -252,7 +259,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -266,66 +273,18 @@
     "lastSeen": "2026-04-05"
   },
   {
-    "toolSlug": "qwen3-6-plus",
-    "toolName": "Qwen3.6-Plus",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Qwen3.6-Plus: Towards real world agents",
-        "url": "https://qwen.ai/blog?id=qwen3.6",
-        "score": 579,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "lemonade",
-    "toolName": "Lemonade",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-        "url": "https://lemonade-server.ai",
-        "score": 558,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "1-bit-bonsai",
-    "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-        "url": "https://prismml.com/",
-        "score": 406,
-        "date": "2026-04-02"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-02"
-  },
-  {
-    "toolSlug": "arisealpha",
-    "toolName": "AriseAlpha",
+    "toolSlug": "stitch",
+    "toolName": "Stitch",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "AriseAlpha Launches Free AI Crypto & Stock Trading Platform - GlobeNewswire",
+        "title": "Introducing “vibe design” with Stitch - blog.google",
         "score": 1,
         "date": "2026-04-13"
       }
     ],
-    "firstSeen": "2026-04-11",
+    "firstSeen": "2026-04-10",
     "lastSeen": "2026-04-13"
   },
   {
@@ -344,21 +303,6 @@
     "lastSeen": "2026-04-13"
   },
   {
-    "toolSlug": "stitch",
-    "toolName": "Stitch",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing “vibe design” with Stitch - blog.google",
-        "score": 1,
-        "date": "2026-04-13"
-      }
-    ],
-    "firstSeen": "2026-04-10",
-    "lastSeen": "2026-04-13"
-  },
-  {
     "toolSlug": "admina-ai",
     "toolName": "Admina AIヘルプデスク",
     "buzzScore": 1,
@@ -371,21 +315,6 @@
       }
     ],
     "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-13"
-  },
-  {
-    "toolSlug": "findy-architecture-ai",
-    "toolName": "Findy Architecture AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-04-13"
-      }
-    ],
-    "firstSeen": "2026-04-05",
     "lastSeen": "2026-04-13"
   },
   {
@@ -404,9 +333,102 @@
     "lastSeen": "2026-04-13"
   },
   {
+    "toolSlug": "crewworks",
+    "toolName": "CrewWorks",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント搭載でナレッジ活用を加速させる 【CrewWorks】がJapan DX Week 春 2026 で新機能を初公開 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-13",
+    "lastSeen": "2026-04-13"
+  },
+  {
+    "toolSlug": "qwen3-6-plus",
+    "toolName": "Qwen3.6-Plus",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "url": "https://qwen.ai/blog?id=qwen3.6",
+        "score": 579,
+        "date": "2026-04-04"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-04"
+  },
+  {
+    "toolSlug": "lemonade",
+    "toolName": "Lemonade",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "url": "https://lemonade-server.ai",
+        "score": 558,
+        "date": "2026-04-04"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-04"
+  },
+  {
+    "toolSlug": "1-bit-bonsai",
+    "toolName": "1-Bit Bonsai",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+        "url": "https://prismml.com/",
+        "score": 406,
+        "date": "2026-04-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-04-02"
+  },
+  {
+    "toolSlug": "arisealpha",
+    "toolName": "AriseAlpha",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AriseAlpha Launches Free AI Crypto & Stock Trading Platform - GlobeNewswire",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-11",
+    "lastSeen": "2026-04-13"
+  },
+  {
+    "toolSlug": "findy-architecture-ai",
+    "toolName": "Findy Architecture AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-04-13"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-13"
+  },
+  {
     "toolSlug": "typeless",
     "toolName": "Typeless",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -428,7 +450,7 @@
   {
     "toolSlug": "claude-code",
     "toolName": "Claude Code",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -455,7 +477,7 @@
   {
     "toolSlug": "bild-ai",
     "toolName": "Bild AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -471,7 +493,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -486,7 +508,7 @@
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -501,7 +523,7 @@
   {
     "toolSlug": "gbrain",
     "toolName": "GBrain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -517,7 +539,7 @@
   {
     "toolSlug": "openai-o3",
     "toolName": "OpenAI o3",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -537,7 +559,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "reddit",
@@ -557,7 +579,7 @@
   {
     "toolSlug": "narit-ai-gujarat-2026",
     "toolName": "NARIT AI Gujarat 2026",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -572,7 +594,7 @@
   {
     "toolSlug": "tui-use",
     "toolName": "TUI-use",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -588,7 +610,7 @@
   {
     "toolSlug": "skrun",
     "toolName": "Skrun",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -604,7 +626,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "reddit",
@@ -615,20 +637,5 @@
     ],
     "firstSeen": "2026-03-15",
     "lastSeen": "2026-03-20"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "バイタリフィ、「AI博覧会 Spring 2026」の出展が大盛況で終了！Dify活用や生成AIチャットボットの導入に関心が集まる - ドリームニュース",
-        "score": 1,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-11"
   }
 ]
