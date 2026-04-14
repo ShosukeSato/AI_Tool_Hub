@@ -58,6 +58,46 @@
     "source": "hackernews"
   },
   {
+    "id": "new-introspective-diffusion-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "introspective-diffusion",
+    "title": "Introspective Diffusion が新しく追加されました",
+    "summary": "自己反省機能付き次世代言語生成AI",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "new-felo-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "felo",
+    "title": "Felo が新しく追加されました",
+    "summary": "調査・要約・翻訳を一括で行うAI",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "new-bear-roll-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "bear-roll",
+    "title": "Bear Roll が新しく追加されました",
+    "summary": "Bear Blog人気記事の自動キュレーション",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "new-claude-content-optimization-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "claude-content-optimization",
+    "title": "Claude Content Optimization が新しく追加されました",
+    "summary": "Claudeのトークン消費を最適化するツール",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "new-hiro-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "hiro",
+    "title": "Hiro が新しく追加されました",
+    "summary": "OpenAI買収のAI個人金融管理ツール",
+    "date": "2026-04-14"
+  },
+  {
     "id": "new-claudraband-2026-04-13",
     "type": "new-tool",
     "toolSlug": "claudraband",

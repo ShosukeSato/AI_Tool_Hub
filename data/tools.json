@@ -11892,5 +11892,293 @@
     "releaseYear": 2026,
     "developer": "Moonshot AI",
     "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "introspective-diffusion",
+    "name": "Introspective Diffusion",
+    "nameJa": "イントロスペクティブ・ディフュージョン",
+    "description": "従来の拡散モデルとは異なり、自己反省的な推論プロセスを組み込んだ言語モデル。生成プロセス中に自分の出力を振り返り、修正や改善を行う能力を持つ。Hacker Newsで107ポイントを獲得し、AI研究コミュニティで注目されている革新的なアプローチ。テキスト生成の品質向上と論理的一貫性の改善に特化している。",
+    "shortDescription": "自己反省機能付き次世代言語生成AI",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "研究版",
+          "price": "無料",
+          "features": [
+            "オープンソース",
+            "研究利用可能",
+            "GitHub公開"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自己反省的推論",
+      "品質向上機能",
+      "論理一貫性チェック",
+      "拡散ベース生成",
+      "研究向けAPI"
+    ],
+    "pros": [
+      "生成品質が高い",
+      "論理的整合性に優れる",
+      "オープンソースで透明性が高い",
+      "研究コミュニティから高評価"
+    ],
+    "cons": [
+      "商用利用は未対応",
+      "技術的理解が必要",
+      "計算リソースを多く消費"
+    ],
+    "officialUrl": "https://introspective-diffusion.github.io/",
+    "logoPath": "/logos/introspective-diffusion.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AI研究者",
+      "機械学習エンジニア",
+      "技術系大学院生"
+    ],
+    "releaseYear": 2026,
+    "developer": "研究コンソーシアム",
+    "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "felo",
+    "name": "Felo",
+    "nameJa": "フェロ",
+    "description": "「調べる」「まとめる」「翻訳する」機能を一つのAIツールで完結できる多機能検索・リサーチツール。Japan IT Week春2026に出展し、日本市場への本格参入を図っている。多言語対応で情報収集から要約、翻訳まで一貫したワークフローを提供。企業の国際的な情報収集や調査業務の効率化に特化している。",
+    "shortDescription": "調査・要約・翻訳を一括で行うAI",
+    "category": "search-research",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "フリー",
+          "price": "無料",
+          "features": [
+            "基本検索",
+            "月10回翻訳",
+            "簡易要約"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "月額$19.99（約3,000円）",
+          "features": [
+            "無制限検索",
+            "高精度翻訳",
+            "詳細要約",
+            "API利用"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "多言語検索",
+      "自動要約生成",
+      "リアルタイム翻訳",
+      "情報整理機能",
+      "エクスポート対応"
+    ],
+    "pros": [
+      "3機能が統合されて効率的",
+      "多言語対応が充実",
+      "日本市場に特化",
+      "使いやすいUI"
+    ],
+    "cons": [
+      "新しいサービスで実績が少ない",
+      "高度な機能は有料",
+      "データ保存期間に制限"
+    ],
+    "officialUrl": "https://felo.ai",
+    "logoPath": "/logos/felo.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "国際的な企業の調査担当者",
+      "翻訳業務従事者",
+      "海外情報を扱う研究者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Felo Technologies",
+    "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "bear-roll",
+    "name": "Bear Roll",
+    "nameJa": "ベア・ロール",
+    "description": "Bear Blogの人気投稿を毎日自動でまとめて配信するキュレーションサービス。AIアルゴリズムで質の高いブログ記事を選別し、技術系から日常まで幅広いトピックをカバー。Hacker Newsでも取り上げられ、シンプルで価値のあるコンテンツを求める読者層から支持を得ている。RSS配信やメール通知にも対応。",
+    "shortDescription": "Bear Blog人気記事の自動キュレーション",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "基本版",
+          "price": "無料",
+          "features": [
+            "デイリーロール",
+            "RSS配信",
+            "基本フィルター"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動記事選別",
+      "デイリー配信",
+      "RSS対応",
+      "カテゴリフィルター",
+      "読了時間表示"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "質の高いコンテンツが厳選",
+      "シンプルで使いやすい",
+      "RSS対応で便利"
+    ],
+    "cons": [
+      "Bear Blogのみが対象",
+      "カスタマイズ性に限界",
+      "日本語コンテンツは少なめ"
+    ],
+    "officialUrl": "https://bearroll.dev/",
+    "logoPath": "/logos/bear-roll.svg",
+    "rating": 3.6,
+    "recommendedFor": [
+      "技術ブログの読者",
+      "情報収集を効率化したい人",
+      "シンプルなツールを好む人"
+    ],
+    "releaseYear": 2026,
+    "developer": "独立開発者",
+    "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "claude-content-optimization",
+    "name": "Claude Content Optimization",
+    "nameJa": "クロード・コンテンツ最適化",
+    "description": "Claudeの隠れトークン消費問題を解決し、トークン制限を効率的に活用するための最適化ツール。目に見えないトークンの消費パターンを可視化し、コスト削減を実現する。Hacker Newsで「Claude Codeが見えないトークンで制限を消費している」問題として44ポイントで議論されており、開発者の実用的なニーズに応えるソリューション。",
+    "shortDescription": "Claudeのトークン消費を最適化するツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "ベーシック",
+          "price": "無料",
+          "features": [
+            "基本監視",
+            "月間レポート",
+            "トークン可視化"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "月額$9.99（約1,500円）",
+          "features": [
+            "リアルタイム監視",
+            "詳細分析",
+            "自動最適化"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "トークン消費可視化",
+      "隠れトークン検出",
+      "コスト分析",
+      "使用量最適化",
+      "アラート機能"
+    ],
+    "pros": [
+      "コスト削減に直結",
+      "使用状況が明確に把握できる",
+      "Claude利用者の実用的ニーズに対応",
+      "設定が簡単"
+    ],
+    "cons": [
+      "Claude専用で他のAIに未対応",
+      "高度な分析は有料",
+      "日本語サポートが限定的"
+    ],
+    "officialUrl": "https://efficienist.com/claude-optimizer",
+    "logoPath": "/logos/claude-content-optimization.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "Claude利用企業",
+      "コスト管理を重視する開発者",
+      "AI利用量の多い個人ユーザー"
+    ],
+    "releaseYear": 2026,
+    "developer": "Efficienist",
+    "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "hiro",
+    "name": "Hiro",
+    "nameJa": "ヒロ",
+    "description": "OpenAIが買収したAI個人金融管理スタートアップ。TechCrunchで大きく報道され、AIによる家計管理と投資アドバイスの新境地を開拓する。自然言語で金融データを分析し、個人の支出パターンを学習して最適化提案を行う。OpenAIの技術力と組み合わせることで、より高度なパーソナライズ金融サービスの提供が期待される。",
+    "shortDescription": "OpenAI買収のAI個人金融管理ツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "ベーシック",
+          "price": "無料",
+          "features": [
+            "基本家計管理",
+            "支出分析",
+            "簡易レポート"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "月額$14.99（約2,250円）",
+          "features": [
+            "AI投資アドバイス",
+            "詳細分析",
+            "カスタムアラート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自然言語での金融分析",
+      "支出パターン学習",
+      "投資アドバイス",
+      "予算最適化",
+      "金融データ統合"
+    ],
+    "pros": [
+      "OpenAIの技術力を活用",
+      "直感的な自然言語インターフェース",
+      "高度なAI分析機能",
+      "将来性が高い"
+    ],
+    "cons": [
+      "まだ開発段階",
+      "日本の金融機関対応は未知数",
+      "プライバシー懸念あり"
+    ],
+    "officialUrl": "https://hiro.ai",
+    "logoPath": "/logos/hiro.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "個人投資家",
+      "家計管理を効率化したい人",
+      "AIファイナンス興味者"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAI (旧Hiro Technologies)",
+    "lastUpdated": "2026-04-14"
   }
 ]
