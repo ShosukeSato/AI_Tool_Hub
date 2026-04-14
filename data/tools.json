@@ -11624,5 +11624,273 @@
     "releaseYear": 2026,
     "developer": "Atlassian",
     "lastUpdated": "2026-04-13"
+  },
+  {
+    "slug": "gaia",
+    "name": "GAIA",
+    "nameJa": "ガイア",
+    "description": "AMDが開発したオープンソースのAIエージェント構築フレームワークです。ローカルハードウェア上でAIエージェントを実行できるため、プライバシーを保護しながら高性能なAIアシスタントを構築できます。クラウドに依存せずにAIエージェントを動かせることで、企業の機密データを外部に送信することなく業務自動化を実現します。",
+    "shortDescription": "ローカルハードウェアで動作するAIエージェント構築フレームワーク",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "ローカル実行",
+            "フレームワーク提供",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ローカルハードウェア実行",
+      "オープンソース",
+      "プライバシー保護",
+      "カスタマイズ可能",
+      "企業向け対応"
+    ],
+    "pros": [
+      "データがローカルに保持される",
+      "無料で利用可能",
+      "カスタマイズ性が高い",
+      "AMDの技術サポート"
+    ],
+    "cons": [
+      "ローカルハードウェアの性能が必要",
+      "セットアップが複雑",
+      "技術的知識が必要"
+    ],
+    "officialUrl": "https://amd-gaia.ai/docs",
+    "logoPath": "/logos/gaia.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "プライバシーを重視する企業",
+      "ローカルAI開発者",
+      "セキュリティ重視のユーザー"
+    ],
+    "releaseYear": 2026,
+    "developer": "AMD",
+    "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "servo",
+    "name": "Servo",
+    "nameJa": "サーボ",
+    "description": "Mozillが開発したRust製の高性能Webブラウザエンジンが、ついにcrates.ioで公開されました。従来のブラウザエンジンと比べて、メモリ安全性とパラレル処理に優れており、次世代のWebアプリケーション開発に革新をもたらします。Rustの安全性とパフォーマンスを活かし、クラッシュしにくく高速なブラウザ体験を提供します。",
+    "shortDescription": "Rust製の高性能Webブラウザエンジン",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "ブラウザエンジン",
+            "Rust実装",
+            "パラレル処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "メモリ安全性",
+      "パラレル処理",
+      "高速レンダリング",
+      "Rust実装",
+      "オープンソース"
+    ],
+    "pros": [
+      "メモリ安全で安定",
+      "高速なレンダリング性能",
+      "モダンな技術スタック",
+      "無料で利用可能"
+    ],
+    "cons": [
+      "まだ開発段階",
+      "エコシステムが限定的",
+      "Rust知識が必要"
+    ],
+    "officialUrl": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "logoPath": "/logos/servo.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "Rust開発者",
+      "ブラウザエンジン研究者",
+      "パフォーマンス重視の開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Mozilla",
+    "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "n-day-bench",
+    "name": "N-Day-Bench",
+    "nameJa": "エヌデイベンチ",
+    "description": "LLM（大規模言語モデル）が実際のコードベースから真の脆弱性を発見できるかを評価するベンチマークツールです。従来の合成的なテストではなく、実際のオープンソースプロジェクトの既知の脆弱性を使用してAIのセキュリティ監査能力を測定します。開発者やセキュリティ研究者がAIツールの実用性を客観的に評価するための重要な指標を提供します。",
+    "shortDescription": "LLMの脆弱性発見能力を評価するベンチマークツール",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "研究用",
+          "price": "無料",
+          "features": [
+            "ベンチマーク実行",
+            "評価指標",
+            "データセット提供"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "実コードベース評価",
+      "脆弱性検出テスト",
+      "客観的指標",
+      "研究用データセット",
+      "比較分析"
+    ],
+    "pros": [
+      "実際の脆弱性でテスト",
+      "客観的な評価が可能",
+      "研究に有用",
+      "無料で利用可能"
+    ],
+    "cons": [
+      "専門知識が必要",
+      "限定的な用途",
+      "セットアップが複雑"
+    ],
+    "officialUrl": "https://ndaybench.winfunc.com",
+    "logoPath": "/logos/n-day-bench.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "セキュリティ研究者",
+      "AI開発者",
+      "コードセキュリティ担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "WinFunc",
+    "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "mcptube",
+    "name": "Mcptube",
+    "nameJa": "エムシーピーチューブ",
+    "description": "Andrej KarpathyのLLM WikiアイデアをYouTube動画に適用したツールです。動画の内容をAIが自動で解析し、構造化された知識ベースとして整理します。長時間の技術動画や講義動画から重要な情報を効率的に抽出し、検索可能な形で保存できるため、学習効率が大幅に向上します。",
+    "shortDescription": "YouTube動画をAIで構造化知識ベース化",
+    "category": "note-knowledge",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "動画解析",
+            "知識抽出",
+            "構造化保存"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "動画内容解析",
+      "知識構造化",
+      "検索機能",
+      "自動要約",
+      "オープンソース"
+    ],
+    "pros": [
+      "学習効率が向上",
+      "無料で利用可能",
+      "技術動画に特化",
+      "検索しやすい形式"
+    ],
+    "cons": [
+      "英語動画が中心",
+      "セットアップが必要",
+      "処理時間がかかる場合がある"
+    ],
+    "officialUrl": "https://github.com/0xchamin/mcptube",
+    "logoPath": "/logos/mcptube.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "技術学習者",
+      "研究者",
+      "オンライン学習愛用者"
+    ],
+    "releaseYear": 2026,
+    "developer": "0xchamin",
+    "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "kimi-k2-6-code-preview",
+    "name": "Kimi K2.6-code-preview",
+    "nameJa": "キミ K2.6コードプレビュー",
+    "description": "中国のMoonshot AIが開発した最新のコーディング特化AIモデルです。従来のコーディングアシスタントを大幅に上回る性能を持ち、複雑なプログラミング課題の解決から大規模なコードベースの理解まで対応します。特にアジア言語でのコーディング支援に強く、日本語でのプログラミング質問にも高精度で回答できる点が特徴です。",
+    "shortDescription": "高性能コーディング特化AIモデル",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本的なコード生成",
+            "制限付きアクセス"
+          ]
+        },
+        {
+          "name": "Pro版",
+          "price": "月額$20相当",
+          "features": [
+            "無制限アクセス",
+            "高度なコード解析",
+            "プライオリティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高精度コード生成",
+      "多言語対応",
+      "コードレビュー",
+      "バグ検出",
+      "リファクタリング支援"
+    ],
+    "pros": [
+      "日本語対応が優秀",
+      "コーディング性能が高い",
+      "大規模コード理解",
+      "レスポンスが速い"
+    ],
+    "cons": [
+      "中国企業製",
+      "プライバシー懸念",
+      "英語圏以外の情報が少ない"
+    ],
+    "officialUrl": "https://www.kimi.com/code",
+    "logoPath": "/logos/kimi-k2-6-code-preview.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "ソフトウェアエンジニア",
+      "日本語でコーディング支援を求める開発者",
+      "アジア圏の開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Moonshot AI",
+    "lastUpdated": "2026-04-14"
   }
 ]

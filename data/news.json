@@ -1,5 +1,63 @@
 [
   {
+    "id": "new-gaia-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "gaia",
+    "title": "GAIA が新しく追加されました",
+    "summary": "ローカルハードウェアで動作するAIエージェント構築フレームワーク",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "new-servo-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "servo",
+    "title": "Servo が新しく追加されました",
+    "summary": "Rust製の高性能Webブラウザエンジン",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "new-n-day-bench-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "n-day-bench",
+    "title": "N-Day-Bench が新しく追加されました",
+    "summary": "LLMの脆弱性発見能力を評価するベンチマークツール",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "new-mcptube-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "mcptube",
+    "title": "Mcptube が新しく追加されました",
+    "summary": "YouTube動画をAIで構造化知識ベース化",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "new-kimi-k2-6-code-preview-2026-04-14",
+    "type": "new-tool",
+    "toolSlug": "kimi-k2-6-code-preview",
+    "title": "Kimi K2.6-code-preview が新しく追加されました",
+    "summary": "高性能コーディング特化AIモデル",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "trending-servo-2026-04-14",
+    "type": "trending",
+    "toolSlug": "servo",
+    "title": "Servo が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Servo is now available on crates.io",
+    "date": "2026-04-14",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-cirrus-labs-2026-04-14",
+    "type": "trending",
+    "toolSlug": "cirrus-labs",
+    "title": "Cirrus Labs が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Cirrus Labs to join OpenAI",
+    "date": "2026-04-14",
+    "source": "hackernews"
+  },
+  {
     "id": "new-claudraband-2026-04-13",
     "type": "new-tool",
     "toolSlug": "claudraband",
