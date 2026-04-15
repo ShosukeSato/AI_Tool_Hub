@@ -83,6 +83,54 @@
     "source": "hackernews"
   },
   {
+    "id": "new-gitar-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "gitar",
+    "title": "Gitar が新しく追加されました",
+    "summary": "AIエージェントによる自動コードセキュリティ確保ツール",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-slop-scan-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "slop-scan",
+    "title": "Slop-scan が新しく追加されました",
+    "summary": "AI生成コードの品質問題を自動検出するツール",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-mrdns-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "mrdns",
+    "title": "MrDNS が新しく追加されました",
+    "summary": "DNS・メール認証の無料高速診断ツール",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-anything-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "anything",
+    "title": "Anything が新しく追加されました",
+    "summary": "感覚的・直感的なバイブコーディングアプリ",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-stanford-ai-index-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "stanford-ai-index",
+    "title": "Stanford AI Index が新しく追加されました",
+    "summary": "AI業界の包括的動向分析レポートプラットフォーム",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-science-corp-neural-sensor-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "science-corp-neural-sensor",
+    "title": "Science Corp Neural Sensor が新しく追加されました",
+    "summary": "人間の脳に埋め込む次世代神経センサー技術",
+    "date": "2026-04-15"
+  },
+  {
     "id": "new-gaia-2026-04-14",
     "type": "new-tool",
     "toolSlug": "gaia",

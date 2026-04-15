@@ -8,14 +8,28 @@
         "source": "hackernews",
         "title": "Claude Code Routines",
         "url": "https://code.claude.com/docs/en/routines",
-        "score": 435,
+        "score": 665,
+        "date": "2026-04-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude may require identity verification in some cases",
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+        "score": 78,
+        "date": "2026-04-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "What Claude Code's Source Revealed About AI Engineering Culture",
+        "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
+        "score": 40,
         "date": "2026-04-15"
       },
       {
         "source": "hackernews",
         "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
         "url": "https://github.com/ginlix-ai/langalpha",
-        "score": 110,
+        "score": 137,
         "date": "2026-04-15"
       },
       {
@@ -29,43 +43,15 @@
         "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
         "score": 1,
         "date": "2026-04-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "At the HumanX conference, everyone was talking about Claude",
-        "score": 1,
-        "date": "2026-04-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic temporarily banned OpenClaw&#8217;s creator from accessing Claude",
-        "score": 1,
-        "date": "2026-04-15"
       }
     ],
     "firstSeen": "2026-04-02",
     "lastSeen": "2026-04-15"
   },
   {
-    "toolSlug": "servo",
-    "toolName": "Servo",
-    "buzzScore": 8.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Servo is now available on crates.io",
-        "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-        "score": 469,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-14",
-    "lastSeen": "2026-04-15"
-  },
-  {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -79,15 +65,15 @@
     "lastSeen": "2026-04-13"
   },
   {
-    "toolSlug": "introspective-diffusion",
-    "toolName": "Introspective Diffusion",
-    "buzzScore": 4.8,
+    "toolSlug": "servo",
+    "toolName": "Servo",
+    "buzzScore": 5.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Introspective Diffusion Language Models",
-        "url": "https://introspective-diffusion.github.io/",
-        "score": 231,
+        "title": "Servo is now available on crates.io",
+        "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+        "score": 476,
         "date": "2026-04-15"
       }
     ],
@@ -97,7 +83,7 @@
   {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 4.8,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -111,9 +97,25 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "introspective-diffusion",
+    "toolName": "Introspective Diffusion",
+    "buzzScore": 3.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Introspective Diffusion Language Models",
+        "url": "https://introspective-diffusion.github.io/",
+        "score": 272,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-14",
+    "lastSeen": "2026-04-15"
+  },
+  {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 3.9,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -127,25 +129,9 @@
     "lastSeen": "2026-04-10"
   },
   {
-    "toolSlug": "gaia",
-    "toolName": "GAIA",
-    "buzzScore": 3.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-        "url": "https://amd-gaia.ai/docs",
-        "score": 147,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-14",
-    "lastSeen": "2026-04-15"
-  },
-  {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -159,9 +145,25 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "gaia",
+    "toolName": "GAIA",
+    "buzzScore": 2.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
+        "url": "https://amd-gaia.ai/docs",
+        "score": 152,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-14",
+    "lastSeen": "2026-04-15"
+  },
+  {
     "toolSlug": "n-day-bench",
     "toolName": "N-Day-Bench",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -175,25 +177,31 @@
     "lastSeen": "2026-04-15"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
     "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
-        "url": "https://github.com/dropseed/plain",
-        "score": 69,
+        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+        "score": 107,
+        "date": "2026-04-15"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
         "date": "2026-04-15"
       }
     ],
-    "firstSeen": "2026-04-15",
+    "firstSeen": "2026-04-03",
     "lastSeen": "2026-04-15"
   },
   {
     "toolSlug": "kontext-cli",
     "toolName": "Kontext CLI",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -207,9 +215,25 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+        "url": "https://github.com/dropseed/plain",
+        "score": 87,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-15"
+  },
+  {
     "toolSlug": "bouncer",
     "toolName": "Bouncer",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -225,7 +249,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -247,13 +271,13 @@
   {
     "toolSlug": "kelet",
     "toolName": "Kelet",
-    "buzzScore": 1.6,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
         "url": "https://kelet.ai/",
-        "score": 39,
+        "score": 47,
         "date": "2026-04-15"
       }
     ],
@@ -263,7 +287,7 @@
   {
     "toolSlug": "clawrun",
     "toolName": "ClawRun",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -279,7 +303,7 @@
   {
     "toolSlug": "midnight-captain",
     "toolName": "Midnight Captain",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -293,9 +317,41 @@
     "lastSeen": "2026-04-12"
   },
   {
+    "toolSlug": "agentfm",
+    "toolName": "AgentFM",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AgentFM – A single Go binary that turns idle GPUs into a P2P AI grid",
+        "url": "https://github.com/Agent-FM/agentfm-core",
+        "score": 15,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-15"
+  },
+  {
+    "toolSlug": "slop-scan",
+    "toolName": "Slop-scan",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Slop-scan – Detect AI code slop patterns in your repo",
+        "url": "https://github.com/benvinegar/slop-scan",
+        "score": 7,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-15"
+  },
+  {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -311,7 +367,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -323,54 +379,6 @@
     ],
     "firstSeen": "2026-04-08",
     "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "agentfm",
-    "toolName": "AgentFM",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AgentFM – A single Go binary that turns idle GPUs into a P2P AI grid",
-        "url": "https://github.com/Agent-FM/agentfm-core",
-        "score": 5,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "research-driven-agents",
-    "toolName": "Research-Driven Agents",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Research-Driven Agents: When an agent reads before it codes",
-        "url": "https://blog.skypilot.co/research-driven-agents/",
-        "score": 190,
-        "date": "2026-04-10"
-      }
-    ],
-    "firstSeen": "2026-04-10",
-    "lastSeen": "2026-04-10"
-  },
-  {
-    "toolSlug": "bluehammer",
-    "toolName": "BlueHammer",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
-        "url": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
-        "score": 24,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-12",
-    "lastSeen": "2026-04-12"
   },
   {
     "toolSlug": "attie",
@@ -385,21 +393,6 @@
       }
     ],
     "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-03",
     "lastSeen": "2026-04-15"
   },
   {
@@ -418,6 +411,36 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "crewworks",
+    "toolName": "CrewWorks",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント搭載でナレッジ活用を加速させる 【CrewWorks】がJapan DX Week 春 2026 で新機能を初公開 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-13",
+    "lastSeen": "2026-04-15"
+  },
+  {
+    "toolSlug": "gitar",
+    "toolName": "Gitar",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
+        "score": 1,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-15"
+  },
+  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
@@ -425,6 +448,21 @@
       {
         "source": "techcrunch",
         "title": "Google brings its Gemini Personal Intelligence feature to India",
+        "score": 1,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-15"
+  },
+  {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
         "score": 1,
         "date": "2026-04-15"
       }
@@ -463,9 +501,41 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "research-driven-agents",
+    "toolName": "Research-Driven Agents",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Research-Driven Agents: When an agent reads before it codes",
+        "url": "https://blog.skypilot.co/research-driven-agents/",
+        "score": 190,
+        "date": "2026-04-10"
+      }
+    ],
+    "firstSeen": "2026-04-10",
+    "lastSeen": "2026-04-10"
+  },
+  {
+    "toolSlug": "bluehammer",
+    "toolName": "BlueHammer",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
+        "url": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
+        "score": 24,
+        "date": "2026-04-12"
+      }
+    ],
+    "firstSeen": "2026-04-12",
+    "lastSeen": "2026-04-12"
+  },
+  {
     "toolSlug": "bear-roll",
     "toolName": "Bear Roll",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -481,7 +551,7 @@
   {
     "toolSlug": "kimi-k2-6-code-preview",
     "toolName": "Kimi K2.6-code-preview",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -497,7 +567,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -513,7 +583,7 @@
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -528,7 +598,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -543,7 +613,7 @@
   {
     "toolSlug": "findy-architecture-ai",
     "toolName": "Findy Architecture AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -558,7 +628,7 @@
   {
     "toolSlug": "mcptube",
     "toolName": "Mcptube",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -574,7 +644,7 @@
   {
     "toolSlug": "voicelog",
     "toolName": "VoiceLog",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -589,7 +659,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -605,7 +675,7 @@
   {
     "toolSlug": "stitch",
     "toolName": "Stitch",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -618,24 +688,9 @@
     "lastSeen": "2026-04-13"
   },
   {
-    "toolSlug": "crewworks",
-    "toolName": "CrewWorks",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント搭載でナレッジ活用を加速させる 【CrewWorks】がJapan DX Week 春 2026 で新機能を初公開 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-13"
-      }
-    ],
-    "firstSeen": "2026-04-13",
-    "lastSeen": "2026-04-13"
-  },
-  {
     "toolSlug": "qwen3-6-plus",
     "toolName": "Qwen3.6-Plus",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -651,7 +706,7 @@
   {
     "toolSlug": "lemonade",
     "toolName": "Lemonade",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -667,7 +722,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -679,69 +734,5 @@
     ],
     "firstSeen": "2026-04-02",
     "lastSeen": "2026-04-02"
-  },
-  {
-    "toolSlug": "arisealpha",
-    "toolName": "AriseAlpha",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AriseAlpha Launches Free AI Crypto & Stock Trading Platform - GlobeNewswire",
-        "score": 1,
-        "date": "2026-04-13"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-13"
-  },
-  {
-    "toolSlug": "typeless",
-    "toolName": "Typeless",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Typeless: AI-powered keyboard that predicts your next sentence",
-        "url": "https://news.ycombinator.com/item?id=example1",
-        "score": 850,
-        "date": "2026-03-28"
-      },
-      {
-        "source": "reddit",
-        "title": "Typeless is changing how we type - AI keyboard review",
-        "score": 1200,
-        "date": "2026-03-30"
-      }
-    ],
-    "firstSeen": "2026-03-25",
-    "lastSeen": "2026-03-30"
-  },
-  {
-    "toolSlug": "claude-code",
-    "toolName": "Claude Code",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude Code: Anthropic's new CLI coding agent",
-        "url": "https://news.ycombinator.com/item?id=example2",
-        "score": 920,
-        "date": "2026-03-26"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic launches Claude Code, a terminal-based AI coding assistant",
-        "date": "2026-03-27"
-      },
-      {
-        "source": "reddit",
-        "title": "Claude Code vs Cursor vs Copilot - real world comparison",
-        "score": 2100,
-        "date": "2026-03-29"
-      }
-    ],
-    "firstSeen": "2026-03-20",
-    "lastSeen": "2026-03-29"
   }
 ]

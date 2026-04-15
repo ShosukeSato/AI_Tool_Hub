@@ -12569,5 +12569,330 @@
     "releaseYear": 2026,
     "developer": "Google",
     "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "gitar",
+    "name": "Gitar",
+    "nameJa": "ギター",
+    "description": "AIエージェントを使用してコードのセキュリティを自動的に確保するスタートアップツール。9百万ドルの資金調達を完了し、ステルスモードから脱却。従来の静的解析とは異なり、AIエージェントが動的にコードの脆弱性を検出し、修正提案を自動生成する。開発チームのワークフローに組み込まれ、リアルタイムでセキュリティチェックを実行し、開発速度を落とすことなく高いセキュリティレベルを維持できる。",
+    "shortDescription": "AIエージェントによる自動コードセキュリティ確保ツール",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "AIエージェントによる脆弱性検出",
+            "自動修正提案",
+            "開発ワークフロー統合",
+            "リアルタイム監視"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェントによる動的脆弱性検出",
+      "自動修正提案生成",
+      "開発ワークフロー統合",
+      "リアルタイムセキュリティ監視",
+      "チーム協力機能"
+    ],
+    "pros": [
+      "開発速度を落とさない自動セキュリティチェック",
+      "AIによる高精度な脆弱性検出",
+      "既存ツールとの統合が容易",
+      "豊富な資金調達による安定性"
+    ],
+    "cons": [
+      "企業向けで個人利用は困難",
+      "新興企業のため実績が限定的",
+      "詳細な料金体系が不明"
+    ],
+    "officialUrl": "https://gitar.co",
+    "logoPath": "/logos/gitar.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "セキュリティを重視する開発チーム",
+      "エンタープライズ開発者",
+      "DevSecOps導入企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Gitar",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "slop-scan",
+    "name": "Slop-scan",
+    "nameJa": "スロップスキャン",
+    "description": "リポジトリ内のAI生成による低品質なコード（スロップ）パターンを検出する開発ツール。Hacker Newsで注目を集め、AI生成コードの品質管理の重要性が高まる中で登場。従来の静的解析では捉えきれないAI特有のコードパターンや冗長性を識別し、コードレビューの効率化と品質向上を支援する。GitHubと連携してCI/CDパイプラインに組み込み可能。",
+    "shortDescription": "AI生成コードの品質問題を自動検出するツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "スロップパターン検出",
+            "GitHub連携",
+            "CI/CD統合",
+            "カスタムルール"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI生成コードパターン検出",
+      "GitHub連携",
+      "CI/CDパイプライン統合",
+      "カスタムルール設定",
+      "詳細レポート生成"
+    ],
+    "pros": [
+      "無料のオープンソースツール",
+      "AI時代に特化した新しいアプローチ",
+      "既存ワークフローとの統合が容易",
+      "開発チームの品質管理を向上"
+    ],
+    "cons": [
+      "比較的新しいツールで実績が少ない",
+      "AIコード検出の精度に課題の可能性",
+      "日本語ドキュメントが限定的"
+    ],
+    "officialUrl": "https://github.com/benvinegar/slop-scan",
+    "logoPath": "/logos/slop-scan.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AI生成コードを使用する開発チーム",
+      "コード品質を重視するプロジェクト",
+      "新しい品質管理手法を探している開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Ben Vinegar",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "mrdns",
+    "name": "MrDNS",
+    "nameJa": "ミスターディーエヌエス",
+    "description": "DNS、メール認証、ネットワークセキュリティの無料高速診断ツール。Hacker Newsで63ポイントを獲得し注目を集める。従来の複雑な診断ツールとは異なり、シンプルなインターフェースで迅速にDNSレコード、SPF、DKIM、DMARCの設定状況を確認できる。システム管理者やウェブ開発者にとって必須のトラブルシューティングツールとして、メール配信問題の解決に特化している。",
+    "shortDescription": "DNS・メール認証の無料高速診断ツール",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料",
+          "price": "無料",
+          "features": [
+            "DNS診断",
+            "メール認証チェック",
+            "ネットワークセキュリティ診断",
+            "高速レスポンス"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "DNS レコード診断",
+      "SPF/DKIM/DMARC チェック",
+      "ネットワークセキュリティ診断",
+      "高速レスポンス",
+      "シンプルなUI"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "高速な診断レスポンス",
+      "包括的なメール認証チェック",
+      "使いやすいインターフェース"
+    ],
+    "cons": [
+      "詳細な設定ガイダンスが限定的",
+      "高度な診断機能は制限的",
+      "日本語サポートが不十分"
+    ],
+    "officialUrl": "https://mrdns.com/",
+    "logoPath": "/logos/mrdns.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "システム管理者",
+      "ウェブ開発者",
+      "メール配信に課題があるエンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "MrDNS Team",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "anything",
+    "name": "Anything",
+    "nameJa": "エニシング",
+    "description": "バイブコーディングアプリとして話題のツール。App Storeから2度除名された後、再構築を進めている注目のサービス。従来のコーディング環境とは異なり、直感的で感覚的なプログラミング体験を提供する。ユーザーの「感覚」や「バイブ」に基づいてコードを生成・編集でき、技術的な詳細に囚われることなく創造的なプログラミングが可能。アーティスティックなアプローチでコーディングを再定義する。",
+    "shortDescription": "感覚的・直感的なバイブコーディングアプリ",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "基本",
+          "price": "無料",
+          "features": [
+            "基本的なバイブコーディング",
+            "限定プロジェクト数"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "$9.99/月",
+          "features": [
+            "無制限プロジェクト",
+            "高度なバイブ機能",
+            "コラボレーション"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "バイブベースコーディング",
+      "直感的インターフェース",
+      "感覚的コード生成",
+      "アーティスティックプログラミング",
+      "創造的ワークフロー"
+    ],
+    "pros": [
+      "革新的なコーディングアプローチ",
+      "非技術者にも親しみやすい",
+      "創造性を重視した設計",
+      "ユニークなユーザー体験"
+    ],
+    "cons": [
+      "App Store除名の履歴",
+      "安定性に課題がある可能性",
+      "従来の開発には不向き"
+    ],
+    "officialUrl": "https://anything.app",
+    "logoPath": "/logos/anything.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "創造的なプログラマー",
+      "アーティスティックなコーディングを求める人",
+      "新しいプログラミング体験を探している初心者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Anything Team",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "stanford-ai-index",
+    "name": "Stanford AI Index",
+    "nameJa": "スタンフォードAIインデックス",
+    "description": "スタンフォード大学によるAI業界の包括的な年次レポートプラットフォーム。AI業界関係者と一般市民の間に広がる認識ギャップを明らかにした最新レポートが話題。AIの進歩、投資動向、政策変化、社会への影響を詳細に分析し、データドリブンなインサイトを提供。研究者、政策立案者、企業幹部にとって必須のAI業界動向把握ツールとして、意思決定の基盤となる信頼性の高い情報源。",
+    "shortDescription": "AI業界の包括的動向分析レポートプラットフォーム",
+    "category": "search-research",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料",
+          "price": "無料",
+          "features": [
+            "年次AIレポート",
+            "業界動向分析",
+            "データビジュアライゼーション",
+            "政策提言"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "包括的AI業界分析",
+      "年次レポート",
+      "データビジュアライゼーション",
+      "政策動向追跡",
+      "社会影響評価"
+    ],
+    "pros": [
+      "スタンフォード大学による信頼性の高いデータ",
+      "無料でアクセス可能",
+      "包括的な業界カバレッジ",
+      "政策立案に役立つインサイト"
+    ],
+    "cons": [
+      "年次更新のため最新情報に遅れ",
+      "英語での提供が中心",
+      "専門的すぎる内容もある"
+    ],
+    "officialUrl": "https://aiindex.stanford.edu",
+    "logoPath": "/logos/stanford-ai-index.svg",
+    "rating": 4.6,
+    "recommendedFor": [
+      "AI研究者",
+      "政策立案者",
+      "企業のAI戦略担当者"
+    ],
+    "releaseYear": 2017,
+    "developer": "Stanford University",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "science-corp-neural-sensor",
+    "name": "Science Corp Neural Sensor",
+    "nameJa": "サイエンスコープ神経センサー",
+    "description": "Max Hodakが設立したScience Corp.による革新的な脳内センサー技術。人間の脳に初めて埋め込まれる予定の次世代ブレイン・コンピューター・インターフェース。従来のNeuralink等と異なり、より安全で低侵襲な手術での実装を目指している。視覚障害者の視力回復、運動機能の復元、脳疾患の治療に応用予定。医療分野でのAI応用における大きなブレークスルーとして注目されている。",
+    "shortDescription": "人間の脳に埋め込む次世代神経センサー技術",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "医療機関向け",
+          "price": "要問い合わせ",
+          "features": [
+            "脳内センサー技術",
+            "医療グレード安全性",
+            "AI統合機能",
+            "専門サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "脳内センサー埋め込み技術",
+      "低侵襲手術対応",
+      "AI統合システム",
+      "視力回復支援",
+      "運動機能復元"
+    ],
+    "pros": [
+      "革新的なBCI技術",
+      "医療応用への大きな可能性",
+      "著名な起業家による開発",
+      "低侵襲性を重視した設計"
+    ],
+    "cons": [
+      "医療承認待ちの段階",
+      "高額な治療費が予想される",
+      "長期的な安全性が未確認"
+    ],
+    "officialUrl": "https://science.xyz",
+    "logoPath": "/logos/science-corp-neural-sensor.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "医療研究者",
+      "神経科学研究者",
+      "BCI技術に関心のある研究者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Science Corp",
+    "lastUpdated": "2026-04-15"
   }
 ]
