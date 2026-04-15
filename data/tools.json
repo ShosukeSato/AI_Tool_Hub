@@ -12180,5 +12180,394 @@
     "releaseYear": 2026,
     "developer": "OpenAI (旧Hiro Technologies)",
     "lastUpdated": "2026-04-14"
+  },
+  {
+    "slug": "langalpha",
+    "name": "LangAlpha",
+    "nameJa": "ランガルファ",
+    "description": "金融業界向けに特化したAIコーディングアシスタントで、「ウォール街向けのClaude Code」をコンセプトに開発されました。金融データ分析、リスク計算、トレーディングアルゴリズムの開発に特化した機能を提供し、金融機関のコンプライアンス要件に対応した安全なコード生成を実現します。証券取引所のAPIとの連携や財務モデリングの自動化により、金融エンジニアの生産性を大幅に向上させる革新的なツールです。",
+    "shortDescription": "金融業界特化のAIコーディングアシスタント",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "金融特化コード生成",
+            "コンプライアンス対応",
+            "リアルタイムデータ連携",
+            "24/7サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "金融特化コード生成",
+      "リスク計算アルゴリズム",
+      "トレーディングAPI連携",
+      "コンプライアンス準拠",
+      "財務モデリング自動化"
+    ],
+    "pros": [
+      "金融業界に特化した専門性",
+      "コンプライアンス要件への対応",
+      "高度な財務計算サポート",
+      "セキュリティ重視の設計"
+    ],
+    "cons": [
+      "金融業界以外では活用が限定的",
+      "導入コストが高額",
+      "専門知識が必要"
+    ],
+    "officialUrl": "https://github.com/ginlix-ai/langalpha",
+    "logoPath": "/logos/langalpha.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "金融機関のエンジニア",
+      "クオンツアナリスト",
+      "フィンテック開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Ginlix AI",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "plain",
+    "name": "Plain",
+    "nameJa": "プレイン",
+    "description": "人間とAIエージェントの両方が使いやすいよう設計された革新的なフルスタックPythonフレームワークです。従来のWebフレームワークと異なり、AIエージェントが理解しやすいシンプルな構造を持ちながら、開発者にとっても直感的に使える設計を実現しています。自動コード生成、AIとの協調開発、人間らしいAPIデザインにより、次世代のWeb開発体験を提供します。AIエージェント時代に最適化された開発環境として注目を集めています。",
+    "shortDescription": "人間とAIエージェント両対応のPythonフレームワーク",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "フル機能利用",
+            "コミュニティサポート",
+            "商用利用可能",
+            "GitHub統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェント対応設計",
+      "シンプルなAPI構造",
+      "自動コード生成",
+      "Pythonネイティブ",
+      "人間らしい開発体験"
+    ],
+    "pros": [
+      "AIエージェントとの協調開発が可能",
+      "学習コストが低い",
+      "オープンソースで無料",
+      "モダンな開発体験"
+    ],
+    "cons": [
+      "新しいフレームワークでエコシステムが少ない",
+      "企業サポートが限定的",
+      "ドキュメントが発展途上"
+    ],
+    "officialUrl": "https://github.com/dropseed/plain",
+    "logoPath": "/logos/plain.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "Python開発者",
+      "AIエージェント開発者",
+      "Web開発初心者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Dropseed",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "kontext-cli",
+    "name": "Kontext CLI",
+    "nameJa": "コンテキストCLI",
+    "description": "AIコーディングエージェント向けの認証情報ブローカーツールで、Go言語で開発されています。複数のAIコーディングツールやサービスへの安全なアクセス管理を一元化し、開発者が様々なAIエージェントを効率的に活用できる環境を提供します。秘密鍵やAPIキーの安全な管理、自動的な認証フロー、セキュリティポリシーの統一管理により、AIエージェント時代の開発インフラの重要な基盤となるツールです。",
+    "shortDescription": "AIコーディングエージェント向け認証管理ツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "認証情報管理",
+            "複数サービス対応",
+            "CLI操作",
+            "セキュリティポリシー管理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "認証情報の一元管理",
+      "複数AIサービス対応",
+      "Go製の軽量CLI",
+      "セキュリティポリシー統合",
+      "自動認証フロー"
+    ],
+    "pros": [
+      "セキュリティ重視の設計",
+      "軽量で高速",
+      "複数サービスの統合管理",
+      "CLI操作で自動化しやすい"
+    ],
+    "cons": [
+      "Go言語の知識が必要",
+      "GUIが提供されていない",
+      "設定が複雑になる場合がある"
+    ],
+    "officialUrl": "https://github.com/kontext-dev/kontext-cli",
+    "logoPath": "/logos/kontext-cli.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "DevOpsエンジニア",
+      "セキュリティ重視の開発者",
+      "複数AIツール利用者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Kontext Development",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "kelet",
+    "name": "Kelet",
+    "nameJa": "ケレット",
+    "description": "LLMアプリケーション専用のルートコース解析（RCA）エージェントで、AI開発者の問題解決を支援する革新的なツールです。LLMアプリで発生するエラーや性能問題を自動的に分析し、根本原因を特定して解決策を提案します。プロンプトエンジニアリング、トークン使用量の最適化、レスポンス品質の改善など、LLM特有の課題に特化した診断機能により、AIアプリケーションの安定稼働と品質向上を実現します。",
+    "shortDescription": "LLMアプリ専用のルートコース解析エージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "スターター",
+          "price": "無料",
+          "features": [
+            "基本的なRCA機能",
+            "5プロジェクトまで",
+            "コミュニティサポート"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "$29/月（約4,500円）",
+          "features": [
+            "高度なRCA機能",
+            "無制限プロジェクト",
+            "詳細レポート",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動RCA実行",
+      "LLM特化診断",
+      "プロンプト最適化提案",
+      "パフォーマンス分析",
+      "詳細レポート生成"
+    ],
+    "pros": [
+      "LLMアプリに特化した専門性",
+      "問題の早期発見と解決",
+      "開発効率の大幅向上",
+      "直感的な分析レポート"
+    ],
+    "cons": [
+      "LLMアプリ以外では使用不可",
+      "高度な機能は有料",
+      "学習期間が必要"
+    ],
+    "officialUrl": "https://kelet.ai/",
+    "logoPath": "/logos/kelet.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "LLMアプリ開発者",
+      "AIエンジニア",
+      "MLOpsエンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "Kelet AI",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "agentfm",
+    "name": "AgentFM",
+    "nameJa": "エージェントFM",
+    "description": "アイドル状態のGPUを活用してP2P AI分散コンピューティンググリッドを構築する革新的なGo製ツールです。単一のバイナリファイルで、使用していないGPUリソースを他の開発者と共有し、AIモデルの学習や推論処理を分散実行できます。個人や小規模チームが高価なクラウドGPUを使わずに大規模なAI処理を実行でき、同時にGPUリソースを提供することで報酬を得られる新しいエコシステムを提供しています。",
+    "shortDescription": "アイドルGPUを活用するP2P AIグリッド",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "コミュニティ",
+          "price": "無料",
+          "features": [
+            "P2Pネットワーク参加",
+            "GPUリソース共有",
+            "基本的な報酬システム",
+            "オープンソース"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "P2P GPU共有",
+      "単一バイナリ展開",
+      "報酬システム",
+      "分散AI処理",
+      "Go製軽量実装"
+    ],
+    "pros": [
+      "GPUコストの大幅削減",
+      "リソース提供で報酬獲得",
+      "簡単セットアップ",
+      "分散処理による高速化"
+    ],
+    "cons": [
+      "ネットワーク依存の処理速度",
+      "セキュリティリスクの懸念",
+      "電力コストの考慮必要"
+    ],
+    "officialUrl": "https://github.com/Agent-FM/agentfm-core",
+    "logoPath": "/logos/agentfm.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "GPU所有者",
+      "AI研究者",
+      "コスト重視の開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Agent FM",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "clawrun",
+    "name": "ClawRun",
+    "nameJa": "クローラン",
+    "description": "AIエージェントの展開と管理を数秒で実現する次世代デプロイメントプラットフォームです。複雑なAIエージェントの設定、スケーリング、監視を自動化し、開発者がAIロジックの構築に集中できる環境を提供します。Docker不要のシンプルな展開プロセス、リアルタイム監視、自動スケーリング機能により、AIエージェントの本番運用を劇的に簡素化します。マルチクラウド対応で可用性も確保されています。",
+    "shortDescription": "数秒でAIエージェントを展開・管理するプラットフォーム",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "スターター",
+          "price": "無料",
+          "features": [
+            "3エージェントまで",
+            "基本監視",
+            "コミュニティサポート"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "$19/月（約2,900円）",
+          "features": [
+            "無制限エージェント",
+            "高度な監視",
+            "自動スケーリング",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ワンクリックデプロイ",
+      "リアルタイム監視",
+      "自動スケーリング",
+      "マルチクラウド対応",
+      "簡単設定管理"
+    ],
+    "pros": [
+      "極めて簡単なセットアップ",
+      "高速デプロイメント",
+      "運用コストの削減",
+      "直感的な管理画面"
+    ],
+    "cons": [
+      "ベンダーロックインリスク",
+      "カスタマイズに制限",
+      "新しいサービスでの実績不足"
+    ],
+    "officialUrl": "https://github.com/clawrun-sh/clawrun",
+    "logoPath": "/logos/clawrun.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "AIスタートアップ",
+      "AIエージェント開発者",
+      "DevOpsエンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "ClawRun",
+    "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "chrome-ai-skills",
+    "name": "Chrome AI Skills",
+    "nameJa": "クロームAIスキル",
+    "description": "Googleが発表したChromeブラウザの新機能で、よく使うAIプロンプトをワンクリックで実行できるツールに変換できます。日常的に使用するChatGPTやGeminiへのプロンプトを保存し、ブラウザから瞬時にアクセス可能にします。ウェブページの要約、言語翻訳、コード解説など、繰り返し使う処理を効率化し、AIとの対話をより生産的にします。Chrome拡張機能として統合され、すべてのWebサイトで利用可能です。",
+    "shortDescription": "AIプロンプトをワンクリックツール化するChrome機能",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Chrome統合",
+          "price": "無料",
+          "features": [
+            "プロンプト保存",
+            "ワンクリック実行",
+            "全サイト対応",
+            "Chrome同期"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "プロンプトのツール化",
+      "ワンクリック実行",
+      "Chrome統合",
+      "カスタマイズ可能",
+      "クロスサイト対応"
+    ],
+    "pros": [
+      "完全無料",
+      "Chromeに標準統合",
+      "使い方が非常に簡単",
+      "生産性向上に直結"
+    ],
+    "cons": [
+      "Chrome限定",
+      "高度なカスタマイズは制限",
+      "プライバシーの考慮必要"
+    ],
+    "officialUrl": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "logoPath": "/logos/chrome-ai-skills.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "Chrome利用者",
+      "AI初心者",
+      "生産性重視のビジネスパーソン"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google",
+    "lastUpdated": "2026-04-15"
   }
 ]

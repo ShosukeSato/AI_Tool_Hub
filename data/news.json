@@ -1,5 +1,88 @@
 [
   {
+    "id": "new-langalpha-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "langalpha",
+    "title": "LangAlpha が新しく追加されました",
+    "summary": "金融業界特化のAIコーディングアシスタント",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-plain-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "plain",
+    "title": "Plain が新しく追加されました",
+    "summary": "人間とAIエージェント両対応のPythonフレームワーク",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-kontext-cli-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "kontext-cli",
+    "title": "Kontext CLI が新しく追加されました",
+    "summary": "AIコーディングエージェント向け認証管理ツール",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-kelet-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "kelet",
+    "title": "Kelet が新しく追加されました",
+    "summary": "LLMアプリ専用のルートコース解析エージェント",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-agentfm-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "agentfm",
+    "title": "AgentFM が新しく追加されました",
+    "summary": "アイドルGPUを活用するP2P AIグリッド",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-clawrun-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "clawrun",
+    "title": "ClawRun が新しく追加されました",
+    "summary": "数秒でAIエージェントを展開・管理するプラットフォーム",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "new-chrome-ai-skills-2026-04-15",
+    "type": "new-tool",
+    "toolSlug": "chrome-ai-skills",
+    "title": "Chrome AI Skills が新しく追加されました",
+    "summary": "AIプロンプトをワンクリックツール化するChrome機能",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "trending-claude-2026-04-15",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code Routines",
+    "date": "2026-04-15",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-servo-2026-04-15",
+    "type": "trending",
+    "toolSlug": "servo",
+    "title": "Servo が話題沸騰中（バズスコア: 8.7）",
+    "summary": "hackernewsで注目: Servo is now available on crates.io",
+    "date": "2026-04-15",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-cirrus-labs-2026-04-15",
+    "type": "trending",
+    "toolSlug": "cirrus-labs",
+    "title": "Cirrus Labs が話題沸騰中（バズスコア: 7.3）",
+    "summary": "hackernewsで注目: Cirrus Labs to join OpenAI",
+    "date": "2026-04-15",
+    "source": "hackernews"
+  },
+  {
     "id": "new-gaia-2026-04-14",
     "type": "new-tool",
     "toolSlug": "gaia",
