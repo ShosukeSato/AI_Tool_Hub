@@ -13242,5 +13242,353 @@
     "releaseYear": 2026,
     "developer": "LearnO",
     "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "chatgpt-for-excel",
+    "name": "ChatGPT for Excel",
+    "nameJa": "チャットGPT フォー エクセル",
+    "description": "OpenAIが提供するExcel専用のChatGPTアプリケーション。スプレッドシート内で直接AI機能を使用でき、データ分析、数式生成、グラフ作成、レポート作成などを自然言語で指示できます。従来のExcel作業を大幅に効率化し、複雑な計算やデータ処理もチャット形式で簡単に実行可能。VBAコード生成やピボットテーブル作成なども対話的に行えます。",
+    "shortDescription": "Excel専用のChatGPTでスプレッドシート作業を効率化",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "無料",
+          "features": [
+            "基本的なAI機能",
+            "月間制限あり"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$20/月（約3,000円）",
+          "features": [
+            "無制限利用",
+            "高度な分析機能",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Excel内でのChatGPT機能",
+      "自然言語でのデータ分析",
+      "数式・マクロ自動生成",
+      "グラフ・レポート作成",
+      "VBAコード生成"
+    ],
+    "pros": [
+      "Excel作業の大幅な効率化",
+      "プログラミング知識不要",
+      "直感的な操作",
+      "複雑な分析も簡単実行"
+    ],
+    "cons": [
+      "インターネット接続必須",
+      "有料プランは比較的高額",
+      "日本語対応が限定的"
+    ],
+    "officialUrl": "https://chatgpt.com/apps/spreadsheets/",
+    "logoPath": "/logos/chatgpt-for-excel.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "データアナリスト",
+      "ビジネス担当者",
+      "Excel上級者",
+      "効率化を求める人"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "ramain",
+    "name": "RamAIn",
+    "nameJa": "ラムエーアイン",
+    "description": "Y Combinator W26採択のAIスタートアップが開発する次世代AIツール。GTM（Go-to-Market）オペレーション領域に特化したAIプラットフォームで、営業プロセスの自動化、リード生成、顧客データ分析などを統合的に提供します。現在積極的に人材採用を行っており、急成長中の注目企業。マーケティングから営業まで一貫したAI支援を実現します。",
+    "shortDescription": "Y Combinator採択のGTMオペレーション特化AI",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "要問い合わせ",
+          "features": [
+            "基本的なGTM機能",
+            "リード管理"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "フル機能",
+            "カスタム統合",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "GTMオペレーション自動化",
+      "リード生成・管理",
+      "営業プロセス最適化",
+      "顧客データ分析",
+      "統合ダッシュボード"
+    ],
+    "pros": [
+      "Y Combinator採択の信頼性",
+      "GTM特化の専門性",
+      "急成長中のイノベーション",
+      "包括的なソリューション"
+    ],
+    "cons": [
+      "新興企業のリスク",
+      "詳細な価格情報が不明",
+      "日本市場での実績が少ない"
+    ],
+    "officialUrl": "https://www.ycombinator.com/companies/ramain",
+    "logoPath": "/logos/ramain.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "スタートアップ経営者",
+      "営業チームリーダー",
+      "マーケティング担当者",
+      "GTMオペレーション担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "RamAIn",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "let-ai-gamble",
+    "name": "Let AI Gamble",
+    "nameJa": "レット エーアイ ギャンブル",
+    "description": "ClaudeにカジノのBankrollを与えて、AIにギャンブルをさせる実験的なプラットフォーム。AIが資金を使い果たして「考える」ことができなくなるまでギャンブルを続けるユニークなコンセプト。AI判断能力の限界やリスク管理能力を検証する教育的・エンターテイメント要素を持つツール。AIの行動パターンや意思決定プロセスを観察できる興味深い実験場です。",
+    "shortDescription": "AIにギャンブルをさせるユニークな実験プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的な実験機能",
+            "AI観察機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIギャンブル実験",
+      "リアルタイム観察",
+      "行動パターン分析",
+      "意思決定プロセス可視化",
+      "教育的コンテンツ"
+    ],
+    "pros": [
+      "ユニークなAI実験",
+      "教育的価値",
+      "無料で利用可能",
+      "AI行動の理解促進"
+    ],
+    "cons": [
+      "ギャンブル要素への懸念",
+      "実用性が限定的",
+      "エンターテイメント色が強い"
+    ],
+    "officialUrl": "https://letaigamble.com/",
+    "logoPath": "/logos/let-ai-gamble.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "AI研究者",
+      "テクノロジー愛好家",
+      "教育関係者",
+      "実験的ツールに興味がある人"
+    ],
+    "releaseYear": 2026,
+    "developer": "Independent Developer",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "gas-town",
+    "name": "Gas Town",
+    "nameJa": "ガスタウン",
+    "description": "LLMクレジット管理プラットフォームですが、ユーザーのクレジットを「盗用」して自己改善に使用しているとの議論が話題となっているツール。GitHub上で透明性に関する大きな議論が巻き起こっており、AIツールの倫理的使用やユーザークレジットの適切な管理について重要な問題提起をしています。LLM利用の課金管理や使用量最適化機能を提供しています。",
+    "shortDescription": "LLMクレジット管理プラットフォーム（透明性議論中）",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "無料",
+          "features": [
+            "基本的なクレジット管理",
+            "使用量追跡"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "要確認",
+          "features": [
+            "高度な分析",
+            "複数プロジェクト管理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "LLMクレジット管理",
+      "使用量追跡",
+      "コスト最適化",
+      "複数サービス統合",
+      "分析ダッシュボード"
+    ],
+    "pros": [
+      "包括的なクレジット管理",
+      "コスト最適化支援",
+      "複数LLMサービス対応",
+      "詳細な使用量分析"
+    ],
+    "cons": [
+      "透明性に関する議論",
+      "ユーザークレジット使用の疑念",
+      "信頼性への懸念"
+    ],
+    "officialUrl": "https://github.com/gastownhall/gastown",
+    "logoPath": "/logos/gas-town.svg",
+    "rating": 2.8,
+    "recommendedFor": [
+      "LLM利用管理者",
+      "コスト最適化担当者",
+      "複数AI利用企業",
+      "透明性を重視する開発者"
+    ],
+    "releaseYear": 2025,
+    "developer": "GasTown Hall",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "bonsai-webgpu",
+    "name": "Bonsai WebGPU",
+    "nameJa": "ボンサイ ウェブGPU",
+    "description": "わずか290MBの1-bit LLMをブラウザ上で直接実行できる革新的なツール。WebGPU技術を活用してローカル環境で高速なAI推論を実現し、プライバシーを完全に保護しながら言語モデルを利用できます。インターネット接続不要でオフライン動作し、軽量ながら実用的な性能を提供。Hugging Face Spacesでデモ体験が可能です。",
+    "shortDescription": "290MBの軽量1-bit LLMをブラウザで実行",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "ブラウザ内実行",
+            "オフライン利用",
+            "プライバシー保護"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ブラウザ内AI実行",
+      "WebGPU最適化",
+      "オフライン動作",
+      "軽量モデル",
+      "プライバシー保護"
+    ],
+    "pros": [
+      "完全ローカル実行",
+      "超軽量サイズ",
+      "高いプライバシー",
+      "インターネット不要"
+    ],
+    "cons": [
+      "機能が限定的",
+      "WebGPU対応ブラウザ必須",
+      "大規模タスクには不向き"
+    ],
+    "officialUrl": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+    "logoPath": "/logos/bonsai-webgpu.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "プライバシー重視ユーザー",
+      "オフライン利用者",
+      "軽量AI求める人",
+      "Web技術愛好家"
+    ],
+    "releaseYear": 2026,
+    "developer": "WebML Community",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "khanmigo",
+    "name": "Khanmigo",
+    "nameJa": "カーンミーゴ",
+    "description": "Khan Academyが開発した教育特化のAIチューターシステム。Sal Khan氏による教育革命の一環として開発されましたが、実際の教育現場での普及はまだ限定的との報告もあります。個別指導型のAI学習支援、数学・科学・プログラミングなど幅広い科目に対応し、学習者のペースに合わせた個別最適化された指導を提供します。教育業界で注目される革新的ツールです。",
+    "shortDescription": "Khan Academy開発の教育特化AIチューター",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "無料",
+          "features": [
+            "基本的な学習支援",
+            "限定機能"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$9/月（約1,400円）",
+          "features": [
+            "フル機能",
+            "個別指導",
+            "進捗追跡"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "個別指導AI",
+      "幅広い教科対応",
+      "学習進捗追跡",
+      "適応学習システム",
+      "質問応答機能"
+    ],
+    "pros": [
+      "教育専門の高品質",
+      "Khan Academyの信頼性",
+      "個別最適化学習",
+      "幅広い年齢層対応"
+    ],
+    "cons": [
+      "普及が限定的",
+      "英語中心のコンテンツ",
+      "日本の教育課程との差異"
+    ],
+    "officialUrl": "https://www.khanacademy.org/khan-labs",
+    "logoPath": "/logos/khanmigo.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "学生・生徒",
+      "教育関係者",
+      "保護者",
+      "自主学習者"
+    ],
+    "releaseYear": 2023,
+    "developer": "Khan Academy",
+    "lastUpdated": "2026-04-16"
   }
 ]

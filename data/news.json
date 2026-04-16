@@ -57,6 +57,63 @@
     "source": "hackernews"
   },
   {
+    "id": "new-chatgpt-for-excel-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "chatgpt-for-excel",
+    "title": "ChatGPT for Excel が新しく追加されました",
+    "summary": "Excel専用のChatGPTでスプレッドシート作業を効率化",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-ramain-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "ramain",
+    "title": "RamAIn が新しく追加されました",
+    "summary": "Y Combinator採択のGTMオペレーション特化AI",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-let-ai-gamble-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "let-ai-gamble",
+    "title": "Let AI Gamble が新しく追加されました",
+    "summary": "AIにギャンブルをさせるユニークな実験プラットフォーム",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-gas-town-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "gas-town",
+    "title": "Gas Town が新しく追加されました",
+    "summary": "LLMクレジット管理プラットフォーム（透明性議論中）",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-bonsai-webgpu-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "bonsai-webgpu",
+    "title": "Bonsai WebGPU が新しく追加されました",
+    "summary": "290MBの軽量1-bit LLMをブラウザで実行",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-khanmigo-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "khanmigo",
+    "title": "Khanmigo が新しく追加されました",
+    "summary": "Khan Academy開発の教育特化AIチューター",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "trending-llama-2026-04-16",
+    "type": "trending",
+    "toolSlug": "llama",
+    "title": "Llama が話題沸騰中（バズスコア: 7.7）",
+    "summary": "hackernewsで注目: The local LLM ecosystem doesn’t need Ollama",
+    "date": "2026-04-16",
+    "source": "hackernews"
+  },
+  {
     "id": "new-langalpha-2026-04-15",
     "type": "new-tool",
     "toolSlug": "langalpha",
