@@ -1,5 +1,62 @@
 [
   {
+    "id": "new-libretto-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "libretto",
+    "title": "Libretto が新しく追加されました",
+    "summary": "AIブラウザ自動化を決定論的にするツール",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-pretty-fish-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "pretty-fish",
+    "title": "Pretty Fish が新しく追加されました",
+    "summary": "美しいMermaidダイアグラムエディター",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-agent-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "agent",
+    "title": "Agent が新しく追加されました",
+    "summary": "macOS専用のネイティブAIコーディングIDE",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-gemini-3-1-flash-tts-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "gemini-3-1-flash-tts",
+    "title": "Gemini 3.1 Flash TTS が新しく追加されました",
+    "summary": "表現力豊かな次世代AI音声合成",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-shirofune-ai-performance-analysis-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "shirofune-ai-performance-analysis",
+    "title": "Shirofune AI Performance Analysis が新しく追加されました",
+    "summary": "AIによる広告パフォーマンス自動分析",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "new-learno-2026-04-16",
+    "type": "new-tool",
+    "toolSlug": "learno",
+    "title": "LearnO が新しく追加されました",
+    "summary": "補助金対象のAI活用eラーニングシステム",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "trending-claude-2026-04-16",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code Routines",
+    "date": "2026-04-16",
+    "source": "hackernews"
+  },
+  {
     "id": "new-langalpha-2026-04-15",
     "type": "new-tool",
     "toolSlug": "langalpha",

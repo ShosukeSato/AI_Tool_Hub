@@ -12894,5 +12894,353 @@
     "releaseYear": 2024,
     "developer": "Science Corp",
     "lastUpdated": "2026-04-15"
+  },
+  {
+    "slug": "libretto",
+    "name": "Libretto",
+    "nameJa": "リブレット",
+    "description": "AIによるブラウザ自動化を決定論的かつ信頼性の高いものにするオープンソースツール。従来のAIブラウザ自動化が不安定で予測困難だった問題を解決し、一貫した動作を保証する。Webページの要素識別や操作を正確に行い、テスト自動化や繰り返し作業の効率化に最適。開発者向けのプログラマブルなAPIを提供し、複雑なワークフローも簡単に構築できる。",
+    "shortDescription": "AIブラウザ自動化を決定論的にするツール",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "GitHub公開",
+            "コミュニティサポート",
+            "全機能利用可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "決定論的ブラウザ自動化",
+      "信頼性の高い要素識別",
+      "プログラマブルAPI",
+      "オープンソース",
+      "テスト自動化対応"
+    ],
+    "pros": [
+      "従来のAI自動化より安定性が高い",
+      "オープンソースで無料利用可能",
+      "開発者向けの柔軟な設計",
+      "予測可能な動作を実現"
+    ],
+    "cons": [
+      "技術的な知識が必要",
+      "まだ新しいプロジェクト",
+      "日本語ドキュメントが限定的"
+    ],
+    "officialUrl": "https://github.com/saffron-health/libretto",
+    "logoPath": "/logos/libretto.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "Web開発者",
+      "QAエンジニア",
+      "自動化ツール開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Saffron Health",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "pretty-fish",
+    "name": "Pretty Fish",
+    "nameJa": "プリティフィッシュ",
+    "description": "Mermaidダイアグラムをより美しく、使いやすく作成・編集できる次世代ダイアグラムエディター。従来のMermaid図作成ツールの使いにくさを解消し、直感的なインターフェースでフローチャート、シーケンス図、ER図などを効率的に作成可能。リアルタイムプレビュー、豊富なテンプレート、チーム共有機能を搭載し、技術文書やプレゼンテーション作成を大幅に効率化する。",
+    "shortDescription": "美しいMermaidダイアグラムエディター",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "基本図表作成",
+            "個人利用",
+            "エクスポート機能"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "月額$9（約1,350円）",
+          "features": [
+            "無制限図表",
+            "チーム共有",
+            "高度な機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "直感的なMermaidエディター",
+      "リアルタイムプレビュー",
+      "豊富なテンプレート",
+      "チーム共有機能",
+      "多形式エクスポート"
+    ],
+    "pros": [
+      "従来のMermaidツールより使いやすい",
+      "美しいデザインの図表が作成可能",
+      "技術文書作成が効率化",
+      "チーム作業に最適"
+    ],
+    "cons": [
+      "Mermaid記法の知識が必要",
+      "高度な機能は有料",
+      "日本語対応が限定的"
+    ],
+    "officialUrl": "https://pretty.fish/",
+    "logoPath": "/logos/pretty-fish.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "ソフトウェア開発者",
+      "システム設計者",
+      "技術文書作成者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Pretty Fish",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "agent",
+    "name": "Agent",
+    "nameJa": "エージェント",
+    "description": "macOS専用のネイティブAIコーディングIDE・ハーネス。macOSに最適化されたインターフェースでコーディング作業を支援し、従来のクロスプラットフォーム開発環境よりも高いパフォーマンスと使いやすさを提供。Swift、Objective-C、その他の言語に対応し、macOS開発に特化した機能を多数搭載。リアルタイムコード補完、デバッグ支援、プロジェクト管理機能により開発効率を大幅に向上させる。",
+    "shortDescription": "macOS専用のネイティブAIコーディングIDE",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "GitHub公開",
+            "macOS最適化",
+            "全機能利用可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "macOSネイティブ設計",
+      "AIコード補完",
+      "デバッグ支援",
+      "プロジェクト管理",
+      "Swift最適化"
+    ],
+    "pros": [
+      "macOSに完全最適化",
+      "ネイティブアプリの高パフォーマンス",
+      "無料で利用可能",
+      "Apple開発に特化"
+    ],
+    "cons": [
+      "macOS専用でクロスプラットフォーム不可",
+      "まだ開発初期段階",
+      "コミュニティが小さい"
+    ],
+    "officialUrl": "https://github.com/macOS26/Agent",
+    "logoPath": "/logos/agent.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "macOS開発者",
+      "Swift開発者",
+      "Apple エコシステム開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "macOS26",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "gemini-3-1-flash-tts",
+    "name": "Gemini 3.1 Flash TTS",
+    "nameJa": "ジェミニ3.1フラッシュTTS",
+    "description": "Googleが開発した次世代の表現力豊かなAI音声合成サービス。従来のTTSを大きく上回る自然な抑揚と感情表現を実現し、人間らしい音声を高速で生成可能。多言語対応で日本語も自然に発話し、ポッドキャスト、動画ナレーション、音声アシスタントなど幅広い用途に対応。リアルタイム生成にも対応し、対話型アプリケーションにも最適。Google Cloudとの統合により企業利用も安心。",
+    "shortDescription": "表現力豊かな次世代AI音声合成",
+    "category": "voice-audio",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料枠",
+          "price": "無料",
+          "features": [
+            "月間限定利用",
+            "基本音声",
+            "API利用"
+          ]
+        },
+        {
+          "name": "従量課金",
+          "price": "1000文字あたり$0.016（約2.4円）",
+          "features": [
+            "無制限利用",
+            "高品質音声",
+            "企業サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "表現力豊かな音声生成",
+      "多言語対応",
+      "リアルタイム生成",
+      "感情表現",
+      "Google Cloud統合"
+    ],
+    "pros": [
+      "人間らしい自然な音声",
+      "高速生成でリアルタイム対応",
+      "多言語で日本語も高品質",
+      "Google Cloudの信頼性"
+    ],
+    "cons": [
+      "従量課金で大量利用時は高額",
+      "Google アカウント必須",
+      "カスタム音声は限定的"
+    ],
+    "officialUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+    "logoPath": "/logos/gemini-3-1-flash-tts.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "コンテンツクリエイター",
+      "アプリ開発者",
+      "音声メディア制作者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "shirofune-ai-performance-analysis",
+    "name": "Shirofune AI Performance Analysis",
+    "nameJa": "シロフネAIパフォーマンス分析",
+    "description": "デジタル広告のパフォーマンスを人工知能で自動分析し、最適化提案を行うマーケティング支援ツール。Google広告、Facebook広告、Yahoo!広告などの複数プラットフォームのデータを統合分析し、ROI改善のための具体的なアクションを提示。機械学習により広告効果を予測し、予算配分や入札戦略を自動最適化。中小企業でも簡単に高度なデジタルマーケティングが実現可能。",
+    "shortDescription": "AIによる広告パフォーマンス自動分析",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "スタンダード",
+          "price": "月額39,800円",
+          "features": [
+            "基本分析機能",
+            "3プラットフォーム",
+            "レポート作成"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "月額79,800円",
+          "features": [
+            "高度な分析",
+            "無制限プラットフォーム",
+            "カスタムレポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチプラットフォーム分析",
+      "自動最適化提案",
+      "ROI予測",
+      "予算配分最適化",
+      "レポート自動生成"
+    ],
+    "pros": [
+      "複数の広告プラットフォームを一元管理",
+      "専門知識なしで高度な分析が可能",
+      "日本企業向けに最適化",
+      "ROI改善実績が豊富"
+    ],
+    "cons": [
+      "導入コストが高い",
+      "小規模事業者には過剰機能",
+      "学習期間が必要"
+    ],
+    "officialUrl": "https://shirofune.com/",
+    "logoPath": "/logos/shirofune-ai-performance-analysis.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "デジタルマーケター",
+      "広告運用担当者",
+      "中小企業経営者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Shirofune",
+    "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "learno",
+    "name": "LearnO",
+    "nameJa": "ラーノ",
+    "description": "デジタル化・AI導入補助金2026の対象ツールに認定されたeラーニングシステム。企業の人材育成とAIスキル習得を支援し、従業員のデジタルリテラシー向上を効率的に実現。AIを活用した学習進捗管理、個人最適化されたカリキュラム提案、スキルアセスメント機能を搭載。補助金活用により導入コストを大幅に削減でき、中小企業でも本格的なeラーニング環境を構築可能。",
+    "shortDescription": "補助金対象のAI活用eラーニングシステム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "ベーシック",
+          "price": "月額980円/ユーザー",
+          "features": [
+            "基本学習機能",
+            "進捗管理",
+            "レポート機能"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "月額1,980円/ユーザー",
+          "features": [
+            "AI最適化",
+            "カスタムコンテンツ",
+            "高度な分析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI学習最適化",
+      "スキルアセスメント",
+      "進捗管理",
+      "補助金対応",
+      "カスタムコンテンツ作成"
+    ],
+    "pros": [
+      "補助金活用で導入コスト削減",
+      "AIによる個人最適化学習",
+      "日本の企業文化に適合",
+      "充実したサポート体制"
+    ],
+    "cons": [
+      "継続的なランニングコスト",
+      "コンテンツ作成に時間が必要",
+      "インターネット環境必須"
+    ],
+    "officialUrl": "https://learno.jp/",
+    "logoPath": "/logos/learno.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "人事担当者",
+      "企業研修担当者",
+      "中小企業経営者"
+    ],
+    "releaseYear": 2026,
+    "developer": "LearnO",
+    "lastUpdated": "2026-04-16"
   }
 ]

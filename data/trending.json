@@ -8,50 +8,23 @@
         "source": "hackernews",
         "title": "Claude Code Routines",
         "url": "https://code.claude.com/docs/en/routines",
-        "score": 665,
-        "date": "2026-04-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude may require identity verification in some cases",
-        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "score": 78,
-        "date": "2026-04-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "What Claude Code's Source Revealed About AI Engineering Culture",
-        "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
-        "score": 40,
-        "date": "2026-04-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
-        "url": "https://github.com/ginlix-ai/langalpha",
-        "score": 137,
-        "date": "2026-04-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Claude’s code: Anthropic leaks source code for AI software engineering tool | Technology - The Guardian",
-        "score": 1,
-        "date": "2026-04-15"
+        "score": 700,
+        "date": "2026-04-16"
       },
       {
         "source": "googlenews",
         "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
         "score": 1,
-        "date": "2026-04-15"
+        "date": "2026-04-16"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-15"
+    "lastSeen": "2026-04-16"
   },
   {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 6.6,
+    "buzzScore": 5.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -67,7 +40,7 @@
   {
     "toolSlug": "servo",
     "toolName": "Servo",
-    "buzzScore": 5.6,
+    "buzzScore": 5,
     "mentions": [
       {
         "source": "hackernews",
@@ -81,9 +54,31 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 4.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+        "score": 272,
+        "date": "2026-04-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-16"
+  },
+  {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -97,9 +92,25 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "pretty-fish",
+    "toolName": "Pretty Fish",
+    "buzzScore": 3.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Pretty Fish: A better mermaid diagram editor",
+        "url": "https://pretty.fish/",
+        "score": 176,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-16"
+  },
+  {
     "toolSlug": "introspective-diffusion",
     "toolName": "Introspective Diffusion",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -115,7 +126,7 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -131,7 +142,7 @@
   {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -145,9 +156,25 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 2.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT for Excel",
+        "url": "https://chatgpt.com/apps/spreadsheets/",
+        "score": 109,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-16"
+  },
+  {
     "toolSlug": "gaia",
     "toolName": "GAIA",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -161,9 +188,25 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "libretto",
+    "toolName": "Libretto",
+    "buzzScore": 2.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Libretto – Making AI browser automations deterministic",
+        "url": "https://github.com/saffron-health/libretto",
+        "score": 84,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-16"
+  },
+  {
     "toolSlug": "n-day-bench",
     "toolName": "N-Day-Bench",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -177,31 +220,9 @@
     "lastSeen": "2026-04-15"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 2.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-        "score": 107,
-        "date": "2026-04-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-15"
-  },
-  {
     "toolSlug": "kontext-cli",
     "toolName": "Kontext CLI",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -217,7 +238,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -233,7 +254,7 @@
   {
     "toolSlug": "bouncer",
     "toolName": "Bouncer",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -247,31 +268,9 @@
     "lastSeen": "2026-04-13"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "To teach in the era of ChatGPT is to know pain",
-        "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
-        "score": 46,
-        "date": "2026-04-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser&#8217;s delusions and ignored her warnings",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-15"
-  },
-  {
     "toolSlug": "kelet",
     "toolName": "Kelet",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -285,9 +284,31 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+        "score": 15,
+        "date": "2026-04-16"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google rolls out a native Gemini app for Mac",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-16"
+  },
+  {
     "toolSlug": "clawrun",
     "toolName": "ClawRun",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -301,9 +322,49 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Agent - Native Mac OS X coding ide/harness",
+        "url": "https://github.com/macOS26/Agent",
+        "score": 3,
+        "date": "2026-04-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Side adds AI tools to Side App for real estate agents - HousingWire",
+        "score": 1,
+        "date": "2026-04-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
+        "score": 1,
+        "date": "2026-04-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
+        "date": "2026-04-16"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-16"
+  },
+  {
     "toolSlug": "midnight-captain",
     "toolName": "Midnight Captain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -317,9 +378,120 @@
     "lastSeen": "2026-04-12"
   },
   {
+    "toolSlug": "arisealpha",
+    "toolName": "AriseAlpha",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AriseAlpha Launches Free AI Trading Bots for Crypto & Stock Markets with Automated Investment Tools (2026) - GlobeNewswire",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-16"
+  },
+  {
+    "toolSlug": "hiro",
+    "toolName": "Hiro",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Shirofune Launches AI-Powered Ad Performance Analysis Tool - National Today",
+        "score": 1,
+        "date": "2026-04-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "OpenAI has bought AI personal finance startup Hiro - TechCrunch",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-14",
+    "lastSeen": "2026-04-16"
+  },
+  {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-16"
+  },
+  {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「調べる」「まとめる」「翻訳する」をAI一つで完結。 Felo、「Japan IT Week 春 2026」Japan Startup Summitに出展 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-14",
+    "lastSeen": "2026-04-16"
+  },
+  {
+    "toolSlug": "findy-architecture-ai",
+    "toolName": "Findy Architecture AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-05",
+    "lastSeen": "2026-04-16"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "India&#8217;s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-03-22",
+    "lastSeen": "2026-04-16"
+  },
+  {
+    "toolSlug": "gitar",
+    "toolName": "Gitar",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
+        "score": 1,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-16"
+  },
+  {
     "toolSlug": "agentfm",
     "toolName": "AgentFM",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -335,7 +507,7 @@
   {
     "toolSlug": "slop-scan",
     "toolName": "Slop-scan",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -351,7 +523,7 @@
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -367,7 +539,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -383,7 +555,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -398,7 +570,7 @@
   {
     "toolSlug": "admina-ai",
     "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -413,7 +585,7 @@
   {
     "toolSlug": "crewworks",
     "toolName": "CrewWorks",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -426,39 +598,9 @@
     "lastSeen": "2026-04-15"
   },
   {
-    "toolSlug": "gitar",
-    "toolName": "Gitar",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google brings its Gemini Personal Intelligence feature to India",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-15"
-  },
-  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -471,39 +613,9 @@
     "lastSeen": "2026-04-15"
   },
   {
-    "toolSlug": "hiro",
-    "toolName": "Hiro",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "OpenAI has bought AI personal finance startup Hiro",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-14",
-    "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Microsoft is working on yet another OpenClaw-like agent",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-03-22",
-    "lastSeen": "2026-04-15"
-  },
-  {
     "toolSlug": "research-driven-agents",
     "toolName": "Research-Driven Agents",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -519,7 +631,7 @@
   {
     "toolSlug": "bluehammer",
     "toolName": "BlueHammer",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -535,7 +647,7 @@
   {
     "toolSlug": "bear-roll",
     "toolName": "Bear Roll",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -551,7 +663,7 @@
   {
     "toolSlug": "kimi-k2-6-code-preview",
     "toolName": "Kimi K2.6-code-preview",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -567,7 +679,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -581,24 +693,9 @@
     "lastSeen": "2026-04-10"
   },
   {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「調べる」「まとめる」「翻訳する」をAI一つで完結。 Felo、「Japan IT Week 春 2026」Japan Startup Summitに出展 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-14"
-      }
-    ],
-    "firstSeen": "2026-04-14",
-    "lastSeen": "2026-04-14"
-  },
-  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -611,24 +708,9 @@
     "lastSeen": "2026-04-14"
   },
   {
-    "toolSlug": "findy-architecture-ai",
-    "toolName": "Findy Architecture AI",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ファインディ、インフラ設計を支援する新サービス「Findy Architecture AI」を提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-04-14"
-      }
-    ],
-    "firstSeen": "2026-04-05",
-    "lastSeen": "2026-04-14"
-  },
-  {
     "toolSlug": "mcptube",
     "toolName": "Mcptube",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -644,7 +726,7 @@
   {
     "toolSlug": "voicelog",
     "toolName": "VoiceLog",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -659,7 +741,7 @@
   {
     "toolSlug": "apfel",
     "toolName": "Apfel",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -671,68 +753,5 @@
     ],
     "firstSeen": "2026-04-03",
     "lastSeen": "2026-04-05"
-  },
-  {
-    "toolSlug": "stitch",
-    "toolName": "Stitch",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing “vibe design” with Stitch - blog.google",
-        "score": 1,
-        "date": "2026-04-13"
-      }
-    ],
-    "firstSeen": "2026-04-10",
-    "lastSeen": "2026-04-13"
-  },
-  {
-    "toolSlug": "qwen3-6-plus",
-    "toolName": "Qwen3.6-Plus",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Qwen3.6-Plus: Towards real world agents",
-        "url": "https://qwen.ai/blog?id=qwen3.6",
-        "score": 579,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "lemonade",
-    "toolName": "Lemonade",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-        "url": "https://lemonade-server.ai",
-        "score": 558,
-        "date": "2026-04-04"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-04"
-  },
-  {
-    "toolSlug": "1-bit-bonsai",
-    "toolName": "1-Bit Bonsai",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-        "url": "https://prismml.com/",
-        "score": 406,
-        "date": "2026-04-02"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-02"
   }
 ]
