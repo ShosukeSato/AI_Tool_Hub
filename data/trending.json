@@ -8,55 +8,42 @@
         "source": "hackernews",
         "title": "Android CLI: Build Android apps 3x faster using any agent",
         "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-        "score": 130,
+        "score": 263,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
         "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
         "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-        "score": 922,
+        "score": 1162,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
         "title": "Cloudflare's AI Platform: an inference layer designed for agents",
         "url": "https://blog.cloudflare.com/ai-platform/",
-        "score": 245,
+        "score": 293,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
         "url": "https://github.com/GRVYDEV/marky",
-        "score": 40,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Laravel raised money and now injects ads directly into your agent",
-        "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-        "score": 185,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Sir-Bench – benchmark for security incident response agents",
-        "url": "https://arxiv.org/abs/2604.12040",
-        "score": 6,
+        "score": 62,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
         "title": "Agent - Native Mac OS X coding ide/harness",
         "url": "https://github.com/macOS26/Agent",
-        "score": 75,
+        "score": 78,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Agent-cache – Multi-tier LLM/tool/session caching for Valkey and Redis ()",
-        "score": 14,
+        "title": "Laravel raised money and now injects ads directly into your agent",
+        "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
+        "score": 198,
         "date": "2026-04-17"
       },
       {
@@ -96,41 +83,41 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 9.7,
+    "buzzScore": 9.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude Opus 4.7",
         "url": "https://www.anthropic.com/news/claude-opus-4-7",
-        "score": 1499,
+        "score": 1826,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Spice simulation → oscilloscope → verification with Claude Code",
+        "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
         "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-        "score": 18,
+        "score": 96,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
         "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-        "score": 310,
+        "score": 416,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
         "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
         "url": "https://github.com/AgentSeal/codeburn",
-        "score": 78,
+        "score": 92,
         "date": "2026-04-17"
       },
       {
         "source": "hackernews",
         "title": "Claude Opus 4.7 Model Card",
         "url": "https://anthropic.com/claude-opus-4-7-system-card",
-        "score": 163,
+        "score": 172,
         "date": "2026-04-17"
       },
       {
@@ -146,7 +133,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 6.9,
+    "buzzScore": 6.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -162,7 +149,7 @@
   {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 4.8,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -178,7 +165,7 @@
   {
     "toolSlug": "servo",
     "toolName": "Servo",
-    "buzzScore": 4.1,
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -194,7 +181,7 @@
   {
     "toolSlug": "gas-town",
     "toolName": "Gas Town",
-    "buzzScore": 3.6,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -208,9 +195,25 @@
     "lastSeen": "2026-04-16"
   },
   {
+    "toolSlug": "cloudflare-email-service",
+    "toolName": "Cloudflare Email Service",
+    "buzzScore": 3.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Cloudflare Email Service",
+        "url": "https://blog.cloudflare.com/email-for-agents/",
+        "score": 442,
+        "date": "2026-04-17"
+      }
+    ],
+    "firstSeen": "2026-04-17",
+    "lastSeen": "2026-04-17"
+  },
+  {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -226,13 +229,13 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "ChatGPT for Excel",
         "url": "https://chatgpt.com/apps/spreadsheets/",
-        "score": 320,
+        "score": 326,
         "date": "2026-04-17"
       }
     ],
@@ -240,9 +243,31 @@
     "lastSeen": "2026-04-17"
   },
   {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 2.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+        "score": 294,
+        "date": "2026-04-17"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
+        "date": "2026-04-17"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-17"
+  },
+  {
     "toolSlug": "pretty-fish",
     "toolName": "Pretty Fish",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -258,7 +283,7 @@
   {
     "toolSlug": "introspective-diffusion",
     "toolName": "Introspective Diffusion",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -272,31 +297,9 @@
     "lastSeen": "2026-04-15"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 2.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-        "score": 293,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-17"
-  },
-  {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -312,7 +315,7 @@
   {
     "toolSlug": "libretto",
     "toolName": "Libretto",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -328,7 +331,7 @@
   {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -344,7 +347,7 @@
   {
     "toolSlug": "gaia",
     "toolName": "GAIA",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -358,9 +361,25 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "tailscale-rs",
+    "toolName": "Tailscale-rs",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
+        "url": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
+        "score": 86,
+        "date": "2026-04-17"
+      }
+    ],
+    "firstSeen": "2026-04-17",
+    "lastSeen": "2026-04-17"
+  },
+  {
     "toolSlug": "n-day-bench",
     "toolName": "N-Day-Bench",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -376,7 +395,7 @@
   {
     "toolSlug": "kontext-cli",
     "toolName": "Kontext CLI",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -392,7 +411,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -408,7 +427,7 @@
   {
     "toolSlug": "bouncer",
     "toolName": "Bouncer",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -424,7 +443,7 @@
   {
     "toolSlug": "kelet",
     "toolName": "Kelet",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -436,37 +455,6 @@
     ],
     "firstSeen": "2026-04-15",
     "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "ilha",
-    "toolName": "Ilha",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Ilha – a UI library that fits in an AI context window",
-        "url": "https://ilha.build/",
-        "score": 20,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-17"
-  },
-  {
-    "toolSlug": "arisealpha",
-    "toolName": "AriseAlpha",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AriseAlpha Launches Free AI Trading Bots for Crypto & Stock Markets with Automated Investment Tools (2026) - GlobeNewswire",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-17"
   },
   {
     "toolSlug": "attie",
@@ -481,6 +469,27 @@
       }
     ],
     "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-17"
+  },
+  {
+    "toolSlug": "presso",
+    "toolName": "Presso",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "マーケの全ツールをAIに接続する「Presso」正式リリース (2026年4月17日掲載) - ライブドアニュース",
+        "score": 1,
+        "date": "2026-04-17"
+      },
+      {
+        "source": "googlenews",
+        "title": "マーケの全ツールをAIに接続する「Presso」正式リリース - ニコニコニュース",
+        "score": 1,
+        "date": "2026-04-17"
+      }
+    ],
+    "firstSeen": "2026-04-17",
     "lastSeen": "2026-04-17"
   },
   {
@@ -559,9 +568,40 @@
     "lastSeen": "2026-04-17"
   },
   {
+    "toolSlug": "ilha",
+    "toolName": "Ilha",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Ilha – a UI library that fits in an AI context window",
+        "url": "https://ilha.build/",
+        "score": 20,
+        "date": "2026-04-17"
+      }
+    ],
+    "firstSeen": "2026-04-17",
+    "lastSeen": "2026-04-17"
+  },
+  {
+    "toolSlug": "arisealpha",
+    "toolName": "AriseAlpha",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AriseAlpha Launches Free AI Trading Bots for Crypto & Stock Markets with Automated Investment Tools (2026) - GlobeNewswire",
+        "score": 1,
+        "date": "2026-04-17"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-17"
+  },
+  {
     "toolSlug": "clawrun",
     "toolName": "ClawRun",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -577,7 +617,7 @@
   {
     "toolSlug": "ramain",
     "toolName": "RamAIn",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -593,7 +633,7 @@
   {
     "toolSlug": "hiro",
     "toolName": "Hiro",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -608,7 +648,7 @@
   {
     "toolSlug": "shortbooster",
     "toolName": "SHORTBOOSTER",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -623,7 +663,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -638,7 +678,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -653,7 +693,7 @@
   {
     "toolSlug": "gitar",
     "toolName": "Gitar",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -668,7 +708,7 @@
   {
     "toolSlug": "midnight-captain",
     "toolName": "Midnight Captain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -684,7 +724,7 @@
   {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -699,7 +739,7 @@
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -714,7 +754,7 @@
   {
     "toolSlug": "findy-architecture-ai",
     "toolName": "Findy Architecture AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -729,7 +769,7 @@
   {
     "toolSlug": "agentfm",
     "toolName": "AgentFM",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -745,7 +785,7 @@
   {
     "toolSlug": "slop-scan",
     "toolName": "Slop-scan",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -761,7 +801,7 @@
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -777,7 +817,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -793,7 +833,7 @@
   {
     "toolSlug": "admina-ai",
     "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -808,7 +848,7 @@
   {
     "toolSlug": "crewworks",
     "toolName": "CrewWorks",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -823,7 +863,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -838,7 +878,7 @@
   {
     "toolSlug": "research-driven-agents",
     "toolName": "Research-Driven Agents",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -854,7 +894,7 @@
   {
     "toolSlug": "bluehammer",
     "toolName": "BlueHammer",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -866,37 +906,5 @@
     ],
     "firstSeen": "2026-04-12",
     "lastSeen": "2026-04-12"
-  },
-  {
-    "toolSlug": "bear-roll",
-    "toolName": "Bear Roll",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Bear Roll – Daily roll of Bear Blog's top posts",
-        "url": "https://bearroll.dev/",
-        "score": 7,
-        "date": "2026-04-14"
-      }
-    ],
-    "firstSeen": "2026-04-14",
-    "lastSeen": "2026-04-14"
-  },
-  {
-    "toolSlug": "kimi-k2-6-code-preview",
-    "toolName": "Kimi K2.6-code-preview",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Kimi K2.6-code-preview is now available",
-        "url": "https://www.kimi.com/code",
-        "score": 8,
-        "date": "2026-04-14"
-      }
-    ],
-    "firstSeen": "2026-04-14",
-    "lastSeen": "2026-04-14"
   }
 ]

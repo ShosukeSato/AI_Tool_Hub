@@ -13962,5 +13962,283 @@
     "releaseYear": 2026,
     "developer": "Ilha Team",
     "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "android-cli",
+    "name": "Android CLI",
+    "nameJa": "アンドロイド CLI",
+    "description": "Googleが開発したAndroidアプリ開発を3倍高速化するコマンドラインツールです。任意のAIエージェントと連携してアプリのビルド、テスト、デプロイを自動化できます。従来の手動開発プロセスを大幅に効率化し、開発者がコードに集中できる環境を提供します。",
+    "shortDescription": "Androidアプリ開発を3倍高速化するCLIツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料",
+          "price": "無料",
+          "features": [
+            "AIエージェント連携",
+            "自動ビルド",
+            "テスト自動化",
+            "デプロイ支援"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェントとの連携",
+      "自動ビルドシステム",
+      "テスト自動化",
+      "高速デプロイ",
+      "開発ワークフロー最適化"
+    ],
+    "pros": [
+      "開発速度が3倍向上",
+      "AIとのシームレスな連携",
+      "Google公式サポート",
+      "無料で利用可能"
+    ],
+    "cons": [
+      "Android開発に限定",
+      "学習コストがかかる可能性",
+      "まだ新しいツールのため情報が少ない"
+    ],
+    "officialUrl": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+    "logoPath": "/logos/android-cli.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "Androidアプリ開発者",
+      "モバイルアプリエンジニア",
+      "開発効率を向上させたいチーム"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "autoprober",
+    "name": "AutoProber",
+    "nameJa": "オートプローバー",
+    "description": "ダクトテープ、古いカメラ、CNCマシンを組み合わせて作られたAI駆動のハードウェアハッキングアームです。自動的にハードウェアの脆弱性を検出し、セキュリティテストを実行できます。DIY精神とAI技術を組み合わせた革新的なセキュリティツールとして注目されています。",
+    "shortDescription": "AI駆動のハードウェアハッキング自動化ツール",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "ソースコード公開",
+            "DIYビルド可能",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動ハードウェア解析",
+      "脆弱性検出",
+      "DIY構築可能",
+      "AI駆動テスト",
+      "オープンソース"
+    ],
+    "pros": [
+      "低コストでの構築が可能",
+      "完全にオープンソース",
+      "独創的なアプローチ",
+      "学習目的に最適"
+    ],
+    "cons": [
+      "専門知識が必要",
+      "ハードウェア組み立てが複雑",
+      "サポートが限定的"
+    ],
+    "officialUrl": "https://github.com/gainsec/autoprober",
+    "logoPath": "/logos/autoprober.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "ハードウェアセキュリティ研究者",
+      "DIY愛好家",
+      "セキュリティエンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "GainSec",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "cloudflare-email-service",
+    "name": "Cloudflare Email Service",
+    "nameJa": "クラウドフレア メール サービス",
+    "description": "CloudflareがAIエージェント向けに特別に設計したメールサービスです。従来のメールサーバーと異なり、AIエージェントが効率的にメール処理を行えるよう最適化されています。高速配信、スパムフィルタリング、セキュリティ機能を統合し、エージェントベースのワークフローをサポートします。",
+    "shortDescription": "AIエージェント専用に設計されたメールサービス",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本メール機能",
+            "1000通/月"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$10/月",
+          "features": [
+            "無制限送信",
+            "高度な分析",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェント最適化",
+      "高速メール配信",
+      "スパムフィルタリング",
+      "セキュリティ統合",
+      "分析ダッシュボード"
+    ],
+    "pros": [
+      "AIエージェントに特化した設計",
+      "Cloudflareの信頼性",
+      "高いセキュリティ",
+      "スケーラブル"
+    ],
+    "cons": [
+      "新しいサービスのため実績が少ない",
+      "従来のメールクライアントとの互換性",
+      "設定の複雑さ"
+    ],
+    "officialUrl": "https://blog.cloudflare.com/email-for-agents/",
+    "logoPath": "/logos/cloudflare-email-service.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AIエージェント開発者",
+      "企業のIT部門",
+      "メール自動化を求める開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Cloudflare",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "tailscale-rs",
+    "name": "Tailscale-rs",
+    "nameJa": "テイルスケール RS",
+    "description": "TailscaleのVPN機能をRustアプリケーションに直接埋め込むことができる公式ライブラリです。従来の外部VPNクライアントに依存せず、アプリケーション内でセキュアなネットワーク接続を実現します。分散システムやマイクロサービスのセキュリティを向上させる革新的なソリューションです。",
+    "shortDescription": "RustアプリにTailscale VPNを埋め込むライブラリ",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "Rustライブラリ",
+            "完全なソースコード",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Rust統合",
+      "埋め込み型VPN",
+      "セキュアネットワーク",
+      "軽量設計",
+      "高性能"
+    ],
+    "pros": [
+      "アプリケーション内VPNの実現",
+      "Rust言語の安全性",
+      "Tailscale公式サポート",
+      "高いパフォーマンス"
+    ],
+    "cons": [
+      "Rust言語限定",
+      "まだプレビュー版",
+      "学習コストが高い"
+    ],
+    "officialUrl": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
+    "logoPath": "/logos/tailscale-rs.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "Rust開発者",
+      "セキュリティエンジニア",
+      "分散システム開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Tailscale",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "presso",
+    "name": "Presso",
+    "nameJa": "プレッソ",
+    "description": "マーケティングで使用する全てのツールをAIに接続する統合プラットフォームです。CRM、MA、広告配信、分析ツールなどを一元管理し、AIが最適なマーケティング戦略を自動提案・実行します。日本のマーケティング業界で話題となっており、業務効率化と成果向上を同時に実現できます。",
+    "shortDescription": "全マーケティングツールをAIで統合管理",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "スターター",
+          "price": "月額50,000円",
+          "features": [
+            "基本ツール連携",
+            "AI分析",
+            "レポート機能"
+          ]
+        },
+        {
+          "name": "プロ",
+          "price": "月額150,000円",
+          "features": [
+            "高度なAI機能",
+            "カスタム統合",
+            "専任サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチツール統合",
+      "AI戦略提案",
+      "自動キャンペーン最適化",
+      "統合ダッシュボード",
+      "日本語サポート"
+    ],
+    "pros": [
+      "包括的なマーケティング統合",
+      "AI主導の最適化",
+      "日本市場に特化",
+      "ROI向上が期待できる"
+    ],
+    "cons": [
+      "高額な料金設定",
+      "セットアップの複雑さ",
+      "大企業向けの機能"
+    ],
+    "officialUrl": "https://presso.ai/",
+    "logoPath": "/logos/presso.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "マーケティング責任者",
+      "デジタルマーケター",
+      "中〜大企業のマーケティング部門"
+    ],
+    "releaseYear": 2026,
+    "developer": "Presso Inc.",
+    "lastUpdated": "2026-04-17"
   }
 ]

@@ -74,6 +74,46 @@
     "source": "hackernews"
   },
   {
+    "id": "new-android-cli-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "android-cli",
+    "title": "Android CLI が新しく追加されました",
+    "summary": "Androidアプリ開発を3倍高速化するCLIツール",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-autoprober-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "autoprober",
+    "title": "AutoProber が新しく追加されました",
+    "summary": "AI駆動のハードウェアハッキング自動化ツール",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-cloudflare-email-service-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "cloudflare-email-service",
+    "title": "Cloudflare Email Service が新しく追加されました",
+    "summary": "AIエージェント専用に設計されたメールサービス",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-tailscale-rs-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "tailscale-rs",
+    "title": "Tailscale-rs が新しく追加されました",
+    "summary": "RustアプリにTailscale VPNを埋め込むライブラリ",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-presso-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "presso",
+    "title": "Presso が新しく追加されました",
+    "summary": "全マーケティングツールをAIで統合管理",
+    "date": "2026-04-17"
+  },
+  {
     "id": "new-libretto-2026-04-16",
     "type": "new-tool",
     "toolSlug": "libretto",
