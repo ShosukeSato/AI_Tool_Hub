@@ -13590,5 +13590,377 @@
     "releaseYear": 2023,
     "developer": "Khan Academy",
     "lastUpdated": "2026-04-16"
+  },
+  {
+    "slug": "claude-opus-4-7",
+    "name": "Claude Opus 4.7",
+    "nameJa": "クロード オーパス 4.7",
+    "description": "Anthropicが2026年4月にリリースした最新の大規模言語モデル。従来のClaude 3.5 Sonnetを大幅に上回る性能を持ち、複雑な推論、コード生成、創作活動において飛躍的な向上を実現。Hacker Newsで1,499ポイントを獲得するなど大きな注目を集めており、特にプログラミングや論理的思考が必要なタスクで威力を発揮する。",
+    "shortDescription": "Anthropic最新の高性能AI言語モデル",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Claude Pro",
+          "price": "$20/月（約3,000円）",
+          "features": [
+            "優先アクセス",
+            "高速応答",
+            "長時間会話"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高度な推論能力",
+      "優れたコード生成",
+      "長文コンテキスト理解",
+      "創作支援",
+      "多言語対応"
+    ],
+    "pros": [
+      "従来モデルを大幅に上回る性能",
+      "複雑なタスクの処理能力",
+      "安全性への配慮",
+      "正確な情報提供"
+    ],
+    "cons": [
+      "利用コストが高い",
+      "日本語での最適化に課題",
+      "アクセス制限がある"
+    ],
+    "officialUrl": "https://www.anthropic.com/news/claude-opus-4-7",
+    "logoPath": "/logos/claude-opus-4-7.svg",
+    "rating": 4.8,
+    "recommendedFor": [
+      "高度なAI機能を求める研究者",
+      "複雑な分析作業をする専門家",
+      "最先端AIを試したい開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Anthropic",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "qwen3-6-35b-a3b",
+    "name": "Qwen3.6-35B-A3B",
+    "nameJa": "クエン3.6-35B-A3B",
+    "description": "Alibaba Cloudが開発したオープンソースの大規模言語モデルで、特にエージェント機能とコーディングに特化。922ポイントでHacker Newsトレンド入りし、個人のラップトップでもClaude Opus 4.7と同等以上の性能を発揮することが話題に。商用利用可能でありながら高性能なため、企業での導入が急速に進んでいる。",
+    "shortDescription": "オープンソースの高性能AIエージェントモデル",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "商用利用可",
+            "ローカル実行",
+            "カスタマイズ可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "エージェント機能",
+      "コーディング支援",
+      "ローカル実行可能",
+      "商用利用可",
+      "多言語対応"
+    ],
+    "pros": [
+      "完全無料で商用利用可能",
+      "ローカルで実行できる",
+      "高いコーディング性能",
+      "オープンソース"
+    ],
+    "cons": [
+      "セットアップが複雑",
+      "高性能PCが必要",
+      "日本語サポートが限定的"
+    ],
+    "officialUrl": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "logoPath": "/logos/qwen3-6-35b-a3b.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "コスト重視の企業開発者",
+      "オープンソース愛好者",
+      "ローカル実行を重視するユーザー"
+    ],
+    "releaseYear": 2026,
+    "developer": "Alibaba Cloud",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "gpt-rosalind",
+    "name": "GPT-Rosalind",
+    "nameJa": "GPT ロザリンド",
+    "description": "OpenAIが生命科学研究に特化して開発した専門AI。DNA解析、タンパク質構造予測、薬物発見、疫学研究など、バイオテクノロジー分野での複雑な分析と仮説生成を支援。科学論文の理解から実験計画の提案まで幅広くカバーし、研究者の生産性を大幅に向上させる。医学・生物学研究のワークフローを革新する可能性が期待されている。",
+    "shortDescription": "生命科学研究に特化したOpenAIのAI",
+    "category": "search-research",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "研究機関向け",
+          "price": "要問い合わせ",
+          "features": [
+            "専門分析機能",
+            "研究支援",
+            "論文解析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "DNA・RNA解析",
+      "タンパク質構造予測",
+      "薬物発見支援",
+      "論文解析",
+      "実験計画提案"
+    ],
+    "pros": [
+      "生命科学に特化した高精度",
+      "研究ワークフロー最適化",
+      "科学的根拠に基づく提案",
+      "論文との連携"
+    ],
+    "cons": [
+      "一般ユーザーには不向き",
+      "専門知識が必要",
+      "高額な利用料金"
+    ],
+    "officialUrl": "https://openai.com/index/introducing-gpt-rosalind/",
+    "logoPath": "/logos/gpt-rosalind.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "生命科学研究者",
+      "製薬会社の研究者",
+      "バイオテクノロジー企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "marky",
+    "name": "Marky",
+    "nameJa": "マーキー",
+    "description": "エージェント駆動のコーディング作業に最適化された軽量Markdownビューアー。AIコーディングツールとの連携を前提として設計されており、コードドキュメントの表示、編集、共有を効率化。リアルタイムプレビュー、シンタックスハイライト、AIエージェントとの統合機能を提供し、モダンな開発ワークフローをサポートする。",
+    "shortDescription": "AIコーディング向け軽量Markdownビューアー",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "基本機能",
+            "AIエージェント連携",
+            "リアルタイムプレビュー"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "軽量設計",
+      "AIエージェント連携",
+      "リアルタイムプレビュー",
+      "シンタックスハイライト",
+      "GitHub統合"
+    ],
+    "pros": [
+      "軽量で高速",
+      "AIツールとの親和性",
+      "オープンソース",
+      "シンプルなUI"
+    ],
+    "cons": [
+      "機能が限定的",
+      "上級者向け",
+      "日本語ドキュメント不足"
+    ],
+    "officialUrl": "https://github.com/GRVYDEV/marky",
+    "logoPath": "/logos/marky.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AIコーディングツール利用者",
+      "Markdown愛用者",
+      "軽量ツール好みの開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "GRVYDEV",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "codeburn",
+    "name": "CodeBurn",
+    "nameJa": "コードバーン",
+    "description": "Claude CodeなどのAIコーディングツールのトークン使用量を詳細に分析・可視化するツール。プロジェクトごと、タスクごとの使用量を追跡し、コスト最適化のための洞察を提供。どの作業でトークンを多く消費しているかを把握でき、AIコーディングの効率化とコスト管理を同時に実現する開発者必携のツール。",
+    "shortDescription": "AIコーディングツールのトークン使用量分析",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "使用量分析",
+            "コスト可視化",
+            "レポート生成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "トークン使用量追跡",
+      "コスト分析",
+      "プロジェクト別統計",
+      "ダッシュボード表示",
+      "レポート出力"
+    ],
+    "pros": [
+      "コスト最適化に有効",
+      "詳細な分析機能",
+      "無料で利用可能",
+      "分かりやすい可視化"
+    ],
+    "cons": [
+      "Claude Code専用",
+      "他AIツール非対応",
+      "初期設定が必要"
+    ],
+    "officialUrl": "https://github.com/AgentSeal/codeburn",
+    "logoPath": "/logos/codeburn.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "Claude Code利用者",
+      "コスト管理重視の開発者",
+      "AIツール使用量を把握したい企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "AgentSeal",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "cloudflare-ai-platform",
+    "name": "Cloudflare AI Platform",
+    "nameJa": "クラウドフレア AIプラットフォーム",
+    "description": "Cloudflareが提供するエージェント特化型AI推論プラットフォーム。グローバルなエッジネットワークを活用して低レイテンシーでAI推論を実行し、様々なAIモデルを統合的に利用できる。245ポイントでHacker Newsでも話題となり、企業のAIアプリケーション開発基盤として注目されている。セキュリティとスケーラビリティを重視した設計が特徴。",
+    "shortDescription": "エッジ最適化されたAI推論プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本推論",
+            "限定使用量"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$20/月〜",
+          "features": [
+            "高速推論",
+            "大容量",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "エッジAI推論",
+      "複数モデル対応",
+      "低レイテンシー",
+      "スケーラブル",
+      "セキュリティ強化"
+    ],
+    "pros": [
+      "グローバルエッジで高速",
+      "統合プラットフォーム",
+      "セキュリティ重視",
+      "柔軟な料金体系"
+    ],
+    "cons": [
+      "新しいサービスで実績不足",
+      "設定の複雑さ",
+      "日本語サポート限定"
+    ],
+    "officialUrl": "https://blog.cloudflare.com/ai-platform/",
+    "logoPath": "/logos/cloudflare-ai-platform.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "エンタープライズ開発者",
+      "グローバルサービス運営者",
+      "低レイテンシー重視のユーザー"
+    ],
+    "releaseYear": 2026,
+    "developer": "Cloudflare",
+    "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "ilha",
+    "name": "Ilha",
+    "nameJa": "イーリャ",
+    "description": "AIのコンテキストウィンドウ内に収まるよう設計された超軽量UIライブラリ。AIエージェントが直接理解・操作できるようシンプルな構造とミニマルなコードで構成されており、AI駆動アプリケーション開発に最適化されている。従来のUIフレームワークとは異なり、人間とAIの両方が扱いやすいインターフェース構築を可能にする革新的なアプローチを採用。",
+    "shortDescription": "AI理解可能な超軽量UIライブラリ",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "基本UI機能",
+            "AI最適化",
+            "軽量設計"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI最適化設計",
+      "超軽量",
+      "シンプルAPI",
+      "コンテキスト効率",
+      "エージェント連携"
+    ],
+    "pros": [
+      "AIエージェントとの親和性",
+      "極めて軽量",
+      "学習コストが低い",
+      "革新的アプローチ"
+    ],
+    "cons": [
+      "機能が限定的",
+      "コミュニティが小さい",
+      "ドキュメント不足"
+    ],
+    "officialUrl": "https://ilha.build/",
+    "logoPath": "/logos/ilha.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AIアプリ開発者",
+      "軽量ソリューション志向者",
+      "実験的技術愛好者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Ilha Team",
+    "lastUpdated": "2026-04-17"
   }
 ]

@@ -1,5 +1,79 @@
 [
   {
+    "id": "new-claude-opus-4-7-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "claude-opus-4-7",
+    "title": "Claude Opus 4.7 が新しく追加されました",
+    "summary": "Anthropic最新の高性能AI言語モデル",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-qwen3-6-35b-a3b-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "qwen3-6-35b-a3b",
+    "title": "Qwen3.6-35B-A3B が新しく追加されました",
+    "summary": "オープンソースの高性能AIエージェントモデル",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-gpt-rosalind-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "gpt-rosalind",
+    "title": "GPT-Rosalind が新しく追加されました",
+    "summary": "生命科学研究に特化したOpenAIのAI",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-marky-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "marky",
+    "title": "Marky が新しく追加されました",
+    "summary": "AIコーディング向け軽量Markdownビューアー",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-codeburn-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "codeburn",
+    "title": "CodeBurn が新しく追加されました",
+    "summary": "AIコーディングツールのトークン使用量分析",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-cloudflare-ai-platform-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "cloudflare-ai-platform",
+    "title": "Cloudflare AI Platform が新しく追加されました",
+    "summary": "エッジ最適化されたAI推論プラットフォーム",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "new-ilha-2026-04-17",
+    "type": "new-tool",
+    "toolSlug": "ilha",
+    "title": "Ilha が新しく追加されました",
+    "summary": "AI理解可能な超軽量UIライブラリ",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "trending-agent-2026-04-17",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Android CLI: Build Android apps 3x faster using any agent",
+    "date": "2026-04-17",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-04-17",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 9.7）",
+    "summary": "hackernewsで注目: Claude Opus 4.7",
+    "date": "2026-04-17",
+    "source": "hackernews"
+  },
+  {
     "id": "new-libretto-2026-04-16",
     "type": "new-tool",
     "toolSlug": "libretto",
@@ -1648,14 +1722,5 @@
     "summary": "AIコーディングエディタCursorが1.0を正式リリース。マルチファイル編集の精度向上、新しいエージェントモード、パフォーマンス改善など多数の新機能が追加されました。",
     "date": "2026-03-20",
     "source": "Reddit"
-  },
-  {
-    "id": "openai-o3-release-20260318",
-    "type": "new-tool",
-    "toolSlug": "openai-o3",
-    "title": "OpenAI o3 リリース：次世代推論モデル",
-    "summary": "OpenAIが推論特化モデル「o3」を発表。数学・科学・コーディングのベンチマークで大幅な性能向上を達成。o1からの進化版として高度な論理的推論が可能に。",
-    "date": "2026-03-18",
-    "source": "TechCrunch"
   }
 ]
