@@ -14240,5 +14240,283 @@
     "releaseYear": 2026,
     "developer": "Presso Inc.",
     "lastUpdated": "2026-04-17"
+  },
+  {
+    "slug": "claude-design",
+    "name": "Claude Design",
+    "nameJa": "クロード デザイン",
+    "description": "Anthropicが新たにリリースしたビジュアルプロトタイプ作成AI。テキストプロンプトから直接ウェブページやアプリのプロトタイプを生成し、インタラクティブなモックアップを作成できる。FigmaやCanvaなどの従来デザインツールに対抗する製品として注目を集めており、デザイナーでなくても直感的にUIを作成可能。リアルタイムでの修正や調整にも対応し、開発チームとの連携を効率化する。",
+    "shortDescription": "プロンプトからプロトタイプを生成するAIデザインツール",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本的なプロトタイプ作成",
+            "制限付きエクスポート"
+          ]
+        },
+        {
+          "name": "Pro版",
+          "price": "$20/月",
+          "features": [
+            "高度なデザイン機能",
+            "無制限エクスポート",
+            "チーム共有"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "テキストからプロトタイプ生成",
+      "インタラクティブモックアップ作成",
+      "リアルタイム編集",
+      "チーム協力機能",
+      "多様なデザインテンプレート"
+    ],
+    "pros": [
+      "デザイン経験不要で使用可能",
+      "高速なプロトタイプ作成",
+      "直感的なインターフェース",
+      "開発チームとの連携が容易"
+    ],
+    "cons": [
+      "新しいサービスで実績が少ない",
+      "複雑なデザインには限界",
+      "既存ツールとの互換性が不明"
+    ],
+    "officialUrl": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "logoPath": "/logos/claude-design.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "非デザイナーの開発者",
+      "スタートアップ企業",
+      "プロトタイプを素早く作成したい人"
+    ],
+    "releaseYear": 2026,
+    "developer": "Anthropic",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "pyra",
+    "name": "Pyra",
+    "nameJa": "パイラ",
+    "description": "uvやBunからインスピレーションを受けたPython開発環境の実験的ツールチェーン。従来のPythonツールチェーンの複雑さを解決し、より高速で直感的な開発体験を提供する。パッケージ管理、依存関係解決、仮想環境管理を統合し、JavaScript開発者にも馴染みやすい設計となっている。開発速度の向上とプロジェクト管理の簡素化を目的としている。",
+    "shortDescription": "高速で直感的なPython開発ツールチェーン",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "全機能利用可能",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "統合パッケージ管理",
+      "高速依存関係解決",
+      "シンプルな仮想環境管理",
+      "モダンなCLI",
+      "JavaScript風の開発体験"
+    ],
+    "pros": [
+      "従来ツールより高速",
+      "シンプルで分かりやすい",
+      "モダンな開発体験",
+      "オープンソース"
+    ],
+    "cons": [
+      "実験的段階で不安定",
+      "エコシステムが未成熟",
+      "既存プロジェクトとの互換性"
+    ],
+    "officialUrl": "https://github.com/treyorr/pyra",
+    "logoPath": "/logos/pyra.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "Python開発者",
+      "モダンツールを好む開発者",
+      "新しい技術を試したい人"
+    ],
+    "releaseYear": 2026,
+    "developer": "treyorr",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "isitagentready",
+    "name": "IsItAgentReady",
+    "nameJa": "イズイットエージェントレディ",
+    "description": "ウェブサイトがAIエージェントに対してどの程度対応できているかを分析・評価するツール。AIエージェントが効率的にサイトを理解し、操作できるかを機械読み取り可能性、構造化データ、API対応などの観点から診断する。AIエージェント時代に向けたウェブサイト最適化のためのアクションプランも提供し、企業のAI対応戦略立案を支援する。",
+    "shortDescription": "ウェブサイトのAIエージェント対応度を診断",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料スキャン",
+          "price": "無料",
+          "features": [
+            "基本診断",
+            "レポート表示"
+          ]
+        },
+        {
+          "name": "詳細分析",
+          "price": "$29/月",
+          "features": [
+            "詳細レポート",
+            "改善提案",
+            "継続監視"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェント対応度診断",
+      "機械読み取り可能性分析",
+      "構造化データ評価",
+      "API対応チェック",
+      "改善アクションプラン"
+    ],
+    "pros": [
+      "AIエージェント時代への準備に最適",
+      "具体的な改善提案",
+      "簡単にスキャン実行",
+      "将来性のある分野"
+    ],
+    "cons": [
+      "新しいコンセプトで効果が未知数",
+      "対応基準がまだ確立されていない",
+      "技術的知識が必要"
+    ],
+    "officialUrl": "https://isitagentready.com",
+    "logoPath": "/logos/isitagentready.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "ウェブ開発者",
+      "企業のDX担当者",
+      "AIエージェント活用を検討中の企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "不明",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "fulu",
+    "name": "Fulu",
+    "nameJa": "フル",
+    "description": "セキュリティ研究者向けのバグバウンティプラットフォーム。Ring Camera等のIoTデバイスのジェイルブレイクなど高難度のセキュリティ脆弱性に対して高額報酬を提供している。現在Ring Video Doorbellsの脆弱性発見に23,000ドルの報奨金を設定するなど、従来のバグバウンティよりも専門性が高く報酬額も大きい。IoTセキュリティ分野の研究促進を目的としている。",
+    "shortDescription": "高額報酬のIoTセキュリティバグバウンティ",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "研究者向け",
+          "price": "無料登録",
+          "features": [
+            "バウンティ参加",
+            "報酬獲得機会",
+            "セキュリティ研究支援"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高額バグバウンティ",
+      "IoTデバイス専門",
+      "専門研究者コミュニティ",
+      "詳細技術要件",
+      "報酬支払いシステム"
+    ],
+    "pros": [
+      "高額報酬で研究者にメリット大",
+      "IoT分野の専門性",
+      "技術的挑戦が可能",
+      "セキュリティ向上に貢献"
+    ],
+    "cons": [
+      "高い技術レベルが必要",
+      "成功確率が低い",
+      "法的リスクの可能性",
+      "限定的な対象デバイス"
+    ],
+    "officialUrl": "https://bounties.fulu.org",
+    "logoPath": "/logos/fulu.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "セキュリティ研究者",
+      "IoT専門エンジニア",
+      "バグハンター"
+    ],
+    "releaseYear": 2026,
+    "developer": "Fulu",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "lecroy-mcp-spice",
+    "name": "LeCroy MCP SPICE",
+    "nameJa": "ルクロワ エムシーピー スパイス",
+    "description": "電子回路設計における SPICE シミュレーション、オシロスコープ計測、Claude Codeを活用した検証を統合したハードウェア開発支援システム。従来別々に行われていた回路設計、シミュレーション、実機測定、コード検証のプロセスを AI を活用して自動化・効率化する。特に電子回路の設計検証工程を大幅に短縮し、より正確な回路開発を可能にする。",
+    "shortDescription": "AI統合型電子回路設計・検証システム",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "企業向け",
+          "price": "要問い合わせ",
+          "features": [
+            "SPICE統合",
+            "オシロスコープ連携",
+            "AI検証機能",
+            "技術サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "SPICEシミュレーション統合",
+      "オシロスコープ自動制御",
+      "Claude Code検証",
+      "回路設計自動化",
+      "測定データAI分析"
+    ],
+    "pros": [
+      "回路設計工程の効率化",
+      "AI活用で精度向上",
+      "測定の自動化",
+      "専門知識の補完"
+    ],
+    "cons": [
+      "専門的で学習コストが高い",
+      "高価な機器が必要",
+      "限定的なユーザー層",
+      "技術サポートが重要"
+    ],
+    "officialUrl": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "logoPath": "/logos/lecroy-mcp-spice.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "電子回路設計者",
+      "ハードウェアエンジニア",
+      "研究開発部門"
+    ],
+    "releaseYear": 2026,
+    "developer": "Lucas Gerads",
+    "lastUpdated": "2026-04-18"
   }
 ]

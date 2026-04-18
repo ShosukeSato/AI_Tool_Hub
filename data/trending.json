@@ -1,139 +1,96 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Android CLI: Build Android apps 3x faster using any agent",
-        "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-        "score": 263,
-        "date": "2026-04-17"
+        "title": "Claude Design",
+        "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+        "score": 852,
+        "date": "2026-04-18"
       },
       {
         "source": "hackernews",
-        "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-        "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-        "score": 1162,
-        "date": "2026-04-17"
+        "title": "Measuring Claude 4.7's tokenizer costs",
+        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+        "score": 543,
+        "date": "2026-04-18"
       },
       {
         "source": "hackernews",
-        "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-        "url": "https://blog.cloudflare.com/ai-platform/",
-        "score": 293,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Marky – A lightweight Markdown viewer for agentic coding",
-        "url": "https://github.com/GRVYDEV/marky",
-        "score": 62,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agent - Native Mac OS X coding ide/harness",
-        "url": "https://github.com/macOS26/Agent",
-        "score": 78,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Laravel raised money and now injects ads directly into your agent",
-        "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-        "score": 198,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "Side adds AI tools to Side App for real estate agents - HousingWire",
-        "score": 1,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
-        "score": 1,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
-        "score": 1,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-17"
-  },
-  {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 9.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude Opus 4.7",
-        "url": "https://www.anthropic.com/news/claude-opus-4-7",
-        "score": 1826,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
-        "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-        "score": 96,
-        "date": "2026-04-17"
+        "title": "Gmail label bridge on Claude Cowork just broke ()",
+        "score": 3,
+        "date": "2026-04-18"
       },
       {
         "source": "hackernews",
         "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-        "score": 416,
-        "date": "2026-04-17"
+        "score": 445,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Opus 4.7",
+        "url": "https://www.anthropic.com/news/claude-opus-4-7",
+        "score": 1934,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "3 Hours with Claude Opus 4.7: functional study webapp and remote MCP- Oneshotted",
+        "url": "https://github.com/AmmarSaleh50/study-dashboard-demo",
+        "score": 4,
+        "date": "2026-04-18"
       },
       {
         "source": "hackernews",
         "title": "Show HN: CodeBurn – Analyze Claude Code token usage by task",
         "url": "https://github.com/AgentSeal/codeburn",
-        "score": 92,
-        "date": "2026-04-17"
+        "score": 101,
+        "date": "2026-04-18"
       },
       {
         "source": "hackernews",
-        "title": "Claude Opus 4.7 Model Card",
-        "url": "https://anthropic.com/claude-opus-4-7-system-card",
-        "score": 172,
-        "date": "2026-04-17"
+        "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+        "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+        "score": 119,
+        "date": "2026-04-18"
       },
       {
         "source": "googlenews",
-        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma - VentureBeat",
         "score": 1,
-        "date": "2026-04-17"
+        "date": "2026-04-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
+        "score": 1,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
+        "score": 1,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+        "score": 1,
+        "date": "2026-04-18"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-17"
+    "lastSeen": "2026-04-18"
   },
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 6.2,
+    "buzzScore": 5.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -149,7 +106,7 @@
   {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -165,7 +122,7 @@
   {
     "toolSlug": "servo",
     "toolName": "Servo",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -181,7 +138,7 @@
   {
     "toolSlug": "gas-town",
     "toolName": "Gas Town",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -195,25 +152,9 @@
     "lastSeen": "2026-04-16"
   },
   {
-    "toolSlug": "cloudflare-email-service",
-    "toolName": "Cloudflare Email Service",
-    "buzzScore": 3.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Cloudflare Email Service",
-        "url": "https://blog.cloudflare.com/email-for-agents/",
-        "score": 442,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-17"
-  },
-  {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -227,9 +168,67 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Are the costs of AI agents also rising exponentially?",
+        "url": "2025) (https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+        "score": 104,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "Scan your website to see how ready it is for AI agents",
+        "url": "https://isitagentready.com",
+        "score": 98,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "Android CLI: Build Android apps 3x faster using any agent",
+        "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+        "score": 300,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
+        "score": 1,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+        "score": 1,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-18"
+  },
+  {
+    "toolSlug": "cloudflare-email-service",
+    "toolName": "Cloudflare Email Service",
+    "buzzScore": 2.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Cloudflare Email Service",
+        "url": "https://blog.cloudflare.com/email-for-agents/",
+        "score": 450,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-17",
+    "lastSeen": "2026-04-18"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -243,31 +242,9 @@
     "lastSeen": "2026-04-17"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 2.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-        "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-        "score": 294,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-17"
-  },
-  {
     "toolSlug": "pretty-fish",
     "toolName": "Pretty Fish",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -283,7 +260,7 @@
   {
     "toolSlug": "introspective-diffusion",
     "toolName": "Introspective Diffusion",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -299,7 +276,7 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -315,7 +292,7 @@
   {
     "toolSlug": "libretto",
     "toolName": "Libretto",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -331,7 +308,7 @@
   {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -347,7 +324,7 @@
   {
     "toolSlug": "gaia",
     "toolName": "GAIA",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -363,7 +340,7 @@
   {
     "toolSlug": "tailscale-rs",
     "toolName": "Tailscale-rs",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -379,7 +356,7 @@
   {
     "toolSlug": "n-day-bench",
     "toolName": "N-Day-Bench",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -395,7 +372,7 @@
   {
     "toolSlug": "kontext-cli",
     "toolName": "Kontext CLI",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -411,7 +388,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -427,7 +404,7 @@
   {
     "toolSlug": "bouncer",
     "toolName": "Bouncer",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -441,9 +418,143 @@
     "lastSeen": "2026-04-13"
   },
   {
+    "toolSlug": "fulu",
+    "toolName": "Fulu",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Fulu bounty for Ring Camera jailbreak reaches $23k",
+        "url": "https://bounties.fulu.org/bounties/ring-video-doorbells",
+        "score": 6,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-18",
+    "lastSeen": "2026-04-18"
+  },
+  {
+    "toolSlug": "pyra",
+    "toolName": "Pyra",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Pyra – a Python toolchain experiment inspired by uv and Bun",
+        "url": "https://github.com/treyorr/pyra",
+        "score": 4,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-18",
+    "lastSeen": "2026-04-18"
+  },
+  {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-03",
+    "lastSeen": "2026-04-18"
+  },
+  {
+    "toolSlug": "presso",
+    "toolName": "Presso",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "マーケの全ツールをAIに接続する「Presso」正式リリース (2026年4月17日掲載) - ライブドアニュース",
+        "score": 1,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "マーケの全ツールをAIに接続する「Presso」正式リリース - ニコニコニュース",
+        "score": 1,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-17",
+    "lastSeen": "2026-04-18"
+  },
+  {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-18"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+        "score": 1,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-18"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Are we tokenmaxxing our way to nowhere?",
+        "score": 1,
+        "date": "2026-04-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+        "score": 1,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-17",
+    "lastSeen": "2026-04-18"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+        "score": 1,
+        "date": "2026-04-18"
+      }
+    ],
+    "firstSeen": "2026-04-09",
+    "lastSeen": "2026-04-18"
+  },
+  {
     "toolSlug": "kelet",
     "toolName": "Kelet",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -459,7 +570,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -472,60 +583,9 @@
     "lastSeen": "2026-04-17"
   },
   {
-    "toolSlug": "presso",
-    "toolName": "Presso",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "マーケの全ツールをAIに接続する「Presso」正式リリース (2026年4月17日掲載) - ライブドアニュース",
-        "score": 1,
-        "date": "2026-04-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "マーケの全ツールをAIに接続する「Presso」正式リリース - ニコニコニュース",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-17"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-17"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-17"
-  },
-  {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -538,24 +598,9 @@
     "lastSeen": "2026-04-17"
   },
   {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "This simulation startup wants to be the Cursor for physical AI",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-17"
-  },
-  {
     "toolSlug": "deepl",
     "toolName": "DeepL",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -570,7 +615,7 @@
   {
     "toolSlug": "ilha",
     "toolName": "Ilha",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -586,7 +631,7 @@
   {
     "toolSlug": "arisealpha",
     "toolName": "AriseAlpha",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -601,7 +646,7 @@
   {
     "toolSlug": "clawrun",
     "toolName": "ClawRun",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -617,7 +662,7 @@
   {
     "toolSlug": "ramain",
     "toolName": "RamAIn",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -633,7 +678,7 @@
   {
     "toolSlug": "hiro",
     "toolName": "Hiro",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -648,7 +693,7 @@
   {
     "toolSlug": "shortbooster",
     "toolName": "SHORTBOOSTER",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -663,7 +708,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -678,7 +723,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -693,7 +738,7 @@
   {
     "toolSlug": "gitar",
     "toolName": "Gitar",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -708,7 +753,7 @@
   {
     "toolSlug": "midnight-captain",
     "toolName": "Midnight Captain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -722,24 +767,9 @@
     "lastSeen": "2026-04-12"
   },
   {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-16"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-16"
-  },
-  {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -754,7 +784,7 @@
   {
     "toolSlug": "findy-architecture-ai",
     "toolName": "Findy Architecture AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -769,7 +799,7 @@
   {
     "toolSlug": "agentfm",
     "toolName": "AgentFM",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -785,7 +815,7 @@
   {
     "toolSlug": "slop-scan",
     "toolName": "Slop-scan",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -801,7 +831,7 @@
   {
     "toolSlug": "freestyle",
     "toolName": "Freestyle",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -817,7 +847,7 @@
   {
     "toolSlug": "megatrain",
     "toolName": "MegaTrain",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -829,82 +859,5 @@
     ],
     "firstSeen": "2026-04-08",
     "lastSeen": "2026-04-09"
-  },
-  {
-    "toolSlug": "admina-ai",
-    "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-06",
-    "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "crewworks",
-    "toolName": "CrewWorks",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント搭載でナレッジ活用を加速させる 【CrewWorks】がJapan DX Week 春 2026 で新機能を初公開 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-13",
-    "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-        "score": 1,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "research-driven-agents",
-    "toolName": "Research-Driven Agents",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Research-Driven Agents: When an agent reads before it codes",
-        "url": "https://blog.skypilot.co/research-driven-agents/",
-        "score": 190,
-        "date": "2026-04-10"
-      }
-    ],
-    "firstSeen": "2026-04-10",
-    "lastSeen": "2026-04-10"
-  },
-  {
-    "toolSlug": "bluehammer",
-    "toolName": "BlueHammer",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
-        "url": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
-        "score": 24,
-        "date": "2026-04-12"
-      }
-    ],
-    "firstSeen": "2026-04-12",
-    "lastSeen": "2026-04-12"
   }
 ]

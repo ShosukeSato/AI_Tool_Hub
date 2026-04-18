@@ -1,5 +1,54 @@
 [
   {
+    "id": "new-claude-design-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "claude-design",
+    "title": "Claude Design が新しく追加されました",
+    "summary": "プロンプトからプロトタイプを生成するAIデザインツール",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-pyra-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "pyra",
+    "title": "Pyra が新しく追加されました",
+    "summary": "高速で直感的なPython開発ツールチェーン",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-isitagentready-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "isitagentready",
+    "title": "IsItAgentReady が新しく追加されました",
+    "summary": "ウェブサイトのAIエージェント対応度を診断",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-fulu-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "fulu",
+    "title": "Fulu が新しく追加されました",
+    "summary": "高額報酬のIoTセキュリティバグバウンティ",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-lecroy-mcp-spice-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "lecroy-mcp-spice",
+    "title": "LeCroy MCP SPICE が新しく追加されました",
+    "summary": "AI統合型電子回路設計・検証システム",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "trending-claude-2026-04-18",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Design",
+    "date": "2026-04-18",
+    "source": "hackernews"
+  },
+  {
     "id": "new-claude-opus-4-7-2026-04-17",
     "type": "new-tool",
     "toolSlug": "claude-opus-4-7",
