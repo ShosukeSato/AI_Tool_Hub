@@ -49,6 +49,54 @@
     "source": "hackernews"
   },
   {
+    "id": "new-physical-intelligence-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "physical-intelligence",
+    "title": "Physical Intelligence が新しく追加されました",
+    "summary": "汎用的な推論でタスクを実行するロボットAI",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-factory-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "factory",
+    "title": "Factory が新しく追加されました",
+    "summary": "企業向け大規模AIコーディングプラットフォーム",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-luma-production-studio-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "luma-production-studio",
+    "title": "Luma Production Studio が新しく追加されました",
+    "summary": "AI駆動のプロフェッショナル動画制作スタジオ",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-upscale-ai-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "upscale-ai",
+    "title": "Upscale AI が新しく追加されました",
+    "summary": "大規模AI開発・展開プラットフォーム",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-insightfinder-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "insightfinder",
+    "title": "InsightFinder が新しく追加されました",
+    "summary": "AIエージェントの問題特定・解決プラットフォーム",
+    "date": "2026-04-18"
+  },
+  {
+    "id": "new-roblox-ai-assistant-2026-04-18",
+    "type": "new-tool",
+    "toolSlug": "roblox-ai-assistant",
+    "title": "Roblox AI Assistant が新しく追加されました",
+    "summary": "ゲーム開発全工程をサポートするAIアシスタント",
+    "date": "2026-04-18"
+  },
+  {
     "id": "new-claude-opus-4-7-2026-04-17",
     "type": "new-tool",
     "toolSlug": "claude-opus-4-7",

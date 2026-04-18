@@ -14518,5 +14518,362 @@
     "releaseYear": 2026,
     "developer": "Lucas Gerads",
     "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "physical-intelligence",
+    "name": "Physical Intelligence",
+    "nameJa": "フィジカル・インテリジェンス",
+    "description": "注目のロボティクススタートアップが開発した、教えられていないタスクも自ら理解して実行できる新しいロボット用AIブレイン。従来のプログラムされたタスクではなく、汎用的な推論能力により物理世界での複雑な作業を自律的に判断・実行。製造業や物流業界での革新的なオートメーション実現が期待されている。",
+    "shortDescription": "汎用的な推論でタスクを実行するロボットAI",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "カスタムロボット統合",
+            "専用サポート",
+            "API利用"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "未学習タスクの自律実行",
+      "物理環境の理解",
+      "リアルタイム推論",
+      "ロボットハードウェア統合",
+      "安全性制御"
+    ],
+    "pros": [
+      "教育不要のタスク実行",
+      "汎用性の高いAIブレイン",
+      "複雑な物理作業対応",
+      "革新的なロボティクス技術"
+    ],
+    "cons": [
+      "企業向けのみ",
+      "高価格",
+      "導入コストが高い"
+    ],
+    "officialUrl": "https://www.physicalintelligence.company/",
+    "logoPath": "/logos/physical-intelligence.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "製造業企業",
+      "物流・倉庫管理者",
+      "ロボティクス研究者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Physical Intelligence",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "factory",
+    "name": "Factory",
+    "nameJa": "ファクトリー",
+    "description": "15億ドルの評価額で注目される企業向けAIコーディングプラットフォーム。大規模エンタープライズ環境での複雑なソフトウェア開発を自動化し、従来の開発工程を大幅に効率化。セキュリティとガバナンスを重視した設計で、金融・医療などの規制の厳しい業界でも安全に利用可能。コードレビューから本番デプロイまでを一貫してサポート。",
+    "shortDescription": "企業向け大規模AIコーディングプラットフォーム",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "無制限コード生成",
+            "セキュリティ監査",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "エンタープライズ級セキュリティ",
+      "大規模コードベース対応",
+      "自動テスト生成",
+      "コンプライアンス対応",
+      "チーム協業機能"
+    ],
+    "pros": [
+      "企業レベルのセキュリティ",
+      "規制業界対応",
+      "スケーラブルな開発",
+      "包括的なサポート"
+    ],
+    "cons": [
+      "中小企業には高価",
+      "個人利用不可",
+      "導入に時間要する"
+    ],
+    "officialUrl": "https://www.factory.ai/",
+    "logoPath": "/logos/factory.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "大企業開発チーム",
+      "金融・医療IT部門",
+      "規制対応が必要な企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Factory",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "luma-production-studio",
+    "name": "Luma Production Studio",
+    "nameJa": "ルマ・プロダクション・スタジオ",
+    "description": "Lumaが新たに立ち上げたAI駆動の動画制作スタジオサービス。特に信仰系コンテンツ制作に特化したWonder Projectと提携し、高品質なAI動画生成技術を活用したプロフェッショナルな動画制作を提供。従来の動画制作工程を大幅に短縮しながら、クリエイティブな表現力を維持する革新的なプラットフォーム。",
+    "shortDescription": "AI駆動のプロフェッショナル動画制作スタジオ",
+    "category": "video-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$99/月（約15,000円）",
+          "features": [
+            "HD動画生成",
+            "基本テンプレート",
+            "月10本まで"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$299/月（約45,000円）",
+          "features": [
+            "4K動画生成",
+            "カスタムテンプレート",
+            "無制限生成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI動画生成",
+      "プロフェッショナル品質",
+      "カスタムテンプレート",
+      "高速レンダリング",
+      "チーム協業"
+    ],
+    "pros": [
+      "プロ品質の動画生成",
+      "制作時間大幅短縮",
+      "多様なテンプレート",
+      "高度なカスタマイズ"
+    ],
+    "cons": [
+      "高価格設定",
+      "学習コストあり",
+      "日本語対応限定"
+    ],
+    "officialUrl": "https://lumalabs.ai/production",
+    "logoPath": "/logos/luma-production-studio.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "動画制作会社",
+      "マーケティング担当者",
+      "コンテンツクリエイター"
+    ],
+    "releaseYear": 2024,
+    "developer": "Luma Labs",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "upscale-ai",
+    "name": "Upscale AI",
+    "nameJa": "アップスケール AI",
+    "description": "20億ドルの評価額での資金調達が報じられている注目のAIプラットフォーム。機械学習モデルの大規模なトレーニングと展開を効率化し、企業がAIソリューションを迅速に実装できる環境を提供。特にデータラベリングとモデル最適化に強みを持ち、自動運転やロボティクス分野での実用化が進んでいる。",
+    "shortDescription": "大規模AI開発・展開プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$1,000/月（約150,000円）",
+          "features": [
+            "基本データラベリング",
+            "小規模モデル訓練",
+            "API利用"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "大規模データ処理",
+            "カスタムモデル",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動データラベリング",
+      "大規模モデル訓練",
+      "モデル最適化",
+      "分散処理",
+      "品質管理"
+    ],
+    "pros": [
+      "高精度なデータラベリング",
+      "スケーラブルな処理",
+      "豊富な業界実績",
+      "包括的なサポート"
+    ],
+    "cons": [
+      "高い初期コスト",
+      "技術的専門知識必要",
+      "中小企業には敷居高い"
+    ],
+    "officialUrl": "https://www.upscale.com/",
+    "logoPath": "/logos/upscale-ai.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "AI研究開発企業",
+      "自動運転関連企業",
+      "大規模データ処理企業"
+    ],
+    "releaseYear": 2023,
+    "developer": "Upscale AI",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "insightfinder",
+    "name": "InsightFinder",
+    "nameJa": "インサイトファインダー",
+    "description": "1500万ドルの資金調達により注目される、AIエージェントの問題箇所特定に特化したプラットフォーム。企業がAIシステムを本格導入する際の課題となる、エラーやパフォーマンス低下の原因を自動特定し、システムの信頼性向上を支援。リアルタイム監視とインテリジェントなアラート機能により、AIシステムの運用品質を大幅に向上させる。",
+    "shortDescription": "AIエージェントの問題特定・解決プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本監視",
+            "月10件まで分析",
+            "標準サポート"
+          ]
+        },
+        {
+          "name": "Professional",
+          "price": "$299/月（約45,000円）",
+          "features": [
+            "高度な分析",
+            "リアルタイム監視",
+            "カスタムアラート"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "無制限監視",
+            "専用サポート",
+            "オンプレミス対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェント監視",
+      "自動問題特定",
+      "リアルタイムアラート",
+      "パフォーマンス分析",
+      "予測的メンテナンス"
+    ],
+    "pros": [
+      "AI運用の信頼性向上",
+      "問題の早期発見",
+      "自動化された監視",
+      "詳細な分析レポート"
+    ],
+    "cons": [
+      "技術的知識が必要",
+      "初期設定が複雑",
+      "日本語サポート限定"
+    ],
+    "officialUrl": "https://www.insightfinder.com/",
+    "logoPath": "/logos/insightfinder.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AI開発チーム",
+      "システム運用担当者",
+      "AIプロダクト企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "InsightFinder",
+    "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "roblox-ai-assistant",
+    "name": "Roblox AI Assistant",
+    "nameJa": "ロブロックス AI アシスタント",
+    "description": "Robloxが強化した新しいAIアシスタントで、ゲーム開発の計画立案から実装、テストまでの全工程をサポート。プログラミング知識がなくても直感的なプロンプトでゲームロジックを構築でき、自動テスト機能により品質管理も効率化。特に教育現場や初心者開発者向けに、ゲーム開発の敷居を大幅に下げる革新的なツール。",
+    "shortDescription": "ゲーム開発全工程をサポートするAIアシスタント",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本アシスタント",
+            "シンプルゲーム作成",
+            "コミュニティサポート"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$9.99/月（約1,500円）",
+          "features": [
+            "高度なAI機能",
+            "複雑なゲーム作成",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自然言語でのゲーム設計",
+      "自動コード生成",
+      "インテリジェントテスト",
+      "アセット管理",
+      "協業機能"
+    ],
+    "pros": [
+      "プログラミング不要",
+      "直感的なインターフェース",
+      "教育に最適",
+      "豊富なテンプレート"
+    ],
+    "cons": [
+      "Roblox環境限定",
+      "複雑なゲームは制限",
+      "日本語対応が限定的"
+    ],
+    "officialUrl": "https://create.roblox.com/",
+    "logoPath": "/logos/roblox-ai-assistant.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "ゲーム開発初心者",
+      "教育関係者",
+      "子供向けプログラミング"
+    ],
+    "releaseYear": 2024,
+    "developer": "Roblox Corporation",
+    "lastUpdated": "2026-04-18"
   }
 ]
