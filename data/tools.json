@@ -14875,5 +14875,316 @@
     "releaseYear": 2024,
     "developer": "Roblox Corporation",
     "lastUpdated": "2026-04-18"
+  },
+  {
+    "slug": "ai-subroutines",
+    "name": "AI Subroutines",
+    "nameJa": "エーアイサブルーチン",
+    "description": "ブラウザタブ内で自動化スクリプトを実行できるゼロトークンの決定論的自動化ツール。従来のAI自動化とは異なり、トークン消費なしで確実な動作を保証し、ウェブページでの繰り返し作業を効率化します。HackerNewsで注目を集めている新しいアプローチのブラウザ自動化ソリューションです。",
+    "shortDescription": "ブラウザ内で動作するゼロトークン自動化ツール",
+    "category": "productivity",
+    "subcategories": [
+      "automation",
+      "browser-extension"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的な自動化機能",
+            "限定的なスクリプト実行"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$9.99/月（約1,500円）",
+          "features": [
+            "無制限スクリプト実行",
+            "高度な自動化機能",
+            "プレミアムサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ゼロトークン消費での自動化",
+      "ブラウザタブ内実行",
+      "決定論的動作保証",
+      "繰り返し作業の効率化",
+      "軽量なスクリプト実行"
+    ],
+    "pros": [
+      "トークン消費がない経済性",
+      "確実な動作保証",
+      "ブラウザで完結する手軽さ",
+      "学習コストが低い"
+    ],
+    "cons": [
+      "複雑な処理には不向き",
+      "ブラウザ依存の制限",
+      "まだベータ段階"
+    ],
+    "officialUrl": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+    "logoPath": "/logos/ai-subroutines.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "ウェブ作業を自動化したいユーザー",
+      "トークン消費を抑えたい企業",
+      "繰り返し作業の多い職種"
+    ],
+    "releaseYear": 2026,
+    "developer": "RTRVR",
+    "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "remoroo",
+    "name": "Remoroo",
+    "nameJa": "レモルー",
+    "description": "長時間稼働するコーディングエージェントのメモリ問題を解決するために開発された革新的なメモリ管理システム。従来のAIコーディングツールが長期タスクで直面するコンテキスト忘却問題に対処し、継続的な開発作業でも一貫性を保持します。HackerNewsで「Show HN」として注目され、開発者コミュニティで話題となっています。",
+    "shortDescription": "AIコーディングエージェントのメモリ管理を改善",
+    "category": "coding-assistant",
+    "subcategories": [
+      "memory-management",
+      "ai-agents"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本メモリ管理",
+            "小規模プロジェクト対応"
+          ]
+        },
+        {
+          "name": "Developer",
+          "price": "$19/月（約2,900円）",
+          "features": [
+            "拡張メモリ機能",
+            "大規模プロジェクト対応",
+            "チーム機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "長期メモリ管理",
+      "コンテキスト保持",
+      "継続的開発支援",
+      "エージェント最適化",
+      "プロジェクト記憶機能"
+    ],
+    "pros": [
+      "長期タスクでの一貫性",
+      "メモリ効率の向上",
+      "開発の継続性確保",
+      "革新的なアプローチ"
+    ],
+    "cons": [
+      "新しいツールで実績が少ない",
+      "学習期間が必要",
+      "高度な機能は有料"
+    ],
+    "officialUrl": "https://www.remoroo.com",
+    "logoPath": "/logos/remoroo.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "長期プロジェクトの開発者",
+      "AIコーディングツール利用者",
+      "メモリ問題に悩む開発チーム"
+    ],
+    "releaseYear": 2026,
+    "developer": "Remoroo Inc.",
+    "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "splice-ai-creator-compensation",
+    "name": "Splice AI Creator Compensation",
+    "nameJa": "スプライスAIクリエイター報酬システム",
+    "description": "音楽制作プラットフォームSpliceが導入した画期的なAIツールで、AIが楽曲制作でサンプルクリエイターの音源を使用した際に、自動的に報酬を支払うシステム。従来のAI音楽生成で問題となっていたクリエイターへの対価問題を解決し、公正な音楽業界のエコシステム構築を目指しています。",
+    "shortDescription": "AI音楽制作でサンプル作者に自動報酬支払い",
+    "category": "music-generation",
+    "subcategories": [
+      "creator-economy",
+      "compensation-system"
+    ],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Creator",
+          "price": "無料（収益分配）",
+          "features": [
+            "サンプル登録",
+            "使用量追跡",
+            "自動報酬受取"
+          ]
+        },
+        {
+          "name": "AI Developer",
+          "price": "API使用料",
+          "features": [
+            "ライセンス済みサンプル利用",
+            "報酬システム統合",
+            "法的保護"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動報酬分配",
+      "サンプル使用量追跡",
+      "クリエイター保護",
+      "AI統合API",
+      "透明な収益分配"
+    ],
+    "pros": [
+      "クリエイターの権利保護",
+      "公正な報酬システム",
+      "音楽業界の信頼向上",
+      "法的リスク軽減"
+    ],
+    "cons": [
+      "コストが高くなる可能性",
+      "システムの複雑さ",
+      "普及までに時間が必要"
+    ],
+    "officialUrl": "https://splice.com",
+    "logoPath": "/logos/splice-ai-creator-compensation.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "音楽サンプル作成者",
+      "AI音楽ツール開発者",
+      "音楽業界関係者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Splice",
+    "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "klondike-solitaire-simulator",
+    "name": "Klondike Solitaire Simulator",
+    "nameJa": "クロンダイクソリティアシミュレーター",
+    "description": "ソリティアゲームの最適戦略をAIで解析するオープンソースシミュレーター。現在の記録は8.590%の勝率で、機械学習を用いてゲーム戦略を最適化します。ゲームAI研究の一例として、また確率論やアルゴリズム学習の教材としても活用できる興味深いプロジェクトです。",
+    "shortDescription": "ソリティア最適戦略をAIで解析するツール",
+    "category": "ai-platform",
+    "subcategories": [
+      "game-ai",
+      "simulation"
+    ],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Open Source",
+          "price": "無料",
+          "features": [
+            "ソースコード公開",
+            "シミュレーション実行",
+            "戦略分析",
+            "カスタマイズ可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ゲーム戦略最適化",
+      "勝率計算",
+      "シミュレーション実行",
+      "オープンソース",
+      "統計分析"
+    ],
+    "pros": [
+      "完全無料でオープンソース",
+      "学習教材として優秀",
+      "カスタマイズ性が高い",
+      "研究用途に最適"
+    ],
+    "cons": [
+      "一般ユーザーには専門的すぎる",
+      "ゲーム以外の用途が限定的",
+      "技術知識が必要"
+    ],
+    "officialUrl": "https://github.com/dacracot/Klondike3-Simulator",
+    "logoPath": "/logos/klondike-solitaire-simulator.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "AI研究者",
+      "プログラミング学習者",
+      "ゲーム理論に興味がある人"
+    ],
+    "releaseYear": 2026,
+    "developer": "dacracot",
+    "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "davinci-resolve-21",
+    "name": "DaVinci Resolve 21",
+    "nameJa": "ダヴィンチリゾルブ21",
+    "description": "Blackmagic Designが発表した次世代動画編集ソフトの最新ベータ版。新たに「Photoページ」を搭載し、写真編集機能を統合。顔の年齢調整など革新的なAIツールが追加され、動画編集から写真編集まで一つのソフトで完結できる統合クリエイティブプラットフォームに進化しました。",
+    "shortDescription": "写真編集機能を統合した次世代動画編集ソフト",
+    "category": "video-editing",
+    "subcategories": [
+      "professional-editing",
+      "ai-enhancement"
+    ],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本編集機能",
+            "AI機能（制限あり）",
+            "HD出力"
+          ]
+        },
+        {
+          "name": "Studio",
+          "price": "$295（約44,000円）",
+          "features": [
+            "全機能利用可能",
+            "4K/8K出力",
+            "高度なAI機能",
+            "プロフェッショナルツール"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "統合Photo編集ページ",
+      "AIによる顔年齢調整",
+      "次世代カラーグレーディング",
+      "モーション追跡強化",
+      "ワークフロー統合"
+    ],
+    "pros": [
+      "無料版でも高機能",
+      "写真と動画の統合編集",
+      "革新的なAI機能",
+      "プロ仕様の品質"
+    ],
+    "cons": [
+      "学習コストが高い",
+      "高性能PCが必要",
+      "ベータ版のため不安定な可能性"
+    ],
+    "officialUrl": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "logoPath": "/logos/davinci-resolve-21.svg",
+    "rating": 4.6,
+    "recommendedFor": [
+      "動画クリエイター",
+      "写真家",
+      "フィルムメーカー"
+    ],
+    "releaseYear": 2026,
+    "developer": "Blackmagic Design",
+    "lastUpdated": "2026-04-19"
   }
 ]

@@ -1,5 +1,54 @@
 [
   {
+    "id": "new-ai-subroutines-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "ai-subroutines",
+    "title": "AI Subroutines が新しく追加されました",
+    "summary": "ブラウザ内で動作するゼロトークン自動化ツール",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "new-remoroo-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "remoroo",
+    "title": "Remoroo が新しく追加されました",
+    "summary": "AIコーディングエージェントのメモリ管理を改善",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "new-splice-ai-creator-compensation-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "splice-ai-creator-compensation",
+    "title": "Splice AI Creator Compensation が新しく追加されました",
+    "summary": "AI音楽制作でサンプル作者に自動報酬支払い",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "new-klondike-solitaire-simulator-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "klondike-solitaire-simulator",
+    "title": "Klondike Solitaire Simulator が新しく追加されました",
+    "summary": "ソリティア最適戦略をAIで解析するツール",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "new-davinci-resolve-21-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "davinci-resolve-21",
+    "title": "DaVinci Resolve 21 が新しく追加されました",
+    "summary": "写真編集機能を統合した次世代動画編集ソフト",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "trending-claude-2026-04-19",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Thoughts and feelings around Claude Design",
+    "date": "2026-04-19",
+    "source": "hackernews"
+  },
+  {
     "id": "new-claude-design-2026-04-18",
     "type": "new-tool",
     "toolSlug": "claude-design",
@@ -1849,15 +1898,6 @@
     "title": "DeepSeek V3 アップデート：無料モデルの性能が大幅向上",
     "summary": "DeepSeekがV3モデルをアップデート。無料で利用できるにもかかわらず、GPT-4クラスの性能を達成したと報告されており、オープンソースAIの新たなマイルストーンとなっています。",
     "date": "2026-03-22",
-    "source": "Reddit"
-  },
-  {
-    "id": "cursor-1-release-20260320",
-    "type": "update",
-    "toolSlug": "cursor",
-    "title": "Cursor 1.0 正式リリース：大型アップデート",
-    "summary": "AIコーディングエディタCursorが1.0を正式リリース。マルチファイル編集の精度向上、新しいエージェントモード、パフォーマンス改善など多数の新機能が追加されました。",
-    "date": "2026-03-20",
     "source": "Reddit"
   }
 ]
