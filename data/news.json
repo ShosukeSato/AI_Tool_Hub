@@ -49,6 +49,38 @@
     "source": "hackernews"
   },
   {
+    "id": "new-rtrvr-ai-subroutines-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "rtrvr-ai-subroutines",
+    "title": "RTRVR AI Subroutines が新しく追加されました",
+    "summary": "ブラウザ内で実行可能なAI自動化スクリプト",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "new-bulwark-webmail-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "bulwark-webmail",
+    "title": "Bulwark Webmail が新しく追加されました",
+    "summary": "セルフホスト対応のJMAP統合メールシステム",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "new-pholly-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "pholly",
+    "title": "Pholly が新しく追加されました",
+    "summary": "AI搭載の授業支援・教育システム",
+    "date": "2026-04-19"
+  },
+  {
+    "id": "new-com-2026-04-19",
+    "type": "new-tool",
+    "toolSlug": "com",
+    "title": "アド.com が新しく追加されました",
+    "summary": "AI搭載の競合広告分析・リサーチツール",
+    "date": "2026-04-19"
+  },
+  {
     "id": "new-claude-design-2026-04-18",
     "type": "new-tool",
     "toolSlug": "claude-design",

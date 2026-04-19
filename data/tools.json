@@ -15186,5 +15186,229 @@
     "releaseYear": 2026,
     "developer": "Blackmagic Design",
     "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "rtrvr-ai-subroutines",
+    "name": "RTRVR AI Subroutines",
+    "nameJa": "アールティーアールブイアール エーアイサブルーチン",
+    "description": "ブラウザタブ内で直接実行可能な自動化スクリプトを提供するAIツール。従来のトークンベースの自動化とは異なり、決定論的な処理でWebページの操作を自動化できます。フォーム入力、データ収集、繰り返し作業などを効率化し、開発者でなくても簡単にブラウザ自動化を実現できる点が特徴的です。",
+    "shortDescription": "ブラウザ内で実行可能なAI自動化スクリプト",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "基本的な自動化機能",
+            "月10回まで実行"
+          ]
+        },
+        {
+          "name": "有料プラン",
+          "price": "$29/月（約4,200円）",
+          "features": [
+            "無制限実行",
+            "高度なスクリプト",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ブラウザタブ内自動化",
+      "ゼロトークン決定論的処理",
+      "フォーム自動入力",
+      "データ収集自動化",
+      "繰り返し作業の効率化"
+    ],
+    "pros": [
+      "技術知識不要で使用可能",
+      "トークン消費なしで実行",
+      "リアルタイムブラウザ操作",
+      "幅広い自動化に対応"
+    ],
+    "cons": [
+      "ブラウザ環境に依存",
+      "複雑な条件分岐は制限あり",
+      "セキュリティ面の配慮が必要"
+    ],
+    "officialUrl": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+    "logoPath": "/logos/rtrvr-ai-subroutines.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "Web作業を効率化したい人",
+      "繰り返し作業に悩む人",
+      "ノーコード自動化を求める人"
+    ],
+    "releaseYear": 2024,
+    "developer": "RTRVR",
+    "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "bulwark-webmail",
+    "name": "Bulwark Webmail",
+    "nameJa": "バルワーク ウェブメール",
+    "description": "JMAP プロトコルに対応したセルフホスト型のウェブメールクライアント。メール、カレンダー、連絡先、ファイル管理を統合した包括的なソリューションを提供します。プライバシーを重視するユーザーや企業向けに、自社サーバーで完全に管理できるメールシステムを構築可能。モダンなWebインターフェースで使いやすさも両立しています。",
+    "shortDescription": "セルフホスト対応のJMAP統合メールシステム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "完全機能利用可能",
+            "セルフホスト",
+            "カスタマイズ自由"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "JMAP プロトコル対応",
+      "メール・カレンダー・連絡先統合",
+      "ファイル管理機能",
+      "セルフホスト可能",
+      "モダンWebインターフェース"
+    ],
+    "pros": [
+      "完全なプライバシー保護",
+      "データの完全コントロール",
+      "オープンソースで無料",
+      "統合された管理機能"
+    ],
+    "cons": [
+      "技術的なセットアップが必要",
+      "サーバー管理の知識が必須",
+      "サポートコミュニティ依存"
+    ],
+    "officialUrl": "https://github.com/bulwarkmail/webmail",
+    "logoPath": "/logos/bulwark-webmail.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "プライバシーを重視する企業",
+      "自社サーバー管理者",
+      "オープンソース愛好者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Bulwark Mail",
+    "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "pholly",
+    "name": "Pholly",
+    "nameJa": "フォリー",
+    "description": "デジタル化・AI導入補助金2026の対象ツールに認定された授業支援システム。教育現場でのデジタル化を促進し、授業の効率化や学習効果の向上をサポートします。AIを活用した学習分析、自動採点、個別学習支援などの機能を提供し、教師の負担軽減と生徒の学習成果向上を同時に実現する教育特化型のAIツールです。",
+    "shortDescription": "AI搭載の授業支援・教育システム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "学校向けプラン",
+          "price": "要問い合わせ",
+          "features": [
+            "授業支援機能",
+            "学習分析",
+            "補助金適用可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI学習分析",
+      "自動採点システム",
+      "個別学習支援",
+      "授業効率化",
+      "補助金対象認定"
+    ],
+    "pros": [
+      "補助金で導入コスト削減",
+      "教師の業務負担軽減",
+      "学習効果の可視化",
+      "日本の教育現場に最適化"
+    ],
+    "cons": [
+      "導入に時間がかかる場合あり",
+      "教師のデジタルリテラシー必要",
+      "初期設定が複雑"
+    ],
+    "officialUrl": "https://pholly.com",
+    "logoPath": "/logos/pholly.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "教育機関関係者",
+      "授業効率化を図りたい教師",
+      "デジタル教育推進担当者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Pholly Inc.",
+    "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "com",
+    "name": "アド.com",
+    "nameJa": "アドドットコム",
+    "description": "競合他社の広告戦略を徹底分析するAI搭載の広告リサーチツール。新機能「ディープリサーチ機能」により、競合の過去から現在までの広告戦略の変遷を可視化し、市場トレンドの把握と自社戦略立案をサポートします。SNS広告、検索広告、ディスプレイ広告など幅広い媒体の分析が可能で、マーケティング担当者の競合分析業務を大幅に効率化します。",
+    "shortDescription": "AI搭載の競合広告分析・リサーチツール",
+    "category": "search-research",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "基本分析機能",
+            "月10件まで"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "¥29,800/月",
+          "features": [
+            "無制限分析",
+            "ディープリサーチ",
+            "詳細レポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "競合広告戦略分析",
+      "過去〜現在の変遷追跡",
+      "多媒体対応分析",
+      "トレンド可視化",
+      "戦略立案サポート"
+    ],
+    "pros": [
+      "競合分析の工数大幅削減",
+      "戦略的インサイト獲得",
+      "複数媒体を一元管理",
+      "日本市場に特化"
+    ],
+    "cons": [
+      "高額な料金設定",
+      "分析結果の解釈にスキル要",
+      "リアルタイム性に限界"
+    ],
+    "officialUrl": "https://ad.com",
+    "logoPath": "/logos/com.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "マーケティング担当者",
+      "広告代理店",
+      "競合分析を重視する企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Ad.com Inc.",
+    "lastUpdated": "2026-04-19"
   }
 ]
