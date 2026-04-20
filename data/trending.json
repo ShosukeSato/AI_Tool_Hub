@@ -8,68 +8,62 @@
         "source": "hackernews",
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "score": 48,
-        "date": "2026-04-19"
+        "score": 221,
+        "date": "2026-04-20"
       },
       {
         "source": "hackernews",
         "title": "Thoughts and feelings around Claude Design",
         "url": "https://samhenri.gold/blog/20260418-claude-design/",
-        "score": 337,
-        "date": "2026-04-19"
+        "score": 363,
+        "date": "2026-04-20"
       },
       {
         "source": "hackernews",
         "title": "Claude Design",
         "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "score": 1200,
-        "date": "2026-04-19"
+        "score": 1217,
+        "date": "2026-04-20"
       },
       {
         "source": "hackernews",
         "title": "Measuring Claude 4.7's tokenizer costs",
         "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-        "score": 699,
-        "date": "2026-04-19"
+        "score": 707,
+        "date": "2026-04-20"
       },
       {
         "source": "googlenews",
-        "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma - Venturebeat",
+        "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma - VentureBeat",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       },
       {
         "source": "googlenews",
         "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       },
       {
         "source": "googlenews",
         "title": "Anthropic launches Claude Design AI tool for paid plans - TestingCatalog",
         "score": 1,
-        "date": "2026-04-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
-        "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       },
       {
         "source": "techcrunch",
         "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 4.1,
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,9 +77,32 @@
     "lastSeen": "2026-04-16"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Game devs explain the tricks involved with letting you pause a game",
+        "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+        "score": 407,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Graphs that explain the state of AI in 2026",
+        "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+        "score": 110,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-20"
+  },
+  {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -101,7 +118,7 @@
   {
     "toolSlug": "servo",
     "toolName": "Servo",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -115,54 +132,9 @@
     "lastSeen": "2026-04-15"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Are the costs of AI agents also rising exponentially?",
-        "url": "2025) (https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-        "score": 300,
-        "date": "2026-04-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-04-19"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-19"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Game devs explain the tricks involved with letting you pause a game",
-        "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-        "score": 186,
-        "date": "2026-04-19"
-      },
-      {
-        "source": "hackernews",
-        "title": "Graphs that explain the state of AI in 2026",
-        "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-        "score": 96,
-        "date": "2026-04-19"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-19"
-  },
-  {
     "toolSlug": "gas-town",
     "toolName": "Gas Town",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -178,7 +150,7 @@
   {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -194,7 +166,7 @@
   {
     "toolSlug": "cloudflare-email-service",
     "toolName": "Cloudflare Email Service",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -210,7 +182,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -226,7 +198,7 @@
   {
     "toolSlug": "pretty-fish",
     "toolName": "Pretty Fish",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -242,7 +214,7 @@
   {
     "toolSlug": "introspective-diffusion",
     "toolName": "Introspective Diffusion",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -258,7 +230,7 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -272,9 +244,60 @@
     "lastSeen": "2026-04-10"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
+        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
+        "score": 7,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Prove you are a robot: CAPTCHAs for agents",
+        "url": "https://browser-use.com/posts/prove-you-are-a-robot",
+        "score": 51,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "Roblox launches agentic AI tools to speed up game development workflows - Pocket Gamer.biz",
+        "score": 1,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
+        "score": 1,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-20"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
+        "url": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
+        "score": 61,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-04-20"
+  },
+  {
     "toolSlug": "libretto",
     "toolName": "Libretto",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -290,7 +313,7 @@
   {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -304,9 +327,25 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "swiss-ai-initiative",
+    "toolName": "Swiss AI Initiative",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Swiss AI Initiative",
+        "url": "2023) (https://www.swiss-ai.org",
+        "score": 19,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-04-20"
+  },
+  {
     "toolSlug": "ai-subroutines",
     "toolName": "AI Subroutines",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -322,7 +361,7 @@
   {
     "toolSlug": "gaia",
     "toolName": "GAIA",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -336,6 +375,27 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool | AI (artificial intelligence) - The Guardian",
+        "score": 1,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-04-20"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
     "buzzScore": 1,
@@ -344,11 +404,11 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "davinci-resolve-21",
@@ -359,11 +419,11 @@
         "source": "googlenews",
         "title": "DaVinci Resolve 21 ベータ版がリリース！写真編集「Photoページ」搭載、顔の年齢調整など次世代AIツールの追加など - CGinterest",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "pholly",
@@ -374,11 +434,11 @@
         "source": "googlenews",
         "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "learno",
@@ -389,11 +449,11 @@
         "source": "googlenews",
         "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "admina-ai",
@@ -404,11 +464,11 @@
         "source": "googlenews",
         "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-18",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "cursor",
@@ -419,11 +479,11 @@
         "source": "techcrunch",
         "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "where",
@@ -434,11 +494,11 @@
         "source": "techcrunch",
         "title": "Are we tokenmaxxing our way to nowhere?",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "factory",
@@ -449,11 +509,11 @@
         "source": "techcrunch",
         "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-18",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "udio",
@@ -464,11 +524,11 @@
         "source": "techcrunch",
         "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-09",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "upscale-ai",
@@ -479,16 +539,16 @@
         "source": "techcrunch",
         "title": "Upscale AI in talks to raise at $2B valuation, says report",
         "score": 1,
-        "date": "2026-04-19"
+        "date": "2026-04-20"
       }
     ],
     "firstSeen": "2026-04-18",
-    "lastSeen": "2026-04-19"
+    "lastSeen": "2026-04-20"
   },
   {
     "toolSlug": "physical-intelligence",
     "toolName": "Physical Intelligence",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -503,7 +563,7 @@
   {
     "toolSlug": "tailscale-rs",
     "toolName": "Tailscale-rs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -519,7 +579,7 @@
   {
     "toolSlug": "n-day-bench",
     "toolName": "N-Day-Bench",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -535,7 +595,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -550,7 +610,7 @@
   {
     "toolSlug": "fulu",
     "toolName": "Fulu",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -566,7 +626,7 @@
   {
     "toolSlug": "kontext-cli",
     "toolName": "Kontext CLI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -582,7 +642,7 @@
   {
     "toolSlug": "presso",
     "toolName": "Presso",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -597,7 +657,7 @@
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -612,7 +672,7 @@
   {
     "toolSlug": "bouncer",
     "toolName": "Bouncer",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -628,7 +688,7 @@
   {
     "toolSlug": "pyra",
     "toolName": "Pyra",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -644,7 +704,7 @@
   {
     "toolSlug": "kelet",
     "toolName": "Kelet",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -656,66 +716,5 @@
     ],
     "firstSeen": "2026-04-15",
     "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "attie",
-    "toolName": "Attie",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance - TechCrunch",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-17"
-  },
-  {
-    "toolSlug": "runway",
-    "toolName": "Runway",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-17"
-  },
-  {
-    "toolSlug": "deepl",
-    "toolName": "DeepL",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "DeepL, known for text translation, now wants to translate your voice",
-        "score": 1,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-17"
-  },
-  {
-    "toolSlug": "ilha",
-    "toolName": "Ilha",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Ilha – a UI library that fits in an AI context window",
-        "url": "https://ilha.build/",
-        "score": 20,
-        "date": "2026-04-17"
-      }
-    ],
-    "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-17"
   }
 ]

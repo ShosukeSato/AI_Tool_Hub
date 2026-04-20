@@ -1,5 +1,62 @@
 [
   {
+    "id": "new-browser-use-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "browser-use",
+    "title": "Browser Use が新しく追加されました",
+    "summary": "ブラウザ操作を自動化するAIエージェント",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-mythos-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "mythos",
+    "title": "Mythos が新しく追加されました",
+    "summary": "サイバーセキュリティ特化の強力AIモデル",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-uber-anthropic-ai-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "uber-anthropic-ai",
+    "title": "Uber Anthropic AI が新しく追加されました",
+    "summary": "Uber向け配車最適化AIシステム（開発中断）",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-ai-subreddit-tools-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "ai-subreddit-tools",
+    "title": "AI Subreddit Tools が新しく追加されました",
+    "summary": "Reddit AIコミュニティ発のツール群",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-swiss-ai-initiative-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "swiss-ai-initiative",
+    "title": "Swiss AI Initiative が新しく追加されました",
+    "summary": "スイス政府主導のAI研究開発プラットフォーム",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-world-verification-system-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "world-verification-system",
+    "title": "World Verification System が新しく追加されました",
+    "summary": "AI時代の人間認証システム",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "trending-claude-2026-04-20",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "date": "2026-04-20",
+    "source": "hackernews"
+  },
+  {
     "id": "new-ai-subroutines-2026-04-19",
     "type": "new-tool",
     "toolSlug": "ai-subroutines",

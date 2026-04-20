@@ -15410,5 +15410,341 @@
     "releaseYear": 2024,
     "developer": "Ad.com Inc.",
     "lastUpdated": "2026-04-19"
+  },
+  {
+    "slug": "browser-use",
+    "name": "Browser Use",
+    "nameJa": "ブラウザーユース",
+    "description": "ブラウザを自動操作してタスクを実行するAIエージェントツール。ウェブサイトでの情報収集、フォーム入力、オンライン手続きなどを自動化できる。人間に代わってCAPTCHAを解決する「Prove you are a robot」機能が話題となり、ブラウザベースの作業を効率化する革新的なソリューションとして注目を集めている。",
+    "shortDescription": "ブラウザ操作を自動化するAIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "無料",
+          "features": [
+            "基本的なブラウザ操作",
+            "月10タスクまで"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$29/月（約4,350円）",
+          "features": [
+            "無制限タスク",
+            "CAPTCHA解決機能",
+            "高度な操作"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ブラウザ自動操作",
+      "CAPTCHA解決",
+      "フォーム自動入力",
+      "データスクレイピング",
+      "ワークフロー自動化"
+    ],
+    "pros": [
+      "人間のようなブラウザ操作が可能",
+      "CAPTCHA突破機能が革新的",
+      "プログラミング不要で使いやすい",
+      "幅広いウェブサイトに対応"
+    ],
+    "cons": [
+      "利用規約違反のリスク",
+      "セキュリティ上の懸念",
+      "対応サイトに制限あり"
+    ],
+    "officialUrl": "https://browser-use.com",
+    "logoPath": "/logos/browser-use.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "データ収集業務の担当者",
+      "ルーティンワークを自動化したい人",
+      "ウェブスクレイピングエンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "Browser Use",
+    "lastUpdated": "2026-04-20"
+  },
+  {
+    "slug": "mythos",
+    "name": "Mythos",
+    "nameJa": "ミトス",
+    "description": "Anthropicが開発した新しいサイバーセキュリティ特化AIモデル。ハッキング技術の悪用を防ぐため一般公開は見送られているが、その強力な能力が「サイバーセキュリティの転換点」と評価されている。UK銀行がこのツールの採用を検討中で、金融機関のセキュリティ強化に革命をもたらす可能性がある。EUも慎重な姿勢を示すなど、国際的な議論を呼んでいる。",
+    "shortDescription": "サイバーセキュリティ特化の強力AIモデル",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "高度脅威検知",
+            "自動セキュリティ対応",
+            "カスタマイズサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高度脅威検知",
+      "脆弱性分析",
+      "自動セキュリティ対応",
+      "リアルタイム監視",
+      "インシデント分析"
+    ],
+    "pros": [
+      "極めて高いセキュリティ能力",
+      "金融機関レベルの信頼性",
+      "リアルタイム脅威対応",
+      "Anthropicの技術力"
+    ],
+    "cons": [
+      "一般利用不可",
+      "非常に高額",
+      "悪用リスクへの懸念"
+    ],
+    "officialUrl": "https://www.anthropic.com",
+    "logoPath": "/logos/mythos.svg",
+    "rating": 4.8,
+    "recommendedFor": [
+      "大企業のセキュリティ担当",
+      "金融機関",
+      "政府機関"
+    ],
+    "releaseYear": 2026,
+    "developer": "Anthropic",
+    "lastUpdated": "2026-04-20"
+  },
+  {
+    "slug": "uber-anthropic-ai",
+    "name": "Uber Anthropic AI",
+    "nameJa": "ウーバー・アンソロピックAI",
+    "description": "UberとAnthropicが共同開発したライドシェア最適化AIシステム。配車効率の向上、ルート最適化、需要予測を行う予定だったが、技術的課題により計画が頓挫している。Yahoo Financeの報道によると、実用化に向けた取り組みが壁にぶつかっており、両社の協力関係にも影響を与えている可能性がある。",
+    "shortDescription": "Uber向け配車最適化AIシステム（開発中断）",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "開発中断",
+          "features": [
+            "配車最適化",
+            "ルート予測",
+            "需要分析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "配車効率化",
+      "ルート最適化",
+      "需要予測",
+      "リアルタイム調整",
+      "コスト削減"
+    ],
+    "pros": [
+      "大規模データ活用",
+      "リアルタイム最適化",
+      "業界特化設計",
+      "Anthropicの技術力"
+    ],
+    "cons": [
+      "開発が中断状態",
+      "実用化時期不明",
+      "技術的課題未解決"
+    ],
+    "officialUrl": "https://uber.com",
+    "logoPath": "/logos/uber-anthropic-ai.svg",
+    "rating": 3,
+    "recommendedFor": [
+      "配車サービス事業者",
+      "物流最適化担当者",
+      "AI研究者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Uber x Anthropic",
+    "lastUpdated": "2026-04-20"
+  },
+  {
+    "slug": "ai-subreddit-tools",
+    "name": "AI Subreddit Tools",
+    "nameJa": "AIサブレディット・ツールズ",
+    "description": "Reddit上のAI関連コミュニティで議論されている各種AIツールの集合体。コミュニティ主導で開発・共有されているオープンソースツールが多く、実用的なAIアプリケーションから実験的なプロジェクトまで幅広くカバー。開発者コミュニティの生の声と実際の使用感が反映されており、新しいAI技術のトレンドを把握するのに最適。",
+    "shortDescription": "Reddit AIコミュニティ発のツール群",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Community",
+          "price": "無料",
+          "features": [
+            "オープンソース",
+            "コミュニティサポート",
+            "定期更新"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "多様なAIツール",
+      "オープンソース",
+      "コミュニティサポート",
+      "定期更新",
+      "実験的機能"
+    ],
+    "pros": [
+      "完全無料でオープンソース",
+      "コミュニティの知見が豊富",
+      "最新トレンドに敏感",
+      "多様なツールが利用可能"
+    ],
+    "cons": [
+      "品質にばらつきがある",
+      "サポートが限定的",
+      "技術的知識が必要"
+    ],
+    "officialUrl": "https://reddit.com/r/artificial",
+    "logoPath": "/logos/ai-subreddit-tools.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AI開発者",
+      "最新トレンドに興味がある人",
+      "オープンソース愛好家"
+    ],
+    "releaseYear": 2026,
+    "developer": "Reddit Community",
+    "lastUpdated": "2026-04-20"
+  },
+  {
+    "slug": "swiss-ai-initiative",
+    "name": "Swiss AI Initiative",
+    "nameJa": "スイスAIイニシアティブ",
+    "description": "スイス政府主導のAI研究開発プラットフォーム。2023年に設立され、中立性と高品質で知られるスイスの技術力を活かしたAIソリューションを提供。政府機関のメール管理システムなど公共サービスのデジタル化に焦点を当てており、プライバシー保護とセキュリティを重視した設計が特徴。欧州のAI規制に準拠した倫理的なAI開発を推進している。",
+    "shortDescription": "スイス政府主導のAI研究開発プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Government",
+          "price": "政府機関向け",
+          "features": [
+            "セキュアAI",
+            "プライバシー保護",
+            "カスタム開発"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "企業向けソリューション",
+            "コンプライアンス対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "プライバシー保護AI",
+      "政府レベルセキュリティ",
+      "GDPR完全準拠",
+      "カスタム開発",
+      "多言語対応"
+    ],
+    "pros": [
+      "最高レベルのプライバシー保護",
+      "政府機関レベルの信頼性",
+      "欧州規制完全準拠",
+      "中立性が保証"
+    ],
+    "cons": [
+      "コストが高い",
+      "一般利用は限定的",
+      "カスタマイズに時間要"
+    ],
+    "officialUrl": "https://www.swiss-ai.org",
+    "logoPath": "/logos/swiss-ai-initiative.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "政府機関",
+      "金融機関",
+      "プライバシー重視企業"
+    ],
+    "releaseYear": 2023,
+    "developer": "Swiss Government",
+    "lastUpdated": "2026-04-20"
+  },
+  {
+    "slug": "world-verification-system",
+    "name": "World Verification System",
+    "nameJa": "ワールド・ベリフィケーション・システム",
+    "description": "Sam Altman主導のWorldcoinプロジェクトから生まれた人間認証システム。Tinderなど主要プラットフォームへの導入が進んでおり、AIボットと人間を区別する新しい標準として注目されている。虹彩スキャンによる生体認証で「証明可能な人間性」を提供し、AI時代における人間のアイデンティティ保護を目指している。プライバシーへの懸念もあるが、デジタル社会の基盤技術として期待される。",
+    "shortDescription": "AI時代の人間認証システム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "無料",
+          "features": [
+            "基本認証",
+            "月間制限あり"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$9.99/月（約1,500円）",
+          "features": [
+            "無制限認証",
+            "API利用",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "生体認証",
+      "ボット検出",
+      "API連携",
+      "プラットフォーム統合",
+      "プライバシー保護"
+    ],
+    "pros": [
+      "高精度な人間認証",
+      "主要サービスとの連携",
+      "AI詐欺防止効果",
+      "将来性が高い"
+    ],
+    "cons": [
+      "プライバシーへの懸念",
+      "生体データ収集の不安",
+      "対応サービスが限定的"
+    ],
+    "officialUrl": "https://worldcoin.org",
+    "logoPath": "/logos/world-verification-system.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "オンラインサービス事業者",
+      "セキュリティ重視ユーザー",
+      "AI詐欺対策が必要な企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "Tools for Humanity",
+    "lastUpdated": "2026-04-20"
   }
 ]
