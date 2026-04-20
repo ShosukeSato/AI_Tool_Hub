@@ -6,30 +6,37 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Claude Token Counter, now with model comparisons",
+        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+        "score": 149,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Figma's woes compound with Claude Design",
+        "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+        "score": 57,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "hackernews",
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "score": 221,
+        "score": 342,
         "date": "2026-04-20"
       },
       {
         "source": "hackernews",
         "title": "Thoughts and feelings around Claude Design",
         "url": "https://samhenri.gold/blog/20260418-claude-design/",
-        "score": 363,
+        "score": 379,
         "date": "2026-04-20"
       },
       {
         "source": "hackernews",
         "title": "Claude Design",
         "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "score": 1217,
-        "date": "2026-04-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Measuring Claude 4.7's tokenizer costs",
-        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-        "score": 707,
+        "score": 1221,
         "date": "2026-04-20"
       },
       {
@@ -46,7 +53,7 @@
       },
       {
         "source": "googlenews",
-        "title": "Anthropic launches Claude Design AI tool for paid plans - TestingCatalog",
+        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
         "score": 1,
         "date": "2026-04-20"
       },
@@ -63,7 +70,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -85,14 +92,7 @@
         "source": "hackernews",
         "title": "Game devs explain the tricks involved with letting you pause a game",
         "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-        "score": 407,
-        "date": "2026-04-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Graphs that explain the state of AI in 2026",
-        "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-        "score": 110,
+        "score": 430,
         "date": "2026-04-20"
       }
     ],
@@ -102,7 +102,7 @@
   {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -118,7 +118,7 @@
   {
     "toolSlug": "servo",
     "toolName": "Servo",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -132,9 +132,44 @@
     "lastSeen": "2026-04-15"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
+        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
+        "score": 43,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Prove you are a robot: CAPTCHAs for agents",
+        "url": "https://browser-use.com/posts/prove-you-are-a-robot",
+        "score": 103,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
+        "date": "2026-04-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
+        "score": 1,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-20"
+  },
+  {
     "toolSlug": "gas-town",
     "toolName": "Gas Town",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -150,7 +185,7 @@
   {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -164,9 +199,25 @@
     "lastSeen": "2026-04-11"
   },
   {
+    "toolSlug": "swiss-ai-initiative",
+    "toolName": "Swiss AI Initiative",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Swiss AI Initiative",
+        "url": "2023) (https://www.swiss-ai.org",
+        "score": 84,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-04-20"
+  },
+  {
     "toolSlug": "cloudflare-email-service",
     "toolName": "Cloudflare Email Service",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -182,7 +233,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -196,9 +247,25 @@
     "lastSeen": "2026-04-17"
   },
   {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
+        "url": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
+        "score": 73,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-04-20"
+  },
+  {
     "toolSlug": "pretty-fish",
     "toolName": "Pretty Fish",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -214,7 +281,7 @@
   {
     "toolSlug": "introspective-diffusion",
     "toolName": "Introspective Diffusion",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -230,7 +297,7 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -244,60 +311,9 @@
     "lastSeen": "2026-04-10"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
-        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
-        "score": 7,
-        "date": "2026-04-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Prove you are a robot: CAPTCHAs for agents",
-        "url": "https://browser-use.com/posts/prove-you-are-a-robot",
-        "score": 51,
-        "date": "2026-04-20"
-      },
-      {
-        "source": "googlenews",
-        "title": "Roblox launches agentic AI tools to speed up game development workflows - Pocket Gamer.biz",
-        "score": 1,
-        "date": "2026-04-20"
-      },
-      {
-        "source": "googlenews",
-        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
-        "score": 1,
-        "date": "2026-04-20"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-20"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
-        "url": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
-        "score": 61,
-        "date": "2026-04-20"
-      }
-    ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-04-20"
-  },
-  {
     "toolSlug": "libretto",
     "toolName": "Libretto",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -313,7 +329,7 @@
   {
     "toolSlug": "marimo-pair",
     "toolName": "Marimo Pair",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -327,64 +343,10 @@
     "lastSeen": "2026-04-11"
   },
   {
-    "toolSlug": "swiss-ai-initiative",
-    "toolName": "Swiss AI Initiative",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Swiss AI Initiative",
-        "url": "2023) (https://www.swiss-ai.org",
-        "score": 19,
-        "date": "2026-04-20"
-      }
-    ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-04-20"
-  },
-  {
-    "toolSlug": "ai-subroutines",
-    "toolName": "AI Subroutines",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
-        "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
-        "score": 43,
-        "date": "2026-04-19"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-04-19"
-  },
-  {
-    "toolSlug": "gaia",
-    "toolName": "GAIA",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-        "url": "https://amd-gaia.ai/docs",
-        "score": 152,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-14",
-    "lastSeen": "2026-04-15"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
     "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool | AI (artificial intelligence) - The Guardian",
-        "score": 1,
-        "date": "2026-04-20"
-      },
       {
         "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
@@ -393,6 +355,21 @@
       }
     ],
     "firstSeen": "2026-04-20",
+    "lastSeen": "2026-04-20"
+  },
+  {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
+        "score": 1,
+        "date": "2026-04-20"
+      }
+    ],
+    "firstSeen": "2026-04-03",
     "lastSeen": "2026-04-20"
   },
   {
@@ -411,13 +388,13 @@
     "lastSeen": "2026-04-20"
   },
   {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "DaVinci Resolve 21 ベータ版がリリース！写真編集「Photoページ」搭載、顔の年齢調整など次世代AIツールの追加など - CGinterest",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
         "score": 1,
         "date": "2026-04-20"
       }
@@ -426,13 +403,13 @@
     "lastSeen": "2026-04-20"
   },
   {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
+    "toolSlug": "davinci-resolve-21",
+    "toolName": "DaVinci Resolve 21",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "title": "DaVinci Resolve 21 ベータ版がリリース！写真編集「Photoページ」搭載、顔の年齢調整など次世代AIツールの追加など - CGinterest",
         "score": 1,
         "date": "2026-04-20"
       }
@@ -546,9 +523,41 @@
     "lastSeen": "2026-04-20"
   },
   {
+    "toolSlug": "ai-subroutines",
+    "toolName": "AI Subroutines",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+        "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+        "score": 43,
+        "date": "2026-04-19"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-04-19"
+  },
+  {
+    "toolSlug": "gaia",
+    "toolName": "GAIA",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
+        "url": "https://amd-gaia.ai/docs",
+        "score": 152,
+        "date": "2026-04-15"
+      }
+    ],
+    "firstSeen": "2026-04-14",
+    "lastSeen": "2026-04-15"
+  },
+  {
     "toolSlug": "physical-intelligence",
     "toolName": "Physical Intelligence",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -563,7 +572,7 @@
   {
     "toolSlug": "tailscale-rs",
     "toolName": "Tailscale-rs",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -579,7 +588,7 @@
   {
     "toolSlug": "n-day-bench",
     "toolName": "N-Day-Bench",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -593,24 +602,9 @@
     "lastSeen": "2026-04-15"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-19"
-      }
-    ],
-    "firstSeen": "2026-04-03",
-    "lastSeen": "2026-04-19"
-  },
-  {
     "toolSlug": "fulu",
     "toolName": "Fulu",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -626,7 +620,7 @@
   {
     "toolSlug": "kontext-cli",
     "toolName": "Kontext CLI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -642,7 +636,7 @@
   {
     "toolSlug": "presso",
     "toolName": "Presso",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -657,7 +651,7 @@
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -672,7 +666,7 @@
   {
     "toolSlug": "bouncer",
     "toolName": "Bouncer",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -684,37 +678,5 @@
     ],
     "firstSeen": "2026-04-13",
     "lastSeen": "2026-04-13"
-  },
-  {
-    "toolSlug": "pyra",
-    "toolName": "Pyra",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Pyra – a Python toolchain experiment inspired by uv and Bun",
-        "url": "https://github.com/treyorr/pyra",
-        "score": 4,
-        "date": "2026-04-18"
-      }
-    ],
-    "firstSeen": "2026-04-18",
-    "lastSeen": "2026-04-18"
-  },
-  {
-    "toolSlug": "kelet",
-    "toolName": "Kelet",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
-        "url": "https://kelet.ai/",
-        "score": 47,
-        "date": "2026-04-15"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-15"
   }
 ]

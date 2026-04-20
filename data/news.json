@@ -57,6 +57,46 @@
     "source": "hackernews"
   },
   {
+    "id": "new-claude-token-counter-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "claude-token-counter",
+    "title": "Claude Token Counter が新しく追加されました",
+    "summary": "複数LLMモデルのトークン数を比較するツール",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-mxmap-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "mxmap",
+    "title": "MXMap が新しく追加されました",
+    "summary": "スイス自治体のメールプロバイダーを可視化",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-browser-use-captcha-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "browser-use-captcha",
+    "title": "Browser Use CAPTCHA が新しく追加されました",
+    "summary": "AIエージェント向けの逆転発想CAPTCHA",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-the-home-depot-ai-assistant-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "the-home-depot-ai-assistant",
+    "title": "The Home Depot AI Assistant が新しく追加されました",
+    "summary": "DIYプロジェクト専門のAIアシスタント",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "new-davinci-resolve-21-beta-2026-04-20",
+    "type": "new-tool",
+    "toolSlug": "davinci-resolve-21-beta",
+    "title": "DaVinci Resolve 21 Beta が新しく追加されました",
+    "summary": "写真編集機能を追加した次世代動画編集ソフト",
+    "date": "2026-04-20"
+  },
+  {
     "id": "new-ai-subroutines-2026-04-19",
     "type": "new-tool",
     "toolSlug": "ai-subroutines",
