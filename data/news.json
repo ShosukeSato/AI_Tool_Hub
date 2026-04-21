@@ -41,6 +41,54 @@
     "source": "hackernews"
   },
   {
+    "id": "new-mediator-ai-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "mediator-ai",
+    "title": "Mediator.ai が新しく追加されました",
+    "summary": "LLMとゲーム理論で公平な交渉解決を支援",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "new-affinity-ai-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "affinity-ai",
+    "title": "Affinity AI が新しく追加されました",
+    "summary": "Affinityシリーズに統合されたデザインAI",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "new-fermi-ai-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "fermi-ai",
+    "title": "Fermi AI が新しく追加されました",
+    "summary": "AI向け核融合発電の開発企業（経営陣辞任）",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "new-cerebras-ai-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "cerebras-ai",
+    "title": "Cerebras AI が新しく追加されました",
+    "summary": "巨大AIチップでIPO申請の注目企業",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "new-grai-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "grai",
+    "title": "GRAI が新しく追加されました",
+    "summary": "協働的な音楽制作を支援するソーシャルAI",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "new-palantir-ai-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "palantir-ai",
+    "title": "Palantir AI が新しく追加されました",
+    "summary": "物議を醸すマニフェスト発表のデータ分析AI",
+    "date": "2026-04-21"
+  },
+  {
     "id": "new-browser-use-2026-04-20",
     "type": "new-tool",
     "toolSlug": "browser-use",

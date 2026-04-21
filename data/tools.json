@@ -16234,5 +16234,333 @@
     "releaseYear": 2026,
     "developer": "Atlassian",
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "mediator-ai",
+    "name": "Mediator.ai",
+    "nameJa": "メディエーター・エーアイ",
+    "description": "Nash bargaining理論とLLMを組み合わせて、交渉や意見の対立を公平に解決するAIプラットフォームです。複数の利害関係者間での合意形成を数学的に最適化し、企業の社内対立、契約交渉、政策決定などで客観的で公正な解決策を提案します。人間の感情や偏見を排除し、データドリブンな意思決定を支援する革新的なツールとして注目されています。",
+    "shortDescription": "LLMとゲーム理論で公平な交渉解決を支援",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "無料",
+          "features": [
+            "基本的な交渉分析",
+            "月5回まで利用"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$29/月（約4,500円）",
+          "features": [
+            "無制限利用",
+            "高度な分析機能",
+            "カスタム設定"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Nash均衡による最適解計算",
+      "多者間交渉対応",
+      "公平性指標の可視化",
+      "交渉履歴の分析",
+      "カスタム制約条件設定"
+    ],
+    "pros": [
+      "数学的に証明された公平性",
+      "感情に左右されない客観的判断",
+      "複雑な多者間交渉に対応",
+      "交渉プロセスの透明性確保"
+    ],
+    "cons": [
+      "理論的すぎて実用性に疑問",
+      "人間関係の微妙さを考慮しない",
+      "学習コストが高い"
+    ],
+    "officialUrl": "https://mediator.ai/",
+    "logoPath": "/logos/mediator-ai.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "企業の人事・労務担当者",
+      "法務・契約担当者",
+      "政策立案者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Mediator AI Inc.",
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "affinity-ai",
+    "name": "Affinity AI",
+    "nameJa": "アフィニティ・エーアイ",
+    "description": "Affinity Designer/Photo/Publisherに統合されたClaudeベースのAI自動化機能です。デザイン作業の繰り返しタスクを自動化し、レイヤー整理、色調整、フォント選択、レイアウト提案などを自然言語で指示できます。DaVinci Resolveとの新しい連携機能により、動画編集からグラフィックデザインまでシームレスなワークフローを実現。クリエイターの創造的な時間を最大化します。",
+    "shortDescription": "Affinityシリーズに統合されたデザインAI",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Affinity Suite + AI",
+          "price": "$199.99（約30,000円）買い切り",
+          "features": [
+            "全Affinityアプリ",
+            "AI自動化機能",
+            "DaVinci連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自然言語によるデザイン指示",
+      "自動レイヤー整理",
+      "インテリジェント色調整",
+      "フォント推奨システム",
+      "DaVinci Resolve連携"
+    ],
+    "pros": [
+      "買い切り価格でサブスク不要",
+      "プロレベルのデザインツール",
+      "動画編集ソフトとの連携",
+      "直感的な自然言語操作"
+    ],
+    "cons": [
+      "初期費用が高額",
+      "学習コストがかかる",
+      "日本語対応が限定的"
+    ],
+    "officialUrl": "https://affinity.serif.com/",
+    "logoPath": "/logos/affinity-ai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "プロのデザイナー",
+      "動画クリエイター",
+      "グラフィック制作者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Serif",
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "fermi-ai",
+    "name": "Fermi AI",
+    "nameJa": "フェルミ・エーアイ",
+    "description": "AI処理に最適化された小型核融合発電システムを開発していた注目のスタートアップでしたが、CEO・CFOが突然辞任し業界に衝撃を与えました。データセンターのエネルギー問題解決を目指していましたが、技術的課題と資金調達の困難により事業継続が危ぶまれています。AI業界のエネルギー需要急増と持続可能性の課題を象徴する出来事として、業界関係者から注目されています。",
+    "shortDescription": "AI向け核融合発電の開発企業（経営陣辞任）",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "開発中",
+          "price": "未定",
+          "features": [
+            "事業継続未確定"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "小型核融合発電システム",
+      "AI処理最適化",
+      "データセンター向けソリューション",
+      "持続可能エネルギー",
+      "（開発中断の可能性）"
+    ],
+    "pros": [
+      "革新的なエネルギー技術",
+      "AI業界の電力問題に対応",
+      "環境負荷の大幅削減",
+      "理論的には画期的"
+    ],
+    "cons": [
+      "経営陣の突然の辞任",
+      "技術実現性に疑問",
+      "事業継続が不透明"
+    ],
+    "officialUrl": "https://fermi.ai/",
+    "logoPath": "/logos/fermi-ai.svg",
+    "rating": 2.5,
+    "recommendedFor": [
+      "エネルギー業界関係者",
+      "AI投資家",
+      "技術動向ウォッチャー"
+    ],
+    "releaseYear": 2025,
+    "developer": "Fermi AI (経営陣辞任)",
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "cerebras-ai",
+    "name": "Cerebras AI",
+    "nameJa": "セレブラス・エーアイ",
+    "description": "世界最大のAIチップWafer Scale Engine（WSE）を開発し、IPO申請を発表したことで話題のAIハードウェア企業です。従来のGPUとは異なり、ウェハーサイズの巨大な単一チップでAI処理の高速化を実現。大規模言語モデルの訓練時間を大幅に短縮し、エネルギー効率も向上させます。NVIDIA独占市場への挑戦者として、AI業界の注目を集めています。",
+    "shortDescription": "巨大AIチップでIPO申請の注目企業",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "クラウドアクセス",
+          "price": "従量課金",
+          "features": [
+            "WSEアクセス",
+            "高速AI処理",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Wafer Scale Engine（WSE）",
+      "大規模モデル高速訓練",
+      "低遅延推論",
+      "エネルギー効率最適化",
+      "クラウドアクセス提供"
+    ],
+    "pros": [
+      "NVIDIA代替の有力候補",
+      "革新的なハードウェア設計",
+      "処理速度の大幅向上",
+      "IPOによる資金調達"
+    ],
+    "cons": [
+      "非常に高額な初期投資",
+      "技術的リスクが大きい",
+      "限定的な用途",
+      "市場浸透に時間"
+    ],
+    "officialUrl": "https://cerebras.net/",
+    "logoPath": "/logos/cerebras-ai.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AI研究者",
+      "大企業のAI部門",
+      "投資家"
+    ],
+    "releaseYear": 2016,
+    "developer": "Cerebras Systems",
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "grai",
+    "name": "GRAI",
+    "nameJa": "グライ",
+    "description": "AIを活用してより社交的で協働的な音楽制作体験を提供するプラットフォームです。従来のAI音楽ツールがアーティストを置き換えることを目指すのに対し、GRAIは人間同士の音楽的コラボレーションを促進し、創造性を拡張することに焦点を当てています。リアルタイムでの共同制作、ジャムセッション支援、音楽アイデアの共有など、音楽の社会的側面を強化する革新的なアプローチを採用しています。",
+    "shortDescription": "協働的な音楽制作を支援するソーシャルAI",
+    "category": "music-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的なコラボ機能",
+            "月10セッション"
+          ]
+        },
+        {
+          "name": "Creator",
+          "price": "$19/月（約2,900円）",
+          "features": [
+            "無制限セッション",
+            "高品質出力",
+            "プライベートルーム"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "リアルタイム音楽コラボレーション",
+      "AIアシスト作曲",
+      "ジャムセッション機能",
+      "楽曲共有プラットフォーム",
+      "多人数同時編集"
+    ],
+    "pros": [
+      "人間中心の音楽制作",
+      "リアルタイムコラボレーション",
+      "創造性の拡張に特化",
+      "ソーシャル機能が充実"
+    ],
+    "cons": [
+      "ネットワーク品質に依存",
+      "従来のDAWとの互換性",
+      "学習コストがやや高い"
+    ],
+    "officialUrl": "https://grai.music/",
+    "logoPath": "/logos/grai.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "音楽プロデューサー",
+      "バンドメンバー",
+      "音楽教育者"
+    ],
+    "releaseYear": 2026,
+    "developer": "GRAI Music Inc.",
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "palantir-ai",
+    "name": "Palantir AI",
+    "nameJa": "パランティア・エーアイ",
+    "description": "データ分析大手Palantirが「包括性」や「退行的」文化を否定する物議を醸すミニマニフェストを発表し、AI開発における「実力主義」を強調しています。同社のAIプラットフォームは政府機関や大企業向けに高度なデータ分析と意思決定支援を提供しますが、この発言により企業文化や価値観が注目を集めています。技術的には優秀ながら、社会的責任やDEI（多様性・公平性・包括性）への姿勢が議論を呼んでいます。",
+    "shortDescription": "物議を醸すマニフェスト発表のデータ分析AI",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "大規模データ分析",
+            "政府レベルセキュリティ",
+            "カスタム開発"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "大規模データ統合分析",
+      "リアルタイム意思決定支援",
+      "政府グレードセキュリティ",
+      "予測分析機能",
+      "カスタムAIモデル構築"
+    ],
+    "pros": [
+      "極めて高度な分析能力",
+      "政府機関での実績",
+      "大規模データ処理に特化",
+      "カスタマイゼーション柔軟性"
+    ],
+    "cons": [
+      "企業文化への批判",
+      "非常に高額な料金",
+      "複雑で導入困難",
+      "倫理的議論を呼ぶ姿勢"
+    ],
+    "officialUrl": "https://palantir.com/",
+    "logoPath": "/logos/palantir-ai.svg",
+    "rating": 3.6,
+    "recommendedFor": [
+      "政府機関",
+      "大企業のデータ部門",
+      "セキュリティ重視組織"
+    ],
+    "releaseYear": 2003,
+    "developer": "Palantir Technologies",
+    "lastUpdated": "2026-04-21"
   }
 ]
