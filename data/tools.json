@@ -16026,5 +16026,213 @@
     "releaseYear": 2026,
     "developer": "Blackmagic Design",
     "lastUpdated": "2026-04-20"
+  },
+  {
+    "slug": "ternary-bonsai",
+    "name": "Ternary Bonsai",
+    "nameJa": "ターナリー盆栽",
+    "description": "1.58ビットという極めて少ないメモリ使用量でAI推論を実現する革新的なモデル圧縮技術。従来のAIモデルと比較して大幅にメモリ効率を改善し、低スペックデバイスでも高性能なAI処理を可能にします。エッジデバイスやスマートフォンなどリソースが限られた環境でのAI活用に最適化されており、バッテリー消費を抑えながら実用的な性能を提供します。",
+    "shortDescription": "超軽量1.58ビットAI推論モデル",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "軽量モデル",
+            "エッジ推論",
+            "省メモリ設計"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "1.58ビット超軽量推論",
+      "エッジデバイス最適化",
+      "低メモリ消費",
+      "高速処理",
+      "バッテリー効率向上"
+    ],
+    "pros": [
+      "極めて少ないメモリ使用量",
+      "低スペックデバイス対応",
+      "省電力設計",
+      "高速推論処理"
+    ],
+    "cons": [
+      "精度がやや劣る可能性",
+      "限定的なモデルサイズ",
+      "新技術のため事例が少ない"
+    ],
+    "officialUrl": "https://prismml.com/news/ternary-bonsai",
+    "logoPath": "/logos/ternary-bonsai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "エッジAI開発者",
+      "モバイルアプリ開発者",
+      "IoTエンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "PrismML",
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "stackadapt-chatgpt-ads",
+    "name": "StackAdapt ChatGPT Ads",
+    "nameJa": "スタックアダプト チャットGPT広告",
+    "description": "ChatGPTの会話内容に基づいて関連性の高い広告を配信する革新的な広告プラットフォーム。ユーザーのプロンプト内容を分析し、文脈に応じた広告を自然に表示することで、従来のディスプレイ広告よりも高いエンゲージメントを実現します。AI会話型インターフェースに特化した新しい広告手法として注目されており、マーケターにとって新たな顧客接点を提供します。",
+    "shortDescription": "ChatGPT対話型広告配信プラットフォーム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "プロンプト解析",
+            "文脈広告",
+            "パフォーマンス分析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "プロンプト関連性分析",
+      "コンテキスト広告配信",
+      "リアルタイム最適化",
+      "詳細アナリティクス",
+      "A/Bテスト機能"
+    ],
+    "pros": [
+      "高い広告関連性",
+      "自然な広告体験",
+      "新しい顧客接点",
+      "詳細なターゲティング"
+    ],
+    "cons": [
+      "プライバシー懸念",
+      "広告主にとって高コスト",
+      "ユーザー体験への影響"
+    ],
+    "officialUrl": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+    "logoPath": "/logos/stackadapt-chatgpt-ads.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "デジタルマーケター",
+      "広告代理店",
+      "オンライン広告担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "StackAdapt",
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "deezer-ai-music-detection",
+    "name": "Deezer AI Music Detection",
+    "nameJa": "ディーザー AI音楽検出",
+    "description": "Deezerが開発したAI生成音楽を自動検出・分類するシステム。アップロードされる楽曲の44%がAI生成であることを発見し、音楽業界に大きな衝撃を与えています。機械学習アルゴリズムを使用して人間が作った音楽とAI生成音楽を高精度で判別し、音楽プラットフォームの品質管理と著作権保護に貢献します。音楽業界のAI化の現状を可視化する重要なツールです。",
+    "shortDescription": "AI生成音楽の自動検出システム",
+    "category": "music-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "プラットフォーム向け",
+          "price": "要問い合わせ",
+          "features": [
+            "AI音楽検出",
+            "品質分析",
+            "レポート機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI生成音楽検出",
+      "品質スコア分析",
+      "リアルタイム判定",
+      "詳細レポート",
+      "バッチ処理対応"
+    ],
+    "pros": [
+      "高精度な検出能力",
+      "音楽品質管理に有効",
+      "著作権保護支援",
+      "業界標準の可能性"
+    ],
+    "cons": [
+      "検出精度の限界",
+      "新しいAI技術への対応遅れ",
+      "誤判定のリスク"
+    ],
+    "officialUrl": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "logoPath": "/logos/deezer-ai-music-detection.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "音楽プラットフォーム運営者",
+      "レコード会社",
+      "音楽著作権管理者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Deezer",
+    "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "atlassian-ai-training-system",
+    "name": "Atlassian AI Training System",
+    "nameJa": "アトラシアン AI学習システム",
+    "description": "Atlassianが導入したAI学習のための自動データ収集システム。ユーザーのプロジェクトデータや作業パターンをデフォルトで収集し、AI機能の改善に活用します。JiraやConfluenceなどの使用データを分析することで、より効果的なAI支援機能を提供することを目指していますが、プライバシー保護の観点から議論を呼んでいます。企業のAI活用とデータプライバシーのバランスを考える重要な事例です。",
+    "shortDescription": "AIトレーニング用データ自動収集",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Atlassian製品内蔵",
+          "price": "既存プラン内",
+          "features": [
+            "データ収集",
+            "AI学習",
+            "機能改善"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動データ収集",
+      "AI学習最適化",
+      "使用パターン分析",
+      "プライバシー設定",
+      "オプトアウト機能"
+    ],
+    "pros": [
+      "AI機能の継続改善",
+      "ユーザー体験向上",
+      "自動化された学習",
+      "既存製品との統合"
+    ],
+    "cons": [
+      "プライバシー懸念",
+      "データ使用の透明性不足",
+      "デフォルト有効の問題"
+    ],
+    "officialUrl": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+    "logoPath": "/logos/atlassian-ai-training-system.svg",
+    "rating": 3,
+    "recommendedFor": [
+      "Atlassian製品ユーザー",
+      "プロジェクトマネージャー",
+      "開発チーム"
+    ],
+    "releaseYear": 2026,
+    "developer": "Atlassian",
+    "lastUpdated": "2026-04-21"
   }
 ]

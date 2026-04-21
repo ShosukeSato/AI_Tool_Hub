@@ -1,5 +1,46 @@
 [
   {
+    "id": "new-ternary-bonsai-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "ternary-bonsai",
+    "title": "Ternary Bonsai が新しく追加されました",
+    "summary": "超軽量1.58ビットAI推論モデル",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "new-stackadapt-chatgpt-ads-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "stackadapt-chatgpt-ads",
+    "title": "StackAdapt ChatGPT Ads が新しく追加されました",
+    "summary": "ChatGPT対話型広告配信プラットフォーム",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "new-deezer-ai-music-detection-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "deezer-ai-music-detection",
+    "title": "Deezer AI Music Detection が新しく追加されました",
+    "summary": "AI生成音楽の自動検出システム",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "new-atlassian-ai-training-system-2026-04-21",
+    "type": "new-tool",
+    "toolSlug": "atlassian-ai-training-system",
+    "title": "Atlassian AI Training System が新しく追加されました",
+    "summary": "AIトレーニング用データ自動収集",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "trending-claude-2026-04-21",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Figma's woes compound with Claude Design",
+    "date": "2026-04-21",
+    "source": "hackernews"
+  },
+  {
     "id": "new-browser-use-2026-04-20",
     "type": "new-tool",
     "toolSlug": "browser-use",
@@ -2019,14 +2060,5 @@
     "summary": "AnthropicがClaude Codeを正式リリース。ターミナルベースのAIコーディングアシスタントとして、コード生成・デバッグ・リファクタリングをCLIから直接実行可能に。開発者コミュニティで大きな反響。",
     "date": "2026-03-27",
     "source": "TechCrunch"
-  },
-  {
-    "id": "deepseek-v3-update-20260322",
-    "type": "update",
-    "toolSlug": "deepseek",
-    "title": "DeepSeek V3 アップデート：無料モデルの性能が大幅向上",
-    "summary": "DeepSeekがV3モデルをアップデート。無料で利用できるにもかかわらず、GPT-4クラスの性能を達成したと報告されており、オープンソースAIの新たなマイルストーンとなっています。",
-    "date": "2026-03-22",
-    "source": "Reddit"
   }
 ]
