@@ -73,6 +73,39 @@
     "source": "hackernews"
   },
   {
+    "id": "new-kuri-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "kuri",
+    "title": "Kuri が新しく追加されました",
+    "summary": "Zigベースの次世代AIエージェント・ブラウザ",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-trellis-ai-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "trellis-ai",
+    "title": "Trellis AI が新しく追加されました",
+    "summary": "自己改善型AIエージェントプラットフォーム",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-neocognition-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "neocognition",
+    "title": "NeoCognition が新しく追加されました",
+    "summary": "人間のような学習能力を持つAIエージェント研究",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "trending-chatgpt-2026-04-22",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: ChatGPT Images 2.0",
+    "date": "2026-04-22",
+    "source": "hackernews"
+  },
+  {
     "id": "new-ternary-bonsai-2026-04-21",
     "type": "new-tool",
     "toolSlug": "ternary-bonsai",

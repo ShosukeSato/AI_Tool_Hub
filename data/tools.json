@@ -17026,5 +17026,161 @@
     "releaseYear": 2026,
     "developer": "Bond",
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "kuri",
+    "name": "Kuri",
+    "nameJa": "クリ",
+    "description": "Zigベースで開発された次世代のエージェント・ブラウザ代替ツール。従来のWebブラウザとは異なり、AIエージェントが自動的にWeb操作を行い、情報収集やタスク実行を効率化する。軽量でパフォーマンスに優れ、開発者向けのカスタマイズ機能も豊富に搭載している。",
+    "shortDescription": "Zigベースの次世代AIエージェント・ブラウザ",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "基本ブラウジング機能",
+            "AIエージェント統合",
+            "カスタマイズ可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Zigベースの高速処理",
+      "AIエージェント統合",
+      "自動Web操作",
+      "開発者向けAPI",
+      "軽量設計"
+    ],
+    "pros": [
+      "高いパフォーマンス",
+      "オープンソースで自由にカスタマイズ可能",
+      "AIエージェントとの統合が簡単",
+      "軽量で高速"
+    ],
+    "cons": [
+      "開発初期段階のため機能が限定的",
+      "技術知識が必要",
+      "ドキュメントが少ない"
+    ],
+    "officialUrl": "https://github.com/justrach/kuri",
+    "logoPath": "/logos/kuri.svg",
+    "rating": 3.5,
+    "recommendedFor": [
+      "開発者",
+      "AIエージェントを活用したい企業",
+      "パフォーマンス重視のユーザー"
+    ],
+    "releaseYear": 2024,
+    "developer": "justrach",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "trellis-ai",
+    "name": "Trellis AI",
+    "nameJa": "トレリス AI",
+    "description": "Y Combinator W24採択の自己改善型AIエージェントプラットフォーム。従来の静的なAIエージェントとは異なり、使用するたびに学習し、パフォーマンスを向上させる能力を持つ。複雑なビジネスタスクを自動化し、人間の介入なしに継続的に最適化されるエージェントを構築できる革新的なサービス。",
+    "shortDescription": "自己改善型AIエージェントプラットフォーム",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "自己改善機能",
+            "カスタムエージェント構築",
+            "API統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自己改善型エージェント",
+      "継続学習機能",
+      "ビジネスタスク自動化",
+      "パフォーマンス最適化",
+      "カスタムエージェント構築"
+    ],
+    "pros": [
+      "使用するたびに性能が向上",
+      "Y Combinator採択の信頼性",
+      "複雑なタスクの自動化が可能",
+      "継続的な最適化"
+    ],
+    "cons": [
+      "企業向けで個人利用は困難",
+      "料金が高額",
+      "導入に専門知識が必要"
+    ],
+    "officialUrl": "https://www.ycombinator.com/companies/trellis-ai",
+    "logoPath": "/logos/trellis-ai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "大企業のIT部門",
+      "AI導入を検討する企業",
+      "効率化を求める組織"
+    ],
+    "releaseYear": 2024,
+    "developer": "Trellis AI",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "neocognition",
+    "name": "NeoCognition",
+    "nameJa": "ネオコグニション",
+    "description": "人間のような学習能力を持つAIエージェントの研究開発を行う企業で、4000万ドルのシード資金を調達。従来のAIエージェントが事前学習に依存するのに対し、NeoCognitionのエージェントは人間のように経験から学習し、新しい状況に適応する能力を持つ。革新的な学習アルゴリズムにより、より自然で効果的なAIアシスタントを目指している。",
+    "shortDescription": "人間のような学習能力を持つAIエージェント研究",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "研究開発",
+          "price": "要問い合わせ",
+          "features": [
+            "人間的学習機能",
+            "適応型エージェント",
+            "カスタム開発"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "人間的学習アルゴリズム",
+      "経験ベースの適応",
+      "新状況への対応",
+      "自然な対話能力",
+      "継続的改善"
+    ],
+    "pros": [
+      "革新的な学習アプローチ",
+      "大規模資金調達による開発力",
+      "人間に近い学習能力",
+      "将来性が高い"
+    ],
+    "cons": [
+      "研究段階で実用化は未定",
+      "一般利用は困難",
+      "技術の複雑性"
+    ],
+    "officialUrl": "https://neocognition.ai",
+    "logoPath": "/logos/neocognition.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "AI研究者",
+      "先進技術を追求する企業",
+      "長期的AI戦略を持つ組織"
+    ],
+    "releaseYear": 2024,
+    "developer": "NeoCognition",
+    "lastUpdated": "2026-04-22"
   }
 ]
