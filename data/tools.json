@@ -16562,5 +16562,469 @@
     "releaseYear": 2003,
     "developer": "Palantir Technologies",
     "lastUpdated": "2026-04-21"
+  },
+  {
+    "slug": "chatgpt-images-2-0",
+    "name": "ChatGPT Images 2.0",
+    "nameJa": "チャットGPTイメージズ2.0",
+    "description": "OpenAIが発表したChatGPTの新しい画像生成機能。従来版と比べて画像内のテキスト生成精度が大幅に向上し、より自然で読みやすい文字を含む画像を作成できます。ユーザーからの高い注目を集めており、Hacker Newsで470ポイントを獲得するなど話題となっています。プレゼンテーション資料やインフォグラフィック制作に特に有効です。",
+    "shortDescription": "テキスト生成精度が向上したChatGPTの新画像生成機能",
+    "category": "image-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "ChatGPT Free",
+          "price": "無料",
+          "features": [
+            "基本的な画像生成",
+            "月間制限あり"
+          ]
+        },
+        {
+          "name": "ChatGPT Plus",
+          "price": "$20/月（約3,000円）",
+          "features": [
+            "優先アクセス",
+            "高品質生成",
+            "制限緩和"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高精度テキスト埋め込み",
+      "自然な文字表現",
+      "多様な画像スタイル",
+      "プロンプト最適化",
+      "リアルタイム生成"
+    ],
+    "pros": [
+      "テキスト生成精度の大幅向上",
+      "ChatGPTとの統合で使いやすい",
+      "プレゼン資料作成に最適",
+      "日本語テキストにも対応"
+    ],
+    "cons": [
+      "Plus版は有料",
+      "生成時間がやや長い",
+      "複雑なレイアウトは苦手な場合がある"
+    ],
+    "officialUrl": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "logoPath": "/logos/chatgpt-images-2-0.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "プレゼン資料を作成する人",
+      "インフォグラフィック制作者",
+      "マーケティング担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "crabtrap",
+    "name": "CrabTrap",
+    "nameJa": "クラブトラップ",
+    "description": "Brex社が開発したLLM-as-a-judgeアーキテクチャを採用したHTTPプロキシツール。本番環境でAIエージェントを安全に運用するためのセキュリティソリューションです。AIエージェントの動作を監視し、不適切な行動や潜在的なリスクを検出・防止します。企業がAIエージェントを導入する際の重要なセキュリティ課題を解決する革新的なアプローチとして注目されています。",
+    "shortDescription": "本番環境でAIエージェントを安全運用するセキュリティツール",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "HTTPプロキシ監視",
+            "リアルタイム脅威検出",
+            "カスタマイズ可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "LLM-as-a-judge監視",
+      "HTTPプロキシ機能",
+      "リアルタイム脅威検出",
+      "エージェント行動分析",
+      "セキュリティポリシー適用"
+    ],
+    "pros": [
+      "本番環境での安全性確保",
+      "リアルタイム監視機能",
+      "企業レベルのセキュリティ",
+      "AIエージェント特化設計"
+    ],
+    "cons": [
+      "企業向けのため個人利用は困難",
+      "設定が複雑",
+      "専門知識が必要"
+    ],
+    "officialUrl": "https://www.brex.com/crabtrap",
+    "logoPath": "/logos/crabtrap.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "AIエージェントを本番運用する企業",
+      "セキュリティ担当者",
+      "DevOpsエンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "Brex",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "zindex",
+    "name": "Zindex",
+    "nameJa": "ゼットインデックス",
+    "description": "AIエージェント向けのインフラストラクチャ図作成ツール。複雑なAIシステムの構成を視覚的に理解しやすい図として自動生成します。マルチエージェントシステムの設計や、既存のAIワークフローの可視化に特化しており、技術者がAIアーキテクチャを効率的に設計・共有できます。エージェント間の関係性やデータフローを直感的に表現できる点が特徴です。",
+    "shortDescription": "AIエージェント向けインフラ図を自動生成するツール",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的な図作成",
+            "限定テンプレート"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$29/月（約4,300円）",
+          "features": [
+            "高度な図作成",
+            "チーム共有",
+            "カスタムテンプレート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェント図作成",
+      "マルチエージェント対応",
+      "データフロー可視化",
+      "テンプレート提供",
+      "チーム協業機能"
+    ],
+    "pros": [
+      "AIシステム専用設計",
+      "直感的な操作性",
+      "エージェント関係性の明確化",
+      "技術共有が容易"
+    ],
+    "cons": [
+      "AIシステム以外には不向き",
+      "学習コストがある",
+      "日本語対応が限定的"
+    ],
+    "officialUrl": "https://zindex.ai/",
+    "logoPath": "/logos/zindex.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AIエンジニア",
+      "システムアーキテクト",
+      "AIプロジェクトマネージャー"
+    ],
+    "releaseYear": 2026,
+    "developer": "Zindex",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "gomodel",
+    "name": "GoModel",
+    "nameJa": "ゴーモデル",
+    "description": "Go言語で構築されたオープンソースのAIゲートウェイ。複数のAIモデルやAPIを統一的に管理・アクセスできるプラットフォームです。高いパフォーマンスと軽量性を実現し、企業がさまざまなAIサービスを効率的に統合できます。Hacker Newsで163ポイントを獲得するなど、開発者コミュニティから注目を集めています。負荷分散やフェイルオーバー機能も搭載しています。",
+    "shortDescription": "複数AIモデルを統一管理するオープンソースゲートウェイ",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "Open Source",
+          "price": "無料",
+          "features": [
+            "全機能利用可能",
+            "自己ホスティング",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "統一APIアクセス",
+      "負荷分散機能",
+      "フェイルオーバー対応",
+      "高パフォーマンス",
+      "オープンソース"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "Go言語による高速処理",
+      "複数AIサービスの統合が簡単",
+      "企業利用に適した設計"
+    ],
+    "cons": [
+      "技術的セットアップが必要",
+      "サポートはコミュニティベース",
+      "日本語ドキュメントが少ない"
+    ],
+    "officialUrl": "https://github.com/ENTERPILOT/GOModel/",
+    "logoPath": "/logos/gomodel.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "Go言語開発者",
+      "AIインフラ構築者",
+      "複数AIサービスを統合したい企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "ENTERPILOT",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "almanac-mcp",
+    "name": "Almanac MCP",
+    "nameJa": "アルマナック MCP",
+    "description": "Claude Codeを深度のあるリサーチエージェントに変換するModel Context Protocol（MCP）ツール。既存のClaude Codeの機能を拡張し、より詳細で包括的なリサーチ作業を自動化できます。学術研究、市場調査、競合分析などの分野で、従来よりも深い洞察を提供します。研究者や分析業務に携わる専門家にとって強力なアシスタントとなります。",
+    "shortDescription": "Claude Codeを高度なリサーチエージェントに変換するツール",
+    "category": "search-research",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "無料",
+          "features": [
+            "基本リサーチ機能",
+            "限定クエリ数"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "$19/月（約2,800円）",
+          "features": [
+            "無制限リサーチ",
+            "高度分析機能",
+            "カスタムワークフロー"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "深度リサーチ自動化",
+      "Claude Code拡張",
+      "多角的情報収集",
+      "分析レポート生成",
+      "カスタムワークフロー"
+    ],
+    "pros": [
+      "既存Claude Codeとの連携",
+      "リサーチ品質の大幅向上",
+      "時間効率の大幅改善",
+      "専門的分析に対応"
+    ],
+    "cons": [
+      "Claude Code必須",
+      "設定に専門知識が必要",
+      "日本語情報源への対応が限定的"
+    ],
+    "officialUrl": "https://www.openalmanac.org/",
+    "logoPath": "/logos/almanac-mcp.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "研究者",
+      "市場分析担当者",
+      "コンサルタント"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAlmanac",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "daemons",
+    "name": "Daemons",
+    "nameJa": "デーモンズ",
+    "description": "AIエージェント運用後のクリーンアップとメンテナンスに特化したツール。Charlie Labs社が開発し、元々はエージェント構築を行っていたが、運用後の問題解決にピボットした注目のサービスです。AIエージェントが生成したデータの整理、パフォーマンス監視、エラー対応などを自動化し、長期的なAIシステムの安定稼働を支援します。企業のAI運用における重要な課題を解決します。",
+    "shortDescription": "AIエージェント運用後のクリーンアップを自動化するツール",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$49/月（約7,300円）",
+          "features": [
+            "基本クリーンアップ",
+            "監視機能"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "$199/月（約29,800円）",
+          "features": [
+            "高度な自動化",
+            "カスタムルール",
+            "24/7サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動クリーンアップ",
+      "パフォーマンス監視",
+      "エラー自動対応",
+      "データ整理機能",
+      "運用レポート生成"
+    ],
+    "pros": [
+      "エージェント運用の効率化",
+      "自動化による工数削減",
+      "長期的な安定性向上",
+      "専門的な運用サポート"
+    ],
+    "cons": [
+      "初期設定が複雑",
+      "ある程度の技術知識が必要",
+      "日本語サポートが限定的"
+    ],
+    "officialUrl": "https://charlielabs.ai/",
+    "logoPath": "/logos/daemons.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "AIエージェント運用担当者",
+      "DevOpsエンジニア",
+      "AI運用管理者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Charlie Labs",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "voyage",
+    "name": "Voyage",
+    "nameJa": "ボヤージュ",
+    "description": "AI Dungeonの開発元Latitude社が発表したAI駆動RPGゲーム作成プラットフォーム。プレイヤーが独自のロールプレイングゲームを簡単に作成できるツールです。AI技術を活用してストーリー生成、キャラクター対話、世界観構築を自動化し、従来のゲーム開発に比べて大幅に制作時間を短縮できます。ゲーム制作の民主化を目指す革新的なプラットフォームとして期待されています。",
+    "shortDescription": "AIを活用したRPGゲーム作成プラットフォーム",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本ゲーム作成",
+            "限定機能"
+          ]
+        },
+        {
+          "name": "Creator",
+          "price": "$15/月（約2,200円）",
+          "features": [
+            "高度なAI機能",
+            "カスタマイズ",
+            "商用利用可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIストーリー生成",
+      "自動キャラクター対話",
+      "世界観構築支援",
+      "ビジュアルエディタ",
+      "マルチプレイヤー対応"
+    ],
+    "pros": [
+      "プログラミング不要でゲーム制作",
+      "AI による創作支援",
+      "短時間でのプロトタイプ作成",
+      "コミュニティでの共有機能"
+    ],
+    "cons": [
+      "複雑なゲームシステムは制限あり",
+      "英語メインのインターフェース",
+      "AI生成コンテンツの品質にばらつき"
+    ],
+    "officialUrl": "https://latitude.io/",
+    "logoPath": "/logos/voyage.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "ゲーム制作者",
+      "ストーリーライター",
+      "インディーゲーム開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Latitude",
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "bond",
+    "name": "Bond",
+    "nameJa": "ボンド",
+    "description": "AIを活用してソーシャルメディアの「ドゥームスクローリング」（延々とネガティブなコンテンツを見続けてしまう行為）を防止する新しいソーシャルプラットフォーム。ユーザーの精神的健康を重視し、AI技術でより建設的で有益なコンテンツを優先表示します。従来のSNSとは異なるアプローチで、健全なオンラインコミュニティの構築を目指している注目のサービスです。",
+    "shortDescription": "AIでドゥームスクローリングを防ぐ健全なSNSプラットフォーム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本機能",
+            "限定AI機能"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$9/月（約1,300円）",
+          "features": [
+            "高度なAI機能",
+            "カスタマイズ",
+            "詳細分析"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI コンテンツフィルタリング",
+      "メンタルヘルス重視設計",
+      "建設的コンテンツ優先表示",
+      "時間管理機能",
+      "ウェルビーイング分析"
+    ],
+    "pros": [
+      "精神的健康への配慮",
+      "生産的なSNS利用",
+      "時間の無駄遣い防止",
+      "質の高いコンテンツ体験"
+    ],
+    "cons": [
+      "ユーザーベースがまだ小規模",
+      "従来SNSからの移行コスト",
+      "日本語対応は未確認"
+    ],
+    "officialUrl": "https://bond.social/",
+    "logoPath": "/logos/bond.svg",
+    "rating": 3.7,
+    "recommendedFor": [
+      "SNS依存に悩む人",
+      "メンタルヘルスを重視する人",
+      "生産性向上を求める人"
+    ],
+    "releaseYear": 2026,
+    "developer": "Bond",
+    "lastUpdated": "2026-04-22"
   }
 ]

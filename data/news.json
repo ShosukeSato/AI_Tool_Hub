@@ -1,5 +1,78 @@
 [
   {
+    "id": "new-chatgpt-images-2-0-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "chatgpt-images-2-0",
+    "title": "ChatGPT Images 2.0 が新しく追加されました",
+    "summary": "テキスト生成精度が向上したChatGPTの新画像生成機能",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-crabtrap-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "crabtrap",
+    "title": "CrabTrap が新しく追加されました",
+    "summary": "本番環境でAIエージェントを安全運用するセキュリティツール",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-zindex-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "zindex",
+    "title": "Zindex が新しく追加されました",
+    "summary": "AIエージェント向けインフラ図を自動生成するツール",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-gomodel-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "gomodel",
+    "title": "GoModel が新しく追加されました",
+    "summary": "複数AIモデルを統一管理するオープンソースゲートウェイ",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-almanac-mcp-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "almanac-mcp",
+    "title": "Almanac MCP が新しく追加されました",
+    "summary": "Claude Codeを高度なリサーチエージェントに変換するツール",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-daemons-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "daemons",
+    "title": "Daemons が新しく追加されました",
+    "summary": "AIエージェント運用後のクリーンアップを自動化するツール",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-voyage-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "voyage",
+    "title": "Voyage が新しく追加されました",
+    "summary": "AIを活用したRPGゲーム作成プラットフォーム",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "new-bond-2026-04-22",
+    "type": "new-tool",
+    "toolSlug": "bond",
+    "title": "Bond が新しく追加されました",
+    "summary": "AIでドゥームスクローリングを防ぐ健全なSNSプラットフォーム",
+    "date": "2026-04-22"
+  },
+  {
+    "id": "trending-claude-2026-04-22",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Almanac MCP, turn Claude Code into a Deep Research agent",
+    "date": "2026-04-22",
+    "source": "hackernews"
+  },
+  {
     "id": "new-ternary-bonsai-2026-04-21",
     "type": "new-tool",
     "toolSlug": "ternary-bonsai",
