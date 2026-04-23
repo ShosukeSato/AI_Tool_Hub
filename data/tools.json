@@ -17182,5 +17182,341 @@
     "releaseYear": 2024,
     "developer": "NeoCognition",
     "lastUpdated": "2026-04-22"
+  },
+  {
+    "slug": "google-tpu-v8",
+    "name": "Google TPU v8",
+    "nameJa": "グーグル TPU v8",
+    "description": "Googleが発表した第8世代TPU（Tensor Processing Unit）で、エージェント時代に特化した2つのチップ構成を採用。従来のTPUと比較して大幅な性能向上を実現し、大規模言語モデルやAIエージェントのトレーニングと推論を効率的に処理できる。Google Cloudを通じて企業や研究機関に提供され、AIの民主化を推進する重要なインフラとして注目を集めている。",
+    "shortDescription": "エージェント時代に特化した第8世代TPU",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Google Cloud TPU v8",
+          "price": "使用量に応じた従量課金",
+          "features": [
+            "高性能AIトレーニング",
+            "推論処理最適化",
+            "Google Cloudサービス統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "2チップ構成による高性能処理",
+      "AIエージェント最適化",
+      "Google Cloud統合",
+      "大規模言語モデル対応",
+      "効率的な推論処理"
+    ],
+    "pros": [
+      "最新世代の高性能TPU",
+      "エージェント処理に最適化",
+      "Google Cloudとの完全統合",
+      "企業レベルのスケーラビリティ"
+    ],
+    "cons": [
+      "Google Cloudへの依存",
+      "高コスト",
+      "専門知識が必要"
+    ],
+    "officialUrl": "https://cloud.google.com/tpu",
+    "logoPath": "/logos/google-tpu-v8.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "AI研究者",
+      "機械学習エンジニア",
+      "大企業のAI開発チーム"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "openai-workspace-agents",
+    "name": "OpenAI Workspace Agents",
+    "nameJa": "OpenAI ワークスペースエージェント",
+    "description": "OpenAIが発表したビジネス向けのワークスペース統合AIエージェント。ChatGPTをベースに、企業のワークスペース環境（Microsoft Teams、Slack、Google Workspaceなど）に直接統合され、日常業務を自動化・効率化する。文書作成、スケジュール管理、データ分析など幅広いタスクを処理し、チーム全体の生産性向上を実現する次世代のビジネスAIツールとして注目されている。",
+    "shortDescription": "ビジネス向けワークスペース統合AIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Business",
+          "price": "月額$25/ユーザー（約3,750円）",
+          "features": [
+            "ワークスペース統合",
+            "カスタムエージェント",
+            "企業データ連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ワークスペース統合",
+      "自動タスク処理",
+      "チームコラボレーション",
+      "カスタムエージェント作成",
+      "企業データ分析"
+    ],
+    "pros": [
+      "既存ツールとの完全統合",
+      "高度な自動化機能",
+      "チーム生産性向上",
+      "セキュアな企業環境対応"
+    ],
+    "cons": [
+      "高額な月額費用",
+      "企業向けのみ",
+      "設定の複雑さ"
+    ],
+    "officialUrl": "https://openai.com/business/workspace-agents/",
+    "logoPath": "/logos/openai-workspace-agents.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "企業の管理者",
+      "チームリーダー",
+      "業務効率化担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "zed-parallel-agents",
+    "name": "Zed Parallel Agents",
+    "nameJa": "Zed パラレルエージェント",
+    "description": "高性能コードエディタZedに搭載された並列AIエージェント機能。複数のAIエージェントが同時に動作し、コードレビュー、デバッグ、リファクタリング、テスト生成などの開発タスクを並行して処理する。従来のシーケンシャルなAI支援とは異なり、複数のエージェントが連携することで開発効率を大幅に向上させる。非同期処理により応答速度も高速で、現代的な開発ワークフローに最適化されている。",
+    "shortDescription": "複数AIエージェントが並行動作するコードエディタ",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "基本的なAI支援",
+            "シングルエージェント"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額$20（約3,000円）",
+          "features": [
+            "並列エージェント",
+            "高度なコード分析",
+            "カスタムエージェント"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "並列AIエージェント処理",
+      "非同期コード分析",
+      "リアルタイムコラボレーション",
+      "高速レスポンス",
+      "カスタムエージェント設定"
+    ],
+    "pros": [
+      "高速な並列処理",
+      "複数タスク同時実行",
+      "現代的なUI/UX",
+      "高いカスタマイズ性"
+    ],
+    "cons": [
+      "新しいツールのため学習コスト",
+      "Pro機能は有料",
+      "まだベータ段階の機能もある"
+    ],
+    "officialUrl": "https://zed.dev/",
+    "logoPath": "/logos/zed-parallel-agents.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "ソフトウェア開発者",
+      "チーム開発リーダー",
+      "効率重視のプログラマー"
+    ],
+    "releaseYear": 2026,
+    "developer": "Zed Industries",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "broccoli",
+    "name": "Broccoli",
+    "nameJa": "ブロッコリー",
+    "description": "クラウド上で動作するワンショット型コーディングエージェント。単一のプロンプトから完全なアプリケーションやプロジェクトを自動生成し、デプロイまで一括で処理する。従来のコード生成ツールとは異なり、要件定義からテスト、デプロイメントまでの全工程を自動化。GitHub統合により、生成されたコードは即座にリポジトリに反映され、継続的な開発にも対応。ノーコード/ローコード開発の新しい形として注目されている。",
+    "shortDescription": "ワンショットでアプリを完全生成するクラウドエージェント",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "無料",
+          "features": [
+            "月5プロジェクト",
+            "基本的なアプリ生成"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額$29（約4,350円）",
+          "features": [
+            "無制限プロジェクト",
+            "高度なカスタマイズ",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ワンショット開発",
+      "自動デプロイメント",
+      "GitHub統合",
+      "フルスタック対応",
+      "クラウドベース実行"
+    ],
+    "pros": [
+      "極めて高速な開発",
+      "完全自動化",
+      "学習コストが低い",
+      "即座のデプロイ"
+    ],
+    "cons": [
+      "カスタマイズの限界",
+      "複雑な要件には不向き",
+      "オープンソースだが商用は有料"
+    ],
+    "officialUrl": "https://github.com/besimple-oss/broccoli",
+    "logoPath": "/logos/broccoli.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "プロトタイプ開発者",
+      "スタートアップ",
+      "非エンジニアの起業家"
+    ],
+    "releaseYear": 2026,
+    "developer": "BeSimple",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "openai-privacy-filter",
+    "name": "OpenAI Privacy Filter",
+    "nameJa": "OpenAI プライバシーフィルター",
+    "description": "OpenAIが開発したテキストから個人識別情報（PII）を自動検出・マスキングする専用AIモデル。企業が機密データを含むテキストを安全に処理するために設計され、名前、住所、電話番号、メールアドレス、クレジットカード情報などの個人情報を高精度で識別・除去する。GDPR、CCPA等のプライバシー規制への対応を支援し、AIシステムでの安全なデータ活用を可能にする企業向けセキュリティツール。",
+    "shortDescription": "個人情報を自動検出・マスキングするAIモデル",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Enterprise",
+          "price": "使用量に応じた従量課金",
+          "features": [
+            "高精度PII検出",
+            "カスタムルール設定",
+            "API統合"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動PII検出",
+      "リアルタイムマスキング",
+      "カスタムルール",
+      "API統合",
+      "規制準拠支援"
+    ],
+    "pros": [
+      "高精度な個人情報検出",
+      "法規制への対応",
+      "API統合が容易",
+      "企業レベルのセキュリティ"
+    ],
+    "cons": [
+      "企業向けのみ",
+      "従量課金で高コスト",
+      "完璧ではない可能性"
+    ],
+    "officialUrl": "https://openai.com/privacy-filter",
+    "logoPath": "/logos/openai-privacy-filter.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "企業のコンプライアンス担当",
+      "データサイエンティスト",
+      "プライバシー担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "trainly",
+    "name": "Trainly",
+    "nameJa": "トレインリー",
+    "description": "本格運用中のAIエージェントの動作ログを72時間無料で詳細分析するサービス。AIエージェントのパフォーマンス、エラー率、応答時間、ユーザー満足度などを包括的に監査し、改善点を特定する。機械学習による異常検知機能で潜在的な問題を早期発見し、AIシステムの信頼性向上を支援。企業がAIエージェントを安全かつ効果的に運用するためのモニタリングプラットフォームとして開発された。",
+    "shortDescription": "AIエージェントの運用ログを無料で72時間分析",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "Free Audit",
+          "price": "無料",
+          "features": [
+            "72時間分析",
+            "基本レポート"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": "月額$99（約14,850円）",
+          "features": [
+            "継続監視",
+            "詳細分析",
+            "アラート機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "72時間無料監査",
+      "パフォーマンス分析",
+      "異常検知",
+      "詳細レポート",
+      "改善提案"
+    ],
+    "pros": [
+      "完全無料の初回監査",
+      "包括的な分析機能",
+      "実用的な改善提案",
+      "企業向け設計"
+    ],
+    "cons": [
+      "無料版は期間限定",
+      "新しいサービスで実績が少ない",
+      "英語インターフェース"
+    ],
+    "officialUrl": "https://www.trainlyai.com/audit",
+    "logoPath": "/logos/trainly.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AIエージェント運用企業",
+      "システム管理者",
+      "品質保証担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Trainly AI",
+    "lastUpdated": "2026-04-23"
   }
 ]

@@ -1,5 +1,71 @@
 [
   {
+    "id": "new-google-tpu-v8-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "google-tpu-v8",
+    "title": "Google TPU v8 が新しく追加されました",
+    "summary": "エージェント時代に特化した第8世代TPU",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-openai-workspace-agents-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "openai-workspace-agents",
+    "title": "OpenAI Workspace Agents が新しく追加されました",
+    "summary": "ビジネス向けワークスペース統合AIエージェント",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-zed-parallel-agents-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "zed-parallel-agents",
+    "title": "Zed Parallel Agents が新しく追加されました",
+    "summary": "複数AIエージェントが並行動作するコードエディタ",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-broccoli-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "broccoli",
+    "title": "Broccoli が新しく追加されました",
+    "summary": "ワンショットでアプリを完全生成するクラウドエージェント",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-openai-privacy-filter-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "openai-privacy-filter",
+    "title": "OpenAI Privacy Filter が新しく追加されました",
+    "summary": "個人情報を自動検出・マスキングするAIモデル",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-trainly-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "trainly",
+    "title": "Trainly が新しく追加されました",
+    "summary": "AIエージェントの運用ログを無料で72時間分析",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "trending-chatgpt-2026-04-23",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Workspace Agents in ChatGPT",
+    "date": "2026-04-23",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-04-23",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 7.3）",
+    "summary": "hackernewsで注目: Our eighth generation TPUs: two chips for the agentic era",
+    "date": "2026-04-23",
+    "source": "hackernews"
+  },
+  {
     "id": "new-chatgpt-images-2-0-2026-04-22",
     "type": "new-tool",
     "toolSlug": "chatgpt-images-2-0",
