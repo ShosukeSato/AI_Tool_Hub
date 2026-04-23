@@ -66,6 +66,46 @@
     "source": "hackernews"
   },
   {
+    "id": "new-hisorty-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "hisorty",
+    "title": "Hisorty が新しく追加されました",
+    "summary": "歴史的出来事を時系列順に並べるデイリーゲーム",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-fastmail-mcp-server-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "fastmail-mcp-server",
+    "title": "Fastmail MCP Server が新しく追加されました",
+    "summary": "AIがメール操作を代行するMCPサーバー",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-microsoft-teams-agent-sdk-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "microsoft-teams-agent-sdk",
+    "title": "Microsoft Teams Agent SDK が新しく追加されました",
+    "summary": "Teams用カスタムAIエージェント開発キット",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-async-agents-framework-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "async-agents-framework",
+    "title": "Async Agents Framework が新しく追加されました",
+    "summary": "非同期処理対応AIエージェント開発フレームワーク",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "new-cp-sat-constraint-programming-2026-04-23",
+    "type": "new-tool",
+    "toolSlug": "cp-sat-constraint-programming",
+    "title": "CP-SAT Constraint Programming が新しく追加されました",
+    "summary": "Google製制約プログラミング最適化ツール",
+    "date": "2026-04-23"
+  },
+  {
     "id": "new-chatgpt-images-2-0-2026-04-22",
     "type": "new-tool",
     "toolSlug": "chatgpt-images-2-0",

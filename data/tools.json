@@ -17518,5 +17518,263 @@
     "releaseYear": 2026,
     "developer": "Trainly AI",
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "hisorty",
+    "name": "Hisorty",
+    "nameJa": "ヒソルティ",
+    "description": "歴史上の出来事を年代順に並べるデイリーゲーム。毎日新しい歴史的イベントが出題され、正しい時系列順に並び替えることで歴史知識を楽しく学習できる。教育とエンターテインメントを組み合わせた革新的なアプローチで、世界史から文化史まで幅広いジャンルの歴史的出来事を扱う。ゲーム感覚で歴史を学べるため、学生から大人まで幅広い層に人気を集めている。",
+    "shortDescription": "歴史的出来事を時系列順に並べるデイリーゲーム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "デイリーゲーム",
+            "歴史的出来事データベース",
+            "学習進捗追跡"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "毎日更新される歴史クイズ",
+      "時系列並び替えゲーム",
+      "学習進捗の可視化",
+      "幅広い歴史ジャンル対応",
+      "教育的エンターテインメント"
+    ],
+    "pros": [
+      "ゲーム感覚で歴史学習が可能",
+      "毎日新しいコンテンツが追加",
+      "無料で利用できる",
+      "直感的なインターフェース"
+    ],
+    "cons": [
+      "英語コンテンツが中心",
+      "日本史の内容が限定的",
+      "オフライン利用不可"
+    ],
+    "officialUrl": "https://hisorty.app/",
+    "logoPath": "/logos/hisorty.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "歴史に興味がある学生",
+      "教育関係者",
+      "知識ゲーム好きの人"
+    ],
+    "releaseYear": 2026,
+    "developer": "Hisorty Team",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "fastmail-mcp-server",
+    "name": "Fastmail MCP Server",
+    "nameJa": "ファストメール MCP サーバー",
+    "description": "Fastmailが開発したModel Context Protocol（MCP）サーバーで、AIアシスタントがメールサービスと直接連携できる機能を提供。メール検索、送信、フォルダ管理などの操作をAIエージェントが代行できる。Claude MCPプロトコルに対応し、メール管理の自動化を実現。プライバシーを重視した設計で、個人データの保護も徹底されている。",
+    "shortDescription": "AIがメール操作を代行するMCPサーバー",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本的なメール操作",
+            "MCP連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "MCP プロトコル対応",
+      "AIメール操作自動化",
+      "プライバシー保護設計",
+      "Fastmail完全連携",
+      "Claude統合サポート"
+    ],
+    "pros": [
+      "メール管理の完全自動化",
+      "プライバシー重視の設計",
+      "オープンソース",
+      "簡単なセットアップ"
+    ],
+    "cons": [
+      "Fastmailユーザー限定",
+      "技術的知識が必要",
+      "日本語サポートが限定的"
+    ],
+    "officialUrl": "https://www.fastmail.com/blog/an-mcp-server-for-fastmail/",
+    "logoPath": "/logos/fastmail-mcp-server.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "Fastmailユーザー",
+      "メール管理を自動化したい人",
+      "MCP開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Fastmail",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "microsoft-teams-agent-sdk",
+    "name": "Microsoft Teams Agent SDK",
+    "nameJa": "マイクロソフト チームズ エージェント SDK",
+    "description": "Microsoft Teamsプラットフォーム上でAIエージェントを構築・統合するための開発キット。企業の業務フローに特化したカスタムエージェントを作成し、Teams内で直接利用できる。会議スケジューリング、ドキュメント管理、タスク自動化など、チームワークを支援する様々な機能を提供。Office 365との深い連携により、既存のワークフローを大幅に改善できる。",
+    "shortDescription": "Teams用カスタムAIエージェント開発キット",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "カスタムエージェント開発",
+            "Teams統合",
+            "Office 365連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Teams完全統合",
+      "カスタムエージェント開発",
+      "Office 365連携",
+      "企業ワークフロー最適化",
+      "セキュリティ準拠"
+    ],
+    "pros": [
+      "既存Teams環境に統合可能",
+      "Microsoft エコシステムとの親和性",
+      "企業レベルのセキュリティ",
+      "豊富な開発リソース"
+    ],
+    "cons": [
+      "Microsoftエコシステム依存",
+      "エンタープライズ向け価格",
+      "個人利用には不向き"
+    ],
+    "officialUrl": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+    "logoPath": "/logos/microsoft-teams-agent-sdk.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "企業の開発チーム",
+      "Teams管理者",
+      "業務自動化担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Microsoft",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "async-agents-framework",
+    "name": "Async Agents Framework",
+    "nameJa": "非同期エージェント フレームワーク",
+    "description": "非同期処理に特化したAIエージェント開発フレームワーク。複数のエージェントが並行して動作し、リアルタイムでタスクを処理できる。従来の同期的なAIエージェントの限界を突破し、大規模な業務処理や複雑なワークフローの自動化を実現。イベント駆動型アーキテクチャにより、高いスケーラビリティとパフォーマンスを提供する。現代のエージェント開発における新しいパラダイムを提示している。",
+    "shortDescription": "非同期処理対応AIエージェント開発フレームワーク",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "基本的なフレームワーク",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "非同期並行処理",
+      "イベント駆動アーキテクチャ",
+      "高スケーラビリティ",
+      "複数エージェント協調",
+      "リアルタイム処理"
+    ],
+    "pros": [
+      "高いパフォーマンス",
+      "並行処理による効率化",
+      "スケーラブルな設計",
+      "オープンソース"
+    ],
+    "cons": [
+      "学習コストが高い",
+      "非同期処理の複雑さ",
+      "デバッグが困難"
+    ],
+    "officialUrl": "https://zknill.io/posts/all-your-agents-are-going-async/",
+    "logoPath": "/logos/async-agents-framework.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "エージェント開発者",
+      "大規模システム構築者",
+      "パフォーマンス重視の企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "Open Source Community",
+    "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "cp-sat-constraint-programming",
+    "name": "CP-SAT Constraint Programming",
+    "nameJa": "CP-SAT 制約プログラミング",
+    "description": "Googleが開発したCP-SATソルバーを使用した制約プログラミングツール。複雑な最適化問題をPythonで直感的に記述し、効率的に解決できる。スケジューリング、リソース配分、ルート最適化など、ビジネスの様々な問題に適用可能。AIエージェントとの組み合わせにより、より高度な問題解決能力を実現。実践的なチュートリアルとドキュメントも充実している。",
+    "shortDescription": "Google製制約プログラミング最適化ツール",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "CP-SATソルバー",
+            "Python統合",
+            "最適化アルゴリズム"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "制約プログラミング",
+      "最適化問題解決",
+      "Python統合",
+      "スケジューリング機能",
+      "リソース配分最適化"
+    ],
+    "pros": [
+      "無料で高性能",
+      "Google製の信頼性",
+      "豊富なドキュメント",
+      "実用的な問題解決"
+    ],
+    "cons": [
+      "学習曲線が急",
+      "制約プログラミングの知識が必要",
+      "GUIがない"
+    ],
+    "officialUrl": "https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat",
+    "logoPath": "/logos/cp-sat-constraint-programming.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "データサイエンティスト",
+      "オペレーションズリサーチャー",
+      "最適化問題を扱う開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google",
+    "lastUpdated": "2026-04-23"
   }
 ]

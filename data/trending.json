@@ -8,20 +8,14 @@
         "source": "hackernews",
         "title": "Workspace Agents in ChatGPT",
         "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-        "score": 105,
+        "score": 145,
         "date": "2026-04-23"
       },
       {
         "source": "hackernews",
         "title": "ChatGPT Images 2.0",
         "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-        "score": 1004,
-        "date": "2026-04-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "ChatGPT Images 2.0登場：テキスト精度99%・推論機能搭載の画像生成モデル - tech-noisy.com",
-        "score": 1,
+        "score": 1016,
         "date": "2026-04-23"
       }
     ],
@@ -31,55 +25,41 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 7.3,
+    "buzzScore": 7.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Our eighth generation TPUs: two chips for the agentic era",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-        "score": 404,
+        "title": "Bring Your Agent to Teams",
+        "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+        "score": 69,
         "date": "2026-04-23"
       },
       {
         "source": "hackernews",
-        "title": "Bring your own Agent to MS Teams",
-        "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
-        "score": 19,
+        "title": "Our eighth generation TPUs: two chips for the agentic era",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+        "score": 436,
         "date": "2026-04-23"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Broccoli, one shot coding agent on the cloud",
         "url": "https://github.com/besimple-oss/broccoli",
-        "score": 51,
+        "score": 67,
         "date": "2026-04-23"
       },
       {
         "source": "hackernews",
         "title": "All your agents are going async",
         "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
-        "score": 121,
-        "date": "2026-04-23"
-      },
-      {
-        "source": "hackernews",
-        "title": "OpenAI: Workspace Agents for Business",
-        "url": "https://openai.com/business/workspace-agents/",
-        "score": 46,
+        "score": 130,
         "date": "2026-04-23"
       },
       {
         "source": "hackernews",
         "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
         "url": "https://www.brex.com/crabtrap",
-        "score": 126,
-        "date": "2026-04-23"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Trainly – Free 72-hour audit of your AI agent's production traces",
-        "url": "https://www.trainlyai.com/audit",
-        "score": 5,
+        "score": 128,
         "date": "2026-04-23"
       },
       {
@@ -90,13 +70,13 @@
       },
       {
         "source": "googlenews",
-        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
         "score": 1,
         "date": "2026-04-23"
       },
       {
         "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
         "score": 1,
         "date": "2026-04-23"
       },
@@ -105,61 +85,53 @@
         "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
         "score": 1,
         "date": "2026-04-23"
-      },
-      {
-        "source": "techcrunch",
-        "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-        "score": 1,
-        "date": "2026-04-23"
       }
     ],
     "firstSeen": "2026-04-16",
     "lastSeen": "2026-04-23"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 6.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude Code to be removed from Anthropic's Pro plan?",
-        "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-        "score": 664,
-        "date": "2026-04-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
-        "score": 1,
-        "date": "2026-04-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
-        "score": 1,
-        "date": "2026-04-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-23"
-  },
-  {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 5.2,
+    "buzzScore": 5.1,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Changes to GitHub Copilot individual plans",
         "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-        "score": 522,
+        "score": 524,
+        "date": "2026-04-23"
+      }
+    ],
+    "firstSeen": "2026-04-22",
+    "lastSeen": "2026-04-23"
+  },
+  {
+    "toolSlug": "zed",
+    "toolName": "Zed",
+    "buzzScore": 2.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Parallel agents in Zed",
+        "url": "https://zed.dev/blog/parallel-agents",
+        "score": 246,
+        "date": "2026-04-23"
+      }
+    ],
+    "firstSeen": "2026-04-23",
+    "lastSeen": "2026-04-23"
+  },
+  {
+    "toolSlug": "gomodel",
+    "toolName": "GoModel",
+    "buzzScore": 2.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: GoModel – an open-source AI gateway in Go",
+        "url": "https://github.com/ENTERPILOT/GOModel/",
+        "score": 202,
         "date": "2026-04-23"
       }
     ],
@@ -169,7 +141,7 @@
   {
     "toolSlug": "ternary-bonsai",
     "toolName": "Ternary Bonsai",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -183,41 +155,9 @@
     "lastSeen": "2026-04-21"
   },
   {
-    "toolSlug": "gomodel",
-    "toolName": "GoModel",
-    "buzzScore": 2.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: GoModel – an open-source AI gateway in Go",
-        "url": "https://github.com/ENTERPILOT/GOModel/",
-        "score": 195,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-22",
-    "lastSeen": "2026-04-23"
-  },
-  {
-    "toolSlug": "zed",
-    "toolName": "Zed",
-    "buzzScore": 2.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Parallel agents in Zed",
-        "url": "https://zed.dev/blog/parallel-agents",
-        "score": 169,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-23",
-    "lastSeen": "2026-04-23"
-  },
-  {
     "toolSlug": "mediator-ai",
     "toolName": "Mediator.ai",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -233,7 +173,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -249,7 +189,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -265,7 +205,7 @@
   {
     "toolSlug": "swiss-ai-initiative",
     "toolName": "Swiss AI Initiative",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -281,7 +221,7 @@
   {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -295,9 +235,31 @@
     "lastSeen": "2026-04-13"
   },
   {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Built a daily game where you sort historical events chronologically",
+        "url": "https://hisorty.app/",
+        "score": 19,
+        "date": "2026-04-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Tesla just increased its spending plan to $25B — here&#8217;s where the money is going",
+        "score": 1,
+        "date": "2026-04-23"
+      }
+    ],
+    "firstSeen": "2026-04-17",
+    "lastSeen": "2026-04-23"
+  },
+  {
     "toolSlug": "servo",
     "toolName": "Servo",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -309,38 +271,6 @@
     ],
     "firstSeen": "2026-04-14",
     "lastSeen": "2026-04-15"
-  },
-  {
-    "toolSlug": "gas-town",
-    "toolName": "Gas Town",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-        "url": "https://github.com/gastownhall/gastown/issues/3649",
-        "score": 242,
-        "date": "2026-04-16"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-16"
-  },
-  {
-    "toolSlug": "trellis-ai",
-    "toolName": "Trellis AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Trellis AI",
-        "url": "YC W24) Is hiring engineers to build self-improving agents (https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
-        "score": 1,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-22",
-    "lastSeen": "2026-04-23"
   },
   {
     "toolSlug": "mythos",
@@ -361,6 +291,33 @@
       }
     ],
     "firstSeen": "2026-04-20",
+    "lastSeen": "2026-04-23"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
+        "score": 1,
+        "date": "2026-04-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
+        "score": 1,
+        "date": "2026-04-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "開発組織のAI投資を「見える化」から「自動改善」へ。Claude CodeやGitHub Copilotなど7つのAIツールの横断分析を実現する「Findy AI+」β版提供開始！ | ファインディ株式会社のプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-04-23"
+      }
+    ],
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-04-23"
   },
   {
@@ -409,36 +366,6 @@
     "lastSeen": "2026-04-23"
   },
   {
-    "toolSlug": "admina-ai",
-    "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-18",
-    "lastSeen": "2026-04-23"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Tesla just increased its spending plan to $25B — here&#8217;s where the money is going",
-        "score": 1,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-23"
-  },
-  {
     "toolSlug": "cursor",
     "toolName": "Cursor",
     "buzzScore": 1,
@@ -454,9 +381,56 @@
     "lastSeen": "2026-04-23"
   },
   {
+    "toolSlug": "gas-town",
+    "toolName": "Gas Town",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+        "url": "https://github.com/gastownhall/gastown/issues/3649",
+        "score": 242,
+        "date": "2026-04-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-16"
+  },
+  {
+    "toolSlug": "trellis-ai",
+    "toolName": "Trellis AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Trellis AI",
+        "url": "YC W24) Is hiring engineers to build self-improving agents (https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+        "score": 1,
+        "date": "2026-04-23"
+      }
+    ],
+    "firstSeen": "2026-04-22",
+    "lastSeen": "2026-04-23"
+  },
+  {
+    "toolSlug": "admina-ai",
+    "toolName": "Admina AIヘルプデスク",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-23"
+      }
+    ],
+    "firstSeen": "2026-04-18",
+    "lastSeen": "2026-04-23"
+  },
+  {
     "toolSlug": "instant-1-0",
     "toolName": "Instant 1.0",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -472,7 +446,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -487,7 +461,7 @@
   {
     "toolSlug": "pholly",
     "toolName": "Pholly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -502,7 +476,7 @@
   {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -517,7 +491,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -532,7 +506,7 @@
   {
     "toolSlug": "grai",
     "toolName": "GRAI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -547,7 +521,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -562,7 +536,7 @@
   {
     "toolSlug": "cloudflare-email-service",
     "toolName": "Cloudflare Email Service",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -578,7 +552,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -594,7 +568,7 @@
   {
     "toolSlug": "pretty-fish",
     "toolName": "Pretty Fish",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -610,7 +584,7 @@
   {
     "toolSlug": "introspective-diffusion",
     "toolName": "Introspective Diffusion",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -626,7 +600,7 @@
   {
     "toolSlug": "project-glasswing",
     "toolName": "Project Glasswing",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -642,7 +616,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -657,7 +631,7 @@
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -672,7 +646,7 @@
   {
     "toolSlug": "findy-architecture-ai",
     "toolName": "Findy Architecture AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -683,37 +657,5 @@
     ],
     "firstSeen": "2026-04-21",
     "lastSeen": "2026-04-21"
-  },
-  {
-    "toolSlug": "libretto",
-    "toolName": "Libretto",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Libretto – Making AI browser automations deterministic",
-        "url": "https://github.com/saffron-health/libretto",
-        "score": 112,
-        "date": "2026-04-16"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-16"
-  },
-  {
-    "toolSlug": "marimo-pair",
-    "toolName": "Marimo Pair",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
-        "url": "https://github.com/marimo-team/marimo-pair",
-        "score": 131,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-11",
-    "lastSeen": "2026-04-11"
   }
 ]
