@@ -17776,5 +17776,334 @@
     "releaseYear": 2026,
     "developer": "Google",
     "lastUpdated": "2026-04-23"
+  },
+  {
+    "slug": "gpt-5-5",
+    "name": "GPT-5.5",
+    "nameJa": "ジーピーティー5.5",
+    "description": "OpenAIが2026年4月にリリースした最新の大規模言語モデル。GPT-4を大幅に上回る推論能力と創造性を備え、より長い文脈の理解や複雑なタスクの処理が可能。ChatGPTを「AIスーパーアプリ」に進化させる重要なステップとして位置づけられており、コーディング、文章作成、データ分析など幅広い用途で高精度な結果を提供する。",
+    "shortDescription": "OpenAIの最新大規模言語モデル",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "ChatGPT Plus",
+          "price": "月額2,400円",
+          "features": [
+            "GPT-5.5へのアクセス",
+            "高速応答",
+            "優先利用権"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "大幅に向上した推論能力",
+      "長文脈の理解",
+      "高精度なコード生成",
+      "創造的文章作成",
+      "複雑なタスク処理"
+    ],
+    "pros": [
+      "GPT-4を大幅に上回る性能",
+      "より自然な対話",
+      "複雑な問題解決能力",
+      "幅広い専門知識"
+    ],
+    "cons": [
+      "有料プランが必要",
+      "計算コストが高い",
+      "まだ限定的なアクセス"
+    ],
+    "officialUrl": "https://openai.com/index/introducing-gpt-5-5/",
+    "logoPath": "/logos/gpt-5-5.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "高度なAI機能を求める研究者",
+      "複雑なタスクを扱う開発者",
+      "創造的作業をする専門家"
+    ],
+    "releaseYear": 2026,
+    "developer": "OpenAI",
+    "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "agent-vault",
+    "name": "Agent Vault",
+    "nameJa": "エージェントボルト",
+    "description": "Infisicalが開発したオープンソースのAIエージェント専用認証情報管理システム。AIエージェントが外部APIやサービスにアクセスする際の認証情報を安全に管理し、プロキシ機能を通じてセキュアな接続を提供。企業がAIエージェントを本格導入する際のセキュリティ課題を解決するソリューションとして注目されている。",
+    "shortDescription": "AIエージェント専用の認証情報管理システム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "認証情報管理",
+            "プロキシ機能",
+            "セルフホスト可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェント認証情報管理",
+      "セキュアプロキシ機能",
+      "オープンソース",
+      "セルフホスト対応",
+      "API統合"
+    ],
+    "pros": [
+      "完全無料のオープンソース",
+      "企業レベルのセキュリティ",
+      "カスタマイズ可能",
+      "透明性の高い開発"
+    ],
+    "cons": [
+      "技術的な知識が必要",
+      "サポートが限定的",
+      "導入に時間がかかる場合がある"
+    ],
+    "officialUrl": "https://github.com/Infisical/agent-vault",
+    "logoPath": "/logos/agent-vault.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AIエージェントを導入する企業",
+      "セキュリティを重視する開発者",
+      "オープンソース愛好者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Infisical",
+    "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "localllm",
+    "name": "LocalLLM",
+    "nameJa": "ローカルエルエルエム",
+    "description": "ローカル環境で大規模言語モデルを実行するためのレシピ集とツールキット。プライバシーを重視するユーザーや企業向けに、クラウドに依存せずに高性能なLLMを活用できる環境を提供。様々なモデルの最適化された実行方法や設定ガイドを提供し、現在コントリビューター募集中のオープンソースプロジェクト。",
+    "shortDescription": "ローカル環境でLLMを実行するツールキット",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "ローカル実行レシピ",
+            "最適化ガイド",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ローカルLLM実行",
+      "最適化レシピ集",
+      "プライバシー保護",
+      "オープンソース",
+      "コミュニティ主導"
+    ],
+    "pros": [
+      "完全なプライバシー保護",
+      "クラウド依存なし",
+      "カスタマイズ自由",
+      "コミュニティサポート"
+    ],
+    "cons": [
+      "高性能なハードウェアが必要",
+      "技術的知識が必要",
+      "セットアップが複雑"
+    ],
+    "officialUrl": "https://locallllm.fly.dev",
+    "logoPath": "/logos/localllm.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "プライバシー重視のユーザー",
+      "技術に詳しい開発者",
+      "企業の機密データ処理担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "オープンソースコミュニティ",
+    "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "noscroll",
+    "name": "Noscroll",
+    "nameJa": "ノスクロール",
+    "description": "ユーザーの代わりにソーシャルメディアをスクロールして情報収集を行うAIボット。TwitterやRedditなどの「ドゥームスクローリング」（無意識の無限スクロール）を代行し、重要な情報だけを要約して提供。SNS中毒や情報過多に悩むユーザーの時間管理と精神的負担を軽減する革新的なアプローチとして注目されている。",
+    "shortDescription": "SNSのドゥームスクローリングを代行するAI",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "ベーシック",
+          "price": "無料",
+          "features": [
+            "基本的な情報収集",
+            "日次サマリー"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "月額1,200円",
+          "features": [
+            "高度なフィルタリング",
+            "リアルタイム通知",
+            "カスタム設定"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "自動スクロール代行",
+      "情報要約機能",
+      "重要度フィルタリング",
+      "時間節約",
+      "複数SNS対応"
+    ],
+    "pros": [
+      "SNS中毒の改善",
+      "時間の効率化",
+      "精神的負担軽減",
+      "重要情報の見逃し防止"
+    ],
+    "cons": [
+      "完全自動化による情報の偏り",
+      "セレンディピティの欠如",
+      "プライバシーの懸念"
+    ],
+    "officialUrl": "https://noscroll.ai",
+    "logoPath": "/logos/noscroll.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "SNS中毒に悩むビジネスパーソン",
+      "情報収集効率化を求める人",
+      "デジタルデトックスを目指す人"
+    ],
+    "releaseYear": 2026,
+    "developer": "Noscroll Inc.",
+    "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "era",
+    "name": "Era",
+    "nameJa": "エラ",
+    "description": "AIガジェット向けソフトウェアプラットフォームを開発するスタートアップが1100万ドルの資金調達を完了。スマートスピーカー、ロボット、IoTデバイスなどのAIハードウェアに統合可能な包括的なソフトウェアソリューションを提供。音声認識、自然言語処理、デバイス制御機能を統合し、次世代AIガジェットの開発を加速するプラットフォーム。",
+    "shortDescription": "AIガジェット向けソフトウェアプラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "Developer",
+          "price": "要問い合わせ",
+          "features": [
+            "SDK提供",
+            "基本サポート"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "要問い合わせ",
+          "features": [
+            "フルスタック統合",
+            "24/7サポート",
+            "カスタム開発"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIガジェット統合",
+      "音声認識機能",
+      "自然言語処理",
+      "デバイス制御",
+      "SDK提供"
+    ],
+    "pros": [
+      "包括的なソリューション",
+      "大規模資金調達による安定性",
+      "次世代技術への対応",
+      "開発効率化"
+    ],
+    "cons": [
+      "企業向けのため個人利用困難",
+      "価格が非公開",
+      "まだ新しいプラットフォーム"
+    ],
+    "officialUrl": "https://era.ai",
+    "logoPath": "/logos/era.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AIガジェット開発者",
+      "IoT企業",
+      "ハードウェアスタートアップ"
+    ],
+    "releaseYear": 2026,
+    "developer": "Era AI",
+    "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "rakuten-ai",
+    "name": "Rakuten AI（楽天市場アプリ版）",
+    "nameJa": "ラクテンエーアイ",
+    "description": "楽天が楽天市場のスマートフォンアプリに搭載したエージェント型AIツール。AIコンシェルジュとしてユーザーの購買行動をサポートし、個人の好みや購入履歴を分析して最適な商品を提案。自然言語での商品検索、価格比較、レビュー要約などの機能を提供し、日本最大級のECプラットフォームでのショッピング体験を革新する。",
+    "shortDescription": "楽天市場アプリ内のAIコンシェルジュ",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "楽天市場アプリ",
+          "price": "無料",
+          "features": [
+            "AI商品提案",
+            "自然言語検索",
+            "レビュー要約",
+            "価格比較"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI商品提案",
+      "自然言語検索",
+      "レビュー要約",
+      "価格比較",
+      "購入履歴分析"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "日本語に完全対応",
+      "楽天エコシステムとの統合",
+      "豊富な商品データベース"
+    ],
+    "cons": [
+      "楽天市場の商品に限定",
+      "アプリ内でのみ利用可能",
+      "プライバシーの懸念"
+    ],
+    "officialUrl": "https://www.rakuten.co.jp/",
+    "logoPath": "/logos/rakuten-ai.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "楽天市場ユーザー",
+      "効率的な商品選択を求める人",
+      "AIアシスタント体験を求める人"
+    ],
+    "releaseYear": 2026,
+    "developer": "楽天グループ",
+    "lastUpdated": "2026-04-24"
   }
 ]

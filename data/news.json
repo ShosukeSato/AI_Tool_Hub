@@ -1,5 +1,80 @@
 [
   {
+    "id": "new-gpt-5-5-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "gpt-5-5",
+    "title": "GPT-5.5 が新しく追加されました",
+    "summary": "OpenAIの最新大規模言語モデル",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "new-agent-vault-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "agent-vault",
+    "title": "Agent Vault が新しく追加されました",
+    "summary": "AIエージェント専用の認証情報管理システム",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "new-localllm-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "localllm",
+    "title": "LocalLLM が新しく追加されました",
+    "summary": "ローカル環境でLLMを実行するツールキット",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "new-noscroll-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "noscroll",
+    "title": "Noscroll が新しく追加されました",
+    "summary": "SNSのドゥームスクローリングを代行するAI",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "new-era-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "era",
+    "title": "Era が新しく追加されました",
+    "summary": "AIガジェット向けソフトウェアプラットフォーム",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "new-rakuten-ai-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "rakuten-ai",
+    "title": "Rakuten AI（楽天市場アプリ版） が新しく追加されました",
+    "summary": "楽天市場アプリ内のAIコンシェルジュ",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "trending-chatgpt-2026-04-24",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Workspace Agents in ChatGPT",
+    "date": "2026-04-24",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-gpt-5-5-2026-04-24",
+    "type": "trending",
+    "toolSlug": "gpt-5-5",
+    "title": "GPT-5.5 が話題沸騰中（バズスコア: 8.8）",
+    "summary": "hackernewsで注目: GPT-5.5",
+    "date": "2026-04-24",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-04-24",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 7.3）",
+    "summary": "hackernewsで注目: Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+    "date": "2026-04-24",
+    "source": "hackernews"
+  },
+  {
     "id": "new-google-tpu-v8-2026-04-23",
     "type": "new-tool",
     "toolSlug": "google-tpu-v8",
