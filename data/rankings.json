@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 7.6,
+    "overall": 7.9,
     "performance": 9,
-    "buzz": 5.6,
+    "buzz": 7.2,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-04-24"
@@ -21,7 +21,7 @@
     "toolSlug": "gemini",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-04-24"
@@ -66,7 +66,7 @@
     "toolSlug": "llama",
     "overall": 6.8,
     "performance": 8,
-    "buzz": 1.6,
+    "buzz": 1.4,
     "easeOfUse": 6,
     "costPerformance": 9,
     "lastCalculated": "2026-04-24"
@@ -102,7 +102,7 @@
     "toolSlug": "gemma-4",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 9,
     "lastCalculated": "2026-04-24"
@@ -174,7 +174,7 @@
     "toolSlug": "cursor",
     "overall": 6.9,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-04-24"
@@ -192,7 +192,7 @@
     "toolSlug": "github-copilot",
     "overall": 7.4,
     "performance": 8,
-    "buzz": 4.6,
+    "buzz": 4.1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-04-24"
@@ -334,9 +334,9 @@
   },
   {
     "toolSlug": "zed",
-    "overall": 7.9,
+    "overall": 7.8,
     "performance": 8,
-    "buzz": 3.1,
+    "buzz": 2.8,
     "easeOfUse": 8,
     "costPerformance": 10,
     "lastCalculated": "2026-04-24"
@@ -372,7 +372,7 @@
     "toolSlug": "cirrus-labs",
     "overall": 6.1,
     "performance": 9,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 7,
     "costPerformance": 5,
     "lastCalculated": "2026-04-24"
@@ -442,9 +442,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 7.3,
+    "overall": 7.2,
     "performance": 6,
-    "buzz": 7.3,
+    "buzz": 6.4,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-04-24"
@@ -537,6 +537,15 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
+    "lastCalculated": "2026-04-24"
+  },
+  {
+    "toolSlug": "endless-toil",
+    "overall": 7,
+    "performance": 6,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 9,
     "lastCalculated": "2026-04-24"
   },
   {
@@ -813,7 +822,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-04-24"
@@ -912,7 +921,7 @@
     "toolSlug": "admina-ai",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-04-24"
@@ -1155,7 +1164,7 @@
     "toolSlug": "mediator-ai",
     "overall": 6.2,
     "performance": 7,
-    "buzz": 1.6,
+    "buzz": 1.4,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-04-24"
@@ -1191,7 +1200,7 @@
     "toolSlug": "trellis-ai",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-04-24"
@@ -1221,6 +1230,15 @@
     "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
+    "lastCalculated": "2026-04-24"
+  },
+  {
+    "toolSlug": "fragment",
+    "overall": 5.3,
+    "performance": 8,
+    "buzz": 1,
+    "easeOfUse": 6,
+    "costPerformance": 4,
     "lastCalculated": "2026-04-24"
   },
   {
@@ -1263,7 +1281,7 @@
     "toolSlug": "grai",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-04-24"
@@ -1441,9 +1459,9 @@
   },
   {
     "toolSlug": "davinci-resolve-21",
-    "overall": 7.6,
+    "overall": 7.7,
     "performance": 10,
-    "buzz": 0.9,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 10,
     "lastCalculated": "2026-04-24"
@@ -1567,10 +1585,10 @@
   },
   {
     "toolSlug": "napkin-ai",
-    "overall": 6.4,
+    "overall": 6.1,
     "performance": 6,
     "buzz": 3,
-    "easeOfUse": 8,
+    "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-04-24"
   },
@@ -1594,10 +1612,10 @@
   },
   {
     "toolSlug": "bunken",
-    "overall": 6.4,
+    "overall": 6.7,
     "performance": 8,
     "buzz": 3,
-    "easeOfUse": 7,
+    "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-04-24"
   },
@@ -1713,9 +1731,18 @@
     "toolSlug": "voyage",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
+    "lastCalculated": "2026-04-24"
+  },
+  {
+    "toolSlug": "design-md",
+    "overall": 7.3,
+    "performance": 7,
+    "buzz": 3,
+    "easeOfUse": 8,
+    "costPerformance": 9,
     "lastCalculated": "2026-04-24"
   },
   {
@@ -2082,7 +2109,7 @@
     "toolSlug": "learno",
     "overall": 6.1,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-04-24"
@@ -2109,7 +2136,7 @@
     "toolSlug": "cloudflare-email-service",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-04-24"
@@ -2154,7 +2181,7 @@
     "toolSlug": "pholly",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-04-24"
@@ -2179,9 +2206,9 @@
   },
   {
     "toolSlug": "bond",
-    "overall": 6.1,
+    "overall": 6,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-04-24"
@@ -2433,7 +2460,7 @@
     "toolSlug": "instant-1-0",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-04-24"
@@ -2505,7 +2532,7 @@
     "toolSlug": "servo",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-04-24"
@@ -2523,7 +2550,7 @@
     "toolSlug": "plain",
     "overall": 7,
     "performance": 7,
-    "buzz": 1.4,
+    "buzz": 1.3,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-04-24"
@@ -2559,7 +2586,7 @@
     "toolSlug": "gas-town",
     "overall": 4.9,
     "performance": 5,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-04-24"
@@ -2638,9 +2665,9 @@
   },
   {
     "toolSlug": "mythos",
-    "overall": 6.1,
+    "overall": 6.2,
     "performance": 10,
-    "buzz": 1.3,
+    "buzz": 1.5,
     "easeOfUse": 7,
     "costPerformance": 4,
     "lastCalculated": "2026-04-24"
@@ -2658,7 +2685,7 @@
     "toolSlug": "swiss-ai-initiative",
     "overall": 5.8,
     "performance": 9,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 7,
     "costPerformance": 4,
     "lastCalculated": "2026-04-24"
@@ -2694,7 +2721,7 @@
     "toolSlug": "ternary-bonsai",
     "overall": 8,
     "performance": 8,
-    "buzz": 2.2,
+    "buzz": 2,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-04-24"
@@ -2739,7 +2766,7 @@
     "toolSlug": "gomodel",
     "overall": 8,
     "performance": 8,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-04-24"
@@ -2802,7 +2829,7 @@
     "toolSlug": "localllm",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-04-24"

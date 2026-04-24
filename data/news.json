@@ -75,6 +75,39 @@
     "source": "hackernews"
   },
   {
+    "id": "new-design-md-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "design-md",
+    "title": "Design.md が新しく追加されました",
+    "summary": "AIコーディングエージェント向けデザイン仕様記述フォーマット",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "new-endless-toil-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "endless-toil",
+    "title": "Endless Toil が新しく追加されました",
+    "summary": "コードの問題をAIエージェントが音声で苦痛表現するツール",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "new-fragment-2026-04-24",
+    "type": "new-tool",
+    "toolSlug": "fragment",
+    "title": "Fragment が新しく追加されました",
+    "summary": "Sierraに買収されたAI顧客サービス自動化スタートアップ",
+    "date": "2026-04-24"
+  },
+  {
+    "id": "trending-claude-2026-04-24",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.2）",
+    "summary": "hackernewsで注目: An update on recent Claude Code quality reports",
+    "date": "2026-04-24",
+    "source": "hackernews"
+  },
+  {
     "id": "new-google-tpu-v8-2026-04-23",
     "type": "new-tool",
     "toolSlug": "google-tpu-v8",

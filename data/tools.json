@@ -18105,5 +18105,161 @@
     "releaseYear": 2026,
     "developer": "楽天グループ",
     "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "design-md",
+    "name": "Design.md",
+    "nameJa": "デザインエムディー",
+    "description": "Googleが開発した、視覚的アイデンティティをコーディングエージェントに説明するための新しいフォーマット仕様です。デザインシステムやブランドガイドラインをマークダウン形式で記述することで、AI開発者ツールが一貫したデザインでコードを生成できるようになります。色彩、タイポグラフィ、レイアウトルールなどを構造化して記述し、AIがデザイン意図を理解してコーディングする際の精度を大幅に向上させます。",
+    "shortDescription": "AIコーディングエージェント向けデザイン仕様記述フォーマット",
+    "category": "design-creative",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "フォーマット仕様利用",
+            "GitHub公開",
+            "コミュニティサポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "デザインシステムのマークダウン記述",
+      "AIエージェント連携",
+      "ブランドガイドライン構造化",
+      "色彩・フォント定義",
+      "レイアウトルール設定"
+    ],
+    "pros": [
+      "AIコーディングの一貫性向上",
+      "デザイナーと開発者の連携強化",
+      "オープンソースで無料利用可",
+      "Googleが開発した標準仕様"
+    ],
+    "cons": [
+      "まだ新しい仕様で対応ツールが限定的",
+      "学習コストが必要",
+      "複雑なデザインシステムでは記述が困難"
+    ],
+    "officialUrl": "https://github.com/google-labs-code/design.md",
+    "logoPath": "/logos/design-md.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "デザインシステム管理者",
+      "フロントエンド開発者",
+      "AIツール活用開発チーム"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google Labs",
+    "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "endless-toil",
+    "name": "Endless Toil",
+    "nameJa": "エンドレストイル",
+    "description": "開発者のコードを音声で読み上げながらAIエージェントが苦痛を表現するユニークなツールです。バグのあるコードや品質の低いコードを解析した際に、AIが実際に「苦しんでいる」かのような音声フィードバックを提供します。コードレビューやデバッグ作業をゲーミフィケーションし、開発者がコード品質を意識するきっかけを作ります。GitHubで公開されており、継続的インテグレーションに組み込むことも可能です。",
+    "shortDescription": "コードの問題をAIエージェントが音声で苦痛表現するツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "音声フィードバック",
+            "GitHub連携",
+            "CI/CD統合対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "音声によるコード品質フィードバック",
+      "リアルタイム解析",
+      "GitHub統合",
+      "カスタマイズ可能な音声設定",
+      "CI/CD パイプライン対応"
+    ],
+    "pros": [
+      "ユニークなアプローチでコード品質向上",
+      "開発作業の娯楽性向上",
+      "オープンソースで自由にカスタマイズ可",
+      "チーム開発での話題性"
+    ],
+    "cons": [
+      "実用性よりもエンターテイメント性重視",
+      "音声が作業環境によっては不適切",
+      "本格的な開発には向かない可能性"
+    ],
+    "officialUrl": "https://github.com/AndrewVos/endless-toil",
+    "logoPath": "/logos/endless-toil.svg",
+    "rating": 3.2,
+    "recommendedFor": [
+      "個人開発者",
+      "開発チームのエンターテイメント",
+      "コードレビュー文化改善を目指す組織"
+    ],
+    "releaseYear": 2026,
+    "developer": "Andrew Vos",
+    "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "fragment",
+    "name": "Fragment",
+    "nameJa": "フラグメント",
+    "description": "Y Combinatorから輩出されたAIスタートアップで、Bret Taylor氏のSierraに買収されたことで注目を集めています。顧客サービス自動化に特化したAIエージェント技術を開発しており、Sierraの既存プラットフォームと統合されることで、より高度な対話型カスタマーサポートソリューションを提供予定です。買収により、エンタープライズ向けAIカスタマーサービスの新たなスタンダードを作り出すことが期待されています。",
+    "shortDescription": "Sierraに買収されたAI顧客サービス自動化スタートアップ",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "企業向けプラン",
+          "price": "要問合せ",
+          "features": [
+            "カスタマーサポート自動化",
+            "多言語対応",
+            "既存システム連携"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "顧客サービス自動化",
+      "自然言語対話処理",
+      "既存CRM連携",
+      "多言語サポート",
+      "エンタープライズセキュリティ"
+    ],
+    "pros": [
+      "YC出身の信頼性",
+      "Sierra買収による技術統合",
+      "エンタープライズ向け特化",
+      "スケーラブルなソリューション"
+    ],
+    "cons": [
+      "買収により独立サービスとしての提供終了",
+      "価格が企業向けで高額",
+      "個人・小規模事業者には不向き"
+    ],
+    "officialUrl": "https://sierra.ai",
+    "logoPath": "/logos/fragment.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "大企業のカスタマーサポート部門",
+      "SaaS事業者",
+      "多言語対応が必要な企業"
+    ],
+    "releaseYear": 2025,
+    "developer": "Sierra (acquired Fragment)",
+    "lastUpdated": "2026-04-24"
   }
 ]
