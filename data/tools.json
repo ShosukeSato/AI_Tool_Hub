@@ -18261,5 +18261,341 @@
     "releaseYear": 2025,
     "developer": "Sierra (acquired Fragment)",
     "lastUpdated": "2026-04-24"
+  },
+  {
+    "slug": "browser-harness",
+    "name": "Browser Harness",
+    "nameJa": "ブラウザーハーネス",
+    "description": "LLMにブラウザタスクを自動実行させるためのオープンソースフレームワーク。ウェブページの操作、フォーム入力、クリック操作など、人間が行うブラウザ作業をAIが代行できます。Hacker Newsで注目を集めており、RPA（ロボティック・プロセス・オートメーション）の新しい形として、開発者やビジネスユーザーに革新的な自動化ソリューションを提供します。",
+    "shortDescription": "LLMがブラウザ操作を自動実行するフレームワーク",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "ブラウザ自動操作",
+            "LLM統合",
+            "カスタマイズ可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ブラウザタスク自動化",
+      "LLM統合",
+      "オープンソース",
+      "カスタマイズ可能",
+      "開発者フレンドリー"
+    ],
+    "pros": [
+      "完全無料のオープンソース",
+      "LLMとの深い統合",
+      "柔軟なカスタマイズ",
+      "コミュニティサポート"
+    ],
+    "cons": [
+      "技術的知識が必要",
+      "セットアップが複雑",
+      "日本語ドキュメント不足"
+    ],
+    "officialUrl": "https://github.com/browser-use/browser-harness",
+    "logoPath": "/logos/browser-harness.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "開発者",
+      "RPA導入企業",
+      "自動化エンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "browser-use",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "cc-canary",
+    "name": "CC-Canary",
+    "nameJa": "シーシーカナリー",
+    "description": "Claude Codeの品質低下やリグレッションを早期検出するための専用監視ツール。最近のClaude Codeの品質問題が話題になる中、このツールはコード生成の精度やパフォーマンスの変化を継続的にモニタリングし、問題を事前に察知します。開発チームがClaude Codeを安定的に使用するために不可欠なツールとして注目されています。",
+    "shortDescription": "Claude Codeの品質低下を早期検出する監視ツール",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "品質監視",
+            "リグレッション検出",
+            "アラート機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Claude Code監視",
+      "品質メトリクス",
+      "リグレッション検出",
+      "アラート通知",
+      "履歴追跡"
+    ],
+    "pros": [
+      "Claude Code専用設計",
+      "早期問題検出",
+      "無料利用可能",
+      "開発効率向上"
+    ],
+    "cons": [
+      "Claude Code専用に限定",
+      "設定が必要",
+      "英語のみ対応"
+    ],
+    "officialUrl": "https://github.com/delta-hq/cc-canary",
+    "logoPath": "/logos/cc-canary.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "Claude Codeユーザー",
+      "開発チーム",
+      "品質管理担当者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Delta HQ",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "nimbus",
+    "name": "Nimbus",
+    "nameJa": "ニンバス",
+    "description": "Claude CodeのUXを統合した新しいWebブラウザ。従来のブラウザにAIコーディング機能を直接組み込み、ウェブ開発やプログラミング作業を大幅に効率化します。Hacker Newsで紹介され、開発者コミュニティで話題となっており、ブラウザ上で直接コード生成、編集、テストが可能な革新的なツールです。ウェブ開発の新しいパラダイムを提示しています。",
+    "shortDescription": "Claude Code統合の開発者向けブラウザ",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本AI機能",
+            "制限付きコード生成"
+          ]
+        },
+        {
+          "name": "Pro版",
+          "price": "$19/月（約3,000円）",
+          "features": [
+            "無制限コード生成",
+            "高度なAI機能",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Claude Code統合",
+      "ウェブ開発最適化",
+      "リアルタイムコード生成",
+      "ブラウザ内IDE",
+      "プレビュー機能"
+    ],
+    "pros": [
+      "ブラウザとIDEの融合",
+      "ワークフロー最適化",
+      "リアルタイム開発",
+      "使いやすいUI"
+    ],
+    "cons": [
+      "新しいツールのため安定性未知",
+      "学習コストあり",
+      "限定的なプラットフォーム"
+    ],
+    "officialUrl": "https://usenimbus.app/",
+    "logoPath": "/logos/nimbus.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "ウェブ開発者",
+      "フロントエンドエンジニア",
+      "プロトタイプ開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Nimbus Team",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "mentedb",
+    "name": "MenteDB",
+    "nameJa": "メンテディービー",
+    "description": "AIエージェント専用に設計されたオープンソースのメモリデータベース。Rustで開発され、AIエージェントの学習データや会話履歴を効率的に管理・検索できます。従来のデータベースと異なり、AIの記憶機能に特化した設計により、エージェントの応答品質とコンテキスト理解を大幅に向上させます。AIエージェント開発において重要なインフラストラクチャーツールです。",
+    "shortDescription": "AIエージェント専用のメモリデータベース",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "メモリ管理",
+            "高速検索",
+            "Rust製高性能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIメモリ管理",
+      "高速データ検索",
+      "Rust製高性能",
+      "オープンソース",
+      "エージェント最適化"
+    ],
+    "pros": [
+      "AI専用設計",
+      "高性能Rust実装",
+      "完全無料",
+      "カスタマイズ可能"
+    ],
+    "cons": [
+      "技術的専門知識必要",
+      "コミュニティが小規模",
+      "ドキュメント不足"
+    ],
+    "officialUrl": "https://github.com/nambok/mentedb",
+    "logoPath": "/logos/mentedb.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AIエージェント開発者",
+      "機械学習エンジニア",
+      "データサイエンティスト"
+    ],
+    "releaseYear": 2026,
+    "developer": "nambok",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "atomic",
+    "name": "Atomic",
+    "nameJa": "アトミック",
+    "description": "ローカルファーストでAI機能を搭載した個人ナレッジベースアプリケーション。データはユーザーのデバイスに保存され、プライバシーを完全に保護しながらAIが知識の整理、検索、関連付けを支援します。メモ、アイデア、資料を効率的に管理し、AI が自動的にタグ付けや分類を行い、必要な情報を瞬時に見つけられる革新的なナレッジ管理ツールです。",
+    "shortDescription": "AIが支援するローカルファースト知識管理アプリ",
+    "category": "note-knowledge",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本ナレッジ管理",
+            "限定AI機能"
+          ]
+        },
+        {
+          "name": "Pro版",
+          "price": "$15/月（約2,400円）",
+          "features": [
+            "高度なAI機能",
+            "無制限ストレージ",
+            "高速検索"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ローカルストレージ",
+      "AI自動整理",
+      "高速検索",
+      "プライバシー保護",
+      "クロスプラットフォーム"
+    ],
+    "pros": [
+      "完全なプライバシー保護",
+      "オフライン利用可能",
+      "AI支援による効率化",
+      "データ所有権確保"
+    ],
+    "cons": [
+      "同期機能が限定的",
+      "デバイス依存",
+      "バックアップは手動"
+    ],
+    "officialUrl": "https://atomicapp.ai/",
+    "logoPath": "/logos/atomic.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "研究者",
+      "ライター",
+      "プライバシー重視ユーザー"
+    ],
+    "releaseYear": 2026,
+    "developer": "Atomic Team",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "comfyui-studio",
+    "name": "ComfyUI Studio",
+    "nameJa": "コンフィーユーアイ・スタジオ",
+    "description": "ComfyUIが3000万ドルの資金調達を完了し、より使いやすくなったAI画像生成プラットフォーム。ノードベースのワークフローで複雑な画像生成パイプラインを構築でき、Stable Diffusionをはじめとする様々な生成モデルを組み合わせて使用できます。クリエイターが生成AIメディアをより細かくコントロールできるよう設計されており、プロフェッショナルレベルの画像制作が可能です。",
+    "shortDescription": "プロ向けノードベースAI画像生成プラットフォーム",
+    "category": "image-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料版",
+          "price": "無料",
+          "features": [
+            "基本ノード機能",
+            "制限付き生成"
+          ]
+        },
+        {
+          "name": "Pro版",
+          "price": "$25/月（約4,000円）",
+          "features": [
+            "高度なノード",
+            "商用利用可",
+            "優先処理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ノードベースワークフロー",
+      "複数モデル対応",
+      "高度なカスタマイズ",
+      "バッチ処理",
+      "プロ仕様UI"
+    ],
+    "pros": [
+      "細かい制御が可能",
+      "プロフェッショナル向け",
+      "拡張性が高い",
+      "コミュニティが活発"
+    ],
+    "cons": [
+      "学習コストが高い",
+      "初心者には複雑",
+      "リソース消費が大きい"
+    ],
+    "officialUrl": "https://blog.comfy.org/",
+    "logoPath": "/logos/comfyui-studio.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "プロクリエイター",
+      "AI研究者",
+      "上級ユーザー"
+    ],
+    "releaseYear": 2026,
+    "developer": "ComfyUI Team",
+    "lastUpdated": "2026-04-25"
   }
 ]

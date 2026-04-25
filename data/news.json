@@ -1,5 +1,71 @@
 [
   {
+    "id": "new-browser-harness-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "browser-harness",
+    "title": "Browser Harness が新しく追加されました",
+    "summary": "LLMがブラウザ操作を自動実行するフレームワーク",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-cc-canary-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "cc-canary",
+    "title": "CC-Canary が新しく追加されました",
+    "summary": "Claude Codeの品質低下を早期検出する監視ツール",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-nimbus-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "nimbus",
+    "title": "Nimbus が新しく追加されました",
+    "summary": "Claude Code統合の開発者向けブラウザ",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-mentedb-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "mentedb",
+    "title": "MenteDB が新しく追加されました",
+    "summary": "AIエージェント専用のメモリデータベース",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-atomic-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "atomic",
+    "title": "Atomic が新しく追加されました",
+    "summary": "AIが支援するローカルファースト知識管理アプリ",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-comfyui-studio-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "comfyui-studio",
+    "title": "ComfyUI Studio が新しく追加されました",
+    "summary": "プロ向けノードベースAI画像生成プラットフォーム",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "trending-claude-2026-04-25",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: I cancelled Claude: Token issues, declining quality, and poor support",
+    "date": "2026-04-25",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-chatgpt-2026-04-25",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Workspace Agents in ChatGPT",
+    "date": "2026-04-25",
+    "source": "hackernews"
+  },
+  {
     "id": "new-gpt-5-5-2026-04-24",
     "type": "new-tool",
     "toolSlug": "gpt-5-5",
