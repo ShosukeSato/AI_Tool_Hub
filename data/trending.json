@@ -8,41 +8,40 @@
         "source": "hackernews",
         "title": "I cancelled Claude: Token issues, declining quality, and poor support",
         "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-        "score": 784,
+        "score": 894,
         "date": "2026-04-25"
       },
       {
         "source": "hackernews",
         "title": "CC-Canary: Detect early signs of regressions in Claude Code",
         "url": "https://github.com/delta-hq/cc-canary",
-        "score": 40,
-        "date": "2026-04-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Could a Claude Code routine watch my finances?",
-        "url": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
-        "score": 63,
-        "date": "2026-04-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Nimbus – Browser with Claude Code UX",
-        "url": "https://usenimbus.app/",
-        "score": 7,
+        "score": 59,
         "date": "2026-04-25"
       },
       {
         "source": "hackernews",
         "title": "An update on recent Claude Code quality reports",
         "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-        "score": 915,
+        "score": 924,
         "date": "2026-04-25"
       },
       {
         "source": "hackernews",
-        "title": "Tell HN: Claude 4.7 is ignoring stop hooks ()",
-        "score": 76,
+        "title": "Could a Claude Code routine watch my finances?",
+        "url": "https://driggsby.com/blog/claude-code-routine-watch-my-finances",
+        "score": 77,
+        "date": "2026-04-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
+        "score": 1,
+        "date": "2026-04-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
+        "score": 1,
         "date": "2026-04-25"
       }
     ],
@@ -50,45 +49,22 @@
     "lastSeen": "2026-04-25"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Workspace Agents in ChatGPT",
-        "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-        "score": 155,
-        "date": "2026-04-24"
-      },
-      {
-        "source": "hackernews",
-        "title": "ChatGPT Images 2.0",
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-        "score": 1037,
-        "date": "2026-04-24"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-24"
-  },
-  {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 6.8,
+    "buzzScore": 6.7,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-        "url": "https://developers.openai.com/api/docs/changelog",
-        "score": 215,
-        "date": "2026-04-25"
-      },
       {
         "source": "hackernews",
         "title": "GPT-5.5",
         "url": "https://openai.com/index/introducing-gpt-5-5/",
-        "score": 1528,
+        "score": 1552,
+        "date": "2026-04-25"
+      },
+      {
+        "source": "hackernews",
+        "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+        "url": "https://developers.openai.com/api/docs/changelog",
+        "score": 247,
         "date": "2026-04-25"
       },
       {
@@ -104,34 +80,41 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.7,
+    "buzzScore": 3.2,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain",
+        "url": "Markdown and Git) (https://github.com/nex-crm/wuphf",
+        "score": 111,
+        "date": "2026-04-25"
+      },
       {
         "source": "hackernews",
         "title": "Hear your agent suffer through your code",
         "url": "https://github.com/AndrewVos/endless-toil",
-        "score": 177,
+        "score": 197,
+        "date": "2026-04-25"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+        "url": "https://github.com/vinhnx/VTCode",
+        "score": 9,
         "date": "2026-04-25"
       },
       {
         "source": "hackernews",
         "title": "MenteDB – open-source memory database for AI agents",
         "url": "Rust) (https://github.com/nambok/mentedb",
-        "score": 10,
+        "score": 16,
         "date": "2026-04-25"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
         "url": "https://github.com/Infisical/agent-vault",
-        "score": 135,
-        "date": "2026-04-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Design.md: A format spec for describing a visual identity to coding agents",
-        "url": "https://github.com/google-labs-code/design.md",
-        "score": 32,
+        "score": 143,
         "date": "2026-04-25"
       },
       {
@@ -151,12 +134,6 @@
         "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
         "score": 1,
         "date": "2026-04-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "How Agentic AI Will Transform Consumer‑Driven Companies in 2026 - U.S. Chamber of Commerce",
-        "score": 1,
-        "date": "2026-04-25"
       }
     ],
     "firstSeen": "2026-04-16",
@@ -165,7 +142,7 @@
   {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -181,7 +158,7 @@
   {
     "toolSlug": "gomodel",
     "toolName": "GoModel",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -195,9 +172,25 @@
     "lastSeen": "2026-04-23"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Plain text has been around for decades and it’s here to stay",
+        "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+        "score": 140,
+        "date": "2026-04-25"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-25"
+  },
+  {
     "toolSlug": "ternary-bonsai",
     "toolName": "Ternary Bonsai",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -213,13 +206,45 @@
   {
     "toolSlug": "browser-harness",
     "toolName": "Browser Harness",
-    "buzzScore": 1.4,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
         "url": "https://github.com/browser-use/browser-harness",
-        "score": 84,
+        "score": 110,
+        "date": "2026-04-25"
+      }
+    ],
+    "firstSeen": "2026-04-25",
+    "lastSeen": "2026-04-25"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+        "url": "https://alash3al.github.io/stash?_v01",
+        "score": 83,
+        "date": "2026-04-25"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-04-25"
+  },
+  {
+    "toolSlug": "minizinc",
+    "toolName": "MiniZinc",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "MiniZinc, constraint modelling language solve discrete optimisation problems",
+        "url": "https://www.minizinc.org",
+        "score": 40,
         "date": "2026-04-25"
       }
     ],
@@ -229,7 +254,7 @@
   {
     "toolSlug": "atomic",
     "toolName": "Atomic",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -245,7 +270,7 @@
   {
     "toolSlug": "mediator-ai",
     "toolName": "Mediator.ai",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -261,7 +286,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -275,35 +300,19 @@
     "lastSeen": "2026-04-16"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Game devs explain the tricks involved with letting you pause a game",
-        "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-        "score": 430,
-        "date": "2026-04-20"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-20"
-  },
-  {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
+    "toolSlug": "tipsv2",
+    "toolName": "TIPSv2",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "GPT-5.5 is generally available for GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/",
-        "score": 20,
+        "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
+        "url": "https://gdm-tipsv2.github.io/",
+        "score": 21,
         "date": "2026-04-25"
       }
     ],
-    "firstSeen": "2026-04-22",
+    "firstSeen": "2026-04-25",
     "lastSeen": "2026-04-25"
   },
   {
@@ -334,21 +343,6 @@
       }
     ],
     "firstSeen": "2026-04-25",
-    "lastSeen": "2026-04-25"
-  },
-  {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "DaVinci Resolve 21 ベータ版がリリース！写真編集「Photoページ」搭載、顔の年齢調整など次世代AIツールの追加など - CGinterest",
-        "score": 1,
-        "date": "2026-04-25"
-      }
-    ],
-    "firstSeen": "2026-04-19",
     "lastSeen": "2026-04-25"
   },
   {
@@ -487,9 +481,40 @@
     "lastSeen": "2026-04-25"
   },
   {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GPT-5.5 is generally available for GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-04-24-gpt-5-5-is-generally-available-for-github-copilot/",
+        "score": 20,
+        "date": "2026-04-25"
+      }
+    ],
+    "firstSeen": "2026-04-22",
+    "lastSeen": "2026-04-25"
+  },
+  {
+    "toolSlug": "davinci-resolve-21",
+    "toolName": "DaVinci Resolve 21",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "DaVinci Resolve 21 ベータ版がリリース！写真編集「Photoページ」搭載、顔の年齢調整など次世代AIツールの追加など - CGinterest",
+        "score": 1,
+        "date": "2026-04-25"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-04-25"
+  },
+  {
     "toolSlug": "swiss-ai-initiative",
     "toolName": "Swiss AI Initiative",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -505,7 +530,7 @@
   {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -521,7 +546,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -536,7 +561,7 @@
   {
     "toolSlug": "voicelog",
     "toolName": "VoiceLog",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -551,7 +576,7 @@
   {
     "toolSlug": "localllm",
     "toolName": "LocalLLM",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -567,7 +592,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -588,7 +613,7 @@
   {
     "toolSlug": "servo",
     "toolName": "Servo",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -604,7 +629,7 @@
   {
     "toolSlug": "gas-town",
     "toolName": "Gas Town",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -616,52 +641,5 @@
     ],
     "firstSeen": "2026-04-16",
     "lastSeen": "2026-04-16"
-  },
-  {
-    "toolSlug": "trellis-ai",
-    "toolName": "Trellis AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Trellis AI",
-        "url": "YC W24) Is hiring engineers to build self-improving agents (https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
-        "score": 1,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-22",
-    "lastSeen": "2026-04-23"
-  },
-  {
-    "toolSlug": "admina-ai",
-    "toolName": "Admina AIヘルプデスク",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "マネーフォワードｉ、新サービス『Admina AIヘルプデスク※1』を2026年5月より提供開始予定 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-18",
-    "lastSeen": "2026-04-23"
-  },
-  {
-    "toolSlug": "instant-1-0",
-    "toolName": "Instant 1.0",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Instant 1.0, a backend for AI-coded apps",
-        "url": "https://www.instantdb.com/essays/architecture",
-        "score": 209,
-        "date": "2026-04-11"
-      }
-    ],
-    "firstSeen": "2026-04-10",
-    "lastSeen": "2026-04-11"
   }
 ]

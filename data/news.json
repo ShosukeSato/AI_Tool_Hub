@@ -66,6 +66,54 @@
     "source": "hackernews"
   },
   {
+    "id": "new-wuphf-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "wuphf",
+    "title": "Wuphf が新しく追加されました",
+    "summary": "AIエージェントが自動維持するLLM Wiki",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-stash-ai-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "stash-ai",
+    "title": "Stash AI が新しく追加されました",
+    "summary": "AIエージェント用オープンソースメモリレイヤー",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-vt-code-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "vt-code",
+    "title": "VT Code が新しく追加されました",
+    "summary": "マルチプロバイダー対応TUIコーディングエージェント",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-lambdabench-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "lambdabench",
+    "title": "LambdaBench が新しく追加されました",
+    "summary": "AI推論能力評価用ラムダ計算ベンチマーク",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-tipsv2-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "tipsv2",
+    "title": "TIPSv2 が新しく追加されました",
+    "summary": "改良型パッチ・テキストアライメントVLモデル",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "new-minizinc-2026-04-25",
+    "type": "new-tool",
+    "toolSlug": "minizinc",
+    "title": "MiniZinc が新しく追加されました",
+    "summary": "離散最適化問題用制約モデリング言語",
+    "date": "2026-04-25"
+  },
+  {
     "id": "new-gpt-5-5-2026-04-24",
     "type": "new-tool",
     "toolSlug": "gpt-5-5",

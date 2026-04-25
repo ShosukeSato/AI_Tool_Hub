@@ -18597,5 +18597,323 @@
     "releaseYear": 2026,
     "developer": "ComfyUI Team",
     "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "wuphf",
+    "name": "Wuphf",
+    "nameJa": "ワフ",
+    "description": "AIエージェントが自動的にMarkdownとGitを使って維持するKarpathyスタイルのLLM知識Wikiシステム。エージェントがリアルタイムで情報を収集・整理し、チーム全体の知識ベースを継続的に更新する。プログラミングやAI開発のドキュメント管理に特化しており、コードの変更履歴と連動した知識管理が可能。",
+    "shortDescription": "AIエージェントが自動維持するLLM Wiki",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "GitHub連携",
+            "Markdown編集",
+            "エージェント自動更新",
+            "バージョン管理"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "エージェント自動Wiki維持",
+      "Git版本管理",
+      "Markdown形式対応",
+      "リアルタイム更新",
+      "チーム協業支援"
+    ],
+    "pros": [
+      "完全自動化された知識管理",
+      "オープンソースで無料利用可能",
+      "Git連携による履歴管理",
+      "開発チーム向けに最適化"
+    ],
+    "cons": [
+      "セットアップが技術者向け",
+      "日本語対応は未確認",
+      "小規模プロジェクト向け"
+    ],
+    "officialUrl": "https://github.com/nex-crm/wuphf",
+    "logoPath": "/logos/wuphf.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "AIエンジニア",
+      "開発チームリーダー",
+      "技術文書管理者"
+    ],
+    "releaseYear": 2026,
+    "developer": "nex-crm",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "stash-ai",
+    "name": "Stash AI",
+    "nameJa": "スタッシュAI",
+    "description": "どんなAIエージェントでもClaude.aiやChatGPTのような長期記憶機能を実現するオープンソースメモリレイヤー。会話履歴や学習データを永続化し、エージェント間でのコンテキスト共有を可能にする。開発者が独自のAIアプリケーションに記憶機能を簡単に統合でき、ユーザーエクスペリエンスを大幅に向上させる。",
+    "shortDescription": "AIエージェント用オープンソースメモリレイヤー",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "メモリ永続化",
+            "マルチエージェント対応",
+            "API統合",
+            "データ同期"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "長期記憶機能",
+      "エージェント間データ共有",
+      "API統合サポート",
+      "オープンソース",
+      "スケーラブル設計"
+    ],
+    "pros": [
+      "無料でプロ級機能を実現",
+      "既存システムへの統合が容易",
+      "マルチエージェント対応",
+      "活発な開発コミュニティ"
+    ],
+    "cons": [
+      "セルフホスティング必須",
+      "技術知識が必要",
+      "日本語ドキュメント不足"
+    ],
+    "officialUrl": "https://alash3al.github.io/stash",
+    "logoPath": "/logos/stash-ai.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "AIアプリ開発者",
+      "チャットボット構築者",
+      "エンタープライズAI導入企業"
+    ],
+    "releaseYear": 2026,
+    "developer": "alash3al",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "vt-code",
+    "name": "VT Code",
+    "nameJa": "VTコード",
+    "description": "Rust製のターミナルUIコーディングエージェント。複数のAIプロバイダー（OpenAI、Anthropic、Google等）をサポートし、ターミナル上で直接コードの生成、レビュー、修正が可能。軽量で高速動作し、開発者のワークフローを中断することなくAI支援コーディングを実現する革新的なツール。",
+    "shortDescription": "マルチプロバイダー対応TUIコーディングエージェント",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "複数AIプロバイダー対応",
+            "ターミナルUI",
+            "リアルタイムコード生成",
+            "コードレビュー機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチAIプロバイダー対応",
+      "高速Rust実装",
+      "ターミナル統合",
+      "リアルタイムコード補完",
+      "軽量設計"
+    ],
+    "pros": [
+      "複数のAIモデルを選択可能",
+      "ターミナルワークフローと完全統合",
+      "高速で軽量",
+      "オープンソースで拡張可能"
+    ],
+    "cons": [
+      "ターミナル操作に慣れが必要",
+      "GUI非対応",
+      "設定がやや複雑"
+    ],
+    "officialUrl": "https://github.com/vinhnx/VTCode",
+    "logoPath": "/logos/vt-code.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "ターミナル愛用者",
+      "システムエンジニア",
+      "CLI開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "vinhnx",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "lambdabench",
+    "name": "LambdaBench",
+    "nameJa": "ラムダベンチ",
+    "description": "AI性能を評価するための革新的なラムダ計算ベンチマークシステム。従来のコーディング問題とは異なり、純粋な計算論理でAIの推論能力を測定する。関数型プログラミングの基礎となるラムダ計算を通じて、AIモデルの本質的な論理処理能力を客観的に評価でき、研究者や開発者がモデル選択の参考にできる。",
+    "shortDescription": "AI推論能力評価用ラムダ計算ベンチマーク",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "ウェブ版",
+          "price": "無料",
+          "features": [
+            "ベンチマーク実行",
+            "結果比較",
+            "統計分析",
+            "API提供"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ラムダ計算ベンチマーク",
+      "AI性能比較",
+      "統計分析機能",
+      "ウェブインターフェース",
+      "API提供"
+    ],
+    "pros": [
+      "客観的なAI評価が可能",
+      "学術的に信頼性が高い",
+      "無料で利用可能",
+      "比較分析機能が充実"
+    ],
+    "cons": [
+      "専門知識が必要",
+      "一般ユーザーには難解",
+      "日本語対応なし"
+    ],
+    "officialUrl": "https://victortaelin.github.io/lambench/",
+    "logoPath": "/logos/lambdabench.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "AI研究者",
+      "機械学習エンジニア",
+      "学術研究者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Victor Taelin",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "tipsv2",
+    "name": "TIPSv2",
+    "nameJa": "ティップスV2",
+    "description": "Google DeepMindが開発した次世代ビジョン言語事前学習モデル。従来手法を大幅に改良したパッチ・テキストアライメント技術により、画像とテキストの対応精度を飛躍的に向上させた。マルチモーダルAIの新標準となる可能性が高く、画像理解と自然言語処理の融合において業界最高レベルの性能を実現している。",
+    "shortDescription": "改良型パッチ・テキストアライメントVLモデル",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "研究利用",
+          "price": "要問い合わせ",
+          "features": [
+            "高精度画像理解",
+            "マルチモーダル処理",
+            "大規模データ対応",
+            "カスタマイズ可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高精度画像・テキスト対応",
+      "パッチレベルアライメント",
+      "大規模事前学習",
+      "マルチモーダル処理",
+      "研究用途対応"
+    ],
+    "pros": [
+      "業界最高水準の精度",
+      "Google DeepMind開発の信頼性",
+      "学術研究に最適",
+      "技術革新性が高い"
+    ],
+    "cons": [
+      "企業向け価格設定",
+      "一般利用は困難",
+      "高度な技術知識必須"
+    ],
+    "officialUrl": "https://gdm-tipsv2.github.io/",
+    "logoPath": "/logos/tipsv2.svg",
+    "rating": 4.6,
+    "recommendedFor": [
+      "AI研究機関",
+      "大学研究室",
+      "エンタープライズAI開発者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Google DeepMind",
+    "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "minizinc",
+    "name": "MiniZinc",
+    "nameJa": "ミニジンク",
+    "description": "離散最適化問題を解くための高水準制約モデリング言語。複雑な制約満足問題やスケジューリング問題を直感的な記法で表現し、複数のソルバーで自動的に最適解を探索する。物流最適化、リソース配分、タイムテーブル作成など、企業の実務問題解決に威力を発揮する数理最適化の強力なツール。",
+    "shortDescription": "離散最適化問題用制約モデリング言語",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "制約モデリング",
+            "複数ソルバー対応",
+            "IDE提供",
+            "豊富なライブラリ"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "制約満足問題解決",
+      "最適化計算",
+      "マルチソルバー対応",
+      "高水準記法",
+      "IDE統合"
+    ],
+    "pros": [
+      "複雑な最適化問題を簡単記述",
+      "無料でプロ級機能",
+      "豊富な解法アルゴリズム",
+      "産業応用実績多数"
+    ],
+    "cons": [
+      "数学的知識が必要",
+      "学習コストが高い",
+      "日本語リソース不足"
+    ],
+    "officialUrl": "https://www.minizinc.org",
+    "logoPath": "/logos/minizinc.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "オペレーションズリサーチャー",
+      "物流最適化担当者",
+      "数理最適化エンジニア"
+    ],
+    "releaseYear": 2026,
+    "developer": "Monash University",
+    "lastUpdated": "2026-04-25"
   }
 ]
