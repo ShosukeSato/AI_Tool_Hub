@@ -19243,5 +19243,338 @@
     "releaseYear": 2024,
     "developer": "Cohere-Aleph Alpha",
     "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "eden-ai",
+    "name": "Eden AI",
+    "nameJa": "エデン AI",
+    "description": "Eden AIは、複数のAIモデルに統一APIでアクセスできるヨーロッパ発のAI統合プラットフォームです。OpenRouterの欧州版として注目され、GPT、Claude、Geminiなど主要LLMから画像生成、音声認識まで50以上のAIサービスを一つのAPIで利用できます。GDPR準拠でプライバシー保護が強化されており、企業の多様なAI活用ニーズに応える包括的なソリューションを提供しています。",
+    "shortDescription": "複数AIモデルに統一APIでアクセス可能な欧州発統合プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "月額0円",
+          "features": [
+            "月間1,000リクエスト",
+            "基本AIモデル利用",
+            "APIアクセス"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "月額$49（約7,400円）",
+          "features": [
+            "月間50,000リクエスト",
+            "全AIモデル利用",
+            "優先サポート"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要相談",
+          "features": [
+            "無制限リクエスト",
+            "カスタムSLA",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "50以上のAIサービス統合API",
+      "GDPR準拠のプライバシー保護",
+      "LLM・画像・音声の包括対応",
+      "リアルタイムモニタリング",
+      "コスト最適化機能"
+    ],
+    "pros": [
+      "ヨーロッパ基準の強力なプライバシー保護",
+      "複数AIサービスのワンストップ利用",
+      "統一APIによる開発効率向上",
+      "透明性の高い料金体系"
+    ],
+    "cons": [
+      "日本語サポートが限定的",
+      "一部AIモデルの応答速度が遅い場合がある",
+      "新しいサービスのため実績が少ない"
+    ],
+    "officialUrl": "https://www.edenai.co",
+    "logoPath": "/logos/eden-ai.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "複数AIを活用したい開発者",
+      "プライバシーを重視する企業",
+      "欧州市場向けサービス開発者"
+    ],
+    "releaseYear": 2021,
+    "developer": "Eden AI",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "terra-api",
+    "name": "Terra API",
+    "nameJa": "テラ API",
+    "description": "Terra APIは、ヘルスケア・フィットネス分野のAI活用に特化したデータ統合プラットフォームです。Apple Health、Fitbit、Garmin、Ouraなど350以上のウェアラブルデバイスやアプリからのヘルスデータを統一APIで取得・分析できます。現在Applied AI Strategist職を積極採用中で、健康データのAI解析とマーケットインテリジェンス強化を進めており、次世代のヘルステック開発を支援しています。",
+    "shortDescription": "350以上のヘルスデバイスデータを統一APIで活用可能",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "開発者プラン",
+          "price": "月額0円",
+          "features": [
+            "月間1,000API呼び出し",
+            "基本ヘルスデータ取得",
+            "コミュニティサポート"
+          ]
+        },
+        {
+          "name": "スタートアップ",
+          "price": "月額$299（約45,000円）",
+          "features": [
+            "月間25,000API呼び出し",
+            "リアルタイムデータ",
+            "優先サポート"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要相談",
+          "features": [
+            "無制限API呼び出し",
+            "カスタム統合",
+            "専用サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "350以上デバイス・アプリ対応",
+      "リアルタイムヘルスデータ取得",
+      "AI解析機能内蔵",
+      "HIPAA準拠セキュリティ",
+      "統一データフォーマット"
+    ],
+    "pros": [
+      "圧倒的なデバイス対応数",
+      "ヘルスケア特化の深い専門性",
+      "医療グレードのセキュリティ",
+      "YCバックの信頼性"
+    ],
+    "cons": [
+      "ヘルスケア以外での用途が限定的",
+      "日本の一部デバイスに未対応",
+      "専門知識が必要な場合がある"
+    ],
+    "officialUrl": "https://tryterra.co",
+    "logoPath": "/logos/terra-api.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "ヘルステックスタートアップ",
+      "フィットネスアプリ開発者",
+      "医療AI研究者"
+    ],
+    "releaseYear": 2021,
+    "developer": "Terra API",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "flowtriq",
+    "name": "Flowtriq",
+    "nameJa": "フロートリック",
+    "description": "Flowtriqは、AIを活用した次世代DDoS検知・防御システムです。48Gbpsの大規模攻撃に対してわずか0.9秒で検知・対応できる超高速性能を実現しており、リアルタイムでの攻撃パターン分析と自動防御機能を提供します。機械学習により正常トラフィックと攻撃を高精度で識別し、従来のDDoS対策ツールでは対応困難な新しい攻撃手法にも適応できる革新的なセキュリティソリューションです。",
+    "shortDescription": "0.9秒で48Gbps攻撃を検知する超高速AI DDoS防御システム",
+    "category": "productivity",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "スタンダード",
+          "price": "月額$1,999（約300,000円）",
+          "features": [
+            "10Gbps保護",
+            "基本AI検知",
+            "24/7監視"
+          ]
+        },
+        {
+          "name": "プロフェッショナル",
+          "price": "月額$4,999（約750,000円）",
+          "features": [
+            "50Gbps保護",
+            "高度AI分析",
+            "カスタムルール"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要相談",
+          "features": [
+            "100Gbps+保護",
+            "専用サポート",
+            "オンプレミス対応"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "0.9秒超高速検知",
+      "48Gbps大規模攻撃対応",
+      "AIパターン学習",
+      "リアルタイム自動防御",
+      "攻撃分析ダッシュボード"
+    ],
+    "pros": [
+      "業界最高レベルの検知速度",
+      "大規模攻撃への確実な対応力",
+      "AI学習による適応性",
+      "詳細な攻撃分析レポート"
+    ],
+    "cons": [
+      "高額な導入・運用コスト",
+      "専門的な設定が必要",
+      "中小企業には過剰スペック"
+    ],
+    "officialUrl": "https://flowtriq.com",
+    "logoPath": "/logos/flowtriq.svg",
+    "rating": 4.5,
+    "recommendedFor": [
+      "大規模Webサービス運営企業",
+      "金融機関",
+      "セキュリティ重視の組織"
+    ],
+    "releaseYear": 2024,
+    "developer": "Flowtriq",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "1-bit-art-generator",
+    "name": "1-Bit Art Generator",
+    "nameJa": "1ビット アート ジェネレーター",
+    "description": "1-Bit Art Generatorは、浮世絵や名画を1ビット（白黒2色）のピクセルアートに変換する特殊なAI画像生成ツールです。葛飾北斎の「神奈川沖浪裏」の1ビット変換作品がHacker Newsで585ポイントを獲得し話題となりました。レトロゲーム風の独特な美的表現を生み出し、アートとテクノロジーの融合による新しいクリエイティブ表現を可能にします。シンプルながら印象的な作品制作に最適です。",
+    "shortDescription": "名画を1ビット白黒ピクセルアートに変換するAI生成ツール",
+    "category": "image-generation",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "月額0円",
+          "features": [
+            "月間10回生成",
+            "基本解像度",
+            "透かしあり"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "月額$19（約2,900円）",
+          "features": [
+            "月間500回生成",
+            "高解像度",
+            "透かしなし"
+          ]
+        },
+        {
+          "name": "アーティスト",
+          "price": "月額$49（約7,400円）",
+          "features": [
+            "無制限生成",
+            "商用利用可",
+            "カスタム設定"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "1ビット白黒変換",
+      "浮世絵・名画対応",
+      "レトロピクセルアート生成",
+      "解像度調整機能",
+      "バッチ処理対応"
+    ],
+    "pros": [
+      "独特で印象的な美的表現",
+      "レトロゲーム風デザインに最適",
+      "シンプルで使いやすいUI",
+      "SNSで話題性の高い作品制作"
+    ],
+    "cons": [
+      "色彩表現が制限される",
+      "細部の表現力が限定的",
+      "特定用途に限定される"
+    ],
+    "officialUrl": "https://www.hypertalking.com",
+    "logoPath": "/logos/1-bit-art-generator.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "レトロデザイン愛好家",
+      "ピクセルアート作家",
+      "ゲームデザイナー"
+    ],
+    "releaseYear": 2023,
+    "developer": "Hypertalking",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "lambench",
+    "name": "LamBench",
+    "nameJa": "ラムベンチ",
+    "description": "LamBenchは、AI言語モデルのラムダ計算（関数型プログラミング）能力を評価するための専門ベンチマークツールです。GPT、Claude、Geminiなどの主要LLMが関数型言語の概念をどの程度理解・実行できるかを定量的に測定します。Hacker Newsで137ポイントを獲得し、AI研究者や関数型プログラミング愛好家から注目を集めています。LLMの論理的思考能力と抽象化レベルの評価に特化した革新的な評価システムです。",
+    "shortDescription": "AIモデルのラムダ計算・関数型プログラミング能力評価ツール",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "全機能利用可能",
+            "ベンチマーク実行",
+            "結果分析",
+            "カスタマイズ可能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ラムダ計算評価",
+      "複数LLMサポート",
+      "詳細スコア分析",
+      "カスタムテスト作成",
+      "オープンソース"
+    ],
+    "pros": [
+      "関数型プログラミング特化の独自性",
+      "完全無料のオープンソース",
+      "学術的価値の高い評価指標",
+      "カスタマイズ性の高さ"
+    ],
+    "cons": [
+      "関数型プログラミング知識が必要",
+      "一般的な用途には限定的",
+      "技術的な専門性が求められる"
+    ],
+    "officialUrl": "https://victortaelin.github.io/lambench/",
+    "logoPath": "/logos/lambench.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "AI研究者",
+      "関数型プログラミング愛好家",
+      "LLM評価に携わる開発者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Victor Taelin",
+    "lastUpdated": "2026-04-26"
   }
 ]

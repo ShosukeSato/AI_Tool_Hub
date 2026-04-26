@@ -57,6 +57,55 @@
     "source": "hackernews"
   },
   {
+    "id": "new-eden-ai-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "eden-ai",
+    "title": "Eden AI が新しく追加されました",
+    "summary": "複数AIモデルに統一APIでアクセス可能な欧州発統合プラットフォーム",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-terra-api-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "terra-api",
+    "title": "Terra API が新しく追加されました",
+    "summary": "350以上のヘルスデバイスデータを統一APIで活用可能",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-flowtriq-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "flowtriq",
+    "title": "Flowtriq が新しく追加されました",
+    "summary": "0.9秒で48Gbps攻撃を検知する超高速AI DDoS防御システム",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-1-bit-art-generator-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "1-bit-art-generator",
+    "title": "1-Bit Art Generator が新しく追加されました",
+    "summary": "名画を1ビット白黒ピクセルアートに変換するAI生成ツール",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-lambench-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "lambench",
+    "title": "LamBench が新しく追加されました",
+    "summary": "AIモデルのラムダ計算・関数型プログラミング能力評価ツール",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "trending-gpt-5-5-2026-04-26",
+    "type": "trending",
+    "toolSlug": "gpt-5-5",
+    "title": "GPT-5.5 が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: GPT-5.5",
+    "date": "2026-04-26",
+    "source": "hackernews"
+  },
+  {
     "id": "new-browser-harness-2026-04-25",
     "type": "new-tool",
     "toolSlug": "browser-harness",
