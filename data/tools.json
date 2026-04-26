@@ -18915,5 +18915,333 @@
     "releaseYear": 2026,
     "developer": "Monash University",
     "lastUpdated": "2026-04-25"
+  },
+  {
+    "slug": "hats",
+    "name": "HATS",
+    "nameJa": "ハッツ",
+    "description": "複数のAIエージェントが互いに議論・論争を行うことで意思決定の質を向上させる革新的なAIシステム。異なる視点を持つエージェント同士が対話することで、単一のAIでは見落としがちな問題点や代替案を発見し、より良い判断を導き出すことができます。ビジネスの戦略決定や複雑な問題解決において、多角的な検討を自動化できる点が特徴的です。",
+    "shortDescription": "AIエージェント同士が議論して意思決定を改善",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "複数エージェント議論",
+            "カスタマイズ可能",
+            "GitHub公開"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "複数AIエージェントによる議論システム",
+      "意思決定プロセスの可視化",
+      "論点の多角的検討",
+      "合意形成の自動化",
+      "カスタマイズ可能な議論ルール"
+    ],
+    "pros": [
+      "多様な視点による質の高い判断",
+      "単一AIの偏見を軽減",
+      "意思決定プロセスが透明",
+      "オープンソースで自由にカスタマイズ"
+    ],
+    "cons": [
+      "処理時間が長くなる可能性",
+      "複雑な設定が必要",
+      "日本語対応が限定的"
+    ],
+    "officialUrl": "https://github.com/rockcat/HATS",
+    "logoPath": "/logos/hats.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "複雑な意思決定を行う経営者",
+      "戦略立案担当者",
+      "AI研究者"
+    ],
+    "releaseYear": 2024,
+    "developer": "Rockcat",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "deepseek-v4",
+    "name": "DeepSeek V4",
+    "nameJa": "ディープシーク V4",
+    "description": "中国のDeepSeekが開発した最新のAIモデルで、従来の最先端モデルとの性能差を大幅に縮めることに成功。特に数学的推論、コーディング、科学的思考において高い性能を発揮し、GPTやClaudeに匹敵する能力を持ちながらもより効率的な計算リソースで動作します。オープンソース精神に基づき、研究者や開発者が自由にアクセスできる点も大きな特徴です。",
+    "shortDescription": "最先端性能に迫る中国発のオープンAIモデル",
+    "category": "llm-chatbot",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "基本的な対話機能",
+            "制限付きAPI利用"
+          ]
+        },
+        {
+          "name": "プロプラン",
+          "price": "月額約1,500円",
+          "features": [
+            "高速応答",
+            "大量API利用",
+            "優先サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "高度な数学的推論能力",
+      "優秀なコーディング支援",
+      "多言語対応",
+      "効率的なリソース利用",
+      "オープンソースアクセス"
+    ],
+    "pros": [
+      "最先端モデルに匹敵する性能",
+      "コストパフォーマンスが優秀",
+      "オープンソースで透明性が高い",
+      "研究利用に最適"
+    ],
+    "cons": [
+      "中国製のため規制リスク",
+      "日本語最適化が不十分",
+      "サポート体制に不安"
+    ],
+    "officialUrl": "https://deepseek.com",
+    "logoPath": "/logos/deepseek-v4.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "AI研究者",
+      "コスト重視の開発者",
+      "数学・科学分野の専門家"
+    ],
+    "releaseYear": 2024,
+    "developer": "DeepSeek",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "feldera-embedded-agents",
+    "name": "Feldera Embedded Agents",
+    "nameJa": "フェルデラ エンベデッド エージェント",
+    "description": "従来の「同僚のようなAIエージェント」ではなく、ソフトウェアシステムに直接組み込まれる新しいタイプのAIエージェント。データストリーミングやリアルタイム分析において、人間の介入を最小限に抑えながら自律的にタスクを実行します。特にデータベースやストリーミングプラットフォームとの統合に優れ、継続的なデータ処理と意思決定を自動化できます。",
+    "shortDescription": "ソフトウェアに直接組み込まれるAIエージェント",
+    "category": "ai-agent",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "カスタム統合",
+            "24/7サポート",
+            "スケーラブル運用"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ソフトウェア直接組み込み",
+      "リアルタイムデータ処理",
+      "自律的タスク実行",
+      "データストリーミング統合",
+      "継続的学習機能"
+    ],
+    "pros": [
+      "人間の介入が不要",
+      "システム統合が深い",
+      "リアルタイム性能が優秀",
+      "スケーラビリティが高い"
+    ],
+    "cons": [
+      "導入コストが高い",
+      "技術的専門知識が必要",
+      "日本市場での事例が少ない"
+    ],
+    "officialUrl": "https://www.feldera.com",
+    "logoPath": "/logos/feldera-embedded-agents.svg",
+    "rating": 4,
+    "recommendedFor": [
+      "データエンジニア",
+      "システムアーキテクト",
+      "大規模データ処理企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Feldera",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "thinking-machines",
+    "name": "Thinking Machines",
+    "nameJa": "シンキング マシンズ",
+    "description": "MetaからのスピンオフAI企業として注目を集める新興企業。Meta社の損失が同社の利益となっているという文脈で話題となっており、大手テック企業からの人材流出を受けて急速に成長しています。特にAIエージェント技術と機械学習プラットフォームの開発に注力し、企業向けのカスタムAIソリューションを提供しています。Meta出身の優秀なエンジニアたちが参加していることで業界の注目を集めています。",
+    "shortDescription": "Meta出身者による注目の新興AI企業",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "カスタムソリューション",
+          "price": "要問い合わせ",
+          "features": [
+            "専用AI開発",
+            "コンサルティング",
+            "技術サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "カスタムAI開発",
+      "機械学習プラットフォーム",
+      "エンタープライズ統合",
+      "Meta技術の活用",
+      "専門コンサルティング"
+    ],
+    "pros": [
+      "Meta出身の優秀な人材",
+      "最新技術への早期アクセス",
+      "カスタマイズ性が高い",
+      "企業向け特化"
+    ],
+    "cons": [
+      "新興企業のリスク",
+      "高額な導入費用",
+      "日本での実績が未知"
+    ],
+    "officialUrl": "https://thinkingmachines.ai",
+    "logoPath": "/logos/thinking-machines.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "大企業のAI責任者",
+      "技術革新を求める経営者",
+      "AI投資家"
+    ],
+    "releaseYear": 2024,
+    "developer": "Thinking Machines",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "amazon-ai-cpu",
+    "name": "Amazon AI CPU",
+    "nameJa": "アマゾン AI CPU",
+    "description": "Amazonが開発した独自のAI専用CPU。従来のGPUに依存しないAI計算処理を実現し、Meta社が数百万個規模での導入契約を締結したことで話題となっています。消費電力効率に優れ、特定のAIワークロードにおいてはGPUを上回る性能を発揮します。クラウドサービスとしても提供され、AI開発者がより低コストで高性能なAI処理を実行できる環境を提供しています。",
+    "shortDescription": "GPU代替の高効率AI専用CPU",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "paid",
+      "plans": [
+        {
+          "name": "スタンダード",
+          "price": "時間あたり約150円",
+          "features": [
+            "基本AI処理",
+            "クラウドアクセス"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "大規模処理",
+            "専用サポート",
+            "カスタム構成"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "GPU代替AI処理",
+      "高エネルギー効率",
+      "クラウド統合",
+      "スケーラブル性能",
+      "コスト最適化"
+    ],
+    "pros": [
+      "消費電力が少ない",
+      "GPUより低コスト",
+      "Amazon生態系との統合",
+      "大規模採用実績"
+    ],
+    "cons": [
+      "特定用途に限定",
+      "技術的専門知識が必要",
+      "日本でのサポート体制"
+    ],
+    "officialUrl": "https://aws.amazon.com",
+    "logoPath": "/logos/amazon-ai-cpu.svg",
+    "rating": 4.4,
+    "recommendedFor": [
+      "AI開発企業",
+      "クラウドエンジニア",
+      "コスト効率重視の組織"
+    ],
+    "releaseYear": 2024,
+    "developer": "Amazon",
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "cohere-aleph-alpha",
+    "name": "Cohere-Aleph Alpha",
+    "nameJa": "コヒア アレフ アルファ",
+    "description": "CohereとAleph Alphaの合併により誕生した新しいAI企業。ヨーロッパの規制環境に対応した企業向けAIソリューションの提供に特化しており、データプライバシーとセキュリティを重視した大規模言語モデルを開発しています。特に金融、医療、政府機関などの規制が厳しい業界向けに、コンプライアンス対応済みのAIサービスを提供することで差別化を図っています。",
+    "shortDescription": "規制対応に特化した企業向けAI統合サービス",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "enterprise",
+      "plans": [
+        {
+          "name": "エンタープライズ",
+          "price": "要問い合わせ",
+          "features": [
+            "規制対応",
+            "データプライバシー保護",
+            "カスタム開発"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "規制対応AI",
+      "データプライバシー重視",
+      "金融・医療特化",
+      "ヨーロッパ基準準拠",
+      "セキュアな処理環境"
+    ],
+    "pros": [
+      "厳格な規制に対応",
+      "企業向け特化設計",
+      "データセキュリティが強固",
+      "業界専門知識が豊富"
+    ],
+    "cons": [
+      "コストが高い",
+      "導入プロセスが複雑",
+      "日本の規制との整合性"
+    ],
+    "officialUrl": "https://cohere.ai",
+    "logoPath": "/logos/cohere-aleph-alpha.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "金融機関",
+      "医療機関",
+      "規制対応が必要な企業"
+    ],
+    "releaseYear": 2024,
+    "developer": "Cohere-Aleph Alpha",
+    "lastUpdated": "2026-04-26"
   }
 ]

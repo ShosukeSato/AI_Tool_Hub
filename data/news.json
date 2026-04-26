@@ -1,5 +1,62 @@
 [
   {
+    "id": "new-hats-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "hats",
+    "title": "HATS が新しく追加されました",
+    "summary": "AIエージェント同士が議論して意思決定を改善",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-deepseek-v4-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "deepseek-v4",
+    "title": "DeepSeek V4 が新しく追加されました",
+    "summary": "最先端性能に迫る中国発のオープンAIモデル",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-feldera-embedded-agents-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "feldera-embedded-agents",
+    "title": "Feldera Embedded Agents が新しく追加されました",
+    "summary": "ソフトウェアに直接組み込まれるAIエージェント",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-thinking-machines-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "thinking-machines",
+    "title": "Thinking Machines が新しく追加されました",
+    "summary": "Meta出身者による注目の新興AI企業",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-amazon-ai-cpu-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "amazon-ai-cpu",
+    "title": "Amazon AI CPU が新しく追加されました",
+    "summary": "GPU代替の高効率AI専用CPU",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "new-cohere-aleph-alpha-2026-04-26",
+    "type": "new-tool",
+    "toolSlug": "cohere-aleph-alpha",
+    "title": "Cohere-Aleph Alpha が新しく追加されました",
+    "summary": "規制対応に特化した企業向けAI統合サービス",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "trending-claude-2026-04-26",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: I cancelled Claude: Token issues, declining quality, and poor support",
+    "date": "2026-04-26",
+    "source": "hackernews"
+  },
+  {
     "id": "new-browser-harness-2026-04-25",
     "type": "new-tool",
     "toolSlug": "browser-harness",
@@ -2533,14 +2590,5 @@
     "summary": "AI予測入力キーボード「Typeless」がHacker NewsやRedditで大きな注目を集めています。次の文章を予測して入力を効率化する革新的なアプローチが評価されています。",
     "date": "2026-03-28",
     "source": "Hacker News"
-  },
-  {
-    "id": "claude-code-update-20260327",
-    "type": "update",
-    "toolSlug": "claude-code",
-    "title": "Claude Code がCLIコーディングエージェントとして正式リリース",
-    "summary": "AnthropicがClaude Codeを正式リリース。ターミナルベースのAIコーディングアシスタントとして、コード生成・デバッグ・リファクタリングをCLIから直接実行可能に。開発者コミュニティで大きな反響。",
-    "date": "2026-03-27",
-    "source": "TechCrunch"
   }
 ]
