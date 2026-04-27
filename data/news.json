@@ -58,6 +58,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-04-27",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: An AI agent deleted our production database. The agent's confession is below",
+    "date": "2026-04-27",
+    "source": "hackernews"
+  },
+  {
     "id": "new-hats-2026-04-26",
     "type": "new-tool",
     "toolSlug": "hats",
