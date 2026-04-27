@@ -19576,5 +19576,281 @@
     "releaseYear": 2024,
     "developer": "Victor Taelin",
     "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "yourmemory",
+    "name": "YourMemory",
+    "nameJa": "ユアメモリー",
+    "description": "生物学的な記憶の忘却曲線を模倣した革新的なAI記憶システム。人間の記憶と同じように時間経過で情報が自然に薄れていき、52%の記憶保持率を実現。従来のAIが全ての情報を完璧に保持するのとは対照的に、重要でない情報は徐々に忘れ、重要な情報は強化される仕組みを採用。人間らしい記憶の仕組みをAIに導入することで、より自然で効率的な対話を可能にします。",
+    "shortDescription": "生物学的忘却を再現するAI記憶システム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "GitHub公開",
+            "カスタマイズ可能",
+            "API利用"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "生物学的記憶忘却の再現",
+      "52%記憶保持率",
+      "重要度による記憶強化",
+      "自然な対話体験",
+      "オープンソース"
+    ],
+    "pros": [
+      "人間らしい記憶システム",
+      "オープンソースで自由に利用可能",
+      "記憶の優先順位付けが自動",
+      "従来AIとの差別化"
+    ],
+    "cons": [
+      "まだ実験段階",
+      "記憶忘却により情報が失われる",
+      "商用サポートが限定的"
+    ],
+    "officialUrl": "https://github.com/sachitrafa/YourMemory",
+    "logoPath": "/logos/yourmemory.svg",
+    "rating": 3.8,
+    "recommendedFor": [
+      "AI研究者",
+      "開発者",
+      "記憶システムに興味がある人"
+    ],
+    "releaseYear": 2026,
+    "developer": "sachitrafa",
+    "lastUpdated": "2026-04-27"
+  },
+  {
+    "slug": "eli",
+    "name": "ELI",
+    "nameJa": "イーエルアイ",
+    "description": "ArXiv論文を子供でも理解できるレベルで解説してくれるAI説明ツール。「Explain Like I'm 5」の概念を学術論文に適用し、複雑な研究内容を分かりやすい言葉と例えで説明します。研究者や学生が最新の論文を素早く理解したり、専門外の分野の研究を把握するのに最適。対話形式で質問も可能で、論文の要点や背景、応用例まで丁寧に教えてくれます。",
+    "shortDescription": "ArXiv論文を分かりやすく解説するAI",
+    "category": "search-research",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "無料プラン",
+          "price": "無料",
+          "features": [
+            "基本的な論文解説",
+            "月5回まで"
+          ]
+        },
+        {
+          "name": "プレミアム",
+          "price": "$9.99/月",
+          "features": [
+            "無制限利用",
+            "詳細解説",
+            "質問機能"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "ArXiv論文の簡易解説",
+      "対話型質問機能",
+      "専門用語の平易化",
+      "例え話での説明",
+      "要点まとめ"
+    ],
+    "pros": [
+      "複雑な論文が理解しやすい",
+      "研究効率が向上",
+      "専門外分野も把握可能",
+      "学習コストを削減"
+    ],
+    "cons": [
+      "専門性の詳細が失われる場合",
+      "最新論文の対応に遅れ",
+      "完全な理解には限界"
+    ],
+    "officialUrl": "https://eli.voxos.ai/",
+    "logoPath": "/logos/eli.svg",
+    "rating": 4.2,
+    "recommendedFor": [
+      "研究者",
+      "大学院生",
+      "論文を読む必要がある人"
+    ],
+    "releaseYear": 2026,
+    "developer": "Voxos AI",
+    "lastUpdated": "2026-04-27"
+  },
+  {
+    "slug": "agentswarms",
+    "name": "AgentSwarms",
+    "nameJa": "エージェントスワームズ",
+    "description": "複数のAIエージェントが協調して作業するエージェンティックAIを学習できる無料のハンズオンプラットフォーム。セットアップ不要でブラウザ上で即座に始められ、AIエージェント同士の連携、タスク分散、群知能の概念を実際に体験しながら学べます。初心者から上級者まで対応した段階的なカリキュラムで、現在最も注目されているマルチエージェントAIの仕組みを実践的に習得できます。",
+    "shortDescription": "AIエージェント群を学ぶ無料学習プラットフォーム",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "完全無料",
+          "price": "無料",
+          "features": [
+            "全機能利用可能",
+            "セットアップ不要",
+            "ハンズオン学習"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "マルチエージェント学習",
+      "ブラウザベース実行",
+      "段階的カリキュラム",
+      "実践的演習",
+      "セットアップ不要"
+    ],
+    "pros": [
+      "完全無料で利用可能",
+      "実際に動かして学習できる",
+      "最新のAI技術を習得",
+      "環境構築が不要"
+    ],
+    "cons": [
+      "日本語対応が限定的",
+      "高度な機能は別途学習が必要",
+      "オフライン利用不可"
+    ],
+    "officialUrl": "https://agentswarms.fyi/",
+    "logoPath": "/logos/agentswarms.svg",
+    "rating": 4.1,
+    "recommendedFor": [
+      "AI学習者",
+      "エンジニア",
+      "研究者"
+    ],
+    "releaseYear": 2026,
+    "developer": "AgentSwarms Team",
+    "lastUpdated": "2026-04-27"
+  },
+  {
+    "slug": "8v",
+    "name": "8v",
+    "nameJa": "エイトブイ",
+    "description": "人間とAIエージェントが共同で使用できる革新的なコマンドラインインターフェース。従来のCLIツールと比較して最大66%のトークン使用量を削減しながら、AIエージェントが理解しやすい形でコマンド実行を可能にします。開発者とAIが同じツールを使って効率的に作業できるため、AI支援開発ワークフローを大幅に改善。シンプルな設計でありながら強力な機能を提供し、次世代の人間-AI協働を実現します。",
+    "shortDescription": "人間とAI両対応の効率的CLI",
+    "category": "coding-assistant",
+    "subcategories": [],
+    "pricing": {
+      "type": "free",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "GitHub公開",
+            "全機能利用",
+            "商用利用可"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "66%トークン削減",
+      "AI-人間共用インターフェース",
+      "効率的コマンド実行",
+      "開発ワークフロー最適化",
+      "軽量設計"
+    ],
+    "pros": [
+      "大幅なトークン削減でコスト効率化",
+      "AIとの協働がスムーズ",
+      "オープンソースで自由利用",
+      "学習コストが低い"
+    ],
+    "cons": [
+      "まだ新しいツールで事例が少ない",
+      "既存ツールからの移行が必要",
+      "高度な機能は限定的"
+    ],
+    "officialUrl": "https://github.com/8Network/8v",
+    "logoPath": "/logos/8v.svg",
+    "rating": 3.9,
+    "recommendedFor": [
+      "開発者",
+      "AIエンジニア",
+      "効率化を求める人"
+    ],
+    "releaseYear": 2026,
+    "developer": "8Network",
+    "lastUpdated": "2026-04-27"
+  },
+  {
+    "slug": "defensive-database-design",
+    "name": "Defensive Database Design",
+    "nameJa": "ディフェンシブデータベース",
+    "description": "AIエージェントが引き起こすデータベース操作の予期しない問題に対応した新しいデータベース設計手法とツール群。従来のデータベース設計がAIエージェントの自動操作を想定していないため発生する、本文で紹介された「AIエージェントによる本番データベース削除事故」のような問題を防ぐための防御的アーキテクチャを提案。AIエージェント時代に適したデータ保護機能、操作制限、監査機能を実装します。",
+    "shortDescription": "AIエージェント時代の安全なDB設計",
+    "category": "ai-platform",
+    "subcategories": [],
+    "pricing": {
+      "type": "freemium",
+      "plans": [
+        {
+          "name": "オープンソース",
+          "price": "無料",
+          "features": [
+            "基本的な防御機能",
+            "コミュニティサポート"
+          ]
+        },
+        {
+          "name": "エンタープライズ",
+          "price": "要相談",
+          "features": [
+            "高度な監査機能",
+            "カスタマイズ",
+            "専門サポート"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AIエージェント操作監視",
+      "防御的DB設計",
+      "自動バックアップ",
+      "操作制限機能",
+      "リアルタイム監査"
+    ],
+    "pros": [
+      "AIエージェント事故を防止",
+      "データ保護が強化",
+      "企業レベルの信頼性",
+      "将来の問題を予防"
+    ],
+    "cons": [
+      "導入コストが高い",
+      "既存システム改修が必要",
+      "パフォーマンスへの影響"
+    ],
+    "officialUrl": "https://arpitbhayani.me/blogs/defensive-databases/",
+    "logoPath": "/logos/defensive-database-design.svg",
+    "rating": 4.3,
+    "recommendedFor": [
+      "データベース管理者",
+      "企業IT部門",
+      "AIシステム運用者"
+    ],
+    "releaseYear": 2026,
+    "developer": "Arpit Bhayani",
+    "lastUpdated": "2026-04-27"
   }
 ]

@@ -1,5 +1,63 @@
 [
   {
+    "id": "new-yourmemory-2026-04-27",
+    "type": "new-tool",
+    "toolSlug": "yourmemory",
+    "title": "YourMemory が新しく追加されました",
+    "summary": "生物学的忘却を再現するAI記憶システム",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "new-eli-2026-04-27",
+    "type": "new-tool",
+    "toolSlug": "eli",
+    "title": "ELI が新しく追加されました",
+    "summary": "ArXiv論文を分かりやすく解説するAI",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "new-agentswarms-2026-04-27",
+    "type": "new-tool",
+    "toolSlug": "agentswarms",
+    "title": "AgentSwarms が新しく追加されました",
+    "summary": "AIエージェント群を学ぶ無料学習プラットフォーム",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "new-8v-2026-04-27",
+    "type": "new-tool",
+    "toolSlug": "8v",
+    "title": "8v が新しく追加されました",
+    "summary": "人間とAI両対応の効率的CLI",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "new-defensive-database-design-2026-04-27",
+    "type": "new-tool",
+    "toolSlug": "defensive-database-design",
+    "title": "Defensive Database Design が新しく追加されました",
+    "summary": "AIエージェント時代の安全なDB設計",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "trending-gpt-5-5-2026-04-27",
+    "type": "trending",
+    "toolSlug": "gpt-5-5",
+    "title": "GPT-5.5 が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: GPT-5.5",
+    "date": "2026-04-27",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-chatgpt-2026-04-27",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 7.7）",
+    "summary": "hackernewsで注目: Amateur armed with ChatGPT solves an Erdős problem",
+    "date": "2026-04-27",
+    "source": "hackernews"
+  },
+  {
     "id": "new-hats-2026-04-26",
     "type": "new-tool",
     "toolSlug": "hats",
@@ -2629,15 +2687,6 @@
     "title": "OpenClaw がGitHubスター20万突破、ただしセキュリティに懸念",
     "summary": "オープンソースAIエージェント「OpenClaw」がGitHubスター20万を突破し爆発的人気。しかしroot権限を要求する仕組みにセキュリティ研究者が警告を発しており、仮想環境での利用が推奨されています。",
     "date": "2026-03-29",
-    "source": "Hacker News"
-  },
-  {
-    "id": "typeless-trending-20260328",
-    "type": "trending",
-    "toolSlug": "typeless",
-    "title": "Typeless がSNSで話題沸騰中",
-    "summary": "AI予測入力キーボード「Typeless」がHacker NewsやRedditで大きな注目を集めています。次の文章を予測して入力を効率化する革新的なアプローチが評価されています。",
-    "date": "2026-03-28",
     "source": "Hacker News"
   }
 ]

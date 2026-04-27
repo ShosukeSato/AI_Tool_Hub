@@ -8,119 +8,110 @@
         "source": "hackernews",
         "title": "GPT-5.5",
         "url": "https://openai.com/index/introducing-gpt-5-5/",
-        "score": 1561,
-        "date": "2026-04-26"
+        "score": 1566,
+        "date": "2026-04-27"
       },
       {
         "source": "googlenews",
         "title": "Introducing GPT-5.5 - OpenAI",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-24",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 6.8,
+    "buzzScore": 7.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Amateur armed with ChatGPT solves an Erdős problem",
         "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-        "score": 471,
-        "date": "2026-04-26"
-      },
-      {
-        "source": "hackernews",
-        "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-        "url": "https://alash3al.github.io/stash?_v01",
-        "score": 173,
-        "date": "2026-04-26"
+        "score": 744,
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-07",
-    "lastSeen": "2026-04-26"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 3.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Plain text has been around for decades and it’s here to stay",
-        "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-        "score": 296,
-        "date": "2026-04-26"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 3.3,
+    "buzzScore": 6.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Simple Sabotage of Agents",
-        "url": "https://alexschroeder.ch/view/2026-03-12-agent-sabotage",
-        "score": 10,
-        "date": "2026-04-26"
+        "title": "An AI agent deleted our production database. The agent's confession is below",
+        "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+        "score": 472,
+        "date": "2026-04-27"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain",
-        "url": "Markdown and Git) (https://github.com/nex-crm/wuphf",
-        "score": 239,
-        "date": "2026-04-26"
+        "title": "Agentic AI systems violate the implicit assumptions of database design",
+        "url": "https://arpitbhayani.me/blogs/defensive-databases/",
+        "score": 97,
+        "date": "2026-04-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: AgentSwarms – free hands-on playground to learn agentic AI, no setup",
+        "url": "https://agentswarms.fyi/",
+        "score": 7,
+        "date": "2026-04-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "8v: One CLI for you and your AI agent. Up to 66% fewer tokens",
+        "url": "https://github.com/8Network/8v",
+        "score": 7,
+        "date": "2026-04-27"
       },
       {
         "source": "googlenews",
         "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       },
       {
         "source": "googlenews",
         "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       },
       {
         "source": "techcrunch",
         "title": "Anthropic created a test marketplace for agent-on-agent commerce",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "openai-privacy-filter",
     "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 3.1,
+    "buzzScore": 3.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "OpenAI Privacy Filter",
         "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-        "score": 234,
-        "date": "2026-04-26"
+        "score": 287,
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -134,9 +125,25 @@
     "lastSeen": "2026-04-24"
   },
   {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Three constraints before I build anything",
+        "url": "https://jordanlord.co.uk/blog/3-constraints/",
+        "score": 55,
+        "date": "2026-04-27"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-27"
+  },
+  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -152,7 +159,7 @@
   {
     "toolSlug": "browser-harness",
     "toolName": "Browser Harness",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -168,7 +175,7 @@
   {
     "toolSlug": "gomodel",
     "toolName": "GoModel",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -184,7 +191,7 @@
   {
     "toolSlug": "ternary-bonsai",
     "toolName": "Ternary Bonsai",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -198,9 +205,25 @@
     "lastSeen": "2026-04-21"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ELI: Explain Like I'm for any ArXiv Paper",
+        "url": "https://eli.voxos.ai/",
+        "score": 6,
+        "date": "2026-04-27"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-27"
+  },
+  {
     "toolSlug": "minizinc",
     "toolName": "MiniZinc",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -221,13 +244,13 @@
       {
         "source": "hackernews",
         "title": "Terra API",
-        "url": "YC W21) Hiring: Applied AI Strategist(Health Intelligence) (https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+        "url": "YC W21) Hiring: Applied AI Strategist (Health Intelligence) (https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "arisealpha",
@@ -238,11 +261,11 @@
         "source": "googlenews",
         "title": "AriseAlpha Launches Free AI Trading App to Power Automated Crypto and Stock Investing (2026) - markets.businessinsider.com",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-25",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "mythos",
@@ -253,11 +276,11 @@
         "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-20",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "gemma-4",
@@ -268,11 +291,11 @@
         "source": "googlenews",
         "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "claude",
@@ -281,19 +304,40 @@
     "mentions": [
       {
         "source": "googlenews",
+        "title": "2026年4月｜Claude Code教材どれ買うべき？目的別7つのBrain比較！AI副業の自動化 - 選挙ドットコム",
+        "score": 1,
+        "date": "2026-04-27"
+      },
+      {
+        "source": "googlenews",
         "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       },
       {
         "source": "googlenews",
         "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-04-27"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "com",
@@ -304,11 +348,11 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "davinci-resolve-21",
@@ -319,11 +363,11 @@
         "source": "googlenews",
         "title": "DaVinci Resolve 21 ベータ版がリリース！写真編集「Photoページ」搭載、顔の年齢調整など次世代AIツールの追加など - CGinterest",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "pholly",
@@ -334,11 +378,26 @@
         "source": "googlenews",
         "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
+  },
+  {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-27"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "where",
@@ -349,11 +408,11 @@
         "source": "googlenews",
         "title": "地権者とつながる不動産AIツール『WHERE』、全国の衛星データと不動産情報約7,300万件をデータベース化。条件に合う候補物件数を最短1秒で可視化 - PR TIMES",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-17",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "thinking-machines",
@@ -364,11 +423,11 @@
         "source": "techcrunch",
         "title": "Meta&#8217;s loss is Thinking Machines&#8217; gain",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "cursor",
@@ -379,11 +438,11 @@
         "source": "techcrunch",
         "title": "Apple&#8217;s new CEO, and why Elon Musk wants to buy Cursor for $60B",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "deepseek",
@@ -394,11 +453,11 @@
         "source": "techcrunch",
         "title": "DeepSeek previews new AI model that &#8216;closes the gap&#8217; with frontier models",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-25",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "amazon-ai-cpu",
@@ -409,11 +468,11 @@
         "source": "techcrunch",
         "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "fragment",
@@ -424,16 +483,16 @@
         "source": "techcrunch",
         "title": "Bret Taylor&#8217;s Sierra buys YC-backed AI startup Fragment",
         "score": 1,
-        "date": "2026-04-26"
+        "date": "2026-04-27"
       }
     ],
     "firstSeen": "2026-04-24",
-    "lastSeen": "2026-04-26"
+    "lastSeen": "2026-04-27"
   },
   {
     "toolSlug": "noscroll",
     "toolName": "Noscroll",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -448,7 +507,7 @@
   {
     "toolSlug": "atomic",
     "toolName": "Atomic",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -464,7 +523,7 @@
   {
     "toolSlug": "mediator-ai",
     "toolName": "Mediator.ai",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -480,7 +539,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -496,7 +555,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -511,7 +570,7 @@
   {
     "toolSlug": "tipsv2",
     "toolName": "TIPSv2",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -525,24 +584,9 @@
     "lastSeen": "2026-04-25"
   },
   {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-25"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-25"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -557,7 +601,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -573,7 +617,7 @@
   {
     "toolSlug": "swiss-ai-initiative",
     "toolName": "Swiss AI Initiative",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -589,7 +633,7 @@
   {
     "toolSlug": "cirrus-labs",
     "toolName": "Cirrus Labs",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -601,51 +645,5 @@
     ],
     "firstSeen": "2026-04-12",
     "lastSeen": "2026-04-13"
-  },
-  {
-    "toolSlug": "attie",
-    "toolName": "Attie",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance - TechCrunch",
-        "score": 1,
-        "date": "2026-04-24"
-      }
-    ],
-    "firstSeen": "2026-04-24",
-    "lastSeen": "2026-04-24"
-  },
-  {
-    "toolSlug": "voicelog",
-    "toolName": "VoiceLog",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "アピリッツ、クチコミ・レビュー投稿管理ツール「VoiceLog」に生成AIを活用した新機能「レビュー要約機能」をリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-04-24"
-      }
-    ],
-    "firstSeen": "2026-04-24",
-    "lastSeen": "2026-04-24"
-  },
-  {
-    "toolSlug": "localllm",
-    "toolName": "LocalLLM",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: LocalLLM – Recipes for Running the Local LLM",
-        "url": "Need Contributors) (https://locallllm.fly.dev",
-        "score": 10,
-        "date": "2026-04-24"
-      }
-    ],
-    "firstSeen": "2026-04-24",
-    "lastSeen": "2026-04-24"
   }
 ]
