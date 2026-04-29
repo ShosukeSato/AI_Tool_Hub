@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-github-copilot-2026-04-29",
+    "type": "trending",
+    "toolSlug": "github-copilot",
+    "title": "GitHub Copilot が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: GitHub Copilot code review will start consuming GitHub Actions minutes",
+    "date": "2026-04-29",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-04-29",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.5）",
+    "summary": "hackernewsで注目: Claude system prompt bug wastes user money and bricks managed agents",
+    "date": "2026-04-29",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-04-28",
     "type": "trending",
     "toolSlug": "chatgpt",
