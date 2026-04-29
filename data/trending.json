@@ -8,14 +8,14 @@
         "source": "hackernews",
         "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
         "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-        "score": 258,
+        "score": 294,
         "date": "2026-04-29"
       },
       {
         "source": "hackernews",
         "title": "GitHub Copilot is moving to usage-based billing",
         "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-        "score": 747,
+        "score": 755,
         "date": "2026-04-29"
       }
     ],
@@ -25,34 +25,34 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 7.5,
+    "buzzScore": 8.7,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude system prompt bug wastes user money and bricks managed agents",
-        "url": "https://github.com/anthropics/claude-code/issues/49363",
-        "score": 128,
-        "date": "2026-04-29"
-      },
       {
         "source": "hackernews",
         "title": "Who owns the code Claude Code wrote?",
         "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-        "score": 267,
+        "score": 458,
+        "date": "2026-04-29"
+      },
+      {
+        "source": "hackernews",
+        "title": "Anthropic's Champion Kit for engineers pushing Claude Code at their company",
+        "url": "https://code.claude.com/docs/en/champion-kit",
+        "score": 19,
         "date": "2026-04-29"
       },
       {
         "source": "hackernews",
         "title": "Claude for Creative Work",
         "url": "https://www.anthropic.com/news/claude-for-creative-work",
-        "score": 59,
+        "score": 130,
         "date": "2026-04-29"
       },
       {
         "source": "hackernews",
         "title": "Claude.ai unavailable and elevated errors on the API",
         "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-        "score": 274,
+        "score": 287,
         "date": "2026-04-29"
       },
       {
@@ -66,63 +66,21 @@
     "lastSeen": "2026-04-29"
   },
   {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 4.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Three constraints before I build anything",
-        "url": "https://jordanlord.co.uk/blog/3-constraints/",
-        "score": 351,
-        "date": "2026-04-28"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-04-28"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 4.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-        "url": "https://github.com/dirac-run/dirac",
-        "score": 367,
-        "date": "2026-04-29"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-04-29"
-  },
-  {
-    "toolSlug": "openai-privacy-filter",
-    "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 2.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenAI Privacy Filter",
-        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-        "score": 287,
-        "date": "2026-04-27"
-      }
-    ],
-    "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-27"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 2.5,
+    "buzzScore": 4.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "How ChatGPT serves ads",
         "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-        "score": 171,
+        "score": 404,
+        "date": "2026-04-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "オールインワンAIツール「NitoAI」がOpenAI最新画像生成モデル「ChatGPT-images 2.0」に対応 - 沖縄タイムス社",
+        "score": 1,
         "date": "2026-04-29"
       }
     ],
@@ -132,33 +90,34 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.1,
+    "buzzScore": 4.4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Donating Agent Payments Protocol to the Fido Alliance",
-        "url": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
-        "score": 11,
+        "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+        "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+        "score": 15,
         "date": "2026-04-29"
       },
       {
         "source": "hackernews",
-        "title": "Proxies, Sandboxes and Agent Security",
-        "url": "https://www.gouthamve.dev/proxies-sandboxes-and-agent-security/",
-        "score": 5,
+        "title": "Regression: malware reminder on every read still causes subagent refusals",
+        "url": "https://github.com/anthropics/claude-code/issues/49363",
+        "score": 237,
         "date": "2026-04-29"
       },
       {
         "source": "hackernews",
         "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
         "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
-        "score": 104,
+        "score": 128,
         "date": "2026-04-29"
       },
       {
-        "source": "googlenews",
-        "title": "Alipay launches AI payment processing tool for businesses as agent-based commerce Expands - TNGlobal",
-        "score": 1,
+        "source": "hackernews",
+        "title": "Donating Agent Payments Protocol to the Fido Alliance",
+        "url": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
+        "score": 12,
         "date": "2026-04-29"
       },
       {
@@ -174,20 +133,8 @@
         "date": "2026-04-29"
       },
       {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-04-29"
-      },
-      {
         "source": "techcrunch",
         "title": "OpenAI could be making a phone with AI agents replacing apps",
-        "score": 1,
-        "date": "2026-04-29"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic created a test marketplace for agent-on-agent commerce",
         "score": 1,
         "date": "2026-04-29"
       }
@@ -196,9 +143,57 @@
     "lastSeen": "2026-04-29"
   },
   {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 4.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Three constraints before I build anything",
+        "url": "https://jordanlord.co.uk/blog/3-constraints/",
+        "score": 351,
+        "date": "2026-04-28"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-28"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 3.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+        "url": "https://github.com/dirac-run/dirac",
+        "score": 367,
+        "date": "2026-04-29"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-29"
+  },
+  {
+    "toolSlug": "openai-privacy-filter",
+    "toolName": "OpenAI Privacy Filter",
+    "buzzScore": 2.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenAI Privacy Filter",
+        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+        "score": 287,
+        "date": "2026-04-27"
+      }
+    ],
+    "firstSeen": "2026-04-26",
+    "lastSeen": "2026-04-27"
+  },
+  {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -214,7 +209,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -258,6 +253,36 @@
     "lastSeen": "2026-04-29"
   },
   {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-04-29"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-29"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-04-29"
+      }
+    ],
+    "firstSeen": "2026-04-29",
+    "lastSeen": "2026-04-29"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
     "buzzScore": 1,
@@ -285,6 +310,36 @@
       }
     ],
     "firstSeen": "2026-04-19",
+    "lastSeen": "2026-04-29"
+  },
+  {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-04-29"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-04-29"
+  },
+  {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+        "score": 1,
+        "date": "2026-04-29"
+      }
+    ],
+    "firstSeen": "2026-04-29",
     "lastSeen": "2026-04-29"
   },
   {
@@ -350,7 +405,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -366,7 +421,7 @@
   {
     "toolSlug": "browser-harness",
     "toolName": "Browser Harness",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -382,7 +437,7 @@
   {
     "toolSlug": "gomodel",
     "toolName": "GoModel",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -398,7 +453,7 @@
   {
     "toolSlug": "terra-api",
     "toolName": "Terra API",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -412,39 +467,9 @@
     "lastSeen": "2026-04-28"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
-        "score": 1,
-        "date": "2026-04-28"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-04-28"
-  },
-  {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-04-28"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-28"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -459,7 +484,7 @@
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -474,7 +499,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -489,7 +514,7 @@
   {
     "toolSlug": "ternary-bonsai",
     "toolName": "Ternary Bonsai",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -505,7 +530,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -520,7 +545,7 @@
   {
     "toolSlug": "minizinc",
     "toolName": "MiniZinc",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -536,7 +561,7 @@
   {
     "toolSlug": "arisealpha",
     "toolName": "AriseAlpha",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -551,7 +576,7 @@
   {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -566,7 +591,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -581,7 +606,7 @@
   {
     "toolSlug": "amazon-ai-cpu",
     "toolName": "Amazon AI CPU",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -596,7 +621,7 @@
   {
     "toolSlug": "fragment",
     "toolName": "Fragment",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -607,68 +632,5 @@
     ],
     "firstSeen": "2026-04-24",
     "lastSeen": "2026-04-27"
-  },
-  {
-    "toolSlug": "noscroll",
-    "toolName": "Noscroll",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-        "score": 1,
-        "date": "2026-04-26"
-      }
-    ],
-    "firstSeen": "2026-04-24",
-    "lastSeen": "2026-04-26"
-  },
-  {
-    "toolSlug": "atomic",
-    "toolName": "Atomic",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
-        "url": "https://atomicapp.ai/",
-        "score": 57,
-        "date": "2026-04-25"
-      }
-    ],
-    "firstSeen": "2026-04-25",
-    "lastSeen": "2026-04-25"
-  },
-  {
-    "toolSlug": "mediator-ai",
-    "toolName": "Mediator.ai",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
-        "url": "https://mediator.ai/",
-        "score": 150,
-        "date": "2026-04-22"
-      }
-    ],
-    "firstSeen": "2026-04-21",
-    "lastSeen": "2026-04-22"
-  },
-  {
-    "toolSlug": "llama",
-    "toolName": "Llama",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "The local LLM ecosystem doesn’t need Ollama",
-        "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-        "score": 547,
-        "date": "2026-04-16"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-04-16"
   }
 ]
