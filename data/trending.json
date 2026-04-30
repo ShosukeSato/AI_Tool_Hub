@@ -8,27 +8,21 @@
         "source": "hackernews",
         "title": "Claude.ai and API unavailable [fixed]",
         "url": "https://status.claude.com/incidents/2gf1jpyty350",
-        "score": 93,
+        "score": 118,
         "date": "2026-04-30"
       },
       {
         "source": "hackernews",
         "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
         "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-        "score": 68,
-        "date": "2026-04-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude.ai down again? ()",
-        "score": 21,
+        "score": 86,
         "date": "2026-04-30"
       },
       {
         "source": "hackernews",
         "title": "Who owns the code Claude Code wrote?",
         "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-        "score": 539,
+        "score": 543,
         "date": "2026-04-30"
       },
       {
@@ -62,13 +56,13 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 7.1,
+    "buzzScore": 6.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "How ChatGPT serves ads",
         "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-        "score": 489,
+        "score": 495,
         "date": "2026-04-30"
       }
     ],
@@ -76,33 +70,65 @@
     "lastSeen": "2026-04-30"
   },
   {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 5.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author ()",
+        "score": 39,
+        "date": "2026-04-30"
+      },
+      {
+        "source": "hackernews",
+        "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+        "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+        "score": 308,
+        "date": "2026-04-30"
+      }
+    ],
+    "firstSeen": "2026-04-22",
+    "lastSeen": "2026-04-30"
+  },
+  {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 3.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Three constraints before I build anything",
+        "url": "https://jordanlord.co.uk/blog/3-constraints/",
+        "score": 351,
+        "date": "2026-04-28"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-28"
+  },
+  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.6,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Letting AI play my game – building an agentic test harness to help play-testing",
         "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-        "score": 121,
+        "score": 128,
         "date": "2026-04-30"
       },
       {
         "source": "hackernews",
-        "title": "Regression: malware reminder on every read still causes subagent refusals",
-        "url": "https://github.com/anthropics/claude-code/issues/49363",
-        "score": 248,
+        "title": "Show HN: Agent that refuses to run commands without human approval",
+        "url": "https://github.com/few-sh/fewshell",
+        "score": 10,
         "date": "2026-04-30"
       },
       {
         "source": "googlenews",
         "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
-        "score": 1,
-        "date": "2026-04-30"
-      },
-      {
-        "source": "googlenews",
-        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
         "score": 1,
         "date": "2026-04-30"
       },
@@ -117,41 +143,9 @@
     "lastSeen": "2026-04-30"
   },
   {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
-    "buzzScore": 4.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-        "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-        "score": 303,
-        "date": "2026-04-30"
-      }
-    ],
-    "firstSeen": "2026-04-22",
-    "lastSeen": "2026-04-30"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 3.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Three constraints before I build anything",
-        "url": "https://jordanlord.co.uk/blog/3-constraints/",
-        "score": 351,
-        "date": "2026-04-28"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-04-28"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -167,7 +161,7 @@
   {
     "toolSlug": "openai-privacy-filter",
     "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -179,22 +173,6 @@
     ],
     "firstSeen": "2026-04-26",
     "lastSeen": "2026-04-27"
-  },
-  {
-    "toolSlug": "zed",
-    "toolName": "Zed",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Parallel agents in Zed",
-        "url": "https://zed.dev/blog/parallel-agents",
-        "score": 273,
-        "date": "2026-04-24"
-      }
-    ],
-    "firstSeen": "2026-04-23",
-    "lastSeen": "2026-04-24"
   },
   {
     "toolSlug": "mythos",
@@ -212,21 +190,6 @@
     "lastSeen": "2026-04-30"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-04-30"
-      }
-    ],
-    "firstSeen": "2026-04-29",
-    "lastSeen": "2026-04-30"
-  },
-  {
     "toolSlug": "dify",
     "toolName": "Dify",
     "buzzScore": 1,
@@ -239,6 +202,21 @@
       }
     ],
     "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-30"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-04-30"
+      }
+    ],
+    "firstSeen": "2026-04-29",
     "lastSeen": "2026-04-30"
   },
   {
@@ -347,9 +325,25 @@
     "lastSeen": "2026-04-30"
   },
   {
+    "toolSlug": "zed",
+    "toolName": "Zed",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Parallel agents in Zed",
+        "url": "https://zed.dev/blog/parallel-agents",
+        "score": 273,
+        "date": "2026-04-24"
+      }
+    ],
+    "firstSeen": "2026-04-23",
+    "lastSeen": "2026-04-24"
+  },
+  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -364,7 +358,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -380,7 +374,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -395,7 +389,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -410,7 +404,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -425,7 +419,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -440,7 +434,7 @@
   {
     "toolSlug": "browser-harness",
     "toolName": "Browser Harness",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -456,7 +450,7 @@
   {
     "toolSlug": "gomodel",
     "toolName": "GoModel",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -472,7 +466,7 @@
   {
     "toolSlug": "terra-api",
     "toolName": "Terra API",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -488,7 +482,7 @@
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -503,7 +497,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -518,7 +512,7 @@
   {
     "toolSlug": "ternary-bonsai",
     "toolName": "Ternary Bonsai",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -530,36 +524,5 @@
     ],
     "firstSeen": "2026-04-21",
     "lastSeen": "2026-04-21"
-  },
-  {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemma 4: Byte for byte, the most capable open models - blog.google",
-        "score": 1,
-        "date": "2026-04-27"
-      }
-    ],
-    "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-27"
-  },
-  {
-    "toolSlug": "minizinc",
-    "toolName": "MiniZinc",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "MiniZinc, constraint modelling language solve discrete optimisation problems",
-        "url": "https://www.minizinc.org",
-        "score": 55,
-        "date": "2026-04-26"
-      }
-    ],
-    "firstSeen": "2026-04-25",
-    "lastSeen": "2026-04-26"
   }
 ]
