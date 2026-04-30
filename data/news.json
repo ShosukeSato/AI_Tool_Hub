@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-04-30",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude.ai and API unavailable [fixed]",
+    "date": "2026-04-30",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-chatgpt-2026-04-30",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 7.1）",
+    "summary": "hackernewsで注目: How ChatGPT serves ads",
+    "date": "2026-04-30",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-github-copilot-2026-04-29",
     "type": "trending",
     "toolSlug": "github-copilot",
