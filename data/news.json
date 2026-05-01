@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-05-01",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "date": "2026-05-01",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-04-30",
     "type": "trending",
     "toolSlug": "claude",
