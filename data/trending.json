@@ -6,9 +6,23 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Apple accidentally left Claude.md files Apple Support app",
+        "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+        "score": 92,
+        "date": "2026-05-01"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
         "url": "https://twitter.com/theo/status/2049645973350363168",
-        "score": 986,
+        "score": 1211,
+        "date": "2026-05-01"
+      },
+      {
+        "source": "hackernews",
+        "title": "How People ask Claude for personal guidance",
+        "url": "https://www.anthropic.com/research/claude-personal-guidance",
+        "score": 14,
         "date": "2026-05-01"
       },
       {
@@ -19,7 +33,7 @@
       },
       {
         "source": "googlenews",
-        "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma - VentureBeat",
+        "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
         "score": 1,
         "date": "2026-05-01"
       },
@@ -42,7 +56,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 4.7,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -64,7 +78,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -78,38 +92,22 @@
     "lastSeen": "2026-04-28"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
-        "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
-        "score": 125,
-        "date": "2026-04-30"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-30"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.8,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-        "url": "https://pu.dev/",
-        "score": 70,
+        "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+        "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+        "score": 32,
         "date": "2026-05-01"
       },
       {
         "source": "hackernews",
-        "title": "Agentic coding is burning me out",
-        "url": "https://www.0xsid.com/blog/agentic-coding-fatigue",
-        "score": 17,
+        "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+        "url": "https://pu.dev/",
+        "score": 84,
         "date": "2026-05-01"
       },
       {
@@ -120,7 +118,7 @@
       },
       {
         "source": "googlenews",
-        "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
+        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
         "score": 1,
         "date": "2026-05-01"
       },
@@ -135,53 +133,33 @@
     "lastSeen": "2026-05-01"
   },
   {
-    "toolSlug": "openai-privacy-filter",
-    "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 1.7,
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "OpenAI Privacy Filter",
-        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-        "score": 287,
-        "date": "2026-04-27"
+        "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+        "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+        "score": 125,
+        "date": "2026-04-30"
       }
     ],
-    "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-27"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AI Web Browsers: Selection Guide including ChatGPT Atlas in 2026 - AIMultiple",
-        "score": 1,
-        "date": "2026-05-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-        "score": 1,
-        "date": "2026-05-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-        "score": 1,
-        "date": "2026-05-01"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-01"
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-30"
   },
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1,
+    "buzzScore": 1.7,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+        "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+        "score": 83,
+        "date": "2026-05-01"
+      },
       {
         "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
@@ -199,33 +177,62 @@
     "lastSeen": "2026-05-01"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
+    "toolSlug": "openai-privacy-filter",
+    "toolName": "OpenAI Privacy Filter",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenAI Privacy Filter",
+        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+        "score": 287,
+        "date": "2026-04-27"
+      }
+    ],
+    "firstSeen": "2026-04-26",
+    "lastSeen": "2026-04-27"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
-        "score": 1,
+        "source": "hackernews",
+        "title": "'Rogue' Cursor AI agent loses control and wipes company's database",
+        "url": "https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181",
+        "score": 6,
         "date": "2026-05-01"
       }
     ],
-    "firstSeen": "2026-04-27",
+    "firstSeen": "2026-05-01",
     "lastSeen": "2026-05-01"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "『できるChatGPT 改訂2版』発売前重版決定を記念して、5月1日（金）から6日間限定で人気AI関連書籍4タイトルを全文無料公開 - ニコニコニュース",
+        "score": 1,
+        "date": "2026-05-01"
+      },
+      {
+        "source": "techcrunch",
+        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+        "score": 1,
+        "date": "2026-05-01"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
         "score": 1,
         "date": "2026-05-01"
       }
     ],
-    "firstSeen": "2026-04-29",
+    "firstSeen": "2026-04-07",
     "lastSeen": "2026-05-01"
   },
   {
@@ -304,9 +311,39 @@
     "lastSeen": "2026-05-01"
   },
   {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-05-01"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-01"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-01"
+      }
+    ],
+    "firstSeen": "2026-04-29",
+    "lastSeen": "2026-05-01"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -321,7 +358,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -336,7 +373,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -351,7 +388,7 @@
   {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -367,7 +404,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -382,7 +419,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -398,7 +435,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -413,7 +450,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -428,7 +465,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -443,7 +480,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -454,37 +491,5 @@
     ],
     "firstSeen": "2026-04-27",
     "lastSeen": "2026-04-29"
-  },
-  {
-    "toolSlug": "browser-harness",
-    "toolName": "Browser Harness",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
-        "url": "https://github.com/browser-use/browser-harness",
-        "score": 117,
-        "date": "2026-04-26"
-      }
-    ],
-    "firstSeen": "2026-04-25",
-    "lastSeen": "2026-04-26"
-  },
-  {
-    "toolSlug": "gomodel",
-    "toolName": "GoModel",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: GoModel – an open-source AI gateway in Go",
-        "url": "https://github.com/ENTERPILOT/GOModel/",
-        "score": 202,
-        "date": "2026-04-23"
-      }
-    ],
-    "firstSeen": "2026-04-22",
-    "lastSeen": "2026-04-23"
   }
 ]
