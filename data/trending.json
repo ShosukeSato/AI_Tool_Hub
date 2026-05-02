@@ -6,57 +6,69 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Apple accidentally left Claude.md files Apple Support app",
-        "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
-        "score": 92,
-        "date": "2026-05-01"
-      },
-      {
-        "source": "hackernews",
         "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
         "url": "https://twitter.com/theo/status/2049645973350363168",
-        "score": 1211,
-        "date": "2026-05-01"
+        "score": 1310,
+        "date": "2026-05-02"
       },
       {
         "source": "hackernews",
-        "title": "How People ask Claude for personal guidance",
-        "url": "https://www.anthropic.com/research/claude-personal-guidance",
-        "score": 14,
-        "date": "2026-05-01"
+        "title": "Uber torches 2026 AI budget on Claude Code in four months",
+        "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+        "score": 369,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "Apple accidentally left Claude.md files Apple Support app",
+        "url": "https://x.com/aaronp613/status/2049986504617820551",
+        "score": 366,
+        "date": "2026-05-02"
       },
       {
         "source": "googlenews",
         "title": "Adobe for creativity: a new way to create with Adobe, now in Claude - Adobe",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Claude Mythos AI unauthorised access claim probed by Anthropic - BBC",
+        "score": 1,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma - VentureBeat",
+        "score": 1,
+        "date": "2026-05-02"
       },
       {
         "source": "googlenews",
         "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       },
       {
         "source": "googlenews",
         "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       },
       {
         "source": "googlenews",
         "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-01"
+    "lastSeen": "2026-05-02"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 4.2,
+    "buzzScore": 3.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -78,7 +90,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -92,50 +104,9 @@
     "lastSeen": "2026-04-28"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
-        "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
-        "score": 32,
-        "date": "2026-05-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-        "url": "https://pu.dev/",
-        "score": 84,
-        "date": "2026-05-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "SAS Launches AI Governance Tools to Tame Agentic AI in the Enterprise - TechRepublic",
-        "score": 1,
-        "date": "2026-05-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
-        "score": 1,
-        "date": "2026-05-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
-        "score": 1,
-        "date": "2026-05-01"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-01"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -149,37 +120,78 @@
     "lastSeen": "2026-04-30"
   },
   {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 1.7,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
-        "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-        "score": 83,
-        "date": "2026-05-01"
+        "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
+        "url": "https://github.com/leox255/loopsy",
+        "score": 44,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
+        "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+        "score": 62,
+        "date": "2026-05-02"
       },
       {
         "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "title": "SAS Launches AI Governance Tools to Tame Agentic AI in the Enterprise - TechRepublic",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       },
       {
         "source": "techcrunch",
-        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+        "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-01"
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-02"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+        "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+        "score": 99,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI Web Browsers: Selection Guide including ChatGPT Atlas in 2026 - AIMultiple",
+        "score": 1,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+        "score": 1,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+        "score": 1,
+        "date": "2026-05-02"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-02"
   },
   {
     "toolSlug": "openai-privacy-filter",
     "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -193,47 +205,61 @@
     "lastSeen": "2026-04-27"
   },
   {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "'Rogue' Cursor AI agent loses control and wipes company's database",
-        "url": "https://abcnews.com/GMA/News/rogue-ai-agent-haywire-tech-company-ceo-bullish/story?id=132473181",
-        "score": 6,
-        "date": "2026-05-01"
-      }
-    ],
-    "firstSeen": "2026-05-01",
-    "lastSeen": "2026-05-01"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "『できるChatGPT 改訂2版』発売前重版決定を記念して、5月1日（金）から6日間限定で人気AI関連書籍4タイトルを全文無料公開 - ニコニコニュース",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool - The Guardian",
+        "score": 1,
+        "date": "2026-05-02"
       },
       {
         "source": "techcrunch",
-        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
         "score": 1,
-        "date": "2026-05-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-        "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-01"
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-05-02"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
+        "score": 1,
+        "date": "2026-05-02"
+      }
+    ],
+    "firstSeen": "2026-05-02",
+    "lastSeen": "2026-05-02"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-05-02"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-02"
   },
   {
     "toolSlug": "com",
@@ -244,11 +270,11 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-01"
+    "lastSeen": "2026-05-02"
   },
   {
     "toolSlug": "pholly",
@@ -259,11 +285,11 @@
         "source": "googlenews",
         "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-01"
+    "lastSeen": "2026-05-02"
   },
   {
     "toolSlug": "learno",
@@ -274,11 +300,26 @@
         "source": "googlenews",
         "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-01"
+    "lastSeen": "2026-05-02"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
+        "score": 1,
+        "date": "2026-05-02"
+      }
+    ],
+    "firstSeen": "2026-05-01",
+    "lastSeen": "2026-05-02"
   },
   {
     "toolSlug": "grok",
@@ -289,11 +330,11 @@
         "source": "techcrunch",
         "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
     "firstSeen": "2026-05-01",
-    "lastSeen": "2026-05-01"
+    "lastSeen": "2026-05-02"
   },
   {
     "toolSlug": "gemini",
@@ -304,31 +345,16 @@
         "source": "techcrunch",
         "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
         "score": 1,
-        "date": "2026-05-01"
+        "date": "2026-05-02"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-01"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
-        "score": 1,
-        "date": "2026-05-01"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-01"
+    "lastSeen": "2026-05-02"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -343,7 +369,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -358,7 +384,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -373,7 +399,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -388,7 +414,7 @@
   {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -404,7 +430,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -419,7 +445,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -431,65 +457,5 @@
     ],
     "firstSeen": "2026-04-26",
     "lastSeen": "2026-04-26"
-  },
-  {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing GPT-5.5 - OpenAI",
-        "score": 1,
-        "date": "2026-04-29"
-      }
-    ],
-    "firstSeen": "2026-04-24",
-    "lastSeen": "2026-04-29"
-  },
-  {
-    "toolSlug": "lovable",
-    "toolName": "Lovable",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Lovable launches its vibe-coding app on iOS and Android",
-        "score": 1,
-        "date": "2026-04-29"
-      }
-    ],
-    "firstSeen": "2026-04-29",
-    "lastSeen": "2026-04-29"
-  },
-  {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Red Hat&#8217;s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-        "score": 1,
-        "date": "2026-04-29"
-      }
-    ],
-    "firstSeen": "2026-04-29",
-    "lastSeen": "2026-04-29"
-  },
-  {
-    "toolSlug": "manus",
-    "toolName": "Manus",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "China blocks Meta’s $2B Manus deal after months-long probe",
-        "score": 1,
-        "date": "2026-04-29"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-04-29"
   }
 ]

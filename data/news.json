@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-05-02",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "date": "2026-05-02",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-01",
     "type": "trending",
     "toolSlug": "claude",
@@ -2666,90 +2675,5 @@
     "title": "ナレフルチャット が新しく追加されました",
     "summary": "1000社導入の企業向け社内AI活用プラットフォーム",
     "date": "2026-04-03"
-  },
-  {
-    "id": "new-lemonade-2026-04-02",
-    "type": "new-tool",
-    "toolSlug": "lemonade",
-    "title": "Lemonade が新しく追加されました",
-    "summary": "AMD GPU/NPU特化の高速ローカルLLMサーバー",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "new-litellm-2026-04-02",
-    "type": "new-tool",
-    "toolSlug": "litellm",
-    "title": "LiteLLM が新しく追加されました",
-    "summary": "複数LLMプロバイダーの統一ゲートウェイ",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "new-claude-content-writer-2026-04-02",
-    "type": "new-tool",
-    "toolSlug": "claude-content-writer",
-    "title": "Claude Content Writer が新しく追加されました",
-    "summary": "Claude Code用コンテンツ生成ワークフロー",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "new-crewworks-2026-04-02",
-    "type": "new-tool",
-    "toolSlug": "crewworks",
-    "title": "CrewWorks が新しく追加されました",
-    "summary": "AIエージェント搭載ナレッジ活用プラットフォーム",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "new--2026-04-02",
-    "type": "new-tool",
-    "toolSlug": "",
-    "title": "文賢 が新しく追加されました",
-    "summary": "セキュリティ機能付きAI文章校正ツール",
-    "date": "2026-04-02"
-  },
-  {
-    "id": "trending-claude-2026-04-02",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: DMCA-resistant Claude Code source code",
-    "date": "2026-04-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-1-bit-bonsai-2026-04-02",
-    "type": "trending",
-    "toolSlug": "1-bit-bonsai",
-    "title": "1-Bit Bonsai が話題沸騰中（バズスコア: 8.9）",
-    "summary": "hackernewsで注目: Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-    "date": "2026-04-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-typeless-2026-04-02",
-    "type": "trending",
-    "toolSlug": "typeless",
-    "title": "Typeless が話題沸騰中（バズスコア: 8.3）",
-    "summary": "hackernewsで注目: Typeless: AI-powered keyboard that predicts your next sentence",
-    "date": "2026-04-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-code-2026-04-02",
-    "type": "trending",
-    "toolSlug": "claude-code",
-    "title": "Claude Code が話題沸騰中（バズスコア: 7.9）",
-    "summary": "hackernewsで注目: Claude Code: Anthropic's new CLI coding agent",
-    "date": "2026-04-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-openai-o3-2026-04-02",
-    "type": "trending",
-    "toolSlug": "openai-o3",
-    "title": "OpenAI o3 が話題沸騰中（バズスコア: 7.1）",
-    "summary": "techcrunchで注目: OpenAI releases o3: next-gen reasoning model",
-    "date": "2026-04-02",
-    "source": "techcrunch"
   }
 ]
