@@ -1,141 +1,47 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-        "url": "https://twitter.com/theo/status/2049645973350363168",
-        "score": 1310,
+        "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+        "url": "https://github.com/bruin-data/dac",
+        "score": 42,
         "date": "2026-05-02"
       },
       {
         "source": "hackernews",
-        "title": "Uber torches 2026 AI budget on Claude Code in four months",
-        "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-        "score": 369,
+        "title": "Open Design: Use Your Coding Agent as a Design Engine",
+        "url": "https://github.com/nexu-io/open-design",
+        "score": 7,
         "date": "2026-05-02"
       },
       {
         "source": "hackernews",
-        "title": "Apple accidentally left Claude.md files Apple Support app",
-        "url": "https://x.com/aaronp613/status/2049986504617820551",
-        "score": 366,
+        "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+        "url": "https://github.com/lahfir/agent-desktop",
+        "score": 88,
         "date": "2026-05-02"
       },
-      {
-        "source": "googlenews",
-        "title": "Adobe for creativity: a new way to create with Adobe, now in Claude - Adobe",
-        "score": 1,
-        "date": "2026-05-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "Claude Mythos AI unauthorised access claim probed by Anthropic - BBC",
-        "score": 1,
-        "date": "2026-05-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma - VentureBeat",
-        "score": 1,
-        "date": "2026-05-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
-        "score": 1,
-        "date": "2026-05-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
-        "score": 1,
-        "date": "2026-05-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-05-02"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-02"
-  },
-  {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
-    "buzzScore": 3.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author ()",
-        "score": 39,
-        "date": "2026-04-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-        "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-        "score": 308,
-        "date": "2026-04-30"
-      }
-    ],
-    "firstSeen": "2026-04-22",
-    "lastSeen": "2026-04-30"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 2.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Three constraints before I build anything",
-        "url": "https://jordanlord.co.uk/blog/3-constraints/",
-        "score": 351,
-        "date": "2026-04-28"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-04-28"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
-        "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
-        "score": 125,
-        "date": "2026-04-30"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-30"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.6,
-    "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",
         "url": "https://github.com/leox255/loopsy",
-        "score": 44,
+        "score": 52,
         "date": "2026-05-02"
       },
       {
-        "source": "hackernews",
-        "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
-        "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
-        "score": 62,
+        "source": "googlenews",
+        "title": "Microsoft Launches Its Own Legal Agent For Word - Artificial Lawyer",
+        "score": 1,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
+        "score": 1,
         "date": "2026-05-02"
       },
       {
@@ -157,19 +63,13 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.5,
+    "buzzScore": 8.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
         "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-        "score": 99,
-        "date": "2026-05-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI Web Browsers: Selection Guide including ChatGPT Atlas in 2026 - AIMultiple",
-        "score": 1,
+        "score": 153,
         "date": "2026-05-02"
       },
       {
@@ -189,9 +89,79 @@
     "lastSeen": "2026-05-02"
   },
   {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 3.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author ()",
+        "score": 39,
+        "date": "2026-04-30"
+      },
+      {
+        "source": "hackernews",
+        "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
+        "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
+        "score": 308,
+        "date": "2026-04-30"
+      }
+    ],
+    "firstSeen": "2026-04-22",
+    "lastSeen": "2026-04-30"
+  },
+  {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 2.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Three constraints before I build anything",
+        "url": "https://jordanlord.co.uk/blog/3-constraints/",
+        "score": 351,
+        "date": "2026-04-28"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-28"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 2.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+        "url": "https://mljar.com/",
+        "score": 24,
+        "date": "2026-05-02"
+      }
+    ],
+    "firstSeen": "2026-04-29",
+    "lastSeen": "2026-05-02"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+        "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+        "score": 125,
+        "date": "2026-04-30"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-04-30"
+  },
+  {
     "toolSlug": "openai-privacy-filter",
     "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -205,9 +175,48 @@
     "lastSeen": "2026-04-27"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Claude Mythos AI unauthorised access claim probed by Anthropic - BBC",
+        "score": 1,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
+        "score": 1,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
+        "score": 1,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
+        "score": 1,
+        "date": "2026-05-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-05-02"
+  },
+  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
@@ -232,28 +241,43 @@
     "lastSeen": "2026-05-02"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
+        "source": "techcrunch",
+        "title": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
         "score": 1,
         "date": "2026-05-02"
       }
     ],
-    "firstSeen": "2026-05-02",
+    "firstSeen": "2026-05-01",
     "lastSeen": "2026-05-02"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "source": "techcrunch",
+        "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+        "score": 1,
+        "date": "2026-05-02"
+      }
+    ],
+    "firstSeen": "2026-05-01",
+    "lastSeen": "2026-05-02"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
         "score": 1,
         "date": "2026-05-02"
       }
@@ -307,43 +331,28 @@
     "lastSeen": "2026-05-02"
   },
   {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 1,
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
+        "source": "googlenews",
+        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
         "score": 1,
         "date": "2026-05-02"
       }
     ],
-    "firstSeen": "2026-05-01",
+    "firstSeen": "2026-05-02",
     "lastSeen": "2026-05-02"
   },
   {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1,
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 0.9,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-        "score": 1,
-        "date": "2026-05-02"
-      }
-    ],
-    "firstSeen": "2026-05-01",
-    "lastSeen": "2026-05-02"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
         "score": 1,
         "date": "2026-05-02"
       }
@@ -354,7 +363,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -369,7 +378,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -384,7 +393,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -399,7 +408,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -414,7 +423,7 @@
   {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -426,36 +435,5 @@
     ],
     "firstSeen": "2026-04-23",
     "lastSeen": "2026-04-24"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Amazon launches an AI-powered audio Q&#038;A experience on product pages",
-        "score": 1,
-        "date": "2026-04-30"
-      }
-    ],
-    "firstSeen": "2026-04-29",
-    "lastSeen": "2026-04-30"
-  },
-  {
-    "toolSlug": "openrouter",
-    "toolName": "OpenRouter",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Eden AI – European Alternative to OpenRouter",
-        "url": "https://www.edenai.co",
-        "score": 83,
-        "date": "2026-04-26"
-      }
-    ],
-    "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-26"
   }
 ]
