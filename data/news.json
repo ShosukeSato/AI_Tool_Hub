@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-05-03",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.3）",
+    "summary": "hackernewsで注目: When Dawkins met Claude – Could this AI be conscious?",
+    "date": "2026-05-03",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-02",
     "type": "trending",
     "toolSlug": "claude",

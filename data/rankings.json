@@ -1,18 +1,18 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 7.7,
+    "overall": 7.2,
     "performance": 9,
-    "buzz": 4.5,
+    "buzz": 1.1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-05-03"
   },
   {
     "toolSlug": "claude",
-    "overall": 7,
+    "overall": 7.9,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 7.3,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-03"
@@ -201,7 +201,7 @@
     "toolSlug": "github-copilot",
     "overall": 7.2,
     "performance": 8,
-    "buzz": 3.1,
+    "buzz": 2.8,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-05-03"
@@ -444,7 +444,7 @@
     "toolSlug": "anything",
     "overall": 5.1,
     "performance": 5,
-    "buzz": 2,
+    "buzz": 1.8,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-05-03"
@@ -624,7 +624,7 @@
     "toolSlug": "adobe-firefly",
     "overall": 6,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-05-03"
@@ -849,7 +849,7 @@
     "toolSlug": "dify",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-05-03"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.6,
     "performance": 8,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-05-03"
@@ -2316,7 +2316,7 @@
     "toolSlug": "openai-privacy-filter",
     "overall": 5.9,
     "performance": 8,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-05-03"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7,
     "performance": 7,
-    "buzz": 1.4,
+    "buzz": 1.3,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-05-03"
