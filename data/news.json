@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-05-04",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.7）",
+    "summary": "hackernewsで注目: DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+    "date": "2026-05-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-05-03",
     "type": "trending",
     "toolSlug": "agent",

@@ -8,21 +8,21 @@
         "source": "hackernews",
         "title": "Agentic Coding Is a Trap",
         "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-        "score": 206,
+        "score": 397,
         "date": "2026-05-04"
       },
       {
         "source": "hackernews",
         "title": "The agent harness belongs outside the sandbox",
         "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-        "score": 165,
+        "score": 172,
         "date": "2026-05-04"
       },
       {
         "source": "hackernews",
         "title": "Open Design: Use Your Coding Agent as a Design Engine",
         "url": "https://github.com/nexu-io/open-design",
-        "score": 216,
+        "score": 225,
         "date": "2026-05-04"
       },
       {
@@ -38,20 +38,20 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 4.3,
+    "buzzScore": 7.7,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
         "url": "https://github.com/aattaran/deepclaude",
-        "score": 176,
+        "score": 543,
         "date": "2026-05-04"
       },
       {
         "source": "hackernews",
         "title": "How Kepler built verifiable AI for financial services with Claude",
         "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
-        "score": 35,
+        "score": 41,
         "date": "2026-05-04"
       },
       {
@@ -97,7 +97,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -119,7 +119,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -135,7 +135,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -151,7 +151,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -163,21 +163,6 @@
     ],
     "firstSeen": "2026-04-15",
     "lastSeen": "2026-04-30"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
-        "score": 1,
-        "date": "2026-05-04"
-      }
-    ],
-    "firstSeen": "2026-05-02",
-    "lastSeen": "2026-05-04"
   },
   {
     "toolSlug": "mythos",
@@ -201,6 +186,21 @@
     "lastSeen": "2026-05-04"
   },
   {
+    "toolSlug": "davinci-resolve-21",
+    "toolName": "DaVinci Resolve 21",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "DaVinci Resolve 21 adds color grading for stills, AI tools, improved key framing, and more - RedShark News",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-05-04",
+    "lastSeen": "2026-05-04"
+  },
+  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
@@ -219,21 +219,6 @@
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-04"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-05-04"
-      }
-    ],
-    "firstSeen": "2026-05-04",
     "lastSeen": "2026-05-04"
   },
   {
@@ -333,9 +318,39 @@
     "lastSeen": "2026-05-04"
   },
   {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-05-02",
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-05-04",
+    "lastSeen": "2026-05-04"
+  },
+  {
     "toolSlug": "openai-privacy-filter",
     "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -347,20 +362,5 @@
     ],
     "firstSeen": "2026-04-26",
     "lastSeen": "2026-04-27"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
-        "score": 1,
-        "date": "2026-05-02"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-02"
   }
 ]
