@@ -6,111 +6,98 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Agentic Coding Is a Trap",
+        "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+        "score": 206,
+        "date": "2026-05-04"
+      },
+      {
+        "source": "hackernews",
         "title": "The agent harness belongs outside the sandbox",
         "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-        "score": 119,
-        "date": "2026-05-03"
+        "score": 165,
+        "date": "2026-05-04"
       },
       {
         "source": "hackernews",
         "title": "Open Design: Use Your Coding Agent as a Design Engine",
         "url": "https://github.com/nexu-io/open-design",
-        "score": 203,
-        "date": "2026-05-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "Flue is a TypeScript framework for building the next generation of agents",
-        "url": "https://flueframework.com/",
-        "score": 96,
-        "date": "2026-05-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-        "url": "https://github.com/bruin-data/dac",
-        "score": 104,
-        "date": "2026-05-03"
+        "score": 216,
+        "date": "2026-05-04"
       },
       {
         "source": "googlenews",
         "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
         "score": 1,
-        "date": "2026-05-03"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
-        "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-03"
+    "lastSeen": "2026-05-04"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 7.3,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "When Dawkins met Claude – Could this AI be conscious?",
-        "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
-        "score": 42,
-        "date": "2026-05-03"
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "url": "https://github.com/aattaran/deepclaude",
+        "score": 176,
+        "date": "2026-05-04"
       },
       {
         "source": "hackernews",
-        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "score": 319,
-        "date": "2026-05-03"
+        "title": "How Kepler built verifiable AI for financial services with Claude",
+        "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+        "score": 35,
+        "date": "2026-05-04"
       },
       {
         "source": "googlenews",
         "title": "Claude Mythos AI unauthorised access claim probed by Anthropic - BBC",
         "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       },
       {
         "source": "googlenews",
         "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
         "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       },
       {
         "source": "googlenews",
         "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
         "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       },
       {
         "source": "googlenews",
         "title": "ClaudeをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
         "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       },
       {
         "source": "googlenews",
         "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
         "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       },
       {
         "source": "googlenews",
         "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
         "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-03"
+    "lastSeen": "2026-05-04"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -132,7 +119,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -148,7 +135,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -164,7 +151,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -178,30 +165,177 @@
     "lastSeen": "2026-04-30"
   },
   {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-05-02",
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-05-04"
+      },
+      {
+        "source": "techcrunch",
+        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-04"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-05-04",
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-05-01",
+    "lastSeen": "2026-05-04"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
         "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       },
       {
         "source": "techcrunch",
         "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
         "score": 1,
-        "date": "2026-05-03"
+        "date": "2026-05-04"
       }
     ],
     "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-03"
+    "lastSeen": "2026-05-04"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+        "score": 1,
+        "date": "2026-05-04"
+      }
+    ],
+    "firstSeen": "2026-05-01",
+    "lastSeen": "2026-05-04"
   },
   {
     "toolSlug": "openai-privacy-filter",
     "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -215,141 +349,9 @@
     "lastSeen": "2026-04-27"
   },
   {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-05-03"
-      },
-      {
-        "source": "techcrunch",
-        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-        "score": 1,
-        "date": "2026-05-03"
-      }
-    ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-03"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】2026年3月4日より提供開始 Geminiを\"職種ごとの実務力\"として証明する「職種・部門別スキル証明課題」を提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-03"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
-        "score": 1,
-        "date": "2026-05-03"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-03"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-03"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-03"
-  },
-  {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-03"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-03"
-  },
-  {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-03"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-03"
-  },
-  {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Replit&#8217;s Amjad Masad on the Cursor deal, fighting Apple, and why he&#8217;d rather not sell",
-        "score": 1,
-        "date": "2026-05-03"
-      }
-    ],
-    "firstSeen": "2026-05-01",
-    "lastSeen": "2026-05-03"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-        "score": 1,
-        "date": "2026-05-03"
-      }
-    ],
-    "firstSeen": "2026-05-01",
-    "lastSeen": "2026-05-03"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
-        "score": 1,
-        "date": "2026-05-02"
-      }
-    ],
-    "firstSeen": "2026-05-02",
-    "lastSeen": "2026-05-02"
-  },
-  {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
