@@ -6,16 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "SprintiQ – open-source sprint planning for Claude Code",
-        "url": "https://github.com/SprintiQ-Incorporated/sprintiq",
-        "score": 6,
+        "title": "Richard Dawkins and the Claude Delusion",
+        "url": "https://flux.community/matthew-sheffield/2026/05/richard-dawkins-and-the-claude-delusion/",
+        "score": 12,
         "date": "2026-05-05"
       },
       {
         "source": "hackernews",
         "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
         "url": "https://github.com/aattaran/deepclaude",
-        "score": 651,
+        "score": 661,
         "date": "2026-05-05"
       },
       {
@@ -26,13 +26,13 @@
       },
       {
         "source": "googlenews",
-        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
+        "title": "ClaudeをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
         "score": 1,
         "date": "2026-05-05"
       },
       {
         "source": "googlenews",
-        "title": "ClaudeをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
         "score": 1,
         "date": "2026-05-05"
       },
@@ -49,18 +49,32 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.8,
+    "buzzScore": 6.8,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Agent Skills",
-        "url": "https://addyosmani.com/blog/agent-skills/",
+        "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+        "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
         "score": 128,
         "date": "2026-05-05"
       },
       {
+        "source": "hackernews",
+        "title": "Agent Skills",
+        "url": "https://addyosmani.com/blog/agent-skills/",
+        "score": 300,
+        "date": "2026-05-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "Why AI Agents Need Proof Chains, Not Just Logs",
+        "url": "https://github.com/rodriguezaa22ar-boop/atlas-trust-infrastructure",
+        "score": 10,
+        "date": "2026-05-05"
+      },
+      {
         "source": "googlenews",
-        "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
+        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
         "score": 1,
         "date": "2026-05-05"
       }
@@ -69,9 +83,25 @@
     "lastSeen": "2026-05-05"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Should I Run Plain Docker Compose in Production in 2026?",
+        "url": "https://distr.sh/blog/running-docker-in-production/",
+        "score": 149,
+        "date": "2026-05-05"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-05-05"
+  },
+  {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -93,7 +123,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -109,7 +139,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -135,21 +165,6 @@
       }
     ],
     "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-05"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "GrokをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-05"
-      }
-    ],
-    "firstSeen": "2026-05-01",
     "lastSeen": "2026-05-05"
   },
   {
@@ -228,9 +243,24 @@
     "lastSeen": "2026-05-05"
   },
   {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "GrokをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-05"
+      }
+    ],
+    "firstSeen": "2026-05-01",
+    "lastSeen": "2026-05-05"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -243,25 +273,9 @@
     "lastSeen": "2026-05-05"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
-        "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
-        "score": 125,
-        "date": "2026-04-30"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-04-30"
-  },
-  {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -276,7 +290,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -291,7 +305,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -306,7 +320,7 @@
   {
     "toolSlug": "openai-privacy-filter",
     "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
