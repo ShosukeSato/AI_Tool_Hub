@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-05-05",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: SprintiQ – open-source sprint planning for Claude Code",
+    "date": "2026-05-05",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-05-04",
     "type": "trending",
     "toolSlug": "agent",
@@ -2351,126 +2360,5 @@
     "title": "Xoople が新しく追加されました",
     "summary": "AI向け地球マッピング・地理空間データ",
     "date": "2026-04-06"
-  },
-  {
-    "id": "new-sllm-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "sllm",
-    "title": "sllm が新しく追加されました",
-    "summary": "GPU共有でAI開発コストを大幅削減",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-pluck-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "pluck",
-    "title": "Pluck が新しく追加されました",
-    "summary": "WebサイトのUIをAIツールで再現",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-openrouter-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "openrouter",
-    "title": "OpenRouter が新しく追加されました",
-    "summary": "複数AIモデルを統合管理するAPI",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-imbue-mngr-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "imbue-mngr",
-    "title": "Imbue MNGR が新しく追加されました",
-    "summary": "大量AIエージェントの並列実行システム",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-mbodi-ai-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "mbodi-ai",
-    "title": "Mbodi AI が新しく追加されました",
-    "summary": "ロボティクス特化のAI技術開発",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-alibaba-agentic-ai-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "alibaba-agentic-ai",
-    "title": "Alibaba Agentic AI が新しく追加されました",
-    "summary": "Slack/Teams統合のビジネスAI",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "trending-claude-2026-04-05",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: A case study in testing with 100+ Claude agents in parallel",
-    "date": "2026-04-05",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-zevo-gpt-5-4-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "zevo-gpt-5-4",
-    "title": "Zevo GPT-5.4 が新しく追加されました",
-    "summary": "自治体業務に特化したGPT-5.4搭載AI",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-hitpaw-ai-suite-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "hitpaw-ai-suite",
-    "title": "HitPaw AI Suite が新しく追加されました",
-    "summary": "総合AIツールセットで新生活応援セール中",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-stitch-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "stitch",
-    "title": "Stitch が新しく追加されました",
-    "summary": "感情を理解する次世代デザインAI",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-meta-anti-scam-ai-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "meta-anti-scam-ai",
-    "title": "Meta Anti-Scam AI が新しく追加されました",
-    "summary": "SNS詐欺を自動検出・防御するAI",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-cisco-agentic-security-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "cisco-agentic-security",
-    "title": "Cisco Agentic Security が新しく追加されました",
-    "summary": "自律型企業セキュリティAIエージェント",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-visa-ai-dispute-manager-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "visa-ai-dispute-manager",
-    "title": "Visa AI Dispute Manager が新しく追加されました",
-    "summary": "AI搭載クレカ異議申し立て管理システム",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-usgs-drought-forecast-ai-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "usgs-drought-forecast-ai",
-    "title": "USGS Drought Forecast AI が新しく追加されました",
-    "summary": "90日先の干ばつを予測する気象AI",
-    "date": "2026-04-05"
-  },
-  {
-    "id": "new-new-relic-ai-agent-platform-2026-04-05",
-    "type": "new-tool",
-    "toolSlug": "new-relic-ai-agent-platform",
-    "title": "New Relic AI Agent Platform が新しく追加されました",
-    "summary": "システム監視とAI自動化を統合",
-    "date": "2026-04-05"
   }
 ]
