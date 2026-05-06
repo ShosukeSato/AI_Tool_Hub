@@ -6,67 +6,55 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+        "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+        "score": 461,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "hackernews",
         "title": "Telus Uses AI to Alter Call-Agent Accents",
         "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-        "score": 11,
+        "score": 196,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Airbyte Agents – context for agents across multiple data sources ()",
+        "score": 129,
         "date": "2026-05-06"
       },
       {
         "source": "hackernews",
         "title": "Agents for financial services and insurance",
         "url": "https://www.anthropic.com/news/finance-agents",
-        "score": 207,
+        "score": 248,
         "date": "2026-05-06"
       },
       {
         "source": "hackernews",
         "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
         "url": "https://arxiv.org/abs/2604.26752",
-        "score": 119,
-        "date": "2026-05-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Airbyte Agents – context for agents across multiple data sources ()",
-        "score": 101,
+        "score": 155,
         "date": "2026-05-06"
       },
       {
         "source": "hackernews",
         "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
         "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-        "score": 230,
-        "date": "2026-05-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Treat your coding agents like developers",
-        "url": "https://finbarr.site/2026/05/05/treat-your-coding-agents-like-developers.html",
-        "score": 18,
+        "score": 247,
         "date": "2026-05-06"
       },
       {
         "source": "hackernews",
         "title": "Agent Skills",
         "url": "https://addyosmani.com/blog/agent-skills/",
-        "score": 368,
+        "score": 370,
         "date": "2026-05-06"
       },
       {
         "source": "googlenews",
-        "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
-        "score": 1,
-        "date": "2026-05-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-05-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "How Agentic AI Will Transform Consumer‑Driven Companies in 2026 - U.S. Chamber of Commerce",
+        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
         "score": 1,
         "date": "2026-05-06"
       },
@@ -83,13 +71,13 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 4.1,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Should I run plain Docker Compose in production in 2026?",
         "url": "https://distr.sh/blog/running-docker-in-production/",
-        "score": 361,
+        "score": 404,
         "date": "2026-05-06"
       }
     ],
@@ -99,7 +87,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -121,7 +109,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -135,60 +123,15 @@
     "lastSeen": "2026-05-03"
   },
   {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Three constraints before I build anything",
-        "url": "https://jordanlord.co.uk/blog/3-constraints/",
-        "score": 351,
-        "date": "2026-04-28"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-04-28"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-05-06"
-      }
-    ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-06"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-06"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-06"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "ClaudeをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
-        "score": 1,
+        "source": "hackernews",
+        "title": "My Claude Code Setup: Pure CLI, Pure Unix, Zero IDE",
+        "url": "https://sindro.me/posts/2026-04-09-claude-code-pure-cli-setup/",
+        "score": 6,
         "date": "2026-05-06"
       },
       {
@@ -208,6 +151,48 @@
     "lastSeen": "2026-05-06"
   },
   {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic’s Mythos is a wake-up call, but experts say the era of AI-driven hacking is already here - Fortune",
+        "score": 1,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-05-06"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】2026年3月4日より提供開始 Geminiを\"職種ごとの実務力\"として証明する「職種・部門別スキル証明課題」を提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-06"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
     "buzzScore": 1,
@@ -223,33 +208,33 @@
     "lastSeen": "2026-05-06"
   },
   {
-    "toolSlug": "grok",
-    "toolName": "Grok",
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "GrokをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
         "date": "2026-05-06"
       }
     ],
-    "firstSeen": "2026-05-01",
+    "firstSeen": "2026-05-04",
     "lastSeen": "2026-05-06"
   },
   {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
+    "toolSlug": "where",
+    "toolName": "WHERE",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "title": "地権者とつながる不動産AIツール『WHERE』、全国の衛星データと不動産情報約7,300万件をデータベース化。条件に合う候補物件数を最短1秒で可視化 - PR TIMES",
         "score": 1,
         "date": "2026-05-06"
       }
     ],
-    "firstSeen": "2026-04-19",
+    "firstSeen": "2026-05-06",
     "lastSeen": "2026-05-06"
   },
   {
@@ -289,9 +274,55 @@
     "lastSeen": "2026-05-06"
   },
   {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Three constraints before I build anything",
+        "url": "https://jordanlord.co.uk/blog/3-constraints/",
+        "score": 351,
+        "date": "2026-04-28"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-04-28"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "GrokをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-05-01",
+    "lastSeen": "2026-05-06"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-06"
+  },
+  {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -306,7 +337,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -321,7 +352,7 @@
   {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -332,51 +363,5 @@
     ],
     "firstSeen": "2026-05-04",
     "lastSeen": "2026-05-04"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
-        "score": 1,
-        "date": "2026-05-04"
-      }
-    ],
-    "firstSeen": "2026-05-02",
-    "lastSeen": "2026-05-04"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-05-04"
-      }
-    ],
-    "firstSeen": "2026-05-04",
-    "lastSeen": "2026-05-04"
-  },
-  {
-    "toolSlug": "openai-privacy-filter",
-    "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenAI Privacy Filter",
-        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-        "score": 287,
-        "date": "2026-04-27"
-      }
-    ],
-    "firstSeen": "2026-04-26",
-    "lastSeen": "2026-04-27"
   }
 ]

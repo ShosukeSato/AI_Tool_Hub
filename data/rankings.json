@@ -39,7 +39,7 @@
     "toolSlug": "grok",
     "overall": 5.5,
     "performance": 6,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-06"
@@ -183,7 +183,7 @@
     "toolSlug": "cursor",
     "overall": 6.9,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-06"
@@ -201,7 +201,7 @@
     "toolSlug": "github-copilot",
     "overall": 7,
     "performance": 8,
-    "buzz": 1.7,
+    "buzz": 1.5,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-05-06"
@@ -442,9 +442,9 @@
   },
   {
     "toolSlug": "anything",
-    "overall": 5,
+    "overall": 4.9,
     "performance": 5,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-05-06"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 5.5,
+    "overall": 5.6,
     "performance": 9,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-06"
@@ -892,9 +892,9 @@
   },
   {
     "toolSlug": "rakuten-ai",
-    "overall": 7.1,
+    "overall": 7.2,
     "performance": 7,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-05-06"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.4,
     "performance": 8,
-    "buzz": 1.3,
+    "buzz": 1.2,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-05-06"
@@ -1569,7 +1569,7 @@
     "toolSlug": "davinci-resolve-21",
     "overall": 7.6,
     "performance": 10,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 10,
     "lastCalculated": "2026-05-06"
@@ -2208,7 +2208,7 @@
     "toolSlug": "learno",
     "overall": 5.8,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-06"
@@ -2280,7 +2280,7 @@
     "toolSlug": "pholly",
     "overall": 6.1,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-06"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7.4,
+    "overall": 7.3,
     "performance": 7,
-    "buzz": 4.1,
+    "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-05-06"
