@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-05-06",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Telus Uses AI to Alter Call-Agent Accents",
+    "date": "2026-05-06",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-05",
     "type": "trending",
     "toolSlug": "claude",
@@ -2247,118 +2256,5 @@
     "title": "MoneyForward AI Cowork が新しく追加されました",
     "summary": "バックオフィス業務を自律実行するAI",
     "date": "2026-04-07"
-  },
-  {
-    "id": "new-guppylm-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "guppylm",
-    "title": "GuppyLM が新しく追加されました",
-    "summary": "LLM学習用の超軽量言語モデル",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-gemma-gem-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "gemma-gem",
-    "title": "Gemma Gem が新しく追加されました",
-    "summary": "ブラウザ内完結型プライベートAI",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-mdarena-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "mdarena",
-    "title": "Mdarena が新しく追加されました",
-    "summary": "PRベースのAIコード評価ツール",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-nanocode-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "nanocode",
-    "title": "Nanocode が新しく追加されました",
-    "summary": "低コストTPU駆動コード生成AI",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-lm-studio-headless-cli-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "lm-studio-headless-cli",
-    "title": "LM Studio Headless CLI が新しく追加されました",
-    "summary": "ローカルLLM実行用CLI環境",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-apex-protocol-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "apex-protocol",
-    "title": "Apex Protocol が新しく追加されました",
-    "summary": "AIエージェント取引標準プロトコル",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-miibo-web-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "miibo-web",
-    "title": "miibo Web検索ツール が新しく追加されました",
-    "summary": "ノーコードAIのWeb検索機能",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "trending-claude-2026-04-06",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-    "date": "2026-04-06",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-parlor-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "parlor",
-    "title": "Parlor が新しく追加されました",
-    "summary": "ローカルでリアルタイムAI音声処理",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-syntaqlite-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "syntaqlite",
-    "title": "SyntaQLite が新しく追加されました",
-    "summary": "AI支援で開発されたSQL簡素化ツール",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-home-depot-ai-assistant-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "home-depot-ai-assistant",
-    "title": "Home Depot AI Assistant が新しく追加されました",
-    "summary": "DIYプロジェクト支援AIアシスタント",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-admina-ai-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "admina-ai",
-    "title": "Admina AIヘルプデスク が新しく追加されました",
-    "summary": "企業内問い合わせ対応AI自動化",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-aisle-assistant-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "aisle-assistant",
-    "title": "aiSLE Assistant が新しく追加されました",
-    "summary": "結婚式プランニング専用AIアシスタント",
-    "date": "2026-04-06"
-  },
-  {
-    "id": "new-xoople-2026-04-06",
-    "type": "new-tool",
-    "toolSlug": "xoople",
-    "title": "Xoople が新しく追加されました",
-    "summary": "AI向け地球マッピング・地理空間データ",
-    "date": "2026-04-06"
   }
 ]

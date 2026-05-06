@@ -1,107 +1,105 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Richard Dawkins and the Claude Delusion",
-        "url": "https://flux.community/matthew-sheffield/2026/05/richard-dawkins-and-the-claude-delusion/",
-        "score": 12,
-        "date": "2026-05-05"
+        "title": "Telus Uses AI to Alter Call-Agent Accents",
+        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+        "score": 11,
+        "date": "2026-05-06"
       },
       {
         "source": "hackernews",
-        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-        "url": "https://github.com/aattaran/deepclaude",
-        "score": 661,
-        "date": "2026-05-05"
+        "title": "Agents for financial services and insurance",
+        "url": "https://www.anthropic.com/news/finance-agents",
+        "score": 207,
+        "date": "2026-05-06"
       },
       {
-        "source": "googlenews",
-        "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
-        "score": 1,
-        "date": "2026-05-05"
+        "source": "hackernews",
+        "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+        "url": "https://arxiv.org/abs/2604.26752",
+        "score": 119,
+        "date": "2026-05-06"
       },
       {
-        "source": "googlenews",
-        "title": "ClaudeをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-05"
+        "source": "hackernews",
+        "title": "Show HN: Airbyte Agents – context for agents across multiple data sources ()",
+        "score": 101,
+        "date": "2026-05-06"
       },
-      {
-        "source": "googlenews",
-        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
-        "score": 1,
-        "date": "2026-05-05"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-05-05"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-05"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 6.8,
-    "mentions": [
       {
         "source": "hackernews",
         "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
         "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-        "score": 128,
-        "date": "2026-05-05"
+        "score": 230,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "Treat your coding agents like developers",
+        "url": "https://finbarr.site/2026/05/05/treat-your-coding-agents-like-developers.html",
+        "score": 18,
+        "date": "2026-05-06"
       },
       {
         "source": "hackernews",
         "title": "Agent Skills",
         "url": "https://addyosmani.com/blog/agent-skills/",
-        "score": 300,
-        "date": "2026-05-05"
-      },
-      {
-        "source": "hackernews",
-        "title": "Why AI Agents Need Proof Chains, Not Just Logs",
-        "url": "https://github.com/rodriguezaa22ar-boop/atlas-trust-infrastructure",
-        "score": 10,
-        "date": "2026-05-05"
+        "score": 368,
+        "date": "2026-05-06"
       },
       {
         "source": "googlenews",
-        "title": "Atlassian launches visual AI tools and third-party agents in Confluence - TechCrunch",
+        "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
         "score": 1,
-        "date": "2026-05-05"
+        "date": "2026-05-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "How Agentic AI Will Transform Consumer‑Driven Companies in 2026 - U.S. Chamber of Commerce",
+        "score": 1,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "techcrunch",
+        "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+        "score": 1,
+        "date": "2026-05-06"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-05"
+    "lastSeen": "2026-05-06"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3,
+    "buzzScore": 4.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Should I Run Plain Docker Compose in Production in 2026?",
+        "title": "Should I run plain Docker Compose in production in 2026?",
         "url": "https://distr.sh/blog/running-docker-in-production/",
-        "score": 149,
-        "date": "2026-05-05"
+        "score": 361,
+        "date": "2026-05-06"
       }
     ],
     "firstSeen": "2026-04-15",
-    "lastSeen": "2026-05-05"
+    "lastSeen": "2026-05-06"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -123,7 +121,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -139,7 +137,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -161,11 +159,11 @@
         "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
-        "date": "2026-05-05"
+        "date": "2026-05-06"
       }
     ],
     "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-05"
+    "lastSeen": "2026-05-06"
   },
   {
     "toolSlug": "gemini",
@@ -176,11 +174,38 @@
         "source": "googlenews",
         "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
         "score": 1,
-        "date": "2026-05-05"
+        "date": "2026-05-06"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-05"
+    "lastSeen": "2026-05-06"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ClaudeをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
+        "score": 1,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-05-06"
   },
   {
     "toolSlug": "com",
@@ -191,11 +216,26 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-05-05"
+        "date": "2026-05-06"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-05"
+    "lastSeen": "2026-05-06"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "GrokをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-05-01",
+    "lastSeen": "2026-05-06"
   },
   {
     "toolSlug": "pholly",
@@ -206,16 +246,52 @@
         "source": "googlenews",
         "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
         "score": 1,
-        "date": "2026-05-05"
+        "date": "2026-05-06"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-05"
+    "lastSeen": "2026-05-06"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+        "score": 1,
+        "date": "2026-05-06"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+        "score": 1,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-06"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+        "score": 1,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-05-06",
+    "lastSeen": "2026-05-06"
   },
   {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -230,7 +306,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -243,39 +319,9 @@
     "lastSeen": "2026-05-05"
   },
   {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "GrokをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-05"
-      }
-    ],
-    "firstSeen": "2026-05-01",
-    "lastSeen": "2026-05-05"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-        "score": 1,
-        "date": "2026-05-05"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-05"
-  },
-  {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -290,7 +336,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -305,7 +351,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -320,7 +366,7 @@
   {
     "toolSlug": "openai-privacy-filter",
     "toolName": "OpenAI Privacy Filter",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
