@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-05-07",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Vibe coding and agentic engineering are getting closer than I'd like",
+    "date": "2026-05-07",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-05-06",
     "type": "trending",
     "toolSlug": "agent",
@@ -2167,94 +2176,5 @@
     "title": "Loverly AI が新しく追加されました",
     "summary": "AI技術で結婚式準備を効率化",
     "date": "2026-04-08"
-  },
-  {
-    "id": "new-freestyle-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "freestyle",
-    "title": "Freestyle が新しく追加されました",
-    "summary": "AIコーディングエージェント用サンドボックス環境",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "new-hippo-memory-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "hippo-memory",
-    "title": "Hippo Memory が新しく追加されました",
-    "summary": "生物学的記憶を模倣したAIエージェント用メモリ",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "new-meta-agent-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "meta-agent",
-    "title": "Meta-Agent が新しく追加されました",
-    "summary": "実行結果から自己改善するメタAIエージェント",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "new-agent-reading-test-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "agent-reading-test",
-    "title": "Agent Reading Test が新しく追加されました",
-    "summary": "AIエージェントの読解力評価プラットフォーム",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "new-prism-ai-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "prism-ai",
-    "title": "Prism AI が新しく追加されました",
-    "summary": "科学者専用のAIワークスペース",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "trending-claude-2026-04-07",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-    "date": "2026-04-07",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-rocket-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "rocket",
-    "title": "Rocket が新しく追加されました",
-    "summary": "AI自動生成でマッキンゼー風レポート作成",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "new-eluvio-ai-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "eluvio-ai",
-    "title": "Eluvio AI が新しく追加されました",
-    "summary": "フレーム単位で正確な動画編集AI",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "new-oiioii-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "oiioii",
-    "title": "OiiOii が新しく追加されました",
-    "summary": "動画制作ワークフロー一気通貫AI",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "new-istudy-ai-platform-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "istudy-ai-platform",
-    "title": "iStudy AI Platform が新しく追加されました",
-    "summary": "AIが教育実務を強力サポートする学習プラットフォーム",
-    "date": "2026-04-07"
-  },
-  {
-    "id": "new-moneyforward-ai-cowork-2026-04-07",
-    "type": "new-tool",
-    "toolSlug": "moneyforward-ai-cowork",
-    "title": "MoneyForward AI Cowork が新しく追加されました",
-    "summary": "バックオフィス業務を自律実行するAI",
-    "date": "2026-04-07"
   }
 ]
