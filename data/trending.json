@@ -6,43 +6,57 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Agent-harness-kit scaffolding for multi-agent workflows",
+        "url": "MCP, provider-agnostic) (https://ahk.cardor.dev",
+        "score": 43,
+        "date": "2026-05-07"
+      },
+      {
+        "source": "hackernews",
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "score": 425,
+        "score": 666,
+        "date": "2026-05-07"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+        "url": "https://github.com/darkrishabh/agent-skills-eval",
+        "score": 40,
         "date": "2026-05-07"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
         "url": "https://tilde.run/",
-        "score": 130,
+        "score": 183,
         "date": "2026-05-07"
       },
       {
         "source": "hackernews",
         "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
         "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-        "score": 628,
+        "score": 639,
         "date": "2026-05-07"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Airbyte Agents – context for agents across multiple data sources ()",
-        "score": 139,
-        "date": "2026-05-07"
-      },
-      {
-        "source": "hackernews",
-        "title": "Telus Uses AI to Alter Call-Agent Accents",
-        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-        "score": 227,
+        "score": 141,
         "date": "2026-05-07"
       },
       {
         "source": "hackernews",
         "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
         "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-        "score": 258,
+        "score": 261,
+        "date": "2026-05-07"
+      },
+      {
+        "source": "hackernews",
+        "title": "Telus Uses AI to Alter Call-Agent Accents",
+        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+        "score": 233,
         "date": "2026-05-07"
       },
       {
@@ -64,14 +78,7 @@
         "source": "hackernews",
         "title": "Higher usage limits for Claude and a compute deal with SpaceX",
         "url": "https://www.anthropic.com/news/higher-limits-spacex",
-        "score": 396,
-        "date": "2026-05-07"
-      },
-      {
-        "source": "hackernews",
-        "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-        "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-        "score": 11,
+        "score": 484,
         "date": "2026-05-07"
       },
       {
@@ -93,7 +100,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -109,7 +116,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -129,22 +136,6 @@
     "lastSeen": "2026-04-30"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-        "url": "https://mljar.com/",
-        "score": 65,
-        "date": "2026-05-03"
-      }
-    ],
-    "firstSeen": "2026-04-29",
-    "lastSeen": "2026-05-03"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
     "buzzScore": 1,
@@ -157,21 +148,6 @@
       }
     ],
     "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-07"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini 初期設定5選【2026年最新版】やらないと後悔する完全ガイド - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-07"
-      }
-    ],
-    "firstSeen": "2026-04-27",
     "lastSeen": "2026-05-07"
   },
   {
@@ -190,21 +166,6 @@
     "lastSeen": "2026-05-07"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-05-07"
-      }
-    ],
-    "firstSeen": "2026-05-04",
-    "lastSeen": "2026-05-07"
-  },
-  {
     "toolSlug": "pholly",
     "toolName": "Pholly",
     "buzzScore": 1,
@@ -220,6 +181,21 @@
     "lastSeen": "2026-05-07"
   },
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】2026年3月4日より提供開始 Geminiを\"職種ごとの実務力\"として証明する「職種・部門別スキル証明課題」を提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-07"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-07"
+  },
+  {
     "toolSlug": "learno",
     "toolName": "LearnO",
     "buzzScore": 1,
@@ -232,6 +208,51 @@
       }
     ],
     "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-07"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "China&#8217;s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+        "score": 1,
+        "date": "2026-05-07"
+      }
+    ],
+    "firstSeen": "2026-05-07",
+    "lastSeen": "2026-05-07"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Spotify wants to become the home for AI-generated personal audio",
+        "score": 1,
+        "date": "2026-05-07"
+      }
+    ],
+    "firstSeen": "2026-04-29",
+    "lastSeen": "2026-05-07"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Five architects of the AI economy explain where the wheels are coming off",
+        "score": 1,
+        "date": "2026-05-07"
+      }
+    ],
+    "firstSeen": "2026-05-06",
     "lastSeen": "2026-05-07"
   },
   {
@@ -280,24 +301,24 @@
     "lastSeen": "2026-05-07"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
     "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "地権者とつながる不動産AIツール『WHERE』、全国の衛星データと不動産情報約7,300万件をデータベース化。条件に合う候補物件数を最短1秒で可視化 - PR TIMES",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-05-06"
+        "date": "2026-05-07"
       }
     ],
-    "firstSeen": "2026-05-06",
-    "lastSeen": "2026-05-06"
+    "firstSeen": "2026-05-04",
+    "lastSeen": "2026-05-07"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -318,7 +339,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -333,7 +354,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -349,7 +370,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -364,7 +385,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
