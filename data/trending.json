@@ -8,56 +8,49 @@
         "source": "hackernews",
         "title": "Agents need control flow, not more prompts",
         "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-        "score": 344,
+        "score": 511,
         "date": "2026-05-08"
       },
       {
         "source": "hackernews",
         "title": "Principles for agent-native CLIs",
         "url": "https://twitter.com/trevin/status/2051316002730991795",
-        "score": 66,
+        "score": 100,
         "date": "2026-05-08"
       },
       {
         "source": "hackernews",
         "title": "Agent-harness-kit scaffolding for multi-agent workflows",
         "url": "MCP, provider-agnostic) (https://ahk.cardor.dev",
-        "score": 75,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-        "url": "https://github.com/darkrishabh/agent-skills-eval",
-        "score": 67,
+        "score": 77,
         "date": "2026-05-08"
       },
       {
         "source": "hackernews",
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "score": 750,
+        "score": 772,
         "date": "2026-05-08"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
         "url": "https://tilde.run/",
-        "score": 192,
+        "score": 194,
         "date": "2026-05-08"
       },
       {
         "source": "hackernews",
-        "title": "The agent principal-agent problem",
-        "url": "https://crawshaw.io/blog/agent-principal-agent",
-        "score": 9,
+        "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+        "url": "https://github.com/darkrishabh/agent-skills-eval",
+        "score": 69,
         "date": "2026-05-08"
       },
       {
         "source": "hackernews",
         "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
         "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-        "score": 648,
+        "score": 651,
         "date": "2026-05-08"
       },
       {
@@ -71,54 +64,36 @@
     "lastSeen": "2026-05-08"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Should I run plain Docker Compose in production in 2026?",
-        "url": "https://distr.sh/blog/running-docker-in-production/",
-        "score": 404,
-        "date": "2026-05-06"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-05-06"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-        "url": "https://deepmind.google/blog/alphaevolve-impact/",
-        "score": 247,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-08"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 1.9,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
         "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-        "score": 206,
+        "score": 321,
+        "date": "2026-05-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "Hardening Firefox with Claude Mythos Preview",
+        "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+        "score": 252,
+        "date": "2026-05-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+        "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
+        "score": 28,
         "date": "2026-05-08"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code",
         "url": "https://github.com/kubetail-org/kstack",
-        "score": 17,
+        "score": 21,
         "date": "2026-05-08"
       },
       {
@@ -144,9 +119,57 @@
     "lastSeen": "2026-05-08"
   },
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 2.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+        "url": "https://deepmind.google/blog/alphaevolve-impact/",
+        "score": 308,
+        "date": "2026-05-08"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-08"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Should I run plain Docker Compose in production in 2026?",
+        "url": "https://distr.sh/blog/running-docker-in-production/",
+        "score": 404,
+        "date": "2026-05-06"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-05-06"
+  },
+  {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GPT-5.5 Price Increase: What It Costs",
+        "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+        "score": 102,
+        "date": "2026-05-08"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-08"
+  },
+  {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -166,29 +189,13 @@
     "lastSeen": "2026-04-30"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "A new era for memory-management maintainership",
-        "url": "https://lwn.net/SubscriberLink/1070994/9b6713c0c4db24dc/",
-        "score": 5,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-08"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - nytimes.com",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
         "date": "2026-05-08"
       },
@@ -215,21 +222,6 @@
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-08"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-05-04",
     "lastSeen": "2026-05-08"
   },
   {
@@ -329,9 +321,40 @@
     "lastSeen": "2026-05-08"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "A new era for memory-management maintainership",
+        "url": "https://lwn.net/SubscriberLink/1070994/9b6713c0c4db24dc/",
+        "score": 5,
+        "date": "2026-05-08"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-08"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-08"
+      }
+    ],
+    "firstSeen": "2026-05-04",
+    "lastSeen": "2026-05-08"
+  },
+  {
     "toolSlug": "factory",
     "toolName": "Factory",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -346,7 +369,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -361,7 +384,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -382,7 +405,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -397,7 +420,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -409,20 +432,5 @@
     ],
     "firstSeen": "2026-04-27",
     "lastSeen": "2026-04-28"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "GrokをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-06"
-      }
-    ],
-    "firstSeen": "2026-05-01",
-    "lastSeen": "2026-05-06"
   }
 ]
