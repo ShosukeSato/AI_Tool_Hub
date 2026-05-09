@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-05-09",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Using Claude Code: The unreasonable effectiveness of HTML",
+    "date": "2026-05-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-05-08",
     "type": "trending",
     "toolSlug": "agent",
