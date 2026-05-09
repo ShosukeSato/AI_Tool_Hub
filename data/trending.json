@@ -6,138 +6,132 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Show HN: Git for AI Agents",
+        "url": "https://github.com/regent-vcs/re_gent",
+        "score": 93,
+        "date": "2026-05-09"
+      },
+      {
+        "source": "hackernews",
         "title": "Agents need control flow, not more prompts",
         "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-        "score": 511,
-        "date": "2026-05-08"
+        "score": 572,
+        "date": "2026-05-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Sandboxing AIOps and Agentic AI Security",
+        "url": "https://blog.cosmonic.com/engineering/aiops-and-agentic-ai-security-in-a-componentized-world/",
+        "score": 10,
+        "date": "2026-05-09"
       },
       {
         "source": "hackernews",
         "title": "Principles for agent-native CLIs",
         "url": "https://twitter.com/trevin/status/2051316002730991795",
-        "score": 100,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agent-harness-kit scaffolding for multi-agent workflows",
-        "url": "MCP, provider-agnostic) (https://ahk.cardor.dev",
-        "score": 77,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "score": 772,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-        "url": "https://tilde.run/",
-        "score": 194,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-        "url": "https://github.com/darkrishabh/agent-skills-eval",
-        "score": 69,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-        "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-        "score": 651,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-05-08"
+        "score": 108,
+        "date": "2026-05-09"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-08"
+    "lastSeen": "2026-05-09"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.4,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-        "score": 321,
-        "date": "2026-05-08"
+        "title": "Teaching Claude Why",
+        "url": "https://www.anthropic.com/research/teaching-claude-why",
+        "score": 99,
+        "date": "2026-05-09"
       },
       {
         "source": "hackernews",
         "title": "Hardening Firefox with Claude Mythos Preview",
         "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-        "score": 252,
-        "date": "2026-05-08"
+        "score": 340,
+        "date": "2026-05-09"
       },
       {
         "source": "hackernews",
         "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
         "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
-        "score": 28,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code",
-        "url": "https://github.com/kubetail-org/kstack",
-        "score": 21,
-        "date": "2026-05-08"
+        "score": 49,
+        "date": "2026-05-09"
       },
       {
         "source": "googlenews",
         "title": "Claude Mythos AI unauthorised access claim probed by Anthropic - BBC",
         "score": 1,
-        "date": "2026-05-08"
+        "date": "2026-05-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Design, a new product for creating quick visuals - TechCrunch",
+        "score": 1,
+        "date": "2026-05-09"
       },
       {
         "source": "googlenews",
         "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
         "score": 1,
-        "date": "2026-05-08"
+        "date": "2026-05-09"
       },
       {
         "source": "googlenews",
         "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
         "score": 1,
-        "date": "2026-05-08"
+        "date": "2026-05-09"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-08"
+    "lastSeen": "2026-05-09"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 2.2,
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-        "url": "https://deepmind.google/blog/alphaevolve-impact/",
-        "score": 308,
-        "date": "2026-05-08"
+        "title": "GPT-5.5 Price Increase: What It Costs",
+        "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+        "score": 199,
+        "date": "2026-05-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing GPT-5.5 - OpenAI",
+        "score": 1,
+        "date": "2026-05-09"
       }
     ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-08"
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-09"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
+        "url": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
+        "score": 78,
+        "date": "2026-05-09"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-09"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -151,25 +145,135 @@
     "lastSeen": "2026-05-06"
   },
   {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 1.4,
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "GPT-5.5 Price Increase: What It Costs",
-        "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-        "score": 102,
-        "date": "2026-05-08"
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-05-09"
+      },
+      {
+        "source": "techcrunch",
+        "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+        "score": 1,
+        "date": "2026-05-09"
       }
     ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-08"
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-05-09"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-05-09"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-09"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-09"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-09"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-09"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-09"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】2026年3月4日より提供開始 Geminiを\"職種ごとの実務力\"として証明する「職種・部門別スキル証明課題」を提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-09"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-09"
+  },
+  {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-09"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-09"
+  },
+  {
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac",
+        "score": 1,
+        "date": "2026-05-09"
+      }
+    ],
+    "firstSeen": "2026-05-07",
+    "lastSeen": "2026-05-09"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "China&#8217;s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+        "score": 1,
+        "date": "2026-05-09"
+      }
+    ],
+    "firstSeen": "2026-05-07",
+    "lastSeen": "2026-05-09"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -189,111 +293,9 @@
     "lastSeen": "2026-04-30"
   },
   {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-        "score": 1,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-08"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-08"
-  },
-  {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-08"
-  },
-  {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-08"
-  },
-  {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac",
-        "score": 1,
-        "date": "2026-05-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
-        "score": 1,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-05-07",
-    "lastSeen": "2026-05-08"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "China&#8217;s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-        "score": 1,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-05-07",
-    "lastSeen": "2026-05-08"
-  },
-  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -308,7 +310,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -323,7 +325,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -339,7 +341,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -354,7 +356,7 @@
   {
     "toolSlug": "factory",
     "toolName": "Factory",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -369,7 +371,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -380,57 +382,5 @@
     ],
     "firstSeen": "2026-05-07",
     "lastSeen": "2026-05-07"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-        "score": 1,
-        "date": "2026-05-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-        "score": 1,
-        "date": "2026-05-06"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-06"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-        "score": 1,
-        "date": "2026-05-06"
-      }
-    ],
-    "firstSeen": "2026-05-06",
-    "lastSeen": "2026-05-06"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Three constraints before I build anything",
-        "url": "https://jordanlord.co.uk/blog/3-constraints/",
-        "score": 351,
-        "date": "2026-04-28"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-04-28"
   }
 ]
