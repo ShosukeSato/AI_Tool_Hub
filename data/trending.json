@@ -8,115 +8,92 @@
         "source": "hackernews",
         "title": "Using Claude Code: The unreasonable effectiveness of HTML",
         "url": "https://twitter.com/trq212/status/2052809885763747935",
-        "score": 218,
-        "date": "2026-05-09"
+        "score": 422,
+        "date": "2026-05-10"
       },
       {
         "source": "hackernews",
         "title": "Teaching Claude Why",
         "url": "https://www.anthropic.com/research/teaching-claude-why",
-        "score": 191,
-        "date": "2026-05-09"
+        "score": 249,
+        "date": "2026-05-10"
       },
       {
         "source": "hackernews",
         "title": "Hardening Firefox with Claude Mythos Preview",
         "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-        "score": 355,
-        "date": "2026-05-09"
+        "score": 371,
+        "date": "2026-05-10"
       },
       {
         "source": "googlenews",
         "title": "Claude Mythos AI unauthorised access claim probed by Anthropic - BBC",
         "score": 1,
-        "date": "2026-05-09"
+        "date": "2026-05-10"
       },
       {
         "source": "googlenews",
         "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
         "score": 1,
-        "date": "2026-05-09"
+        "date": "2026-05-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-10"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-09"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 9.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Git for AI Agents",
-        "url": "https://github.com/regent-vcs/re_gent",
-        "score": 108,
-        "date": "2026-05-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agents need control flow, not more prompts",
-        "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-        "score": 579,
-        "date": "2026-05-09"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-09"
+    "lastSeen": "2026-05-10"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 5.9,
+    "buzzScore": 6.2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "A recent experience with ChatGPT 5.5 Pro",
         "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-        "score": 416,
-        "date": "2026-05-09"
+        "score": 608,
+        "date": "2026-05-10"
       }
     ],
     "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-09"
+    "lastSeen": "2026-05-10"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 3.4,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "GPT-5.5 Price Increase: What It Costs",
         "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-        "score": 206,
-        "date": "2026-05-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing GPT-5.5 - OpenAI",
-        "score": 1,
-        "date": "2026-05-09"
+        "score": 209,
+        "date": "2026-05-10"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-09"
+    "lastSeen": "2026-05-10"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.6,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Should I run plain Docker Compose in production in 2026?",
-        "url": "https://distr.sh/blog/running-docker-in-production/",
-        "score": 404,
-        "date": "2026-05-06"
+        "title": "Data center drains 30M gals of water — until residents complained of pressure",
+        "url": "https://www.politico.com/news/2026/05/08/georgia-data-centers-water-00909988",
+        "score": 23,
+        "date": "2026-05-10"
       }
     ],
     "firstSeen": "2026-04-15",
-    "lastSeen": "2026-05-06"
+    "lastSeen": "2026-05-10"
   },
   {
     "toolSlug": "mythos",
@@ -127,22 +104,142 @@
         "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
-        "date": "2026-05-09"
+        "date": "2026-05-10"
       },
       {
         "source": "techcrunch",
         "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
         "score": 1,
-        "date": "2026-05-09"
+        "date": "2026-05-10"
       }
     ],
     "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-09"
+    "lastSeen": "2026-05-10"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
+        "date": "2026-05-10"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-10"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
+        "score": 1,
+        "date": "2026-05-10"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-10"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-05-10"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-10"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-10"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-10"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】2026年3月4日より提供開始 Geminiを\"職種ごとの実務力\"として証明する「職種・部門別スキル証明課題」を提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-10"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-10"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-10"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-10"
+  },
+  {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-10"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-10"
+  },
+  {
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac",
+        "score": 1,
+        "date": "2026-05-10"
+      }
+    ],
+    "firstSeen": "2026-05-07",
+    "lastSeen": "2026-05-10"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -155,69 +252,9 @@
     "lastSeen": "2026-05-09"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-09"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-09"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-09"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-09"
-  },
-  {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-09"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-09"
-  },
-  {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac",
-        "score": 1,
-        "date": "2026-05-09"
-      }
-    ],
-    "firstSeen": "2026-05-07",
-    "lastSeen": "2026-05-09"
-  },
-  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -230,39 +267,9 @@
     "lastSeen": "2026-05-09"
   },
   {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-09"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-09"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】2026年3月4日より提供開始 Geminiを\"職種ごとの実務力\"として証明する「職種・部門別スキル証明課題」を提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-09"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-09"
-  },
-  {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -284,7 +291,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -299,7 +306,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -310,51 +317,5 @@
     ],
     "firstSeen": "2026-05-06",
     "lastSeen": "2026-05-08"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "A new era for memory-management maintainership",
-        "url": "https://lwn.net/SubscriberLink/1070994/9b6713c0c4db24dc/",
-        "score": 5,
-        "date": "2026-05-08"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-08"
-  },
-  {
-    "toolSlug": "factory",
-    "toolName": "Factory",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas",
-        "score": 1,
-        "date": "2026-05-07"
-      }
-    ],
-    "firstSeen": "2026-05-07",
-    "lastSeen": "2026-05-07"
-  },
-  {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "DeepSeek could hit $45B valuation from its first investment round",
-        "score": 1,
-        "date": "2026-05-07"
-      }
-    ],
-    "firstSeen": "2026-05-07",
-    "lastSeen": "2026-05-07"
   }
 ]
