@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "A recent experience with ChatGPT 5.5 Pro",
         "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-        "score": 686,
+        "score": 698,
         "date": "2026-05-11"
       },
       {
@@ -22,29 +22,38 @@
     "lastSeen": "2026-05-11"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 4.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+        "score": 257,
+        "date": "2026-05-11"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-11"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 8.9,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
         "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-        "score": 14,
+        "score": 125,
         "date": "2026-05-11"
       },
       {
         "source": "hackernews",
-        "title": "Academic Research Skills for Claude Code",
-        "url": "https://github.com/Imbad0202/academic-research-skills",
-        "score": 77,
-        "date": "2026-05-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-        "url": "https://twitter.com/trq212/status/2052809885763747935",
-        "score": 508,
+        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+        "url": "https://github.com/adamjgmiller/adamsreview",
+        "score": 58,
         "date": "2026-05-11"
       },
       {
@@ -73,22 +82,6 @@
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-11"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-        "score": 41,
-        "date": "2026-05-11"
-      }
-    ],
-    "firstSeen": "2026-04-16",
     "lastSeen": "2026-05-11"
   },
   {
@@ -128,33 +121,18 @@
     "lastSeen": "2026-05-11"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "learno",
+    "toolName": "LearnO",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "「生成AIアシスト機能」でテスト問題作成を効率化！ eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
         "score": 1,
         "date": "2026-05-11"
       }
     ],
-    "firstSeen": "2026-05-04",
-    "lastSeen": "2026-05-11"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
-        "score": 1,
-        "date": "2026-05-11"
-      }
-    ],
-    "firstSeen": "2026-05-11",
+    "firstSeen": "2026-04-16",
     "lastSeen": "2026-05-11"
   },
   {
@@ -173,33 +151,33 @@
     "lastSeen": "2026-05-11"
   },
   {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "title": "【バイテック生成AIオンラインスクール】2026年3月4日より提供開始 Geminiを\"職種ごとの実務力\"として証明する「職種・部門別スキル証明課題」を提供開始 - PR TIMES",
         "score": 1,
         "date": "2026-05-11"
       }
     ],
-    "firstSeen": "2026-04-19",
+    "firstSeen": "2026-04-27",
     "lastSeen": "2026-05-11"
   },
   {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "source": "techcrunch",
+        "title": "There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
         "score": 1,
         "date": "2026-05-11"
       }
     ],
-    "firstSeen": "2026-04-16",
+    "firstSeen": "2026-05-07",
     "lastSeen": "2026-05-11"
   },
   {
@@ -233,9 +211,54 @@
     "lastSeen": "2026-05-11"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-11"
+      }
+    ],
+    "firstSeen": "2026-05-04",
+    "lastSeen": "2026-05-11"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-05-11"
+      }
+    ],
+    "firstSeen": "2026-05-11",
+    "lastSeen": "2026-05-11"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-11"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-11"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -251,7 +274,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -266,7 +289,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -277,57 +300,5 @@
     ],
     "firstSeen": "2026-05-08",
     "lastSeen": "2026-05-10"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】2026年3月4日より提供開始 Geminiを\"職種ごとの実務力\"として証明する「職種・部門別スキル証明課題」を提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-10"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-10"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "China&#8217;s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-        "score": 1,
-        "date": "2026-05-09"
-      }
-    ],
-    "firstSeen": "2026-05-07",
-    "lastSeen": "2026-05-09"
-  },
-  {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author ()",
-        "score": 39,
-        "date": "2026-04-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "GitHub Copilot code review will start consuming GitHub Actions minutes",
-        "url": "https://github.blog/changelog/2026-04-27-github-copilot-code-review-will-start-consuming-github-actions-minutes-on-june-1-2026/",
-        "score": 308,
-        "date": "2026-04-30"
-      }
-    ],
-    "firstSeen": "2026-04-22",
-    "lastSeen": "2026-04-30"
   }
 ]
