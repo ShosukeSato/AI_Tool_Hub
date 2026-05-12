@@ -8,7 +8,13 @@
         "source": "hackernews",
         "title": "A recent experience with ChatGPT 5.5 Pro",
         "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-        "score": 714,
+        "score": 717,
+        "date": "2026-05-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "【ChatGPT】自治体AI zevoにてGPT-5.5-chatを2026年5月12日より提供開始！ - PR TIMES",
+        "score": 1,
         "date": "2026-05-12"
       }
     ],
@@ -18,38 +24,46 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.9,
+    "buzzScore": 6.9,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: E2a – Open-source email gateway for AI agents",
-        "url": "https://github.com/Mnexa-AI/e2a",
-        "score": 24,
+        "title": "ICE Agents Have List of 20M People on Their iPhones Thanks to Palantir",
+        "url": "https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/",
+        "score": 17,
         "date": "2026-05-12"
       },
       {
         "source": "hackernews",
-        "title": "Natural-language messages between LLM agents are an architectural anti-pattern",
-        "url": "https://novaberg.de/papers/clipboard-pattern.html",
-        "score": 15,
+        "title": "Show HN: E2a – Open-source email gateway for AI agents",
+        "url": "https://github.com/Mnexa-AI/e2a",
+        "score": 43,
         "date": "2026-05-12"
       },
       {
         "source": "hackernews",
         "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
         "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-        "score": 348,
+        "score": 360,
+        "date": "2026-05-12"
+      },
+      {
+        "source": "hackernews",
+        "title": "Natural-language messages between LLM agents are an architectural anti-pattern",
+        "url": "https://novaberg.de/papers/clipboard-pattern.html",
+        "score": 20,
+        "date": "2026-05-12"
+      },
+      {
+        "source": "hackernews",
+        "title": "Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads",
+        "url": "https://www.justice.gov/usao-cdca/pr/arcadia-mayor-federally-charged-acting-illegal-agent-peoples-republic-china",
+        "score": 31,
         "date": "2026-05-12"
       },
       {
         "source": "googlenews",
         "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "New Relic launches new AI agent platform and OpenTelemetry tools - TechCrunch",
         "score": 1,
         "date": "2026-05-12"
       }
@@ -58,29 +72,31 @@
     "lastSeen": "2026-05-12"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 4.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
+        "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+        "score": 271,
+        "date": "2026-05-12"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-05-12"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 4.2,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude Platform on AWS",
         "url": "https://claude.com/blog/claude-platform-on-aws",
-        "score": 17,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-        "url": "https://github.com/adamjgmiller/adamsreview",
-        "score": 73,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-        "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-        "score": 158,
+        "score": 182,
         "date": "2026-05-12"
       },
       {
@@ -91,7 +107,7 @@
       },
       {
         "source": "googlenews",
-        "title": "Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など - CGinterest",
+        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - ニコニコニュース",
         "score": 1,
         "date": "2026-05-12"
       },
@@ -112,38 +128,6 @@
     "lastSeen": "2026-05-12"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 4.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
-        "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-        "score": 247,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-05-12"
-  },
-  {
-    "toolSlug": "bild-ai",
-    "toolName": "Bild AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Bild AI",
-        "url": "YC W25) Is Hiring Founding Product Engineers (https://bild.ai/jobs",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-05-12",
-    "lastSeen": "2026-05-12"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
     "buzzScore": 1,
@@ -153,60 +137,54 @@
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
         "date": "2026-05-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "Mythos: An AI tool too powerful for public release - Malwarebytes",
-        "score": 1,
-        "date": "2026-05-12"
       }
     ],
     "firstSeen": "2026-04-20",
     "lastSeen": "2026-05-12"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
+    "toolSlug": "era",
+    "toolName": "Era",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
         "score": 1,
         "date": "2026-05-12"
       }
     ],
-    "firstSeen": "2026-04-27",
+    "firstSeen": "2026-05-08",
     "lastSeen": "2026-05-12"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "",
+    "toolName": "ナレフルチャット",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "法人向け生成AIチャットサービス「ナレフルチャット」、「AI BUSINESS CONFERENCE 2026 春 in 東京」出展のお知らせ - ドリームニュース",
         "score": 1,
         "date": "2026-05-12"
       }
     ],
-    "firstSeen": "2026-05-04",
+    "firstSeen": "2026-05-12",
     "lastSeen": "2026-05-12"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "title": "アドビ、Adobe FireflyにクリエイティブAIエージェントを導入、新たな生成AI機能とともに創造性の新時代を切り拓く - Adobe Newsroom",
         "score": 1,
         "date": "2026-05-12"
       }
     ],
-    "firstSeen": "2026-05-11",
+    "firstSeen": "2026-05-09",
     "lastSeen": "2026-05-12"
   },
   {
@@ -240,6 +218,21 @@
     "lastSeen": "2026-05-12"
   },
   {
+    "toolSlug": "thinking-machines",
+    "toolName": "Thinking Machines",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+        "score": 1,
+        "date": "2026-05-12"
+      }
+    ],
+    "firstSeen": "2026-05-12",
+    "lastSeen": "2026-05-12"
+  },
+  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
     "buzzScore": 1,
@@ -270,9 +263,70 @@
     "lastSeen": "2026-05-12"
   },
   {
+    "toolSlug": "bild-ai",
+    "toolName": "Bild AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Bild AI",
+        "url": "YC W25) Is Hiring Founding Product Engineers (https://bild.ai/jobs",
+        "score": 1,
+        "date": "2026-05-12"
+      }
+    ],
+    "firstSeen": "2026-05-12",
+    "lastSeen": "2026-05-12"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-12"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-12"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-12"
+      }
+    ],
+    "firstSeen": "2026-05-04",
+    "lastSeen": "2026-05-12"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "対話形式で楽しく学べる！ 話題のAI開発ツール「Dify」入門書 『やりたい！ができる Dify 知識ゼロではじめるAIアプリづくり』を2026年3月25日（水）に発売 - 株式会社インプレス",
+        "score": 1,
+        "date": "2026-05-12"
+      }
+    ],
+    "firstSeen": "2026-05-11",
+    "lastSeen": "2026-05-12"
+  },
+  {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -287,7 +341,7 @@
   {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -302,7 +356,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -313,35 +367,5 @@
     ],
     "firstSeen": "2026-05-07",
     "lastSeen": "2026-05-11"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-10"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-10"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
-        "score": 1,
-        "date": "2026-05-10"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-10"
   }
 ]
