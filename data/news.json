@@ -18,6 +18,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-05-13",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 8.4）",
+    "summary": "hackernewsで注目: Show HN: Agentic interface for mainframes and COBOL",
+    "date": "2026-05-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-05-12",
     "type": "trending",
     "toolSlug": "chatgpt",

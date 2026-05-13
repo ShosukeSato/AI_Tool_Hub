@@ -1,16 +1,92 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "era",
+    "toolName": "Era",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Platform on AWS",
-        "url": "https://claude.com/blog/claude-platform-on-aws",
-        "score": 221,
+        "title": "Reimagining the mouse pointer for the AI era",
+        "url": "https://deepmind.google/blog/ai-pointer/",
+        "score": 228,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 8.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agentic interface for mainframes and COBOL",
+        "url": "https://www.hypercubic.ai/hopper",
+        "score": 82,
         "date": "2026-05-13"
       },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+        "url": "https://github.com/statewright/statewright",
+        "score": 103,
+        "date": "2026-05-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "LINEヤフー、2026年度はAIエージェント化を推進 Agent iで広告・課金・手数料モデルを展開へ - Ledge.ai",
+        "score": 1,
+        "date": "2026-05-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google brings agentic AI and vibe-coded widgets to Android",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+        "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+        "score": 38,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "v0",
+    "toolName": "v0",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Blaise v0.7.0",
+        "url": "alpha) – Independent of Free Pascal compiler (https://github.com/graemeg/blaise/discussions/24",
+        "score": 6,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-13",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.2,
+    "mentions": [
       {
         "source": "googlenews",
         "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
@@ -46,98 +122,16 @@
     "lastSeen": "2026-05-13"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 7.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Reimagining the mouse pointer for the AI era",
-        "url": "https://deepmind.google/blog/ai-pointer/",
-        "score": 153,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-13"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 6.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Agentic interface for mainframes and COBOL",
-        "url": "https://www.hypercubic.ai/hopper",
-        "score": 59,
-        "date": "2026-05-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-        "url": "https://github.com/statewright/statewright",
-        "score": 79,
-        "date": "2026-05-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "LINEヤフー、2026年度はAIエージェント化を推進 Agent iで広告・課金・手数料モデルを展開へ - Ledge.ai",
-        "score": 1,
-        "date": "2026-05-13"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google brings agentic AI and vibe-coded widgets to Android",
-        "score": 1,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-13"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Foucault's Order of Things Explained with Trading Cards [video]",
-        "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
-        "score": 23,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-05-13"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Mythos: An AI tool too powerful for public release - Malwarebytes",
-        "score": 1,
-        "date": "2026-05-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-13"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1.1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google Android Show I/O Edition 2026: New Googlebook, Gemini AI tools and Android 17 upgrades revealed - financialexpress.com",
+        "score": 1,
+        "date": "2026-05-13"
+      },
       {
         "source": "techcrunch",
         "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
@@ -146,6 +140,21 @@
       }
     ],
     "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "WhatsApp adds an incognito mode in Meta AI chats",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-13",
     "lastSeen": "2026-05-13"
   },
   {
@@ -179,33 +188,48 @@
     "lastSeen": "2026-05-13"
   },
   {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1.1,
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "There aren&#8217;t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+        "source": "googlenews",
+        "title": "Mythos: An AI tool too powerful for public release - Malwarebytes",
         "score": 1,
         "date": "2026-05-13"
       }
     ],
-    "firstSeen": "2026-05-07",
+    "firstSeen": "2026-04-20",
     "lastSeen": "2026-05-13"
   },
   {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 1.1,
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Get ready for the whisper-filled office of the future",
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登 - ニコニコニュース",
         "score": 1,
         "date": "2026-05-13"
       }
     ],
-    "firstSeen": "2026-05-11",
+    "firstSeen": "2026-05-13",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "アドビ、Adobe FireflyにクリエイティブAIエージェントを導入、新たな生成AI機能とともに創造性の新時代を切り拓く - Adobe Newsroom",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-09",
     "lastSeen": "2026-05-13"
   },
   {
@@ -221,21 +245,6 @@
       }
     ],
     "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-13"
-  },
-  {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIイベント特化プラットフォーム「Weabee」、AI検索「Felo」と初コラボセミナーを5月13日(水)19時より無料開催 - ニコニコニュース",
-        "score": 1,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-05-13",
     "lastSeen": "2026-05-13"
   },
   {
@@ -269,9 +278,54 @@
     "lastSeen": "2026-05-13"
   },
   {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "There aren&#8217;t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-07",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "whisper",
+    "toolName": "Whisper",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Get ready for the whisper-filled office of the future",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-11",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIイベント特化プラットフォーム「Weabee」、AI検索「Felo」と初コラボセミナーを5月13日(水)19時より無料開催 - ニコニコニュース",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-13",
+    "lastSeen": "2026-05-13"
+  },
+  {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -286,7 +340,7 @@
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -299,24 +353,9 @@
     "lastSeen": "2026-05-12"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "アドビ、Adobe FireflyにクリエイティブAIエージェントを導入、新たな生成AI機能とともに創造性の新時代を切り拓く - Adobe Newsroom",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-12"
-  },
-  {
     "toolSlug": "bild-ai",
     "toolName": "Bild AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -332,7 +371,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -347,7 +386,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -362,7 +401,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -377,7 +416,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
