@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-05-13",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Platform on AWS",
+    "date": "2026-05-13",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-era-2026-05-13",
+    "type": "trending",
+    "toolSlug": "era",
+    "title": "Era が話題沸騰中（バズスコア: 7.1）",
+    "summary": "hackernewsで注目: Reimagining the mouse pointer for the AI era",
+    "date": "2026-05-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-05-12",
     "type": "trending",
     "toolSlug": "chatgpt",
@@ -1651,96 +1669,5 @@
     "title": "Hiro が新しく追加されました",
     "summary": "OpenAI買収のAI個人金融管理ツール",
     "date": "2026-04-14"
-  },
-  {
-    "id": "new-claudraband-2026-04-13",
-    "type": "new-tool",
-    "toolSlug": "claudraband",
-    "title": "Claudraband が新しく追加されました",
-    "summary": "Claude AI用パワーユーザー向け拡張ツール",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "new-bouncer-2026-04-13",
-    "type": "new-tool",
-    "toolSlug": "bouncer",
-    "title": "Bouncer が新しく追加されました",
-    "summary": "X（Twitter）フィード用AIフィルタリングツール",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "new-trainjazz-2026-04-13",
-    "type": "new-tool",
-    "toolSlug": "trainjazz",
-    "title": "TrainJazz が新しく追加されました",
-    "summary": "電車の運行状況を音楽化するアートプロジェクト",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "new-picwish-ai-photo-enhancer-2026-04-13",
-    "type": "new-tool",
-    "toolSlug": "picwish-ai-photo-enhancer",
-    "title": "PicWish AI Photo Enhancer が新しく追加されました",
-    "summary": "高精度AI画像修復・高画質化ツール",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "new-bridgebench-2026-04-13",
-    "type": "new-tool",
-    "toolSlug": "bridgebench",
-    "title": "BridgeBench が新しく追加されました",
-    "summary": "AIハルシネーション検出・評価ツール",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "trending-cirrus-labs-2026-04-13",
-    "type": "trending",
-    "toolSlug": "cirrus-labs",
-    "title": "Cirrus Labs が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Cirrus Labs to join OpenAI",
-    "date": "2026-04-13",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-instant-1-0-2026-04-13",
-    "type": "trending",
-    "toolSlug": "instant-1-0",
-    "title": "Instant 1.0 が話題沸騰中（バズスコア: 7.3）",
-    "summary": "hackernewsで注目: Instant 1.0, a backend for AI-coded apps",
-    "date": "2026-04-13",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-brightbean-studio-2026-04-13",
-    "type": "new-tool",
-    "toolSlug": "brightbean-studio",
-    "title": "BrightBean Studio が新しく追加されました",
-    "summary": "AI支援ソーシャルメディア管理ツール",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "new-rayse-b-w-ai-tools-2026-04-13",
-    "type": "new-tool",
-    "toolSlug": "rayse-b-w-ai-tools",
-    "title": "Rayse & B&W AI Tools が新しく追加されました",
-    "summary": "不動産業界特化型AIツール",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "new-atlassian-confluence-ai-agents-2026-04-13",
-    "type": "new-tool",
-    "toolSlug": "atlassian-confluence-ai-agents",
-    "title": "Atlassian Confluence AI Agents が新しく追加されました",
-    "summary": "企業向け知識管理AIエージェント",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "trending-claude-2026-04-13",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 9.8）",
-    "summary": "hackernewsで注目: Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-    "date": "2026-04-13",
-    "source": "hackernews"
   }
 ]

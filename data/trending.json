@@ -1,166 +1,292 @@
 [
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "A recent experience with ChatGPT 5.5 Pro",
-        "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-        "score": 717,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "【ChatGPT】自治体AI zevoにてGPT-5.5-chatを2026年5月12日より提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-12"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 6.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ICE Agents Have List of 20M People on Their iPhones Thanks to Palantir",
-        "url": "https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/",
-        "score": 17,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: E2a – Open-source email gateway for AI agents",
-        "url": "https://github.com/Mnexa-AI/e2a",
-        "score": 43,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-        "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-        "score": 360,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Natural-language messages between LLM agents are an architectural anti-pattern",
-        "url": "https://novaberg.de/papers/clipboard-pattern.html",
-        "score": 20,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Arcadia, CA, Mayor Federally Charged with Acting as Illegal Agent of PRC, Pleads",
-        "url": "https://www.justice.gov/usao-cdca/pr/arcadia-mayor-federally-charged-acting-illegal-agent-peoples-republic-china",
-        "score": 31,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-12"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 4.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
-        "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-        "score": 271,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-05-12"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.3,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude Platform on AWS",
         "url": "https://claude.com/blog/claude-platform-on-aws",
-        "score": 182,
-        "date": "2026-05-12"
+        "score": 221,
+        "date": "2026-05-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
+        "score": 1,
+        "date": "2026-05-13"
       },
       {
         "source": "googlenews",
         "title": "Claude Mythos AI unauthorised access claim probed by Anthropic - BBC",
         "score": 1,
-        "date": "2026-05-12"
+        "date": "2026-05-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-05-13"
       },
       {
         "source": "googlenews",
         "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - ニコニコニュース",
         "score": 1,
-        "date": "2026-05-12"
+        "date": "2026-05-13"
       },
       {
         "source": "googlenews",
         "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ | シフトプラス株式会社のプレスリリース - PR TIMES",
         "score": 1,
-        "date": "2026-05-12"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-        "score": 1,
-        "date": "2026-05-12"
+        "date": "2026-05-13"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-12"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-12"
+    "lastSeen": "2026-05-13"
   },
   {
     "toolSlug": "era",
     "toolName": "Era",
+    "buzzScore": 7.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Reimagining the mouse pointer for the AI era",
+        "url": "https://deepmind.google/blog/ai-pointer/",
+        "score": 153,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 6.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agentic interface for mainframes and COBOL",
+        "url": "https://www.hypercubic.ai/hopper",
+        "score": 59,
+        "date": "2026-05-13"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+        "url": "https://github.com/statewright/statewright",
+        "score": 79,
+        "date": "2026-05-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "LINEヤフー、2026年度はAIエージェント化を推進 Agent iで広告・課金・手数料モデルを展開へ - Ledge.ai",
+        "score": 1,
+        "date": "2026-05-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google brings agentic AI and vibe-coded widgets to Android",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+        "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+        "score": 23,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Mythos: An AI tool too powerful for public release - Malwarebytes",
+        "score": 1,
+        "date": "2026-05-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-20",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Threads tests a Meta AI integration that works similarly to Grok",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-13",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "thinking-machines",
+    "toolName": "Thinking Machines",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-12",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "There aren&#8217;t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-07",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "whisper",
+    "toolName": "Whisper",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Get ready for the whisper-filled office of the future",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-11",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
+        "title": "【ChatGPT】自治体AI zevoにてGPT-5.5-chatを2026年5月12日より提供開始！ - PR TIMES",
         "score": 1,
-        "date": "2026-05-12"
+        "date": "2026-05-13"
       }
     ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-12"
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIイベント特化プラットフォーム「Weabee」、AI検索「Felo」と初コラボセミナーを5月13日(水)19時より無料開催 - ニコニコニュース",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-05-13",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-13"
+  },
+  {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-13"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-13"
   },
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -175,7 +301,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -188,84 +314,9 @@
     "lastSeen": "2026-05-12"
   },
   {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-12"
-  },
-  {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-12"
-  },
-  {
-    "toolSlug": "thinking-machines",
-    "toolName": "Thinking Machines",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-05-12",
-    "lastSeen": "2026-05-12"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "There aren&#8217;t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-05-07",
-    "lastSeen": "2026-05-12"
-  },
-  {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Get ready for the whisper-filled office of the future",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-05-11",
-    "lastSeen": "2026-05-12"
-  },
-  {
     "toolSlug": "bild-ai",
     "toolName": "Bild AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -279,24 +330,9 @@
     "lastSeen": "2026-05-12"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-12"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-12"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -311,7 +347,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -326,7 +362,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -339,24 +375,9 @@
     "lastSeen": "2026-05-11"
   },
   {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「生成AIアシスト機能」でテスト問題作成を効率化！ eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-11"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-11"
-  },
-  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
