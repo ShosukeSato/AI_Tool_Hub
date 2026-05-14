@@ -1,5 +1,32 @@
 [
   {
+    "id": "trending-claude-2026-05-14",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing ()",
+    "date": "2026-05-14",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-era-2026-05-14",
+    "type": "trending",
+    "toolSlug": "era",
+    "title": "Era が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Reimagining the mouse pointer for the AI era",
+    "date": "2026-05-14",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-05-14",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 7.9）",
+    "summary": "hackernewsで注目: Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
+    "date": "2026-05-14",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-13",
     "type": "trending",
     "toolSlug": "claude",
@@ -1580,103 +1607,5 @@
     "title": "Science Corp Neural Sensor が新しく追加されました",
     "summary": "人間の脳に埋め込む次世代神経センサー技術",
     "date": "2026-04-15"
-  },
-  {
-    "id": "new-gaia-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "gaia",
-    "title": "GAIA が新しく追加されました",
-    "summary": "ローカルハードウェアで動作するAIエージェント構築フレームワーク",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "new-servo-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "servo",
-    "title": "Servo が新しく追加されました",
-    "summary": "Rust製の高性能Webブラウザエンジン",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "new-n-day-bench-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "n-day-bench",
-    "title": "N-Day-Bench が新しく追加されました",
-    "summary": "LLMの脆弱性発見能力を評価するベンチマークツール",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "new-mcptube-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "mcptube",
-    "title": "Mcptube が新しく追加されました",
-    "summary": "YouTube動画をAIで構造化知識ベース化",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "new-kimi-k2-6-code-preview-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "kimi-k2-6-code-preview",
-    "title": "Kimi K2.6-code-preview が新しく追加されました",
-    "summary": "高性能コーディング特化AIモデル",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "trending-servo-2026-04-14",
-    "type": "trending",
-    "toolSlug": "servo",
-    "title": "Servo が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Servo is now available on crates.io",
-    "date": "2026-04-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-cirrus-labs-2026-04-14",
-    "type": "trending",
-    "toolSlug": "cirrus-labs",
-    "title": "Cirrus Labs が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: Cirrus Labs to join OpenAI",
-    "date": "2026-04-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-introspective-diffusion-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "introspective-diffusion",
-    "title": "Introspective Diffusion が新しく追加されました",
-    "summary": "自己反省機能付き次世代言語生成AI",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "new-felo-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "felo",
-    "title": "Felo が新しく追加されました",
-    "summary": "調査・要約・翻訳を一括で行うAI",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "new-bear-roll-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "bear-roll",
-    "title": "Bear Roll が新しく追加されました",
-    "summary": "Bear Blog人気記事の自動キュレーション",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "new-claude-content-optimization-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "claude-content-optimization",
-    "title": "Claude Content Optimization が新しく追加されました",
-    "summary": "Claudeのトークン消費を最適化するツール",
-    "date": "2026-04-14"
-  },
-  {
-    "id": "new-hiro-2026-04-14",
-    "type": "new-tool",
-    "toolSlug": "hiro",
-    "title": "Hiro が新しく追加されました",
-    "summary": "OpenAI買収のAI個人金融管理ツール",
-    "date": "2026-04-14"
   }
 ]
