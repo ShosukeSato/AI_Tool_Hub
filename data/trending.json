@@ -6,48 +6,41 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Claude for Legal",
+        "url": "https://github.com/anthropics/claude-for-legal",
+        "score": 134,
+        "date": "2026-05-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "How Claude Code works in large codebases",
+        "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+        "score": 203,
+        "date": "2026-05-15"
+      },
+      {
+        "source": "hackernews",
         "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
         "url": "https://github.com/DrCatHicks/learning-opportunities",
-        "score": 222,
+        "score": 239,
         "date": "2026-05-15"
       },
       {
         "source": "hackernews",
         "title": "Claude for Small Business",
         "url": "https://www.anthropic.com/news/claude-for-small-business",
-        "score": 508,
-        "date": "2026-05-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude for Legal",
-        "url": "https://github.com/anthropics/claude-for-legal",
-        "score": 68,
-        "date": "2026-05-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Viable open source Claude Design alternative? ()",
-        "score": 18,
-        "date": "2026-05-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Bitcoin trader recovers wallet with help of Claude",
-        "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-        "score": 318,
-        "date": "2026-05-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Microsoft starts canceling Claude Code licenses",
-        "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-        "score": 17,
+        "score": 524,
         "date": "2026-05-15"
       },
       {
         "source": "googlenews",
         "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-05-15"
+      },
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
         "score": 1,
         "date": "2026-05-15"
       },
@@ -68,25 +61,25 @@
     "lastSeen": "2026-05-15"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 7.3,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Reimagining the mouse pointer for the AI era",
-        "url": "https://deepmind.google/blog/ai-pointer/",
-        "score": 228,
-        "date": "2026-05-13"
+        "title": "Codex is now in the ChatGPT mobile app",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+        "score": 387,
+        "date": "2026-05-15"
       }
     ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-13"
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-15"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -107,75 +100,18 @@
     "lastSeen": "2026-05-15"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 2.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Codex is now in the ChatGPT mobile app",
-        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-        "score": 201,
-        "date": "2026-05-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Codex is now available on mobile via ChatGPT app",
-        "url": "https://twitter.com/openai/status/2055016850849993072",
-        "score": 35,
-        "date": "2026-05-15"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-15"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
-        "url": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
-        "score": 26,
-        "date": "2026-05-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Amazon ditches Rufus chatbot, launches Alexa shopping agent in AI strategy pivot - CNBC",
-        "score": 1,
-        "date": "2026-05-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Agents for financial services - Anthropic",
-        "score": 1,
-        "date": "2026-05-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Notion just turned its workspace into a hub for AI agents",
-        "score": 1,
-        "date": "2026-05-15"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-15"
-  },
-  {
-    "toolSlug": "arisealpha",
-    "toolName": "AriseAlpha",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "AriseAlpha Launches Free AI Trading Bot for Bitcoin & Dogecoin: Automated Crypto Trading Tool for Investors in 2026 - The Manila Times",
+        "title": "Google’s ‘Gemini Spark’ could change how users interact with AI - Sammy Fans",
         "score": 1,
         "date": "2026-05-15"
       }
     ],
-    "firstSeen": "2026-05-15",
+    "firstSeen": "2026-04-27",
     "lastSeen": "2026-05-15"
   },
   {
@@ -191,6 +127,12 @@
       },
       {
         "source": "googlenews",
+        "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool - BBC",
+        "score": 1,
+        "date": "2026-05-15"
+      },
+      {
+        "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
         "date": "2026-05-15"
@@ -200,18 +142,18 @@
     "lastSeen": "2026-05-15"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
+    "toolSlug": "era",
+    "toolName": "Era",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登 - ニコニコニュース",
+        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
         "score": 1,
         "date": "2026-05-15"
       }
     ],
-    "firstSeen": "2026-05-13",
+    "firstSeen": "2026-05-08",
     "lastSeen": "2026-05-15"
   },
   {
@@ -260,9 +202,69 @@
     "lastSeen": "2026-05-15"
   },
   {
+    "toolSlug": "runway",
+    "toolName": "Runway",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+        "score": 1,
+        "date": "2026-05-15"
+      }
+    ],
+    "firstSeen": "2026-05-15",
+    "lastSeen": "2026-05-15"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "score": 1,
+        "date": "2026-05-15"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-15"
+  },
+  {
+    "toolSlug": "arisealpha",
+    "toolName": "AriseAlpha",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AriseAlpha Launches Free AI Trading Bot for Bitcoin & Dogecoin: Automated Crypto Trading Tool for Investors in 2026 - The Manila Times",
+        "score": 1,
+        "date": "2026-05-15"
+      }
+    ],
+    "firstSeen": "2026-05-15",
+    "lastSeen": "2026-05-15"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登 - ニコニコニュース",
+        "score": 1,
+        "date": "2026-05-15"
+      }
+    ],
+    "firstSeen": "2026-05-13",
+    "lastSeen": "2026-05-15"
+  },
+  {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -277,7 +279,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -290,30 +292,9 @@
     "lastSeen": "2026-05-14"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google Android Show I/O Edition 2026: New Googlebook, Gemini AI tools and Android 17 upgrades revealed - financialexpress.com",
-        "score": 1,
-        "date": "2026-05-14"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-        "score": 1,
-        "date": "2026-05-14"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-14"
-  },
-  {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -329,7 +310,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -344,7 +325,7 @@
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -359,7 +340,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -374,7 +355,7 @@
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -384,36 +365,6 @@
       }
     ],
     "firstSeen": "2026-05-11",
-    "lastSeen": "2026-05-13"
-  },
-  {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIイベント特化プラットフォーム「Weabee」、AI検索「Felo」と初コラボセミナーを5月13日(水)19時より無料開催 - ニコニコニュース",
-        "score": 1,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-05-13",
-    "lastSeen": "2026-05-13"
-  },
-  {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-04-16",
     "lastSeen": "2026-05-13"
   }
 ]
