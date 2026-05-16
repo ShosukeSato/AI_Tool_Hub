@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 8.2,
+    "overall": 7.5,
     "performance": 9,
-    "buzz": 9.5,
+    "buzz": 4.4,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-16"
@@ -237,7 +237,7 @@
     "toolSlug": "v0",
     "overall": 6.6,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-16"
@@ -262,9 +262,9 @@
   },
   {
     "toolSlug": "openclaw",
-    "overall": 5.6,
+    "overall": 5.7,
     "performance": 6,
-    "buzz": 1.1,
+    "buzz": 1.9,
     "easeOfUse": 5,
     "costPerformance": 8,
     "lastCalculated": "2026-05-16"
@@ -453,7 +453,7 @@
     "toolSlug": "agent",
     "overall": 6.4,
     "performance": 6,
-    "buzz": 0.9,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-05-16"
@@ -624,7 +624,7 @@
     "toolSlug": "adobe-firefly",
     "overall": 6,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-05-16"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.5,
     "performance": 9,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-16"
@@ -1333,9 +1333,9 @@
   },
   {
     "toolSlug": "hats",
-    "overall": 7.8,
+    "overall": 7.7,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-05-16"
@@ -1720,9 +1720,9 @@
   },
   {
     "toolSlug": "",
-    "overall": 6.4,
+    "overall": 6.3,
     "performance": 9,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-16"
@@ -2091,7 +2091,7 @@
     "toolSlug": "arisealpha",
     "overall": 5.8,
     "performance": 6,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 8,
     "lastCalculated": "2026-05-16"
@@ -2280,7 +2280,7 @@
     "toolSlug": "pholly",
     "overall": 6.1,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-16"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7.1,
     "performance": 7,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-05-16"
@@ -2955,7 +2955,7 @@
     "toolSlug": "era",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-16"

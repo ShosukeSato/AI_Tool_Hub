@@ -6,15 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Codex is now in the ChatGPT mobile app",
-        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-        "score": 469,
+        "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+        "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+        "score": 84,
         "date": "2026-05-16"
       },
       {
-        "source": "googlenews",
-        "title": "【ChatGPT】自治体AI zevoにてGPT-5.5-chatを2026年5月12日より提供開始！ - PR TIMES",
-        "score": 1,
+        "source": "hackernews",
+        "title": "Codex is now in the ChatGPT mobile app",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+        "score": 475,
         "date": "2026-05-16"
       },
       {
@@ -30,20 +31,13 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 9.5,
+    "buzzScore": 4.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude for Legal",
         "url": "https://github.com/anthropics/claude-for-legal",
-        "score": 194,
-        "date": "2026-05-16"
-      },
-      {
-        "source": "hackernews",
-        "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-        "url": "https://github.com/DrCatHicks/learning-opportunities",
-        "score": 246,
+        "score": 207,
         "date": "2026-05-16"
       },
       {
@@ -55,6 +49,12 @@
       {
         "source": "googlenews",
         "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
         "score": 1,
         "date": "2026-05-16"
       },
@@ -71,7 +71,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -94,13 +94,13 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 1.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "OpenAI Models in OpenClaw, Done Right",
-        "url": "https://openclaw.ai/blog/openai-models-in-openclaw-done-right",
-        "score": 4,
+        "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+        "url": "https://twitter.com/steipete/status/2055346265869721905",
+        "score": 54,
         "date": "2026-05-16"
       }
     ],
@@ -144,6 +144,21 @@
     "lastSeen": "2026-05-16"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
+        "date": "2026-05-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-16"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
     "buzzScore": 1,
@@ -176,7 +191,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -191,7 +206,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -206,7 +221,7 @@
   {
     "toolSlug": "pholly",
     "toolName": "Pholly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -219,24 +234,9 @@
     "lastSeen": "2026-05-15"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Notion just turned its workspace into a hub for AI agents",
-        "score": 1,
-        "date": "2026-05-15"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-15"
-  },
-  {
     "toolSlug": "arisealpha",
     "toolName": "AriseAlpha",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -251,7 +251,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -266,7 +266,7 @@
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -281,7 +281,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -296,7 +296,7 @@
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -307,36 +307,6 @@
       }
     ],
     "firstSeen": "2026-05-13",
-    "lastSeen": "2026-05-13"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Threads tests a Meta AI integration that works similarly to Grok",
-        "score": 1,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-05-13",
-    "lastSeen": "2026-05-13"
-  },
-  {
-    "toolSlug": "thinking-machines",
-    "toolName": "Thinking Machines",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-        "score": 1,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-05-12",
     "lastSeen": "2026-05-13"
   }
 ]
