@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-chatgpt-2026-05-16",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Codex is now in the ChatGPT mobile app",
+    "date": "2026-05-16",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-05-16",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 9.5）",
+    "summary": "hackernewsで注目: Claude for Legal",
+    "date": "2026-05-16",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-15",
     "type": "trending",
     "toolSlug": "claude",
@@ -1380,119 +1398,5 @@
     "title": "Presso が新しく追加されました",
     "summary": "全マーケティングツールをAIで統合管理",
     "date": "2026-04-17"
-  },
-  {
-    "id": "new-libretto-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "libretto",
-    "title": "Libretto が新しく追加されました",
-    "summary": "AIブラウザ自動化を決定論的にするツール",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-pretty-fish-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "pretty-fish",
-    "title": "Pretty Fish が新しく追加されました",
-    "summary": "美しいMermaidダイアグラムエディター",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-agent-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "agent",
-    "title": "Agent が新しく追加されました",
-    "summary": "macOS専用のネイティブAIコーディングIDE",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-gemini-3-1-flash-tts-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "gemini-3-1-flash-tts",
-    "title": "Gemini 3.1 Flash TTS が新しく追加されました",
-    "summary": "表現力豊かな次世代AI音声合成",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-shirofune-ai-performance-analysis-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "shirofune-ai-performance-analysis",
-    "title": "Shirofune AI Performance Analysis が新しく追加されました",
-    "summary": "AIによる広告パフォーマンス自動分析",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-learno-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "learno",
-    "title": "LearnO が新しく追加されました",
-    "summary": "補助金対象のAI活用eラーニングシステム",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "trending-claude-2026-04-16",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Code Routines",
-    "date": "2026-04-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-chatgpt-for-excel-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "chatgpt-for-excel",
-    "title": "ChatGPT for Excel が新しく追加されました",
-    "summary": "Excel専用のChatGPTでスプレッドシート作業を効率化",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-ramain-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "ramain",
-    "title": "RamAIn が新しく追加されました",
-    "summary": "Y Combinator採択のGTMオペレーション特化AI",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-let-ai-gamble-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "let-ai-gamble",
-    "title": "Let AI Gamble が新しく追加されました",
-    "summary": "AIにギャンブルをさせるユニークな実験プラットフォーム",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-gas-town-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "gas-town",
-    "title": "Gas Town が新しく追加されました",
-    "summary": "LLMクレジット管理プラットフォーム（透明性議論中）",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-bonsai-webgpu-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "bonsai-webgpu",
-    "title": "Bonsai WebGPU が新しく追加されました",
-    "summary": "290MBの軽量1-bit LLMをブラウザで実行",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "new-khanmigo-2026-04-16",
-    "type": "new-tool",
-    "toolSlug": "khanmigo",
-    "title": "Khanmigo が新しく追加されました",
-    "summary": "Khan Academy開発の教育特化AIチューター",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "trending-llama-2026-04-16",
-    "type": "trending",
-    "toolSlug": "llama",
-    "title": "Llama が話題沸騰中（バズスコア: 7.7）",
-    "summary": "hackernewsで注目: The local LLM ecosystem doesn’t need Ollama",
-    "date": "2026-04-16",
-    "source": "hackernews"
   }
 ]
