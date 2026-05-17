@@ -1,5 +1,50 @@
 [
   {
+    "id": "trending-deepseek-2026-05-17",
+    "type": "trending",
+    "toolSlug": "deepseek",
+    "title": "DeepSeek が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: DeepSeek-V4-Flash means LLM steering is interesting again",
+    "date": "2026-05-17",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-05-17",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude for Legal",
+    "date": "2026-05-17",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-05-17",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "date": "2026-05-17",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-chatgpt-2026-05-17",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "date": "2026-05-17",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-openclaw-2026-05-17",
+    "type": "trending",
+    "toolSlug": "openclaw",
+    "title": "OpenClaw が話題沸騰中（バズスコア: 7）",
+    "summary": "hackernewsで注目: OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+    "date": "2026-05-17",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-05-16",
     "type": "trending",
     "toolSlug": "chatgpt",
@@ -1284,119 +1329,5 @@
     "title": "Roblox AI Assistant が新しく追加されました",
     "summary": "ゲーム開発全工程をサポートするAIアシスタント",
     "date": "2026-04-18"
-  },
-  {
-    "id": "new-claude-opus-4-7-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "claude-opus-4-7",
-    "title": "Claude Opus 4.7 が新しく追加されました",
-    "summary": "Anthropic最新の高性能AI言語モデル",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-qwen3-6-35b-a3b-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "qwen3-6-35b-a3b",
-    "title": "Qwen3.6-35B-A3B が新しく追加されました",
-    "summary": "オープンソースの高性能AIエージェントモデル",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-gpt-rosalind-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "gpt-rosalind",
-    "title": "GPT-Rosalind が新しく追加されました",
-    "summary": "生命科学研究に特化したOpenAIのAI",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-marky-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "marky",
-    "title": "Marky が新しく追加されました",
-    "summary": "AIコーディング向け軽量Markdownビューアー",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-codeburn-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "codeburn",
-    "title": "CodeBurn が新しく追加されました",
-    "summary": "AIコーディングツールのトークン使用量分析",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-cloudflare-ai-platform-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "cloudflare-ai-platform",
-    "title": "Cloudflare AI Platform が新しく追加されました",
-    "summary": "エッジ最適化されたAI推論プラットフォーム",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-ilha-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "ilha",
-    "title": "Ilha が新しく追加されました",
-    "summary": "AI理解可能な超軽量UIライブラリ",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "trending-agent-2026-04-17",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Android CLI: Build Android apps 3x faster using any agent",
-    "date": "2026-04-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-04-17",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 9.7）",
-    "summary": "hackernewsで注目: Claude Opus 4.7",
-    "date": "2026-04-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-android-cli-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "android-cli",
-    "title": "Android CLI が新しく追加されました",
-    "summary": "Androidアプリ開発を3倍高速化するCLIツール",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-autoprober-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "autoprober",
-    "title": "AutoProber が新しく追加されました",
-    "summary": "AI駆動のハードウェアハッキング自動化ツール",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-cloudflare-email-service-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "cloudflare-email-service",
-    "title": "Cloudflare Email Service が新しく追加されました",
-    "summary": "AIエージェント専用に設計されたメールサービス",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-tailscale-rs-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "tailscale-rs",
-    "title": "Tailscale-rs が新しく追加されました",
-    "summary": "RustアプリにTailscale VPNを埋め込むライブラリ",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "new-presso-2026-04-17",
-    "type": "new-tool",
-    "toolSlug": "presso",
-    "title": "Presso が新しく追加されました",
-    "summary": "全マーケティングツールをAIで統合管理",
-    "date": "2026-04-17"
   }
 ]

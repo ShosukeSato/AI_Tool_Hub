@@ -1,77 +1,125 @@
 [
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
-        "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-        "score": 84,
-        "date": "2026-05-16"
-      },
-      {
-        "source": "hackernews",
-        "title": "Codex is now in the ChatGPT mobile app",
-        "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-        "score": 475,
-        "date": "2026-05-16"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-        "score": 1,
-        "date": "2026-05-16"
+        "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+        "url": "https://www.seangoedecke.com/steering-vectors/",
+        "score": 215,
+        "date": "2026-05-17"
       }
     ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-16"
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-05-17"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 4.4,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude for Legal",
         "url": "https://github.com/anthropics/claude-for-legal",
-        "score": 207,
-        "date": "2026-05-16"
+        "score": 211,
+        "date": "2026-05-17"
       },
       {
         "source": "googlenews",
         "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
         "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       },
       {
         "source": "googlenews",
         "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
         "score": 1,
-        "date": "2026-05-16"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       },
       {
         "source": "techcrunch",
         "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
         "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-16"
+    "lastSeen": "2026-05-17"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "score": 192,
+        "date": "2026-05-17"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-17"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "score": 86,
+        "date": "2026-05-17"
+      },
+      {
+        "source": "hackernews",
+        "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+        "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+        "score": 103,
+        "date": "2026-05-17"
+      },
+      {
+        "source": "googlenews",
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts - TechCrunch",
+        "score": 1,
+        "date": "2026-05-17"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+        "score": 1,
+        "date": "2026-05-17"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-17"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+        "url": "https://twitter.com/steipete/status/2055346265869721905",
+        "score": 144,
+        "date": "2026-05-17"
+      }
+    ],
+    "firstSeen": "2026-05-16",
+    "lastSeen": "2026-05-17"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -92,41 +140,40 @@
     "lastSeen": "2026-05-15"
   },
   {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 1.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-        "url": "https://twitter.com/steipete/status/2055346265869721905",
-        "score": 54,
-        "date": "2026-05-16"
-      }
-    ],
-    "firstSeen": "2026-05-16",
-    "lastSeen": "2026-05-16"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Mythos: An AI tool too powerful for public release - Malwarebytes",
         "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       },
       {
         "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       }
     ],
     "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-16"
+    "lastSeen": "2026-05-17"
+  },
+  {
+    "toolSlug": "runway",
+    "toolName": "Runway",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+        "score": 1,
+        "date": "2026-05-17"
+      }
+    ],
+    "firstSeen": "2026-05-15",
+    "lastSeen": "2026-05-17"
   },
   {
     "toolSlug": "gemini",
@@ -137,26 +184,26 @@
         "source": "googlenews",
         "title": "Google’s ‘Gemini Spark’ could change how users interact with AI - Sammy Fans",
         "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-16"
+    "lastSeen": "2026-05-17"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "",
+    "toolName": "ナレフルチャット",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "title": "ナレフルチャットが「ITreview Grid Award 2026 Spring」文章生成AI部門で受賞 - PR TIMES",
         "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       }
     ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-16"
+    "firstSeen": "2026-05-12",
+    "lastSeen": "2026-05-17"
   },
   {
     "toolSlug": "com",
@@ -167,31 +214,31 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-16"
+    "lastSeen": "2026-05-17"
   },
   {
-    "toolSlug": "runway",
-    "toolName": "Runway",
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+        "source": "googlenews",
+        "title": "議事録作成ツール「YOMEL」が「ITreview Grid Award 2026 Spring」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
         "score": 1,
-        "date": "2026-05-16"
+        "date": "2026-05-17"
       }
     ],
-    "firstSeen": "2026-05-15",
-    "lastSeen": "2026-05-16"
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-05-17"
   },
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -206,7 +253,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -221,7 +268,7 @@
   {
     "toolSlug": "pholly",
     "toolName": "Pholly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -236,7 +283,7 @@
   {
     "toolSlug": "arisealpha",
     "toolName": "AriseAlpha",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -251,7 +298,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -262,51 +309,5 @@
     ],
     "firstSeen": "2026-05-13",
     "lastSeen": "2026-05-15"
-  },
-  {
-    "toolSlug": "",
-    "toolName": "ナレフルチャット",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ナレフルチャットが「ITreview Grid Award 2026 Spring」文章生成AI部門で受賞 - ドリームニュース",
-        "score": 1,
-        "date": "2026-05-14"
-      }
-    ],
-    "firstSeen": "2026-05-12",
-    "lastSeen": "2026-05-14"
-  },
-  {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "WhatsApp adds an incognito mode in Meta AI chats",
-        "score": 1,
-        "date": "2026-05-14"
-      }
-    ],
-    "firstSeen": "2026-05-13",
-    "lastSeen": "2026-05-14"
-  },
-  {
-    "toolSlug": "v0",
-    "toolName": "v0",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Blaise v0.7.0",
-        "url": "alpha) – Independent of Free Pascal compiler (https://github.com/graemeg/blaise/discussions/24",
-        "score": 6,
-        "date": "2026-05-13"
-      }
-    ],
-    "firstSeen": "2026-05-13",
-    "lastSeen": "2026-05-13"
   }
 ]
