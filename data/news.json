@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-05-18",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+    "date": "2026-05-18",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-deepseek-2026-05-17",
     "type": "trending",
     "toolSlug": "deepseek",
@@ -1232,102 +1241,5 @@
     "title": "アド.com が新しく追加されました",
     "summary": "AI搭載の競合広告分析・リサーチツール",
     "date": "2026-04-19"
-  },
-  {
-    "id": "new-claude-design-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "claude-design",
-    "title": "Claude Design が新しく追加されました",
-    "summary": "プロンプトからプロトタイプを生成するAIデザインツール",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-pyra-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "pyra",
-    "title": "Pyra が新しく追加されました",
-    "summary": "高速で直感的なPython開発ツールチェーン",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-isitagentready-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "isitagentready",
-    "title": "IsItAgentReady が新しく追加されました",
-    "summary": "ウェブサイトのAIエージェント対応度を診断",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-fulu-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "fulu",
-    "title": "Fulu が新しく追加されました",
-    "summary": "高額報酬のIoTセキュリティバグバウンティ",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-lecroy-mcp-spice-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "lecroy-mcp-spice",
-    "title": "LeCroy MCP SPICE が新しく追加されました",
-    "summary": "AI統合型電子回路設計・検証システム",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "trending-claude-2026-04-18",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Design",
-    "date": "2026-04-18",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-physical-intelligence-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "physical-intelligence",
-    "title": "Physical Intelligence が新しく追加されました",
-    "summary": "汎用的な推論でタスクを実行するロボットAI",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-factory-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "factory",
-    "title": "Factory が新しく追加されました",
-    "summary": "企業向け大規模AIコーディングプラットフォーム",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-luma-production-studio-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "luma-production-studio",
-    "title": "Luma Production Studio が新しく追加されました",
-    "summary": "AI駆動のプロフェッショナル動画制作スタジオ",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-upscale-ai-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "upscale-ai",
-    "title": "Upscale AI が新しく追加されました",
-    "summary": "大規模AI開発・展開プラットフォーム",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-insightfinder-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "insightfinder",
-    "title": "InsightFinder が新しく追加されました",
-    "summary": "AIエージェントの問題特定・解決プラットフォーム",
-    "date": "2026-04-18"
-  },
-  {
-    "id": "new-roblox-ai-assistant-2026-04-18",
-    "type": "new-tool",
-    "toolSlug": "roblox-ai-assistant",
-    "title": "Roblox AI Assistant が新しく追加されました",
-    "summary": "ゲーム開発全工程をサポートするAIアシスタント",
-    "date": "2026-04-18"
   }
 ]

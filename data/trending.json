@@ -6,54 +6,39 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-        "url": "https://crates.io/crates/zerostack/1.0.0",
-        "score": 460,
-        "date": "2026-05-17"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-17"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 7.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-        "score": 232,
-        "date": "2026-05-17"
+        "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+        "url": "https://github.com/MinishLab/semble",
+        "score": 197,
+        "date": "2026-05-18"
       },
       {
         "source": "hackernews",
-        "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
-        "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-        "score": 111,
-        "date": "2026-05-17"
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "score": 543,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agentic Trading with Safe Guardrails",
+        "url": "https://github.com/ShurikenTrade/shuriken-skills",
+        "score": 44,
+        "date": "2026-05-18"
       },
       {
         "source": "googlenews",
-        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts - TechCrunch",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
         "score": 1,
-        "date": "2026-05-17"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-        "score": 1,
-        "date": "2026-05-17"
+        "date": "2026-05-18"
       }
     ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-17"
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-18"
   },
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 6.3,
+    "buzzScore": 5.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -67,56 +52,9 @@
     "lastSeen": "2026-05-17"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 5.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "How to buy cheap Claude tokens in China",
-        "url": "https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
-        "score": 26,
-        "date": "2026-05-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude for Legal",
-        "url": "https://github.com/anthropics/claude-for-legal",
-        "score": 218,
-        "date": "2026-05-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-05-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
-        "score": 1,
-        "date": "2026-05-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-17"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-        "score": 1,
-        "date": "2026-05-17"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-17"
-  },
-  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 5.8,
+    "buzzScore": 5.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -130,20 +68,42 @@
     "lastSeen": "2026-05-17"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 4.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "score": 316,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-18"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Prolog Basics Explained with Pokémon",
         "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-        "score": 53,
-        "date": "2026-05-17"
+        "score": 213,
+        "date": "2026-05-18"
       }
     ],
     "firstSeen": "2026-04-15",
-    "lastSeen": "2026-05-17"
+    "lastSeen": "2026-05-18"
   },
   {
     "toolSlug": "mythos",
@@ -154,23 +114,32 @@
         "source": "googlenews",
         "title": "Mythos: An AI tool too powerful for public release - Malwarebytes",
         "score": 1,
-        "date": "2026-05-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool - BBC",
-        "score": 1,
-        "date": "2026-05-17"
+        "date": "2026-05-18"
       },
       {
         "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
-        "date": "2026-05-17"
+        "date": "2026-05-18"
       }
     ],
     "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-17"
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-18"
   },
   {
     "toolSlug": "gemini",
@@ -179,19 +148,61 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Google’s ‘Gemini Spark’ could change how users interact with AI - Sammy Fans",
-        "score": 1,
-        "date": "2026-05-17"
-      },
-      {
-        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-05-17"
+        "date": "2026-05-18"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-17"
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-18"
   },
   {
     "toolSlug": "com",
@@ -202,11 +213,11 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-05-17"
+        "date": "2026-05-18"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-17"
+    "lastSeen": "2026-05-18"
   },
   {
     "toolSlug": "yomel",
@@ -217,11 +228,11 @@
         "source": "googlenews",
         "title": "議事録作成ツール「YOMEL」が「ITreview Grid Award 2026 Spring」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
         "score": 1,
-        "date": "2026-05-17"
+        "date": "2026-05-18"
       }
     ],
     "firstSeen": "2026-05-17",
-    "lastSeen": "2026-05-17"
+    "lastSeen": "2026-05-18"
   },
   {
     "toolSlug": "pholly",
@@ -232,11 +243,26 @@
         "source": "googlenews",
         "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
         "score": 1,
-        "date": "2026-05-17"
+        "date": "2026-05-18"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-17"
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Apple’s Siri revamp could include auto-deleting chats",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-18"
   },
   {
     "toolSlug": "runway",
@@ -247,16 +273,16 @@
         "source": "techcrunch",
         "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
         "score": 1,
-        "date": "2026-05-17"
+        "date": "2026-05-18"
       }
     ],
     "firstSeen": "2026-05-15",
-    "lastSeen": "2026-05-17"
+    "lastSeen": "2026-05-18"
   },
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -267,35 +293,5 @@
     ],
     "firstSeen": "2026-05-12",
     "lastSeen": "2026-05-17"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
-        "score": 1,
-        "date": "2026-05-15"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-15"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-15"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-15"
   }
 ]
