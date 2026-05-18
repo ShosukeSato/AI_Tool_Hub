@@ -1,9 +1,9 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 7.7,
+    "overall": 7.6,
     "performance": 9,
-    "buzz": 4.6,
+    "buzz": 3.9,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-05-18"
@@ -30,7 +30,7 @@
     "toolSlug": "deepseek",
     "overall": 7.9,
     "performance": 8,
-    "buzz": 5.2,
+    "buzz": 4.7,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-05-18"
@@ -262,9 +262,9 @@
   },
   {
     "toolSlug": "openclaw",
-    "overall": 6.3,
+    "overall": 6.2,
     "performance": 6,
-    "buzz": 5.7,
+    "buzz": 5.1,
     "easeOfUse": 5,
     "costPerformance": 8,
     "lastCalculated": "2026-05-18"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 5.5,
+    "overall": 5.6,
     "performance": 9,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-18"
@@ -892,9 +892,9 @@
   },
   {
     "toolSlug": "rakuten-ai",
-    "overall": 7.1,
+    "overall": 7.2,
     "performance": 7,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-05-18"
@@ -1360,9 +1360,9 @@
   },
   {
     "toolSlug": "udio",
-    "overall": 6.3,
+    "overall": 6.4,
     "performance": 8,
-    "buzz": 0.6,
+    "buzz": 1.1,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-05-18"
@@ -1722,7 +1722,7 @@
     "toolSlug": "",
     "overall": 6.4,
     "performance": 9,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-18"
@@ -1828,9 +1828,9 @@
   },
   {
     "toolSlug": "voyage",
-    "overall": 5.7,
+    "overall": 5.9,
     "performance": 6,
-    "buzz": 0.6,
+    "buzz": 1.4,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-05-18"
@@ -1873,9 +1873,9 @@
   },
   {
     "toolSlug": "yomel",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-05-18"
@@ -2280,7 +2280,7 @@
     "toolSlug": "pholly",
     "overall": 6.1,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-18"
@@ -2953,9 +2953,9 @@
   },
   {
     "toolSlug": "era",
-    "overall": 5.3,
+    "overall": 5.2,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-18"

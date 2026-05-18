@@ -8,26 +8,32 @@
         "source": "hackernews",
         "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
         "url": "https://github.com/MinishLab/semble",
-        "score": 197,
+        "score": 397,
         "date": "2026-05-18"
       },
       {
         "source": "hackernews",
         "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
         "url": "https://crates.io/crates/zerostack/1.0.0",
-        "score": 543,
+        "score": 553,
         "date": "2026-05-18"
       },
       {
         "source": "hackernews",
         "title": "Agentic Trading with Safe Guardrails",
         "url": "https://github.com/ShurikenTrade/shuriken-skills",
-        "score": 44,
+        "score": 50,
         "date": "2026-05-18"
       },
       {
         "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "title": "Agents for financial services - Anthropic",
+        "score": 1,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle - blog.google",
         "score": 1,
         "date": "2026-05-18"
       }
@@ -38,7 +44,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 5.7,
+    "buzzScore": 5.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -54,7 +60,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 5.2,
+    "buzzScore": 4.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -70,13 +76,19 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 4.6,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
         "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-        "score": 316,
+        "score": 321,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts - TechCrunch",
+        "score": 1,
         "date": "2026-05-18"
       },
       {
@@ -98,11 +110,64 @@
         "source": "hackernews",
         "title": "Prolog Basics Explained with Pokémon",
         "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-        "score": 213,
+        "score": 267,
         "date": "2026-05-18"
       }
     ],
     "firstSeen": "2026-04-15",
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "voyage",
+    "toolName": "Voyage",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+        "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+        "score": 50,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+        "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+        "score": 9,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026: Gemini Omni, Spark & Android XR Launch Expected in Biggest AI Push Yet - Analytics Insight",
+        "score": 1,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-04-27",
     "lastSeen": "2026-05-18"
   },
   {
@@ -118,6 +183,12 @@
       },
       {
         "source": "googlenews",
+        "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool - BBC",
+        "score": 1,
+        "date": "2026-05-18"
+      },
+      {
+        "source": "googlenews",
         "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
         "date": "2026-05-18"
@@ -127,33 +198,24 @@
     "lastSeen": "2026-05-18"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
+    "toolSlug": "where",
+    "toolName": "WHERE",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
         "score": 1,
         "date": "2026-05-18"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-18"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
+      },
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "title": "地権者とつながる不動産AIツール『WHERE』、全国の衛星データと不動産情報約7,300万件をデータベース化。条件に合う候補物件数を最短1秒で可視化 - PR TIMES",
         "score": 1,
         "date": "2026-05-18"
       }
     ],
-    "firstSeen": "2026-04-27",
+    "firstSeen": "2026-05-18",
     "lastSeen": "2026-05-18"
   },
   {
@@ -169,19 +231,7 @@
       },
       {
         "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
-        "score": 1,
-        "date": "2026-05-18"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-18"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - ニコニコニュース",
         "score": 1,
         "date": "2026-05-18"
       }
@@ -205,6 +255,21 @@
     "lastSeen": "2026-05-18"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-18"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
     "buzzScore": 1,
@@ -212,36 +277,6 @@
       {
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-18"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-18"
-  },
-  {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "議事録作成ツール「YOMEL」が「ITreview Grid Award 2026 Spring」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-18"
-      }
-    ],
-    "firstSeen": "2026-05-17",
-    "lastSeen": "2026-05-18"
-  },
-  {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
         "score": 1,
         "date": "2026-05-18"
       }
@@ -280,9 +315,54 @@
     "lastSeen": "2026-05-18"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "議事録作成ツール「YOMEL」が「ITreview Grid Award 2026 Spring」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-05-18"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-18"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-18"
+  },
+  {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
