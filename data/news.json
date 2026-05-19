@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-05-19",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Agora-1: The Multi-Agent World Model",
+    "date": "2026-05-19",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-05-18",
     "type": "trending",
     "toolSlug": "agent",
@@ -1160,86 +1169,5 @@
     "title": "DaVinci Resolve 21 Beta が新しく追加されました",
     "summary": "写真編集機能を追加した次世代動画編集ソフト",
     "date": "2026-04-20"
-  },
-  {
-    "id": "new-ai-subroutines-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "ai-subroutines",
-    "title": "AI Subroutines が新しく追加されました",
-    "summary": "ブラウザ内で動作するゼロトークン自動化ツール",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "new-remoroo-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "remoroo",
-    "title": "Remoroo が新しく追加されました",
-    "summary": "AIコーディングエージェントのメモリ管理を改善",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "new-splice-ai-creator-compensation-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "splice-ai-creator-compensation",
-    "title": "Splice AI Creator Compensation が新しく追加されました",
-    "summary": "AI音楽制作でサンプル作者に自動報酬支払い",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "new-klondike-solitaire-simulator-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "klondike-solitaire-simulator",
-    "title": "Klondike Solitaire Simulator が新しく追加されました",
-    "summary": "ソリティア最適戦略をAIで解析するツール",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "new-davinci-resolve-21-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "davinci-resolve-21",
-    "title": "DaVinci Resolve 21 が新しく追加されました",
-    "summary": "写真編集機能を統合した次世代動画編集ソフト",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "trending-claude-2026-04-19",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Thoughts and feelings around Claude Design",
-    "date": "2026-04-19",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-rtrvr-ai-subroutines-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "rtrvr-ai-subroutines",
-    "title": "RTRVR AI Subroutines が新しく追加されました",
-    "summary": "ブラウザ内で実行可能なAI自動化スクリプト",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "new-bulwark-webmail-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "bulwark-webmail",
-    "title": "Bulwark Webmail が新しく追加されました",
-    "summary": "セルフホスト対応のJMAP統合メールシステム",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "new-pholly-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "pholly",
-    "title": "Pholly が新しく追加されました",
-    "summary": "AI搭載の授業支援・教育システム",
-    "date": "2026-04-19"
-  },
-  {
-    "id": "new-com-2026-04-19",
-    "type": "new-tool",
-    "toolSlug": "com",
-    "title": "アド.com が新しく追加されました",
-    "summary": "AI搭載の競合広告分析・リサーチツール",
-    "date": "2026-04-19"
   }
 ]
