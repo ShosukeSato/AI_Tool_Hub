@@ -8,28 +8,20 @@
         "source": "hackernews",
         "title": "Agora-1: The Multi-Agent World Model",
         "url": "https://odyssey.ml/introducing-agora-1",
-        "score": 85,
+        "score": 120,
         "date": "2026-05-19"
       },
       {
         "source": "hackernews",
         "title": "Show HN: InsForge – Open-source Heroku for coding agents",
         "url": "https://github.com/InsForge/InsForge",
-        "score": 36,
+        "score": 50,
         "date": "2026-05-19"
       },
       {
-        "source": "hackernews",
-        "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-        "url": "https://github.com/MinishLab/semble",
-        "score": 427,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "hackernews",
-        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-        "url": "https://crates.io/crates/zerostack/1.0.0",
-        "score": 561,
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
         "date": "2026-05-19"
       }
     ],
@@ -37,9 +29,25 @@
     "lastSeen": "2026-05-19"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 7.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+        "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+        "score": 129,
+        "date": "2026-05-19"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-19"
+  },
+  {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 4.6,
+    "buzzScore": 4.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -55,7 +63,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 4.2,
+    "buzzScore": 3.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -69,25 +77,50 @@
     "lastSeen": "2026-05-17"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.9,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-        "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-        "score": 111,
+        "title": "AgentCRM – Headless CRM for Claude Code",
+        "url": "https://github.com/cluster-software/agent-crm",
+        "score": 12,
+        "date": "2026-05-19"
+      },
+      {
+        "source": "hackernews",
+        "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
+        "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
+        "score": 17,
+        "date": "2026-05-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-05-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-19"
+      },
+      {
+        "source": "techcrunch",
+        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "score": 1,
         "date": "2026-05-19"
       }
     ],
-    "firstSeen": "2026-05-18",
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-05-19"
   },
   {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -101,67 +134,25 @@
     "lastSeen": "2026-05-19"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.1,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Tech bros say AI can be your best friend. Experts explain why it can't",
-        "url": "https://www.rnz.co.nz/life/wellbeing/tech-bros-say-ai-can-be-your-best-friend-experts-explain-why-it-can-t",
-        "score": 8,
+        "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+        "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+        "score": 7,
         "date": "2026-05-19"
       }
     ],
-    "firstSeen": "2026-04-15",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026: Gemini Omni, Spark & Android XR Launch Expected in Biggest AI Push Yet - Analytics Insight",
-        "score": 1,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts - TechCrunch",
-        "score": 1,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-04-07",
+    "firstSeen": "2026-05-08",
     "lastSeen": "2026-05-19"
   },
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
@@ -180,6 +171,51 @@
     "lastSeen": "2026-05-19"
   },
   {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Apple’s Siri revamp could include auto-deleting chats",
+        "score": 1,
+        "date": "2026-05-19"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-19"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+        "score": 1,
+        "date": "2026-05-19"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-19"
+  },
+  {
+    "toolSlug": "runway",
+    "toolName": "Runway",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+        "score": 1,
+        "date": "2026-05-19"
+      }
+    ],
+    "firstSeen": "2026-05-15",
+    "lastSeen": "2026-05-19"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
     "buzzScore": 1,
@@ -195,51 +231,18 @@
     "lastSeen": "2026-05-19"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
-        "score": 1,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "techcrunch",
-        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-05-19"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-09",
+    "firstSeen": "2026-04-27",
     "lastSeen": "2026-05-19"
   },
   {
@@ -258,9 +261,40 @@
     "lastSeen": "2026-05-19"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Tech bros say AI can be your best friend. Experts explain why it can't",
+        "url": "https://www.rnz.co.nz/life/wellbeing/tech-bros-say-ai-can-be-your-best-friend-experts-explain-why-it-can-t",
+        "score": 8,
+        "date": "2026-05-19"
+      }
+    ],
+    "firstSeen": "2026-04-15",
+    "lastSeen": "2026-05-19"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-05-19"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-19"
+  },
+  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -273,39 +307,9 @@
     "lastSeen": "2026-05-19"
   },
   {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Apple’s Siri revamp could include auto-deleting chats",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "runway",
-    "toolName": "Runway",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-15",
-    "lastSeen": "2026-05-19"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -318,24 +322,9 @@
     "lastSeen": "2026-05-18"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "How the New Era of AI Will Impact Consumer-Driven Companies Large and Small in 2026 - U.S. Chamber of Commerce",
-        "score": 1,
-        "date": "2026-05-18"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-18"
-  },
-  {
     "toolSlug": "pholly",
     "toolName": "Pholly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -346,20 +335,5 @@
     ],
     "firstSeen": "2026-04-19",
     "lastSeen": "2026-05-18"
-  },
-  {
-    "toolSlug": "",
-    "toolName": "ナレフルチャット",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ナレフルチャットが「ITreview Grid Award 2026 Spring」文章生成AI部門で受賞 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-17"
-      }
-    ],
-    "firstSeen": "2026-05-12",
-    "lastSeen": "2026-05-17"
   }
 ]

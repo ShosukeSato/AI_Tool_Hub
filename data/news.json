@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-udio-2026-05-19",
+    "type": "trending",
+    "toolSlug": "udio",
+    "title": "Udio が話題沸騰中（バズスコア: 7.8）",
+    "summary": "hackernewsで注目: Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+    "date": "2026-05-19",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-05-18",
     "type": "trending",
     "toolSlug": "agent",
