@@ -6,48 +6,64 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Agora-1: The Multi-Agent World Model",
-        "url": "https://odyssey.ml/introducing-agora-1",
-        "score": 120,
-        "date": "2026-05-19"
+        "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+        "url": "https://github.com/antoinezambelli/forge",
+        "score": 301,
+        "date": "2026-05-20"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: InsForge – Open-source Heroku for coding agents",
-        "url": "https://github.com/InsForge/InsForge",
-        "score": 50,
-        "date": "2026-05-19"
+        "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+        "url": "https://github.com/vostride/id-agent",
+        "score": 35,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agora-1: The Multi-Agent World Model",
+        "url": "https://odyssey.ml/introducing-agora-1",
+        "score": 128,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "The Programming Language for Agents",
+        "url": "https://zerolang.ai",
+        "score": 14,
+        "date": "2026-05-20"
       },
       {
         "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "title": "How to use Google’s new AI agents to go beyond your standard searches - TechCrunch",
         "score": 1,
-        "date": "2026-05-19"
+        "date": "2026-05-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026: From AI agents to smart glasses, here are the biggest announcements - The Indian Express",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "How to use Google’s new AI agents to go beyond your standard searches",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Agentic app coding gets an upgrade with Google&#8217;s release of Android CLI",
+        "score": 1,
+        "date": "2026-05-20"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 7.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
-        "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
-        "score": 129,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-19"
+    "lastSeen": "2026-05-20"
   },
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 4.1,
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -63,7 +79,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.8,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -77,50 +93,25 @@
     "lastSeen": "2026-05-17"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 2.7,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "AgentCRM – Headless CRM for Claude Code",
-        "url": "https://github.com/cluster-software/agent-crm",
-        "score": 12,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "hackernews",
-        "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
-        "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
-        "score": 17,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
-        "score": 1,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "techcrunch",
-        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-        "score": 1,
-        "date": "2026-05-19"
+        "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+        "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+        "score": 117,
+        "date": "2026-05-20"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-19"
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-20"
   },
   {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -134,25 +125,144 @@
     "lastSeen": "2026-05-19"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1.4,
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.2,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-        "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-        "score": 7,
-        "date": "2026-05-19"
+        "source": "googlenews",
+        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "New agents, mobile apps and Gemini Omni for Google Flow and Google Flow Music - blog.google",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google launches Gemini 3.5 Flash model. How to try it for free now. - Mashable",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "【5分でわかる】Google I/O 2026発表まとめ--Gemini 3.5やSparkエージェント、スマートグラスなど - CNET Japan",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google&#8217;s Gemini Omni turns images, audio, and text into video — and that&#8217;s just the start",
+        "score": 1,
+        "date": "2026-05-20"
       }
     ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-19"
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-20"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google takes a page out of Meta&#8217;s book, announces new audio-powered smart glasses at IO 2026",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google&#8217;s AI Studio now lets anyone build Android apps in minutes",
+        "score": 1,
+        "date": "2026-05-20"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-20"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Hermes AgentにX Premium連携とX投稿検索が追加。Grok 4.3を1Mトークンで利用可能 - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-20"
+      }
+    ],
+    "firstSeen": "2026-05-20",
+    "lastSeen": "2026-05-20"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "「Claude Code」って最近よく聞くけど、何ができるの？6/5（金）無料セミナー「はじめてのClaude - ニコニコニュース",
+        "score": 1,
+        "date": "2026-05-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-20"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-05-20"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+        "score": 1,
+        "date": "2026-05-20"
+      }
+    ],
+    "firstSeen": "2026-04-07",
+    "lastSeen": "2026-05-20"
   },
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -173,7 +283,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -186,24 +296,9 @@
     "lastSeen": "2026-05-19"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-04-07",
-    "lastSeen": "2026-05-19"
-  },
-  {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -218,7 +313,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -231,24 +326,9 @@
     "lastSeen": "2026-05-19"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-19"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -263,7 +343,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -279,7 +359,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -294,7 +374,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -309,7 +389,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -324,7 +404,7 @@
   {
     "toolSlug": "pholly",
     "toolName": "Pholly",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
