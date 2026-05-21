@@ -8,28 +8,14 @@
         "source": "hackernews",
         "title": "Qwen3.7-Max: The Agent Frontier",
         "url": "https://qwen.ai/blog?id=qwen3.7",
-        "score": 632,
+        "score": 679,
         "date": "2026-05-21"
       },
       {
         "source": "hackernews",
         "title": "Testing distributed systems with AI agents",
         "url": "https://github.com/shenli/distributed-system-testing",
-        "score": 78,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
-        "url": "https://github.com/mupt-ai/dari-docs",
-        "score": 17,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-        "url": "https://github.com/antoinezambelli/forge",
-        "score": 646,
+        "score": 91,
         "date": "2026-05-21"
       },
       {
@@ -40,7 +26,7 @@
       },
       {
         "source": "techcrunch",
-        "title": "How to use Google’s new AI agents to go beyond your standard searches",
+        "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
         "score": 1,
         "date": "2026-05-21"
       }
@@ -51,7 +37,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -65,31 +51,9 @@
     "lastSeen": "2026-05-17"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-        "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-        "score": 140,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-21"
-  },
-  {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -109,12 +73,6 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Google Launches Gemini For Science At I/O 2026 - Dataconomy",
-        "score": 1,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "googlenews",
         "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
         "score": 1,
         "date": "2026-05-21"
@@ -127,18 +85,27 @@
       },
       {
         "source": "googlenews",
-        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-05-21"
       }
     ],
     "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-21"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-08",
     "lastSeen": "2026-05-21"
   },
   {
@@ -168,8 +135,29 @@
         "date": "2026-05-21"
       },
       {
+        "source": "googlenews",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-05-21"
+      },
+      {
         "source": "techcrunch",
         "title": "Stability AI releases a new audio model that can create 6-minute songs",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-21"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
         "score": 1,
         "date": "2026-05-21"
       }
@@ -214,21 +202,6 @@
     "lastSeen": "2026-05-21"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-21"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
     "buzzScore": 1,
@@ -259,6 +232,21 @@
     "lastSeen": "2026-05-21"
   },
   {
+    "toolSlug": "learno",
+    "toolName": "LearnO",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-21",
+    "lastSeen": "2026-05-21"
+  },
+  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
     "buzzScore": 1,
@@ -274,9 +262,24 @@
     "lastSeen": "2026-05-21"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-21"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -291,7 +294,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -306,7 +309,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -327,7 +330,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -342,7 +345,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -355,24 +358,9 @@
     "lastSeen": "2026-05-19"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-19"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",

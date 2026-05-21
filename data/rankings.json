@@ -3,7 +3,7 @@
     "toolSlug": "chatgpt",
     "overall": 7.2,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-05-21"
@@ -28,9 +28,9 @@
   },
   {
     "toolSlug": "deepseek",
-    "overall": 7.6,
+    "overall": 7.5,
     "performance": 8,
-    "buzz": 2.8,
+    "buzz": 2.5,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-05-21"
@@ -39,7 +39,7 @@
     "toolSlug": "grok",
     "overall": 5.5,
     "performance": 6,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-21"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 5.5,
+    "overall": 5.6,
     "performance": 9,
-    "buzz": 0.7,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-21"
@@ -894,7 +894,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-05-21"
@@ -1335,7 +1335,7 @@
     "toolSlug": "hats",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-05-21"
@@ -1407,7 +1407,7 @@
     "toolSlug": "runway",
     "overall": 6.6,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-21"
@@ -1830,7 +1830,7 @@
     "toolSlug": "voyage",
     "overall": 5.8,
     "performance": 6,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-05-21"
@@ -2206,9 +2206,9 @@
   },
   {
     "toolSlug": "learno",
-    "overall": 5.7,
+    "overall": 5.8,
     "performance": 7,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-21"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 6.9,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-05-21"
@@ -2784,7 +2784,7 @@
     "toolSlug": "mythos",
     "overall": 6.1,
     "performance": 10,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 4,
     "lastCalculated": "2026-05-21"
@@ -2953,9 +2953,9 @@
   },
   {
     "toolSlug": "era",
-    "overall": 5.4,
+    "overall": 5.3,
     "performance": 8,
-    "buzz": 1.9,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-21"
