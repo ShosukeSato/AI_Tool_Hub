@@ -8,56 +8,50 @@
         "source": "hackernews",
         "title": "Qwen3.7-Max: The Agent Frontier",
         "url": "https://qwen.ai/blog?id=qwen3.7",
-        "score": 269,
-        "date": "2026-05-20"
+        "score": 632,
+        "date": "2026-05-21"
       },
       {
         "source": "hackernews",
         "title": "Testing distributed systems with AI agents",
         "url": "https://github.com/shenli/distributed-system-testing",
-        "score": 8,
-        "date": "2026-05-20"
+        "score": 78,
+        "date": "2026-05-21"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+        "url": "https://github.com/mupt-ai/dari-docs",
+        "score": 17,
+        "date": "2026-05-21"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
         "url": "https://github.com/antoinezambelli/forge",
-        "score": 586,
-        "date": "2026-05-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Open-Source Agentic QA Harness with Memory",
-        "url": "https://vostride.com/agent-qa",
-        "score": 7,
-        "date": "2026-05-20"
+        "score": 646,
+        "date": "2026-05-21"
       },
       {
         "source": "googlenews",
-        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
+        "title": "How to use Google’s new AI agents to go beyond your standard searches - TechCrunch",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       },
       {
         "source": "techcrunch",
         "title": "How to use Google’s new AI agents to go beyond your standard searches",
         "score": 1,
-        "date": "2026-05-20"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Agentic app coding gets an upgrade with Google&#8217;s release of Android CLI",
-        "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-20"
+    "lastSeen": "2026-05-21"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.1,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -73,29 +67,29 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 2.4,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
         "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-        "score": 133,
-        "date": "2026-05-20"
+        "score": 140,
+        "date": "2026-05-21"
       },
       {
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-20"
+    "lastSeen": "2026-05-21"
   },
   {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -111,92 +105,41 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Google Launches Gemini For Science At I/O 2026 - Dataconomy",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       },
       {
         "source": "googlenews",
         "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
         "score": 1,
-        "date": "2026-05-20"
-      },
-      {
-        "source": "googlenews",
-        "title": "New agents, mobile apps and Gemini Omni for Google Flow and Google Flow Music - blog.google",
-        "score": 1,
-        "date": "2026-05-20"
-      },
-      {
-        "source": "googlenews",
-        "title": "【Google I/O 2026まとめ】Gemini 3.5 Flash・Gemini Omni Flash・Antigravity 2.0・Geminiアプリ新機能まで新AIを全部解説！ - ライブドアニュース",
-        "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       },
       {
         "source": "googlenews",
         "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-05-20"
-      },
-      {
-        "source": "techcrunch",
-        "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-        "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-20"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google’s AI Studio now lets anyone build Android apps in minutes - TechCrunch",
-        "score": 1,
-        "date": "2026-05-20"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Stability AI releases a new audio model that can create six-minute songs",
-        "score": 1,
-        "date": "2026-05-20"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google takes a page out of Meta&#8217;s book, announces new audio-powered smart glasses at IO 2026",
-        "score": 1,
-        "date": "2026-05-20"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google&#8217;s AI Studio now lets anyone build Android apps in minutes",
-        "score": 1,
-        "date": "2026-05-20"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-20"
+    "lastSeen": "2026-05-21"
   },
   {
     "toolSlug": "openclaw",
@@ -207,11 +150,32 @@
         "source": "googlenews",
         "title": "Google is launching its own version of OpenClaw - The Verge",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       }
     ],
     "firstSeen": "2026-05-16",
-    "lastSeen": "2026-05-20"
+    "lastSeen": "2026-05-21"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google’s AI Studio now lets anyone build Android apps in minutes - TechCrunch",
+        "score": 1,
+        "date": "2026-05-21"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Stability AI releases a new audio model that can create 6-minute songs",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-21"
   },
   {
     "toolSlug": "claude",
@@ -222,17 +186,47 @@
         "source": "googlenews",
         "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       },
       {
         "source": "googlenews",
         "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-20"
+    "lastSeen": "2026-05-21"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-21"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-21"
   },
   {
     "toolSlug": "com",
@@ -243,16 +237,46 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-05-20"
+        "date": "2026-05-21"
       }
     ],
     "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-20"
+    "lastSeen": "2026-05-21"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-21",
+    "lastSeen": "2026-05-21"
+  },
+  {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "議事録作成ツール「YOMEL」が「ITreview Grid Award 2026 Spring」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-21"
+      }
+    ],
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-05-21"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -267,7 +291,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -282,7 +306,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -303,7 +327,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -318,7 +342,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -333,7 +357,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -348,7 +372,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -360,50 +384,5 @@
     ],
     "firstSeen": "2026-04-15",
     "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "議事録作成ツール「YOMEL」が「ITreview Grid Award 2026 Spring」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-17",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-05-18"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-18"
   }
 ]

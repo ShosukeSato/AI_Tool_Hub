@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-05-21",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Qwen3.7-Max: The Agent Frontier",
+    "date": "2026-05-21",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-05-20",
     "type": "trending",
     "toolSlug": "agent",
@@ -1001,94 +1010,5 @@
     "summary": "hackernewsで注目: ChatGPT Images 2.0",
     "date": "2026-04-22",
     "source": "hackernews"
-  },
-  {
-    "id": "new-ternary-bonsai-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "ternary-bonsai",
-    "title": "Ternary Bonsai が新しく追加されました",
-    "summary": "超軽量1.58ビットAI推論モデル",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "new-stackadapt-chatgpt-ads-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "stackadapt-chatgpt-ads",
-    "title": "StackAdapt ChatGPT Ads が新しく追加されました",
-    "summary": "ChatGPT対話型広告配信プラットフォーム",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "new-deezer-ai-music-detection-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "deezer-ai-music-detection",
-    "title": "Deezer AI Music Detection が新しく追加されました",
-    "summary": "AI生成音楽の自動検出システム",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "new-atlassian-ai-training-system-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "atlassian-ai-training-system",
-    "title": "Atlassian AI Training System が新しく追加されました",
-    "summary": "AIトレーニング用データ自動収集",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "trending-claude-2026-04-21",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Figma's woes compound with Claude Design",
-    "date": "2026-04-21",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-mediator-ai-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "mediator-ai",
-    "title": "Mediator.ai が新しく追加されました",
-    "summary": "LLMとゲーム理論で公平な交渉解決を支援",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "new-affinity-ai-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "affinity-ai",
-    "title": "Affinity AI が新しく追加されました",
-    "summary": "Affinityシリーズに統合されたデザインAI",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "new-fermi-ai-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "fermi-ai",
-    "title": "Fermi AI が新しく追加されました",
-    "summary": "AI向け核融合発電の開発企業（経営陣辞任）",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "new-cerebras-ai-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "cerebras-ai",
-    "title": "Cerebras AI が新しく追加されました",
-    "summary": "巨大AIチップでIPO申請の注目企業",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "new-grai-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "grai",
-    "title": "GRAI が新しく追加されました",
-    "summary": "協働的な音楽制作を支援するソーシャルAI",
-    "date": "2026-04-21"
-  },
-  {
-    "id": "new-palantir-ai-2026-04-21",
-    "type": "new-tool",
-    "toolSlug": "palantir-ai",
-    "title": "Palantir AI が新しく追加されました",
-    "summary": "物議を醸すマニフェスト発表のデータ分析AI",
-    "date": "2026-04-21"
   }
 ]
