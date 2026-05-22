@@ -6,38 +6,43 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Qwen3.7-Max: The Agent Frontier",
-        "url": "https://qwen.ai/blog?id=qwen3.7",
-        "score": 679,
-        "date": "2026-05-21"
+        "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP ()",
+        "score": 65,
+        "date": "2026-05-22"
       },
       {
         "source": "hackernews",
-        "title": "Testing distributed systems with AI agents",
-        "url": "https://github.com/shenli/distributed-system-testing",
-        "score": 91,
-        "date": "2026-05-21"
+        "title": "Qwen3.7-Max: The Agent Frontier",
+        "url": "https://qwen.ai/blog?id=qwen3.7",
+        "score": 696,
+        "date": "2026-05-22"
       },
       {
         "source": "googlenews",
-        "title": "How to use Google’s new AI agents to go beyond your standard searches - TechCrunch",
+        "title": "Expedia to Launch Agentic AI Tools for B2B Partners - Skift",
         "score": 1,
-        "date": "2026-05-21"
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-05-22"
       },
       {
         "source": "techcrunch",
         "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
         "score": 1,
-        "date": "2026-05-21"
+        "date": "2026-05-22"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-21"
+    "lastSeen": "2026-05-22"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -51,9 +56,208 @@
     "lastSeen": "2026-05-17"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: I Made a Claude Skill for Spec-Driven Development",
+        "url": "SDD) (https://github.com/FredAntB/Spec-Driven-Development",
+        "score": 23,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool - TechCrunch",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース (2026年5月22日掲載) - ライブドアニュース",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "日本発AIプラットフォームFelo 「AI博覧会 Nagoya 2026」に出展 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "2026年、AIは金融アナリストを置き換えることができるか？ Vals AIファイナンスエージェントv2が公開、GPT-5.5の正確性はわずか52% - KuCoin",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-21",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "notebooklm",
+    "toolName": "NotebookLM",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Spotify takes on Google&#8217;s NotebookLM with its new app",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-05-22"
+  },
+  {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -67,51 +271,9 @@
     "lastSeen": "2026-05-19"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
-        "score": 1,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
-        "score": 1,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-21"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-21"
-  },
-  {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -126,7 +288,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -153,7 +315,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -166,75 +328,9 @@
     "lastSeen": "2026-05-21"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-21"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-21"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-21"
-  },
-  {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-05-21",
-    "lastSeen": "2026-05-21"
-  },
-  {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -249,7 +345,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -264,7 +360,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -279,7 +375,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -294,7 +390,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -309,7 +405,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -330,7 +426,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -345,7 +441,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -355,22 +451,6 @@
       }
     ],
     "firstSeen": "2026-05-15",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Tech bros say AI can be your best friend. Experts explain why it can't",
-        "url": "https://www.rnz.co.nz/life/wellbeing/tech-bros-say-ai-can-be-your-best-friend-experts-explain-why-it-can-t",
-        "score": 8,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-04-15",
     "lastSeen": "2026-05-19"
   }
 ]
