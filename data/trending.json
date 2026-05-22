@@ -7,14 +7,21 @@
       {
         "source": "hackernews",
         "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP ()",
-        "score": 65,
+        "score": 78,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "hackernews",
+        "title": "Moss: Self-Evolution Through Source-Level Rewriting in Autonomous Agent Systems",
+        "url": "https://arxiv.org/abs/2605.22794",
+        "score": 5,
         "date": "2026-05-22"
       },
       {
         "source": "hackernews",
         "title": "Qwen3.7-Max: The Agent Frontier",
         "url": "https://qwen.ai/blog?id=qwen3.7",
-        "score": 696,
+        "score": 704,
         "date": "2026-05-22"
       },
       {
@@ -42,7 +49,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -64,7 +71,7 @@
         "source": "hackernews",
         "title": "Show HN: I Made a Claude Skill for Spec-Driven Development",
         "url": "SDD) (https://github.com/FredAntB/Spec-Driven-Development",
-        "score": 23,
+        "score": 27,
         "date": "2026-05-22"
       },
       {
@@ -76,6 +83,12 @@
       {
         "source": "googlenews",
         "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
         "score": 1,
         "date": "2026-05-22"
       }
@@ -102,51 +115,12 @@
       },
       {
         "source": "googlenews",
-        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
-        "score": 1,
-        "date": "2026-05-22"
-      },
-      {
-        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-05-22"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-22"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool - TechCrunch",
-        "score": 1,
-        "date": "2026-05-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-05-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース (2026年5月22日掲載) - ライブドアニュース",
-        "score": 1,
-        "date": "2026-05-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-        "score": 1,
-        "date": "2026-05-22"
-      }
-    ],
-    "firstSeen": "2026-05-22",
     "lastSeen": "2026-05-22"
   },
   {
@@ -165,13 +139,34 @@
     "lastSeen": "2026-05-22"
   },
   {
-    "toolSlug": "felo",
-    "toolName": "Felo",
+    "toolSlug": "udio",
+    "toolName": "Udio",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "日本発AIプラットフォームFelo 「AI博覧会 Nagoya 2026」に出展 - PR TIMES",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-05-22"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
         "score": 1,
         "date": "2026-05-22"
       }
@@ -180,13 +175,13 @@
     "lastSeen": "2026-05-22"
   },
   {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
+    "toolSlug": "felo",
+    "toolName": "Felo",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "2026年、AIは金融アナリストを置き換えることができるか？ Vals AIファイナンスエージェントv2が公開、GPT-5.5の正確性はわずか52% - KuCoin",
+        "title": "日本発AIプラットフォームFelo 「AI博覧会 Nagoya 2026」に出展 - PR TIMES",
         "score": 1,
         "date": "2026-05-22"
       }
@@ -225,21 +220,6 @@
     "lastSeen": "2026-05-22"
   },
   {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-22"
-      }
-    ],
-    "firstSeen": "2026-05-21",
-    "lastSeen": "2026-05-22"
-  },
-  {
     "toolSlug": "notebooklm",
     "toolName": "NotebookLM",
     "buzzScore": 1,
@@ -255,9 +235,39 @@
     "lastSeen": "2026-05-22"
   },
   {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "2026年、AIは金融アナリストを置き換えることができるか？ Vals AIファイナンスエージェントv2が公開、GPT-5.5の正確性はわずか52% - KuCoin",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-05-22"
+  },
+  {
+    "toolSlug": "pholly",
+    "toolName": "Pholly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-22"
+      }
+    ],
+    "firstSeen": "2026-05-21",
+    "lastSeen": "2026-05-22"
+  },
+  {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -273,7 +283,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -286,36 +296,9 @@
     "lastSeen": "2026-05-21"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google’s AI Studio now lets anyone build Android apps in minutes - TechCrunch",
-        "score": 1,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-05-21"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Stability AI releases a new audio model that can create 6-minute songs",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-21"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -330,7 +313,7 @@
   {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -345,7 +328,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -360,7 +343,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -375,7 +358,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -386,71 +369,5 @@
     ],
     "firstSeen": "2026-04-07",
     "lastSeen": "2026-05-20"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Hermes AgentにX Premium連携とX投稿検索が追加。Grok 4.3を1Mトークンで利用可能 - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-20"
-      }
-    ],
-    "firstSeen": "2026-05-20",
-    "lastSeen": "2026-05-20"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Mythos: An AI tool too powerful for public release - Malwarebytes",
-        "score": 1,
-        "date": "2026-05-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-04-20",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Apple’s Siri revamp could include auto-deleting chats",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-19"
-  },
-  {
-    "toolSlug": "runway",
-    "toolName": "Runway",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-        "score": 1,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-15",
-    "lastSeen": "2026-05-19"
   }
 ]
