@@ -1,61 +1,14 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Open source Kanban desktop app that runs parallel agents on every card",
-        "url": "https://www.kanbots.dev/",
-        "score": 177,
-        "date": "2026-05-23"
-      },
-      {
-        "source": "hackernews",
-        "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-        "url": "https://arxiv.org/abs/2605.22001",
-        "score": 34,
-        "date": "2026-05-23"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP ()",
-        "score": 85,
-        "date": "2026-05-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "Expedia to Launch Agentic AI Tools for B2B Partners - Skift",
-        "score": 1,
-        "date": "2026-05-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-05-23"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-        "score": 1,
-        "date": "2026-05-23"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-23"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 5.9,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Microsoft starts canceling Claude Code licenses",
         "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-        "score": 161,
+        "score": 335,
         "date": "2026-05-23"
       },
       {
@@ -81,9 +34,66 @@
     "lastSeen": "2026-05-23"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 8.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Open source Kanban desktop app that runs parallel agents on every card",
+        "url": "https://www.kanbots.dev/",
+        "score": 230,
+        "date": "2026-05-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+        "url": "https://arxiv.org/abs/2605.22001",
+        "score": 37,
+        "date": "2026-05-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Expedia to Launch Agentic AI Tools for B2B Partners - Skift",
+        "score": 1,
+        "date": "2026-05-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-05-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+        "score": 1,
+        "date": "2026-05-23"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-23"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 3.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Neutron scattering explains why gluten-free pasta falls apart",
+        "url": "2025) (https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+        "score": 79,
+        "date": "2026-05-23"
+      }
+    ],
+    "firstSeen": "2026-05-23",
+    "lastSeen": "2026-05-23"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -95,22 +105,6 @@
     ],
     "firstSeen": "2026-05-17",
     "lastSeen": "2026-05-17"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Neutron scattering explains why gluten-free pasta falls apart",
-        "url": "2025) (https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
-        "score": 5,
-        "date": "2026-05-23"
-      }
-    ],
-    "firstSeen": "2026-05-23",
-    "lastSeen": "2026-05-23"
   },
   {
     "toolSlug": "gemini",
@@ -131,7 +125,19 @@
       },
       {
         "source": "googlenews",
+        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+        "score": 1,
+        "date": "2026-05-23"
+      },
+      {
+        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-05-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
         "score": 1,
         "date": "2026-05-23"
       }
@@ -167,6 +173,27 @@
     "lastSeen": "2026-05-23"
   },
   {
+    "toolSlug": "notebooklm",
+    "toolName": "NotebookLM",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Spotify takes on Google’s NotebookLM with its new app - TechCrunch",
+        "score": 1,
+        "date": "2026-05-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Spotify takes on Google&#8217;s NotebookLM with its new app",
+        "score": 1,
+        "date": "2026-05-23"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-05-23"
+  },
+  {
     "toolSlug": "era",
     "toolName": "Era",
     "buzzScore": 1,
@@ -179,21 +206,6 @@
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-23"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-05-23"
-      }
-    ],
-    "firstSeen": "2026-05-18",
     "lastSeen": "2026-05-23"
   },
   {
@@ -242,24 +254,39 @@
     "lastSeen": "2026-05-23"
   },
   {
-    "toolSlug": "notebooklm",
-    "toolName": "NotebookLM",
+    "toolSlug": "learno",
+    "toolName": "LearnO",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Spotify takes on Google&#8217;s NotebookLM with its new app",
+        "source": "googlenews",
+        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
         "score": 1,
         "date": "2026-05-23"
       }
     ],
-    "firstSeen": "2026-05-22",
+    "firstSeen": "2026-05-21",
+    "lastSeen": "2026-05-23"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-05-23"
+      }
+    ],
+    "firstSeen": "2026-05-18",
     "lastSeen": "2026-05-23"
   },
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -274,7 +301,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -289,7 +316,7 @@
   {
     "toolSlug": "pholly",
     "toolName": "Pholly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -304,7 +331,7 @@
   {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -320,7 +347,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -333,24 +360,9 @@
     "lastSeen": "2026-05-21"
   },
   {
-    "toolSlug": "learno",
-    "toolName": "LearnO",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！eラーニングシステム「LearnO（ラーノ）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-05-21",
-    "lastSeen": "2026-05-21"
-  },
-  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -360,21 +372,6 @@
       }
     ],
     "firstSeen": "2026-05-17",
-    "lastSeen": "2026-05-21"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-05-21"
-      }
-    ],
-    "firstSeen": "2026-05-18",
     "lastSeen": "2026-05-21"
   }
 ]
