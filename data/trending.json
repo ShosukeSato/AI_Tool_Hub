@@ -8,20 +8,7 @@
         "source": "hackernews",
         "title": "Microsoft starts canceling Claude Code licenses",
         "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-        "score": 458,
-        "date": "2026-05-24"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Code MIT Dashboard",
-        "url": "https://github.com/BEKO2210/My_Dash",
-        "score": 6,
-        "date": "2026-05-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
-        "score": 1,
+        "score": 468,
         "date": "2026-05-24"
       },
       {
@@ -37,13 +24,13 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.8,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Neutron scattering explains why gluten-free pasta falls apart",
         "url": "2025) (https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
-        "score": 95,
+        "score": 99,
         "date": "2026-05-24"
       }
     ],
@@ -53,7 +40,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -85,7 +72,19 @@
       },
       {
         "source": "googlenews",
+        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+        "score": 1,
+        "date": "2026-05-24"
+      },
+      {
+        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-05-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
         "score": 1,
         "date": "2026-05-24"
       },
@@ -113,12 +112,6 @@
       {
         "source": "googlenews",
         "title": "Agents for financial services - Anthropic",
-        "score": 1,
-        "date": "2026-05-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
         "score": 1,
         "date": "2026-05-24"
       },
@@ -211,36 +204,6 @@
     "lastSeen": "2026-05-24"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-24"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-24"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-05-24"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-24"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
     "buzzScore": 1,
@@ -256,9 +219,39 @@
     "lastSeen": "2026-05-24"
   },
   {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-05-24"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-24"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-05-24"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-24"
+  },
+  {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -273,7 +266,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -284,51 +277,5 @@
     ],
     "firstSeen": "2026-05-18",
     "lastSeen": "2026-05-23"
-  },
-  {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "2026年、AIは金融アナリストを置き換えることができるか？ Vals AIファイナンスエージェントv2が公開、GPT-5.5の正確性はわずか52% - KuCoin",
-        "score": 1,
-        "date": "2026-05-22"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-05-22"
-  },
-  {
-    "toolSlug": "pholly",
-    "toolName": "Pholly",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "デジタル化・AI導入補助金2026の対象ツールに認定！授業支援システム「Pholly（フォリー）」 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-22"
-      }
-    ],
-    "firstSeen": "2026-05-21",
-    "lastSeen": "2026-05-22"
-  },
-  {
-    "toolSlug": "voyage",
-    "toolName": "Voyage",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
-        "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
-        "score": 97,
-        "date": "2026-05-19"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-19"
   }
 ]

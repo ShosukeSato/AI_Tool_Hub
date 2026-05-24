@@ -30,7 +30,7 @@
     "toolSlug": "deepseek",
     "overall": 7.4,
     "performance": 8,
-    "buzz": 1.5,
+    "buzz": 1.4,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-05-24"
@@ -622,9 +622,9 @@
   },
   {
     "toolSlug": "adobe-firefly",
-    "overall": 6.1,
+    "overall": 6,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-05-24"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 5.6,
+    "overall": 5.5,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-24"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.4,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-05-24"
@@ -2208,7 +2208,7 @@
     "toolSlug": "learno",
     "overall": 5.8,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-24"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 2.8,
+    "buzz": 2.9,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-05-24"
