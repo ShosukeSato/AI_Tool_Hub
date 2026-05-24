@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-05-24",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Microsoft starts canceling Claude Code licenses",
+    "date": "2026-05-24",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-05-23",
     "type": "trending",
     "toolSlug": "agent",
@@ -717,113 +726,5 @@
     "title": "MiniZinc が新しく追加されました",
     "summary": "離散最適化問題用制約モデリング言語",
     "date": "2026-04-25"
-  },
-  {
-    "id": "new-gpt-5-5-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "gpt-5-5",
-    "title": "GPT-5.5 が新しく追加されました",
-    "summary": "OpenAIの最新大規模言語モデル",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "new-agent-vault-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "agent-vault",
-    "title": "Agent Vault が新しく追加されました",
-    "summary": "AIエージェント専用の認証情報管理システム",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "new-localllm-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "localllm",
-    "title": "LocalLLM が新しく追加されました",
-    "summary": "ローカル環境でLLMを実行するツールキット",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "new-noscroll-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "noscroll",
-    "title": "Noscroll が新しく追加されました",
-    "summary": "SNSのドゥームスクローリングを代行するAI",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "new-era-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "era",
-    "title": "Era が新しく追加されました",
-    "summary": "AIガジェット向けソフトウェアプラットフォーム",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "new-rakuten-ai-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "rakuten-ai",
-    "title": "Rakuten AI（楽天市場アプリ版） が新しく追加されました",
-    "summary": "楽天市場アプリ内のAIコンシェルジュ",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "trending-chatgpt-2026-04-24",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Workspace Agents in ChatGPT",
-    "date": "2026-04-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-gpt-5-5-2026-04-24",
-    "type": "trending",
-    "toolSlug": "gpt-5-5",
-    "title": "GPT-5.5 が話題沸騰中（バズスコア: 8.8）",
-    "summary": "hackernewsで注目: GPT-5.5",
-    "date": "2026-04-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-04-24",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 7.3）",
-    "summary": "hackernewsで注目: Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-    "date": "2026-04-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-design-md-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "design-md",
-    "title": "Design.md が新しく追加されました",
-    "summary": "AIコーディングエージェント向けデザイン仕様記述フォーマット",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "new-endless-toil-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "endless-toil",
-    "title": "Endless Toil が新しく追加されました",
-    "summary": "コードの問題をAIエージェントが音声で苦痛表現するツール",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "new-fragment-2026-04-24",
-    "type": "new-tool",
-    "toolSlug": "fragment",
-    "title": "Fragment が新しく追加されました",
-    "summary": "Sierraに買収されたAI顧客サービス自動化スタートアップ",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "trending-claude-2026-04-24",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 7.2）",
-    "summary": "hackernewsで注目: An update on recent Claude Code quality reports",
-    "date": "2026-04-24",
-    "source": "hackernews"
   }
 ]
