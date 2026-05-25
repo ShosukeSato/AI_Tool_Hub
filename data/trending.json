@@ -6,25 +6,76 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Claude is not your architect. Stop letting it pretend",
+        "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+        "score": 233,
+        "date": "2026-05-25"
+      },
+      {
+        "source": "hackernews",
         "title": "Microsoft starts canceling Claude Code licenses",
         "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-        "score": 468,
-        "date": "2026-05-24"
+        "score": 478,
+        "date": "2026-05-25"
       },
       {
         "source": "googlenews",
         "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.7 が本日2026年4月17日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-25"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-24"
+    "lastSeen": "2026-05-25"
+  },
+  {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 6.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "score": 467,
+        "date": "2026-05-25"
+      }
+    ],
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-05-25"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 3.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "url": "https://arxiv.org/abs/2605.06445",
+        "score": 188,
+        "date": "2026-05-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Agents for financial services - Anthropic",
+        "score": 1,
+        "date": "2026-05-25"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-25"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -38,119 +89,64 @@
     "lastSeen": "2026-05-24"
   },
   {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-        "url": "https://www.seangoedecke.com/steering-vectors/",
-        "score": 245,
-        "date": "2026-05-17"
-      }
-    ],
-    "firstSeen": "2026-05-17",
-    "lastSeen": "2026-05-17"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
-        "score": 1,
-        "date": "2026-05-24"
-      },
       {
         "source": "googlenews",
         "title": "Introducing Gemini Omni - blog.google",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       },
       {
         "source": "googlenews",
         "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-05-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       },
       {
         "source": "googlenews",
         "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-24"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Expedia to Launch Agentic AI Tools for B2B Partners - Skift",
-        "score": 1,
-        "date": "2026-05-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Agents for financial services - Anthropic",
-        "score": 1,
-        "date": "2026-05-24"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-        "score": 1,
-        "date": "2026-05-24"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-24"
+    "lastSeen": "2026-05-25"
   },
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Spotify launches an ElevenLabs-powered audiobook creation tool - TechCrunch",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       },
       {
         "source": "googlenews",
         "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       },
       {
         "source": "techcrunch",
         "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       }
     ],
     "firstSeen": "2026-05-22",
-    "lastSeen": "2026-05-24"
+    "lastSeen": "2026-05-25"
   },
   {
     "toolSlug": "era",
@@ -161,11 +157,77 @@
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-24"
+    "lastSeen": "2026-05-25"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-05-25"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-25"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-05-25"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-25"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-25"
+      }
+    ],
+    "firstSeen": "2026-04-19",
+    "lastSeen": "2026-05-25"
+  },
+  {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "議事録作成ツール「YOMEL」が「ITreview Grid Award 2026 Spring」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
+        "score": 1,
+        "date": "2026-05-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI議事録ツール「YOMEL」、会議内容に合わせた最適な要約を出力する「カスタム要約」機能を正式リリース - PR TIMES",
+        "score": 1,
+        "date": "2026-05-25"
+      }
+    ],
+    "firstSeen": "2026-05-25",
+    "lastSeen": "2026-05-25"
   },
   {
     "toolSlug": "notebooklm",
@@ -173,25 +235,19 @@
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Spotify takes on Google’s NotebookLM with its new app - TechCrunch",
-        "score": 1,
-        "date": "2026-05-24"
-      },
-      {
         "source": "techcrunch",
         "title": "Spotify takes on Google&#8217;s NotebookLM with its new app",
         "score": 1,
-        "date": "2026-05-24"
+        "date": "2026-05-25"
       }
     ],
     "firstSeen": "2026-05-22",
-    "lastSeen": "2026-05-24"
+    "lastSeen": "2026-05-25"
   },
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -204,54 +260,9 @@
     "lastSeen": "2026-05-24"
   },
   {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-24"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-24"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-24"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-24"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-05-24"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-24"
-  },
-  {
     "toolSlug": "learno",
     "toolName": "LearnO",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -266,7 +277,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
