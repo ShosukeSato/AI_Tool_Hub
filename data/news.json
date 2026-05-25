@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-deepseek-2026-05-25",
+    "type": "trending",
+    "toolSlug": "deepseek",
+    "title": "DeepSeek が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "date": "2026-05-25",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-24",
     "type": "trending",
     "toolSlug": "claude",

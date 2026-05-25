@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 8.3,
+    "overall": 8,
     "performance": 9,
-    "buzz": 10,
+    "buzz": 8,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-25"
@@ -28,9 +28,9 @@
   },
   {
     "toolSlug": "deepseek",
-    "overall": 8.2,
+    "overall": 8.7,
     "performance": 8,
-    "buzz": 6.9,
+    "buzz": 10,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-05-25"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.8,
+    "overall": 7,
     "performance": 6,
-    "buzz": 3.4,
+    "buzz": 4.9,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-05-25"
@@ -622,9 +622,9 @@
   },
   {
     "toolSlug": "adobe-firefly",
-    "overall": 6.1,
+    "overall": 6,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-05-25"
@@ -777,7 +777,7 @@
     "toolSlug": "felo",
     "overall": 6.4,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-05-25"
@@ -1585,9 +1585,9 @@
   },
   {
     "toolSlug": "elevenlabs",
-    "overall": 6.7,
+    "overall": 6.6,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-05-25"
@@ -1720,9 +1720,9 @@
   },
   {
     "toolSlug": "",
-    "overall": 6.3,
+    "overall": 6.4,
     "performance": 9,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-25"
@@ -1873,9 +1873,9 @@
   },
   {
     "toolSlug": "yomel",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-05-25"
@@ -2206,9 +2206,9 @@
   },
   {
     "toolSlug": "learno",
-    "overall": 5.8,
+    "overall": 5.7,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-25"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7.2,
+    "overall": 7.1,
     "performance": 7,
-    "buzz": 2.6,
+    "buzz": 2.3,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-05-25"
