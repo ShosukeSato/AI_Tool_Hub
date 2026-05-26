@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-deepseek-2026-05-26",
+    "type": "trending",
+    "toolSlug": "deepseek",
+    "title": "DeepSeek が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "date": "2026-05-26",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-25",
     "type": "trending",
     "toolSlug": "claude",
@@ -523,112 +532,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: An AI agent deleted our production database. The agent's confession is below",
     "date": "2026-04-27",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-hats-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "hats",
-    "title": "HATS が新しく追加されました",
-    "summary": "AIエージェント同士が議論して意思決定を改善",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-deepseek-v4-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "deepseek-v4",
-    "title": "DeepSeek V4 が新しく追加されました",
-    "summary": "最先端性能に迫る中国発のオープンAIモデル",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-feldera-embedded-agents-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "feldera-embedded-agents",
-    "title": "Feldera Embedded Agents が新しく追加されました",
-    "summary": "ソフトウェアに直接組み込まれるAIエージェント",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-thinking-machines-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "thinking-machines",
-    "title": "Thinking Machines が新しく追加されました",
-    "summary": "Meta出身者による注目の新興AI企業",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-amazon-ai-cpu-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "amazon-ai-cpu",
-    "title": "Amazon AI CPU が新しく追加されました",
-    "summary": "GPU代替の高効率AI専用CPU",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-cohere-aleph-alpha-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "cohere-aleph-alpha",
-    "title": "Cohere-Aleph Alpha が新しく追加されました",
-    "summary": "規制対応に特化した企業向けAI統合サービス",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "trending-claude-2026-04-26",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: I cancelled Claude: Token issues, declining quality, and poor support",
-    "date": "2026-04-26",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-eden-ai-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "eden-ai",
-    "title": "Eden AI が新しく追加されました",
-    "summary": "複数AIモデルに統一APIでアクセス可能な欧州発統合プラットフォーム",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-terra-api-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "terra-api",
-    "title": "Terra API が新しく追加されました",
-    "summary": "350以上のヘルスデバイスデータを統一APIで活用可能",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-flowtriq-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "flowtriq",
-    "title": "Flowtriq が新しく追加されました",
-    "summary": "0.9秒で48Gbps攻撃を検知する超高速AI DDoS防御システム",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-1-bit-art-generator-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "1-bit-art-generator",
-    "title": "1-Bit Art Generator が新しく追加されました",
-    "summary": "名画を1ビット白黒ピクセルアートに変換するAI生成ツール",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "new-lambench-2026-04-26",
-    "type": "new-tool",
-    "toolSlug": "lambench",
-    "title": "LamBench が新しく追加されました",
-    "summary": "AIモデルのラムダ計算・関数型プログラミング能力評価ツール",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "trending-gpt-5-5-2026-04-26",
-    "type": "trending",
-    "toolSlug": "gpt-5-5",
-    "title": "GPT-5.5 が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: GPT-5.5",
-    "date": "2026-04-26",
     "source": "hackernews"
   }
 ]
