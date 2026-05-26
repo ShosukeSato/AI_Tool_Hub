@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-        "score": 709,
+        "score": 718,
         "date": "2026-05-26"
       }
     ],
@@ -16,37 +16,15 @@
     "lastSeen": "2026-05-26"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 4.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-        "url": "https://arxiv.org/abs/2605.06445",
-        "score": 278,
-        "date": "2026-05-26"
-      },
-      {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-05-26"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-26"
-  },
-  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 3.5,
+    "buzzScore": 4.1,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Microsoft Copilot Cowork Exfiltrates Files",
         "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-        "score": 194,
+        "score": 250,
         "date": "2026-05-26"
       }
     ],
@@ -56,13 +34,13 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 2.1,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
         "url": "https://support.apple.com/en-us/127115",
-        "score": 83,
+        "score": 159,
         "date": "2026-05-26"
       },
       {
@@ -78,7 +56,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -107,6 +85,36 @@
     "lastSeen": "2026-05-26"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
+        "date": "2026-05-26"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-05-26"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Ushers in a New Era of Creativity with New Creative Agent and Generative AI Innovations in Adobe Firefly - Adobe Newsroom",
+        "score": 1,
+        "date": "2026-05-26"
+      }
+    ],
+    "firstSeen": "2026-05-09",
+    "lastSeen": "2026-05-26"
+  },
+  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
     "buzzScore": 1,
@@ -122,33 +130,6 @@
     "lastSeen": "2026-05-26"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
-        "score": 1,
-        "date": "2026-05-26"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-05-26"
-      },
-      {
-        "source": "googlenews",
-        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
-        "score": 1,
-        "date": "2026-05-26"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-26"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
     "buzzScore": 1,
@@ -161,6 +142,27 @@
       }
     ],
     "firstSeen": "2026-05-22",
+    "lastSeen": "2026-05-26"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-05-26"
+      },
+      {
+        "source": "googlenews",
+        "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "score": 1,
+        "date": "2026-05-26"
+      }
+    ],
+    "firstSeen": "2026-04-27",
     "lastSeen": "2026-05-26"
   },
   {
@@ -196,7 +198,7 @@
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -211,7 +213,7 @@
   {
     "toolSlug": "notebooklm",
     "toolName": "NotebookLM",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -224,24 +226,9 @@
     "lastSeen": "2026-05-25"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-05-25"
-      }
-    ],
-    "firstSeen": "2026-05-09",
-    "lastSeen": "2026-05-25"
-  },
-  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -262,7 +249,7 @@
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",

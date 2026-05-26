@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 7.1,
+    "overall": 7.3,
     "performance": 9,
-    "buzz": 2.1,
+    "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-26"
@@ -46,9 +46,9 @@
   },
   {
     "toolSlug": "microsoft-copilot",
-    "overall": 6.7,
+    "overall": 6.8,
     "performance": 7,
-    "buzz": 3.5,
+    "buzz": 4.1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-26"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.9,
+    "overall": 6.4,
     "performance": 6,
-    "buzz": 4.5,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-05-26"
@@ -622,9 +622,9 @@
   },
   {
     "toolSlug": "adobe-firefly",
-    "overall": 6,
+    "overall": 6.1,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-05-26"
@@ -775,9 +775,9 @@
   },
   {
     "toolSlug": "felo",
-    "overall": 6.4,
+    "overall": 6.3,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-05-26"
@@ -1722,7 +1722,7 @@
     "toolSlug": "",
     "overall": 6.4,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-26"
@@ -1875,7 +1875,7 @@
     "toolSlug": "yomel",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-05-26"
@@ -2352,7 +2352,7 @@
     "toolSlug": "notebooklm",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-05-26"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7.1,
     "performance": 7,
-    "buzz": 2.1,
+    "buzz": 1.9,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-05-26"
