@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-deepseek-2026-05-27",
+    "type": "trending",
+    "toolSlug": "deepseek",
+    "title": "DeepSeek が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "date": "2026-05-27",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-deepseek-2026-05-26",
     "type": "trending",
     "toolSlug": "deepseek",
@@ -465,73 +474,6 @@
     "title": "GitHub Copilot が話題沸騰中（バズスコア: 7.4）",
     "summary": "hackernewsで注目: GitHub Copilot is moving to usage-based billing",
     "date": "2026-04-28",
-    "source": "hackernews"
-  },
-  {
-    "id": "new-yourmemory-2026-04-27",
-    "type": "new-tool",
-    "toolSlug": "yourmemory",
-    "title": "YourMemory が新しく追加されました",
-    "summary": "生物学的忘却を再現するAI記憶システム",
-    "date": "2026-04-27"
-  },
-  {
-    "id": "new-eli-2026-04-27",
-    "type": "new-tool",
-    "toolSlug": "eli",
-    "title": "ELI が新しく追加されました",
-    "summary": "ArXiv論文を分かりやすく解説するAI",
-    "date": "2026-04-27"
-  },
-  {
-    "id": "new-agentswarms-2026-04-27",
-    "type": "new-tool",
-    "toolSlug": "agentswarms",
-    "title": "AgentSwarms が新しく追加されました",
-    "summary": "AIエージェント群を学ぶ無料学習プラットフォーム",
-    "date": "2026-04-27"
-  },
-  {
-    "id": "new-8v-2026-04-27",
-    "type": "new-tool",
-    "toolSlug": "8v",
-    "title": "8v が新しく追加されました",
-    "summary": "人間とAI両対応の効率的CLI",
-    "date": "2026-04-27"
-  },
-  {
-    "id": "new-defensive-database-design-2026-04-27",
-    "type": "new-tool",
-    "toolSlug": "defensive-database-design",
-    "title": "Defensive Database Design が新しく追加されました",
-    "summary": "AIエージェント時代の安全なDB設計",
-    "date": "2026-04-27"
-  },
-  {
-    "id": "trending-gpt-5-5-2026-04-27",
-    "type": "trending",
-    "toolSlug": "gpt-5-5",
-    "title": "GPT-5.5 が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: GPT-5.5",
-    "date": "2026-04-27",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-04-27",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 7.7）",
-    "summary": "hackernewsで注目: Amateur armed with ChatGPT solves an Erdős problem",
-    "date": "2026-04-27",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-04-27",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: An AI agent deleted our production database. The agent's confession is below",
-    "date": "2026-04-27",
     "source": "hackernews"
   }
 ]
