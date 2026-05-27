@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-05-27",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "date": "2026-05-27",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-deepseek-2026-05-26",
     "type": "trending",
     "toolSlug": "deepseek",
