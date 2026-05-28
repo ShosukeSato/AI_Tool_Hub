@@ -6,23 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
-        "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
-        "score": 4,
-        "date": "2026-05-28"
-      },
-      {
-        "source": "hackernews",
         "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
         "url": "https://arps18.github.io/posts/claude-code-mastery/",
-        "score": 378,
+        "score": 415,
         "date": "2026-05-28"
       },
       {
         "source": "hackernews",
-        "title": "Getting Claude to extract data from a 1997 football manager game",
-        "url": "https://bennuttall.com/blog/2026/04/fsm97/",
-        "score": 12,
+        "title": "I cut my AI API costs 99% by switching from Claude to DeepSeek",
+        "url": "https://twitter.com/kevinsays/status/2059724146221662339",
+        "score": 13,
         "date": "2026-05-28"
       }
     ],
@@ -32,7 +25,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -48,7 +41,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -64,24 +57,31 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2,
+    "buzzScore": 2.4,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "url": "https://llmgame.scalex.dev",
+        "score": 13,
+        "date": "2026-05-28"
+      },
       {
         "source": "hackernews",
         "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
         "url": "https://arxiv.org/abs/2605.21779",
-        "score": 42,
+        "score": 53,
         "date": "2026-05-28"
       },
       {
         "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "title": "Amazon opens Alexa shopping tech to retailers with new AWS agentic AI tool - Retail Gazette",
         "score": 1,
         "date": "2026-05-28"
       },
       {
         "source": "techcrunch",
-        "title": "Robinhood now lets your AI agents trade stocks",
+        "title": "Visa invests in Replit to power agentic payments for developers",
         "score": 1,
         "date": "2026-05-28"
       }
@@ -92,7 +92,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -106,45 +106,52 @@
     "lastSeen": "2026-05-27"
   },
   {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 1.1,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.2,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans - TechCrunch",
-        "score": 1,
+        "source": "hackernews",
+        "title": "Safescript – A Language for AI Era",
+        "url": "https://safescript.cc/",
+        "score": 10,
         "date": "2026-05-28"
       },
       {
-        "source": "techcrunch",
-        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
         "score": 1,
         "date": "2026-05-28"
       }
     ],
-    "firstSeen": "2026-05-28",
+    "firstSeen": "2026-05-08",
     "lastSeen": "2026-05-28"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-05-28"
       },
       {
-        "source": "techcrunch",
-        "title": "ElevenLabs&#8217; new music-generation model can switch genres mid-track",
+        "source": "googlenews",
+        "title": "【Gemini 3.5 Flash】自治体AI zevoにて2026年5月20日（木曜日）より提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-05-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
         "score": 1,
         "date": "2026-05-28"
       }
     ],
-    "firstSeen": "2026-05-22",
+    "firstSeen": "2026-04-27",
     "lastSeen": "2026-05-28"
   },
   {
@@ -164,69 +171,75 @@
     "lastSeen": "2026-05-28"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
+    "toolSlug": "whisper",
+    "toolName": "Whisper",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
+        "title": "HouseWhisper Launches New AI Tools to Help Real Estate Teams Revive Dormant Leads and Improve Conversion - RISMedia",
         "score": 1,
         "date": "2026-05-28"
       }
     ],
-    "firstSeen": "2026-05-27",
+    "firstSeen": "2026-05-28",
     "lastSeen": "2026-05-28"
   },
   {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
+    "toolSlug": "hats",
+    "toolName": "HATS",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-05-28"
-      }
-    ],
-    "firstSeen": "2026-05-26",
-    "lastSeen": "2026-05-28"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-05-28"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-28"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans - TechCrunch",
         "score": 1,
         "date": "2026-05-28"
       },
       {
-        "source": "googlenews",
-        "title": "GeminiをGWから始めたい方へ｜2026年春の料金・新機能まとめ - tech-noisy.com",
+        "source": "techcrunch",
+        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
         "score": 1,
         "date": "2026-05-28"
       }
     ],
-    "firstSeen": "2026-04-27",
+    "firstSeen": "2026-05-28",
+    "lastSeen": "2026-05-28"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Amazon MGM Studios Embraces AI: Greenlights Three Series for Prime Video Under New ‘GenAI Creators’ Fund’ - Variety",
+        "score": 1,
+        "date": "2026-05-28"
+      }
+    ],
+    "firstSeen": "2026-05-28",
+    "lastSeen": "2026-05-28"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-05-28"
+      },
+      {
+        "source": "techcrunch",
+        "title": "ElevenLabs&#8217; new music-generation model can switch genres mid-track",
+        "score": 1,
+        "date": "2026-05-28"
+      }
+    ],
+    "firstSeen": "2026-05-22",
     "lastSeen": "2026-05-28"
   },
   {
@@ -245,6 +258,21 @@
     "lastSeen": "2026-05-28"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Sneak peek at new Siri app reveals Apple&#8217;s plans to take on ChatGPT and more",
+        "score": 1,
+        "date": "2026-05-28"
+      }
+    ],
+    "firstSeen": "2026-05-27",
+    "lastSeen": "2026-05-28"
+  },
+  {
     "toolSlug": "anything",
     "toolName": "Anything",
     "buzzScore": 1,
@@ -260,9 +288,24 @@
     "lastSeen": "2026-05-28"
   },
   {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-05-28"
+      }
+    ],
+    "firstSeen": "2026-05-26",
+    "lastSeen": "2026-05-28"
+  },
+  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -277,7 +320,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -292,7 +335,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
