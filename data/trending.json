@@ -8,19 +8,19 @@
         "source": "hackernews",
         "title": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "score": 1729,
+        "score": 1736,
         "date": "2026-05-30"
       },
       {
         "source": "hackernews",
         "title": "Dynamic Workflows in Claude Code",
         "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-        "score": 167,
+        "score": 175,
         "date": "2026-05-30"
       },
       {
         "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - イザ！",
+        "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
         "score": 1,
         "date": "2026-05-30"
       }
@@ -31,7 +31,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 4.8,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -47,41 +47,34 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 3.5,
+    "buzzScore": 3.1,
     "mentions": [
       {
         "source": "hackernews",
         "title": "CAPTCHAs can still detect AI agents",
         "url": "https://research.roundtable.ai/captchas-detect-ai/",
-        "score": 66,
+        "score": 75,
         "date": "2026-05-30"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Zot – Yet another coding agent harness",
         "url": "https://www.zot.sh",
-        "score": 65,
+        "score": 86,
         "date": "2026-05-30"
       },
       {
         "source": "hackernews",
         "title": "Robinhood now lets your AI agents trade stocks",
         "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-        "score": 91,
+        "score": 102,
         "date": "2026-05-30"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-        "url": "https://github.com/Kaelio/ktx",
-        "score": 82,
-        "date": "2026-05-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "40% of Enterprises Will Demote or Decommission Autonomous AI Agents",
-        "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-26-gartner-says-applying-uniform-governance-across-ai-agents-will-lead-to-enterprise-ai-agent-failure",
-        "score": 14,
+        "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
+        "url": "https://github.com/vinhnx/VTCode",
+        "score": 12,
         "date": "2026-05-30"
       },
       {
@@ -107,9 +100,25 @@
     "lastSeen": "2026-05-30"
   },
   {
+    "toolSlug": "openrouter",
+    "toolName": "OpenRouter",
+    "buzzScore": 2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+        "score": 134,
+        "date": "2026-05-30"
+      }
+    ],
+    "firstSeen": "2026-05-27",
+    "lastSeen": "2026-05-30"
+  },
+  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -123,25 +132,25 @@
     "lastSeen": "2026-05-26"
   },
   {
-    "toolSlug": "openrouter",
-    "toolName": "OpenRouter",
-    "buzzScore": 1.8,
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-        "score": 109,
+        "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+        "score": 16,
         "date": "2026-05-30"
       }
     ],
-    "firstSeen": "2026-05-27",
+    "firstSeen": "2026-05-30",
     "lastSeen": "2026-05-30"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -153,22 +162,6 @@
     ],
     "firstSeen": "2026-05-23",
     "lastSeen": "2026-05-27"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Hackers are now using ChatGPT share links to deliver malware",
-        "url": "https://www.neowin.net/news/hackers-are-now-using-chatgpt-share-links-to-deliver-malware/",
-        "score": 18,
-        "date": "2026-05-30"
-      }
-    ],
-    "firstSeen": "2026-05-27",
-    "lastSeen": "2026-05-30"
   },
   {
     "toolSlug": "era",
@@ -201,21 +194,6 @@
     "lastSeen": "2026-05-30"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-05-30"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-30"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
     "buzzScore": 1,
@@ -231,9 +209,40 @@
     "lastSeen": "2026-05-30"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Hackers are now using ChatGPT share links to deliver malware",
+        "url": "https://www.neowin.net/news/hackers-are-now-using-chatgpt-share-links-to-deliver-malware/",
+        "score": 18,
+        "date": "2026-05-30"
+      }
+    ],
+    "firstSeen": "2026-05-27",
+    "lastSeen": "2026-05-30"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-05-30"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-30"
+  },
+  {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -248,7 +257,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -263,7 +272,7 @@
   {
     "toolSlug": "ramain",
     "toolName": "RamAIn",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -279,7 +288,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -294,7 +303,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -309,7 +318,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -324,7 +333,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -339,7 +348,7 @@
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",

@@ -3,7 +3,7 @@
     "toolSlug": "chatgpt",
     "overall": 7.2,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-05-30"
@@ -19,18 +19,18 @@
   },
   {
     "toolSlug": "gemini",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-05-30"
   },
   {
     "toolSlug": "deepseek",
-    "overall": 7.9,
+    "overall": 7.8,
     "performance": 8,
-    "buzz": 4.8,
+    "buzz": 4.3,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-05-30"
@@ -39,7 +39,7 @@
     "toolSlug": "grok",
     "overall": 5.5,
     "performance": 6,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-05-30"
@@ -48,7 +48,7 @@
     "toolSlug": "microsoft-copilot",
     "overall": 6.5,
     "performance": 7,
-    "buzz": 2,
+    "buzz": 1.8,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-05-30"
@@ -444,16 +444,16 @@
     "toolSlug": "anything",
     "overall": 4.9,
     "performance": 5,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-05-30"
   },
   {
     "toolSlug": "agent",
-    "overall": 6.8,
+    "overall": 6.7,
     "performance": 6,
-    "buzz": 3.5,
+    "buzz": 3.1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-05-30"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.5,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-05-30"
@@ -804,7 +804,7 @@
     "toolSlug": "com",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-05-30"
@@ -1173,7 +1173,7 @@
     "toolSlug": "ramain",
     "overall": 5.2,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 5,
     "lastCalculated": "2026-05-30"
@@ -1335,7 +1335,7 @@
     "toolSlug": "hats",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-05-30"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.4,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-05-30"
@@ -1605,7 +1605,7 @@
     "toolSlug": "whisper",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 10,
     "lastCalculated": "2026-05-30"
@@ -1990,9 +1990,9 @@
   },
   {
     "toolSlug": "rocket",
-    "overall": 6.6,
+    "overall": 6.7,
     "performance": 8,
-    "buzz": 0.6,
+    "buzz": 1.1,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-05-30"
@@ -2478,7 +2478,7 @@
     "toolSlug": "openrouter",
     "overall": 7.4,
     "performance": 9,
-    "buzz": 1.8,
+    "buzz": 2,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-05-30"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7,
     "performance": 7,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-05-30"
