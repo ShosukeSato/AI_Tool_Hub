@@ -8,19 +8,19 @@
         "source": "hackernews",
         "title": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "score": 1744,
+        "score": 1749,
         "date": "2026-05-31"
       },
       {
         "source": "hackernews",
         "title": "Dynamic Workflows in Claude Code",
         "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-        "score": 185,
+        "score": 189,
         "date": "2026-05-31"
       },
       {
         "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - ひなた宮崎経済新聞",
+        "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
         "score": 1,
         "date": "2026-05-31"
       }
@@ -29,9 +29,25 @@
     "lastSeen": "2026-05-31"
   },
   {
+    "toolSlug": "openrouter",
+    "toolName": "OpenRouter",
+    "buzzScore": 4.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenRouter raises $113M Series B",
+        "url": "https://openrouter.ai/announcements/series-b",
+        "score": 438,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-05-27",
+    "lastSeen": "2026-05-31"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.9,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -45,31 +61,15 @@
     "lastSeen": "2026-05-26"
   },
   {
-    "toolSlug": "openrouter",
-    "toolName": "OpenRouter",
-    "buzzScore": 3.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenRouter raises $113M Series B",
-        "url": "https://openrouter.ai/announcements/series-b",
-        "score": 372,
-        "date": "2026-05-31"
-      }
-    ],
-    "firstSeen": "2026-05-27",
-    "lastSeen": "2026-05-31"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.5,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Navier-Stokes fluid simulation explained with Godot game engine",
         "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-        "score": 193,
+        "score": 229,
         "date": "2026-05-31"
       }
     ],
@@ -79,13 +79,13 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 2.1,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
         "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-        "score": 150,
+        "score": 177,
         "date": "2026-05-31"
       }
     ],
@@ -95,27 +95,34 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.9,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-        "url": "https://openenvelope.org/docs/schema/",
-        "score": 36,
+        "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+        "url": "https://github.com/kurikomi-labs/komi-learn",
+        "score": 18,
         "date": "2026-05-31"
       },
       {
         "source": "hackernews",
-        "title": "Zerostack v1.3.4 released – Lightweight Unix-like coding agent",
-        "url": "https://github.com/gi-dellav/zerostack/releases/tag/v1.3.4",
-        "score": 3,
+        "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+        "url": "https://openenvelope.org/docs/schema/",
+        "score": 43,
+        "date": "2026-05-31"
+      },
+      {
+        "source": "hackernews",
+        "title": "Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks",
+        "url": "https://arxiv.org/abs/2510.12635",
+        "score": 5,
         "date": "2026-05-31"
       },
       {
         "source": "hackernews",
         "title": "CAPTCHAs can still detect AI agents",
         "url": "https://research.roundtable.ai/captchas-detect-ai/",
-        "score": 82,
+        "score": 83,
         "date": "2026-05-31"
       },
       {
@@ -143,7 +150,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -159,13 +166,13 @@
   {
     "toolSlug": "fragment",
     "toolName": "Fragment",
-    "buzzScore": 1.1,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "1M Ancient Greek fragments soon to be translated with the help of AI",
         "url": "https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply",
-        "score": 12,
+        "score": 21,
         "date": "2026-05-31"
       }
     ],
@@ -185,6 +192,42 @@
       }
     ],
     "firstSeen": "2026-05-08",
+    "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-05-31"
+      },
+      {
+        "source": "techcrunch",
+        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
+        "score": 1,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-05-22",
     "lastSeen": "2026-05-31"
   },
   {
@@ -218,24 +261,9 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
-        "score": 1,
-        "date": "2026-05-31"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-31"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -248,24 +276,9 @@
     "lastSeen": "2026-05-30"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-05-30"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-05-30"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -281,87 +294,11 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans - TechCrunch",
-        "score": 1,
-        "date": "2026-05-29"
-      }
-    ],
-    "firstSeen": "2026-05-28",
-    "lastSeen": "2026-05-29"
-  },
-  {
-    "toolSlug": "ramain",
-    "toolName": "RamAIn",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "RamAIn",
-        "url": "YC W26) Is Hiring (https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-        "score": 1,
-        "date": "2026-05-29"
-      }
-    ],
-    "firstSeen": "2026-05-28",
-    "lastSeen": "2026-05-29"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Amazon MGM Studios Embraces AI: Greenlights Three Series for Prime Video Under New ‘GenAI Creators’ Fund’ - Variety",
-        "score": 1,
-        "date": "2026-05-29"
-      }
-    ],
-    "firstSeen": "2026-05-28",
-    "lastSeen": "2026-05-29"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Grok Build 公開で見直す、Grok がなぜ筆者の手元に残り続けるのか - tech-noisy.com",
-        "score": 1,
-        "date": "2026-05-29"
-      }
-    ],
-    "firstSeen": "2026-05-29",
-    "lastSeen": "2026-05-29"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-05-29"
-      }
-    ],
-    "firstSeen": "2026-04-19",
-    "lastSeen": "2026-05-29"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)",
         "score": 1,
         "date": "2026-05-29"
       }
