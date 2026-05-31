@@ -8,30 +8,30 @@
         "source": "hackernews",
         "title": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "score": 1736,
-        "date": "2026-05-30"
+        "score": 1744,
+        "date": "2026-05-31"
       },
       {
         "source": "hackernews",
         "title": "Dynamic Workflows in Claude Code",
         "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-        "score": 175,
-        "date": "2026-05-30"
+        "score": 185,
+        "date": "2026-05-31"
       },
       {
         "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
+        "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - ひなた宮崎経済新聞",
         "score": 1,
-        "date": "2026-05-30"
+        "date": "2026-05-31"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-30"
+    "lastSeen": "2026-05-31"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -45,80 +45,105 @@
     "lastSeen": "2026-05-26"
   },
   {
+    "toolSlug": "openrouter",
+    "toolName": "OpenRouter",
+    "buzzScore": 3.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenRouter raises $113M Series B",
+        "url": "https://openrouter.ai/announcements/series-b",
+        "score": 372,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-05-27",
+    "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+        "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+        "score": 193,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-05-23",
+    "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 2.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+        "score": 150,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-05-30",
+    "lastSeen": "2026-05-31"
+  },
+  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 3.1,
+    "buzzScore": 1.9,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+        "url": "https://openenvelope.org/docs/schema/",
+        "score": 36,
+        "date": "2026-05-31"
+      },
+      {
+        "source": "hackernews",
+        "title": "Zerostack v1.3.4 released – Lightweight Unix-like coding agent",
+        "url": "https://github.com/gi-dellav/zerostack/releases/tag/v1.3.4",
+        "score": 3,
+        "date": "2026-05-31"
+      },
       {
         "source": "hackernews",
         "title": "CAPTCHAs can still detect AI agents",
         "url": "https://research.roundtable.ai/captchas-detect-ai/",
-        "score": 75,
-        "date": "2026-05-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Zot – Yet another coding agent harness",
-        "url": "https://www.zot.sh",
-        "score": 86,
-        "date": "2026-05-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "Robinhood now lets your AI agents trade stocks",
-        "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-        "score": 102,
-        "date": "2026-05-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: VT Code – open-source terminal coding agent in Rust",
-        "url": "https://github.com/vinhnx/VTCode",
-        "score": 12,
-        "date": "2026-05-30"
+        "score": 82,
+        "date": "2026-05-31"
       },
       {
         "source": "googlenews",
         "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
         "score": 1,
-        "date": "2026-05-30"
+        "date": "2026-05-31"
       },
       {
         "source": "techcrunch",
         "title": "Cognition&#8217;s Scott Wu says AI coding agents shouldn&#8217;t replace humans",
         "score": 1,
-        "date": "2026-05-30"
+        "date": "2026-05-31"
       },
       {
         "source": "techcrunch",
         "title": "Asana acquires no-code agent-builder StackAI",
         "score": 1,
-        "date": "2026-05-30"
+        "date": "2026-05-31"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-30"
-  },
-  {
-    "toolSlug": "openrouter",
-    "toolName": "OpenRouter",
-    "buzzScore": 2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-        "score": 134,
-        "date": "2026-05-30"
-      }
-    ],
-    "firstSeen": "2026-05-27",
-    "lastSeen": "2026-05-30"
+    "lastSeen": "2026-05-31"
   },
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -132,36 +157,20 @@
     "lastSeen": "2026-05-26"
   },
   {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
+    "toolSlug": "fragment",
+    "toolName": "Fragment",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-        "score": 16,
-        "date": "2026-05-30"
+        "title": "1M Ancient Greek fragments soon to be translated with the help of AI",
+        "url": "https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply",
+        "score": 12,
+        "date": "2026-05-31"
       }
     ],
-    "firstSeen": "2026-05-30",
-    "lastSeen": "2026-05-30"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ALPR Mission Creep: School Residency, Background Checks, and Noise Complaints",
-        "url": "https://www.eff.org/deeplinks/2026/05/more-license-plate-reader-mission-creep-school-residency-verification-background",
-        "score": 13,
-        "date": "2026-05-27"
-      }
-    ],
-    "firstSeen": "2026-05-23",
-    "lastSeen": "2026-05-27"
+    "firstSeen": "2026-05-31",
+    "lastSeen": "2026-05-31"
   },
   {
     "toolSlug": "era",
@@ -172,16 +181,61 @@
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-05-30"
+        "date": "2026-05-31"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-30"
+    "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "&#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs consternation among devs",
+        "score": 1,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-05-31",
+    "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
+        "score": 1,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-05-31"
   },
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -196,7 +250,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -211,7 +265,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -225,24 +279,9 @@
     "lastSeen": "2026-05-30"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-05-30"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-30"
-  },
-  {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -255,24 +294,9 @@
     "lastSeen": "2026-05-29"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-05-29"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-29"
-  },
-  {
     "toolSlug": "ramain",
     "toolName": "RamAIn",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -288,7 +312,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -303,7 +327,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -318,7 +342,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -333,7 +357,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -344,20 +368,5 @@
     ],
     "firstSeen": "2026-05-28",
     "lastSeen": "2026-05-29"
-  },
-  {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "HouseWhisper Launches New AI Tools to Help Real Estate Teams Revive Dormant Leads and Improve Conversion - RISMedia",
-        "score": 1,
-        "date": "2026-05-28"
-      }
-    ],
-    "firstSeen": "2026-05-28",
-    "lastSeen": "2026-05-28"
   }
 ]

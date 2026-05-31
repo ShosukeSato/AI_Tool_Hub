@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-05-31",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Opus 4.8",
+    "date": "2026-05-31",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-30",
     "type": "trending",
     "toolSlug": "claude",
@@ -456,15 +465,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 8.3）",
     "summary": "hackernewsで注目: Eka’s robotic claw feels like we're approaching a ChatGPT moment",
     "date": "2026-05-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-01",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "date": "2026-05-01",
     "source": "hackernews"
   }
 ]
