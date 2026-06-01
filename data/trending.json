@@ -6,32 +6,39 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "With Claude: Less Coding, More Testing",
+        "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
+        "score": 21,
+        "date": "2026-06-01"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "score": 1749,
-        "date": "2026-05-31"
+        "score": 1758,
+        "date": "2026-06-01"
       },
       {
         "source": "hackernews",
         "title": "Dynamic Workflows in Claude Code",
         "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-        "score": 189,
-        "date": "2026-05-31"
+        "score": 192,
+        "date": "2026-06-01"
       },
       {
         "source": "googlenews",
         "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
         "score": 1,
-        "date": "2026-05-31"
+        "date": "2026-06-01"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-05-31"
+    "lastSeen": "2026-06-01"
   },
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -45,9 +52,25 @@
     "lastSeen": "2026-05-31"
   },
   {
+    "toolSlug": "1-bit-bonsai",
+    "toolName": "1-Bit Bonsai",
+    "buzzScore": 3.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "score": 314,
+        "date": "2026-06-01"
+      }
+    ],
+    "firstSeen": "2026-06-01",
+    "lastSeen": "2026-06-01"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -63,7 +86,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -79,7 +102,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -93,64 +116,31 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.2,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
-        "url": "https://github.com/kurikomi-labs/komi-learn",
-        "score": 18,
-        "date": "2026-05-31"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-        "url": "https://openenvelope.org/docs/schema/",
-        "score": 43,
-        "date": "2026-05-31"
-      },
-      {
-        "source": "hackernews",
-        "title": "Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks",
-        "url": "https://arxiv.org/abs/2510.12635",
-        "score": 5,
-        "date": "2026-05-31"
-      },
-      {
-        "source": "hackernews",
-        "title": "CAPTCHAs can still detect AI agents",
-        "url": "https://research.roundtable.ai/captchas-detect-ai/",
-        "score": 83,
-        "date": "2026-05-31"
+        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "score": 107,
+        "date": "2026-06-01"
       },
       {
         "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "title": "【ChatGPT】自治体AI zevoにてGPT-5.5-chatを2026年5月12日より提供開始！ - PR TIMES",
         "score": 1,
-        "date": "2026-05-31"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Cognition&#8217;s Scott Wu says AI coding agents shouldn&#8217;t replace humans",
-        "score": 1,
-        "date": "2026-05-31"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Asana acquires no-code agent-builder StackAI",
-        "score": 1,
-        "date": "2026-05-31"
+        "date": "2026-06-01"
       }
     ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-05-31"
+    "firstSeen": "2026-05-27",
+    "lastSeen": "2026-06-01"
   },
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -164,9 +154,50 @@
     "lastSeen": "2026-05-26"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "The UI problem of AI coding agents",
+        "url": "https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents",
+        "score": 9,
+        "date": "2026-06-01"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Ouijit, an open-source task and terminal manager for coding agents",
+        "url": "https://ouijit.com/",
+        "score": 10,
+        "date": "2026-06-01"
+      },
+      {
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
+        "date": "2026-06-01"
+      },
+      {
+        "source": "googlenews",
+        "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
+        "score": 1,
+        "date": "2026-06-01"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Cognition&#8217;s Scott Wu says AI coding agents shouldn&#8217;t replace humans",
+        "score": 1,
+        "date": "2026-06-01"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-01"
+  },
+  {
     "toolSlug": "fragment",
     "toolName": "Fragment",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -188,32 +219,26 @@
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-05-31"
+        "date": "2026-06-01"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-05-31"
+    "lastSeen": "2026-06-01"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Introducing Gemini Omni - blog.google",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
         "score": 1,
-        "date": "2026-05-31"
-      },
-      {
-        "source": "techcrunch",
-        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
-        "score": 1,
-        "date": "2026-05-31"
+        "date": "2026-06-01"
       }
     ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-05-31"
+    "firstSeen": "2026-05-26",
+    "lastSeen": "2026-06-01"
   },
   {
     "toolSlug": "elevenlabs",
@@ -224,11 +249,38 @@
         "source": "googlenews",
         "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
         "score": 1,
-        "date": "2026-05-31"
+        "date": "2026-06-01"
       }
     ],
     "firstSeen": "2026-05-22",
-    "lastSeen": "2026-05-31"
+    "lastSeen": "2026-06-01"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-06-01"
+      },
+      {
+        "source": "googlenews",
+        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-01"
+      },
+      {
+        "source": "techcrunch",
+        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
+        "score": 1,
+        "date": "2026-06-01"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-06-01"
   },
   {
     "toolSlug": "where",
@@ -239,11 +291,11 @@
         "source": "googlenews",
         "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
         "score": 1,
-        "date": "2026-05-31"
+        "date": "2026-06-01"
       }
     ],
     "firstSeen": "2026-05-18",
-    "lastSeen": "2026-05-31"
+    "lastSeen": "2026-06-01"
   },
   {
     "toolSlug": "github-copilot",
@@ -254,56 +306,10 @@
         "source": "techcrunch",
         "title": "&#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs consternation among devs",
         "score": 1,
-        "date": "2026-05-31"
+        "date": "2026-06-01"
       }
     ],
     "firstSeen": "2026-05-31",
-    "lastSeen": "2026-05-31"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-05-30"
-      }
-    ],
-    "firstSeen": "2026-05-26",
-    "lastSeen": "2026-05-30"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Hackers are now using ChatGPT share links to deliver malware",
-        "url": "https://www.neowin.net/news/hackers-are-now-using-chatgpt-share-links-to-deliver-malware/",
-        "score": 18,
-        "date": "2026-05-30"
-      }
-    ],
-    "firstSeen": "2026-05-27",
-    "lastSeen": "2026-05-30"
-  },
-  {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans - TechCrunch",
-        "score": 1,
-        "date": "2026-05-29"
-      }
-    ],
-    "firstSeen": "2026-05-28",
-    "lastSeen": "2026-05-29"
+    "lastSeen": "2026-06-01"
   }
 ]

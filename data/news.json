@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-06-01",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: With Claude: Less Coding, More Testing",
+    "date": "2026-06-01",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-31",
     "type": "trending",
     "toolSlug": "claude",
@@ -438,33 +447,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 7.3）",
     "summary": "hackernewsで注目: When Dawkins met Claude – Could this AI be conscious?",
     "date": "2026-05-03",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-02",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "date": "2026-05-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-02",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: DAC – open-source dashboard as code tool for agents and humans",
-    "date": "2026-05-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-05-02",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 8.3）",
-    "summary": "hackernewsで注目: Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-    "date": "2026-05-02",
     "source": "hackernews"
   }
 ]
