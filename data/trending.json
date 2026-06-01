@@ -1,8 +1,24 @@
 [
   {
+    "toolSlug": "1-bit-bonsai",
+    "toolName": "1-Bit Bonsai",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "score": 442,
+        "date": "2026-06-01"
+      }
+    ],
+    "firstSeen": "2026-06-01",
+    "lastSeen": "2026-06-01"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 10,
+    "buzzScore": 9,
     "mentions": [
       {
         "source": "hackernews",
@@ -36,9 +52,25 @@
     "lastSeen": "2026-06-01"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 7.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "score": 310,
+        "date": "2026-06-01"
+      }
+    ],
+    "firstSeen": "2026-05-27",
+    "lastSeen": "2026-06-01"
+  },
+  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 3.9,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -52,25 +84,9 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "1-bit-bonsai",
-    "toolName": "1-Bit Bonsai",
-    "buzzScore": 3.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-        "url": "https://prismml.com/news/bonsai-image-4b",
-        "score": 314,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-06-01",
-    "lastSeen": "2026-06-01"
-  },
-  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -86,7 +102,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -100,87 +116,20 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 2.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-        "score": 177,
-        "date": "2026-05-31"
-      }
-    ],
-    "firstSeen": "2026-05-30",
-    "lastSeen": "2026-05-31"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-        "score": 107,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "【ChatGPT】自治体AI zevoにてGPT-5.5-chatを2026年5月12日より提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-05-27",
-    "lastSeen": "2026-06-01"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Microsoft Copilot Cowork Exfiltrates Files",
-        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-        "score": 250,
-        "date": "2026-05-26"
-      }
-    ],
-    "firstSeen": "2026-05-26",
-    "lastSeen": "2026-05-26"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The UI problem of AI coding agents",
-        "url": "https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents",
-        "score": 9,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Ouijit, an open-source task and terminal manager for coding agents",
-        "url": "https://ouijit.com/",
-        "score": 10,
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "score": 47,
         "date": "2026-06-01"
       },
       {
         "source": "googlenews",
         "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "16 Indispensable AI Tools for Real Estate Agents - HousingWire",
         "score": 1,
         "date": "2026-06-01"
       },
@@ -195,20 +144,51 @@
     "lastSeen": "2026-06-01"
   },
   {
-    "toolSlug": "fragment",
-    "toolName": "Fragment",
-    "buzzScore": 1.1,
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "1M Ancient Greek fragments soon to be translated with the help of AI",
-        "url": "https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply",
-        "score": 21,
+        "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
+        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+        "score": 177,
         "date": "2026-05-31"
       }
     ],
-    "firstSeen": "2026-05-31",
+    "firstSeen": "2026-05-30",
     "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Microsoft Copilot Cowork Exfiltrates Files",
+        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+        "score": 250,
+        "date": "2026-05-26"
+      }
+    ],
+    "firstSeen": "2026-05-26",
+    "lastSeen": "2026-05-26"
+  },
+  {
+    "toolSlug": "whisper",
+    "toolName": "Whisper",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "‘Whispering Bird’ Nok Krasip AI tool launched for small Thai shops - Nation Thailand",
+        "score": 1,
+        "date": "2026-06-01"
+      }
+    ],
+    "firstSeen": "2026-06-01",
+    "lastSeen": "2026-06-01"
   },
   {
     "toolSlug": "era",
@@ -226,18 +206,24 @@
     "lastSeen": "2026-06-01"
   },
   {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-06-01"
+      },
+      {
+        "source": "techcrunch",
+        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
         "score": 1,
         "date": "2026-06-01"
       }
     ],
-    "firstSeen": "2026-05-26",
+    "firstSeen": "2026-04-27",
     "lastSeen": "2026-06-01"
   },
   {
@@ -253,33 +239,6 @@
       }
     ],
     "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-01"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
-        "score": 1,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-04-27",
     "lastSeen": "2026-06-01"
   },
   {
@@ -310,6 +269,37 @@
       }
     ],
     "firstSeen": "2026-05-31",
+    "lastSeen": "2026-06-01"
+  },
+  {
+    "toolSlug": "fragment",
+    "toolName": "Fragment",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "1M Ancient Greek fragments soon to be translated with the help of AI",
+        "url": "https://www.oeaw.ac.at/en/news/austrian-academy-of-sciences-is-developing-the-ancient-greek-ai-apollo-with-mistral-ai-and-reply",
+        "score": 21,
+        "date": "2026-05-31"
+      }
+    ],
+    "firstSeen": "2026-05-31",
+    "lastSeen": "2026-05-31"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-06-01"
+      }
+    ],
+    "firstSeen": "2026-05-26",
     "lastSeen": "2026-06-01"
   }
 ]

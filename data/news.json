@@ -9,6 +9,24 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-1-bit-bonsai-2026-06-01",
+    "type": "trending",
+    "toolSlug": "1-bit-bonsai",
+    "title": "1-Bit Bonsai が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: 1-Bit Bonsai Image 4B Image Generation for Local Devices",
+    "date": "2026-06-01",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-chatgpt-2026-06-01",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 7.3）",
+    "summary": "hackernewsで注目: ChatGPT for Google Sheets exfiltrates workbooks",
+    "date": "2026-06-01",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-05-31",
     "type": "trending",
     "toolSlug": "claude",
