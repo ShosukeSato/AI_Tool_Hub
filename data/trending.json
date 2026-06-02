@@ -8,27 +8,14 @@
         "source": "hackernews",
         "title": "AI Agent Guidelines for CS336 at Stanford",
         "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-        "score": 347,
+        "score": 472,
         "date": "2026-06-02"
       },
       {
         "source": "hackernews",
         "title": "Build a Basic AI Agent from Scratch: Tools",
         "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
-        "score": 17,
-        "date": "2026-06-02"
-      },
-      {
-        "source": "hackernews",
-        "title": "Visa invests in Replit to power agentic payments for developers",
-        "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-        "score": 15,
-        "date": "2026-06-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
+        "score": 34,
         "date": "2026-06-02"
       },
       {
@@ -42,9 +29,25 @@
     "lastSeen": "2026-06-02"
   },
   {
+    "toolSlug": "flux",
+    "toolName": "FLUX",
+    "buzzScore": 8.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+        "url": "https://blog.adafruit.com/",
+        "score": 405,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-06-02",
+    "lastSeen": "2026-06-02"
+  },
+  {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 9,
+    "buzzScore": 8.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -58,61 +61,9 @@
     "lastSeen": "2026-06-01"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 8.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "With Claude: Less Coding, More Testing",
-        "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
-        "score": 21,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Opus 4.8",
-        "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "score": 1758,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Dynamic Workflows in Claude Code",
-        "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-        "score": 192,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-01"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 6.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-        "score": 310,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-05-27",
-    "lastSeen": "2026-06-01"
-  },
-  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -128,7 +79,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -144,7 +95,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -158,55 +109,28 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-        "score": 177,
-        "date": "2026-05-31"
-      }
-    ],
-    "firstSeen": "2026-05-30",
-    "lastSeen": "2026-05-31"
-  },
-  {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Angry devs vow to flee GitHub Copilot as metered billing takes hold",
-        "url": "https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826",
-        "score": 7,
-        "date": "2026-06-02"
-      },
-      {
-        "source": "hackernews",
-        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
-        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-        "score": 7,
-        "date": "2026-06-02"
-      },
-      {
-        "source": "techcrunch",
-        "title": "&#8216;What a joke&#8217;: GitHub Copilot&#8217;s new token-based billing spurs consternation among devs",
-        "score": 1,
-        "date": "2026-06-02"
-      }
-    ],
-    "firstSeen": "2026-05-31",
-    "lastSeen": "2026-06-02"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1.1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "score": 1,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+        "score": 1,
+        "date": "2026-06-02"
+      },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
@@ -215,7 +139,7 @@
       },
       {
         "source": "googlenews",
-        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
+        "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
         "score": 1,
         "date": "2026-06-02"
       },
@@ -230,20 +154,19 @@
     "lastSeen": "2026-06-02"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1.1,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Microsoft Copilot Cowork Exfiltrates Files",
-        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-        "score": 250,
-        "date": "2026-05-26"
+        "source": "googlenews",
+        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
+        "score": 1,
+        "date": "2026-06-02"
       }
     ],
-    "firstSeen": "2026-05-26",
-    "lastSeen": "2026-05-26"
+    "firstSeen": "2026-05-27",
+    "lastSeen": "2026-06-02"
   },
   {
     "toolSlug": "era",
@@ -261,43 +184,13 @@
     "lastSeen": "2026-06-02"
   },
   {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "‘Whispering Bird’ Nok Krasip AI tool launched for small Thai shops - Nation Thailand",
-        "score": 1,
-        "date": "2026-06-02"
-      }
-    ],
-    "firstSeen": "2026-06-01",
-    "lastSeen": "2026-06-02"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-06-02"
-      }
-    ],
-    "firstSeen": "2026-05-26",
-    "lastSeen": "2026-06-02"
-  },
-  {
     "toolSlug": "udio",
     "toolName": "Udio",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "AI授業支援サービス「AI STUDIO」、2026年度の導入校が全国42校・受講生7,000人を突破 - valuepress",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
         "score": 1,
         "date": "2026-06-02"
       }
@@ -336,9 +229,100 @@
     "lastSeen": "2026-06-02"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-06-02"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-05-30",
+    "lastSeen": "2026-06-02"
+  },
+  {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "&#8216;What a joke&#8217;: GitHub Copilot&#8217;s new token-based billing spurs consternation among devs",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-05-31",
+    "lastSeen": "2026-06-02"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Microsoft Copilot Cowork Exfiltrates Files",
+        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+        "score": 250,
+        "date": "2026-05-26"
+      }
+    ],
+    "firstSeen": "2026-05-26",
+    "lastSeen": "2026-05-26"
+  },
+  {
+    "toolSlug": "whisper",
+    "toolName": "Whisper",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "‘Whispering Bird’ Nok Krasip AI tool launched for small Thai shops - Nation Thailand",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-06-01",
+    "lastSeen": "2026-06-02"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-05-26",
+    "lastSeen": "2026-06-02"
+  },
+  {
     "toolSlug": "fragment",
     "toolName": "Fragment",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",

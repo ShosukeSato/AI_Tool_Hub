@@ -1,18 +1,18 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 8,
+    "overall": 7.2,
     "performance": 9,
-    "buzz": 6.6,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-06-02"
   },
   {
     "toolSlug": "claude",
-    "overall": 8,
+    "overall": 7,
     "performance": 9,
-    "buzz": 8.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-06-02"
@@ -30,7 +30,7 @@
     "toolSlug": "deepseek",
     "overall": 7.5,
     "performance": 8,
-    "buzz": 2.6,
+    "buzz": 2.3,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-06-02"
@@ -48,7 +48,7 @@
     "toolSlug": "microsoft-copilot",
     "overall": 6.4,
     "performance": 7,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-06-02"
@@ -91,9 +91,9 @@
   },
   {
     "toolSlug": "1-bit-bonsai",
-    "overall": 7.4,
+    "overall": 7.2,
     "performance": 7,
-    "buzz": 9,
+    "buzz": 8.1,
     "easeOfUse": 6,
     "costPerformance": 8,
     "lastCalculated": "2026-06-02"
@@ -199,9 +199,9 @@
   },
   {
     "toolSlug": "github-copilot",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 8,
-    "buzz": 1.4,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-06-02"
@@ -649,9 +649,9 @@
   },
   {
     "toolSlug": "flux",
-    "overall": 7.6,
+    "overall": 7.9,
     "performance": 8,
-    "buzz": 6,
+    "buzz": 8.2,
     "easeOfUse": 5,
     "costPerformance": 10,
     "lastCalculated": "2026-06-02"
@@ -1308,7 +1308,7 @@
     "toolSlug": "fragment",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-06-02"
@@ -1603,9 +1603,9 @@
   },
   {
     "toolSlug": "whisper",
-    "overall": 7.1,
+    "overall": 7,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 10,
     "lastCalculated": "2026-06-02"
@@ -1990,9 +1990,9 @@
   },
   {
     "toolSlug": "rocket",
-    "overall": 6.8,
+    "overall": 6.7,
     "performance": 8,
-    "buzz": 1.7,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-06-02"
@@ -2476,9 +2476,9 @@
   },
   {
     "toolSlug": "openrouter",
-    "overall": 7.6,
+    "overall": 7.5,
     "performance": 9,
-    "buzz": 3.2,
+    "buzz": 2.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-06-02"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7.1,
     "performance": 7,
-    "buzz": 2,
+    "buzz": 1.8,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-06-02"
@@ -2784,7 +2784,7 @@
     "toolSlug": "mythos",
     "overall": 6.1,
     "performance": 10,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 7,
     "costPerformance": 4,
     "lastCalculated": "2026-06-02"
