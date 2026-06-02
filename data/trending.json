@@ -1,8 +1,50 @@
 [
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AI Agent Guidelines for CS336 at Stanford",
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+        "score": 347,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "Build a Basic AI Agent from Scratch: Tools",
+        "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
+        "score": 17,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "Visa invests in Replit to power agentic payments for developers",
+        "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+        "score": 15,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
+        "score": 1,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-02"
+  },
+  {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 10,
+    "buzzScore": 9,
     "mentions": [
       {
         "source": "hackernews",
@@ -18,7 +60,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 9,
+    "buzzScore": 8.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -54,7 +96,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -70,7 +112,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -86,7 +128,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -102,7 +144,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -116,37 +158,9 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AI Agent Guidelines for CS336 at Stanford",
-        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-        "score": 47,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools to Help Customers and Associates Bring Projects from ‘How-to’ to ‘Done’ - The Home Depot",
-        "score": 1,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Cognition&#8217;s Scott Wu says AI coding agents shouldn&#8217;t replace humans",
-        "score": 1,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-01"
-  },
-  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -160,9 +174,65 @@
     "lastSeen": "2026-05-31"
   },
   {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Angry devs vow to flee GitHub Copilot as metered billing takes hold",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826",
+        "score": 7,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system",
+        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+        "score": 7,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "&#8216;What a joke&#8217;: GitHub Copilot&#8217;s new token-based billing spurs consternation among devs",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-05-31",
+    "lastSeen": "2026-06-02"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-06-02"
+  },
+  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -176,21 +246,6 @@
     "lastSeen": "2026-05-26"
   },
   {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "‘Whispering Bird’ Nok Krasip AI tool launched for small Thai shops - Nation Thailand",
-        "score": 1,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-06-01",
-    "lastSeen": "2026-06-01"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
     "buzzScore": 1,
@@ -199,32 +254,56 @@
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-06-01"
+        "date": "2026-06-02"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-01"
+    "lastSeen": "2026-06-02"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
+    "toolSlug": "whisper",
+    "toolName": "Whisper",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "title": "‘Whispering Bird’ Nok Krasip AI tool launched for small Thai shops - Nation Thailand",
         "score": 1,
-        "date": "2026-06-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actually pretty useful",
-        "score": 1,
-        "date": "2026-06-01"
+        "date": "2026-06-02"
       }
     ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-01"
+    "firstSeen": "2026-06-01",
+    "lastSeen": "2026-06-02"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-05-26",
+    "lastSeen": "2026-06-02"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AI授業支援サービス「AI STUDIO」、2026年度の導入校が全国42校・受講生7,000人を突破 - valuepress",
+        "score": 1,
+        "date": "2026-06-02"
+      }
+    ],
+    "firstSeen": "2026-06-02",
+    "lastSeen": "2026-06-02"
   },
   {
     "toolSlug": "elevenlabs",
@@ -235,11 +314,11 @@
         "source": "googlenews",
         "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
         "score": 1,
-        "date": "2026-06-01"
+        "date": "2026-06-02"
       }
     ],
     "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-01"
+    "lastSeen": "2026-06-02"
   },
   {
     "toolSlug": "where",
@@ -250,31 +329,16 @@
         "source": "googlenews",
         "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
         "score": 1,
-        "date": "2026-06-01"
+        "date": "2026-06-02"
       }
     ],
     "firstSeen": "2026-05-18",
-    "lastSeen": "2026-06-01"
-  },
-  {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "&#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs consternation among devs",
-        "score": 1,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-05-31",
-    "lastSeen": "2026-06-01"
+    "lastSeen": "2026-06-02"
   },
   {
     "toolSlug": "fragment",
     "toolName": "Fragment",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -286,20 +350,5 @@
     ],
     "firstSeen": "2026-05-31",
     "lastSeen": "2026-05-31"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ - The New York Times",
-        "score": 1,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-05-26",
-    "lastSeen": "2026-06-01"
   }
 ]

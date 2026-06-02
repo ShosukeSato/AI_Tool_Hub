@@ -1,5 +1,32 @@
 [
   {
+    "id": "trending-agent-2026-06-02",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: AI Agent Guidelines for CS336 at Stanford",
+    "date": "2026-06-02",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-1-bit-bonsai-2026-06-02",
+    "type": "trending",
+    "toolSlug": "1-bit-bonsai",
+    "title": "1-Bit Bonsai が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: 1-Bit Bonsai Image 4B Image Generation for Local Devices",
+    "date": "2026-06-02",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-06-02",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: With Claude: Less Coding, More Testing",
+    "date": "2026-06-02",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-01",
     "type": "trending",
     "toolSlug": "claude",
@@ -447,24 +474,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 7.7）",
     "summary": "hackernewsで注目: DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
     "date": "2026-05-04",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-03",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: The agent harness belongs outside the sandbox",
-    "date": "2026-05-03",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-03",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 7.3）",
-    "summary": "hackernewsで注目: When Dawkins met Claude – Could this AI be conscious?",
-    "date": "2026-05-03",
     "source": "hackernews"
   }
 ]
