@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
         "url": "https://blog.adafruit.com/",
-        "score": 637,
+        "score": 665,
         "date": "2026-06-03"
       }
     ],
@@ -18,7 +18,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -32,58 +32,25 @@
     "lastSeen": "2026-06-01"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 3.2,
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Agentic Mfw",
-        "url": "https://agenticmotherfucking.website",
-        "score": 26,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
-        "url": "https://github.com/getpaseo/paseo",
-        "score": 37,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "Now AI agents need what RSS does",
-        "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
-        "score": 65,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Build Your Own AI Agent CLI in 150 Lines",
-        "url": "https://go-micro.dev/blog/11",
-        "score": 22,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Microsoft offers devs a better way to control AI agent behavior",
-        "score": 1,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-        "score": 1,
+        "title": "GitHub Copilot App",
+        "url": "https://github.com/features/preview/github-app",
+        "score": 115,
         "date": "2026-06-03"
       }
     ],
-    "firstSeen": "2026-04-16",
+    "firstSeen": "2026-05-31",
     "lastSeen": "2026-06-03"
   },
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -97,25 +64,9 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
-    "buzzScore": 2.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GitHub Copilot App",
-        "url": "https://github.com/features/preview/github-app",
-        "score": 102,
-        "date": "2026-06-03"
-      }
-    ],
-    "firstSeen": "2026-05-31",
-    "lastSeen": "2026-06-03"
-  },
-  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -131,7 +82,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -145,82 +96,52 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: 100cc - Roll your own Claude in 100 lines",
-        "url": "https://github.com/yujqiao/100cc",
-        "score": 8,
+        "title": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
+        "url": "https://github.com/yaodub/cast",
+        "score": 12,
         "date": "2026-06-03"
       },
       {
-        "source": "googlenews",
-        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
+        "source": "techcrunch",
+        "title": "Meta&#8217;s AI agent for WhatsApp Business is now available globally",
         "score": 1,
         "date": "2026-06-03"
       },
       {
         "source": "techcrunch",
-        "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+        "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+        "score": 1,
+        "date": "2026-06-03"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Microsoft offers devs a better way to control AI agent behavior",
         "score": 1,
         "date": "2026-06-03"
       }
     ],
-    "firstSeen": "2026-04-02",
+    "firstSeen": "2026-04-16",
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Introducing Gemini Omni - blog.google",
-        "score": 1,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
-        "score": 1,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
-        "score": 1,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-06-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google、AIノートPC「Googlebook」発表、2026年秋に発売予定 Gemini前提でマウスポインターやデスクトップを再設計 - Ledge.ai",
+        "title": "A new era for AI Search - blog.google",
         "score": 1,
         "date": "2026-06-03"
       }
     ],
-    "firstSeen": "2026-04-27",
+    "firstSeen": "2026-05-08",
     "lastSeen": "2026-06-03"
   },
   {
@@ -245,18 +166,30 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
+        "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-06-03"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "score": 1,
+        "date": "2026-06-03"
+      },
+      {
+        "source": "googlenews",
+        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
         "score": 1,
         "date": "2026-06-03"
       }
     ],
-    "firstSeen": "2026-05-08",
+    "firstSeen": "2026-04-27",
     "lastSeen": "2026-06-03"
   },
   {
@@ -290,48 +223,39 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "title": "Aoba-BBT、実践型AI研修「ノンエンジニアのためのClaude Code業務活用 1DaySprint」を開講 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-03"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
         "score": 1,
         "date": "2026-06-03"
       }
     ],
-    "firstSeen": "2026-06-03",
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "where",
+    "toolName": "WHERE",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
         "score": 1,
         "date": "2026-06-03"
       }
     ],
-    "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-03"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-03"
-      }
-    ],
-    "firstSeen": "2026-06-03",
+    "firstSeen": "2026-05-18",
     "lastSeen": "2026-06-03"
   },
   {
@@ -365,9 +289,54 @@
     "lastSeen": "2026-06-03"
   },
   {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-03"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-03"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-03"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-03"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-06-03"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-03"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -380,24 +349,9 @@
     "lastSeen": "2026-06-02"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-06-02"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-06-02"
-  },
-  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -413,7 +367,7 @@
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -428,7 +382,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -443,7 +397,7 @@
   {
     "toolSlug": "fragment",
     "toolName": "Fragment",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
