@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-flux-2026-06-04",
+    "type": "trending",
+    "toolSlug": "flux",
+    "title": "FLUX が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+    "date": "2026-06-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-flux-2026-06-03",
     "type": "trending",
     "toolSlug": "flux",
@@ -474,15 +483,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Telus Uses AI to Alter Call-Agent Accents",
     "date": "2026-05-06",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-05",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: SprintiQ – open-source sprint planning for Claude Code",
-    "date": "2026-05-05",
     "source": "hackernews"
   }
 ]
