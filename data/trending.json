@@ -6,38 +6,45 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The ways we contain Claude across products",
-        "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "score": 172,
-        "date": "2026-06-04"
+        "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+        "url": "https://boxes.dev",
+        "score": 85,
+        "date": "2026-06-05"
       },
       {
         "source": "hackernews",
-        "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
+        "title": "Claude Code and Codex can have real-time conversation via Git",
         "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
-        "score": 79,
-        "date": "2026-06-04"
+        "score": 105,
+        "date": "2026-06-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "The ways we contain Claude across products",
+        "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+        "score": 222,
+        "date": "2026-06-05"
       },
       {
         "source": "googlenews",
         "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       },
       {
         "source": "googlenews",
         "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-04"
+    "lastSeen": "2026-06-05"
   },
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 8.1,
+    "buzzScore": 7.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -53,7 +60,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 5.3,
+    "buzzScore": 4.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -69,7 +76,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,9 +90,25 @@
     "lastSeen": "2026-06-03"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "I Must Attempt to Explain the Lego Scandal Rocking YouTube State of Utah",
+        "url": "https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/",
+        "score": 36,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-05-23",
+    "lastSeen": "2026-06-05"
+  },
+  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -105,49 +128,49 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Nemotron 3 Ultra: Open Moe Hybrid Mamba-Transformer for Agentic Reasoning [pdf]",
-        "url": "https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf",
-        "score": 8,
-        "date": "2026-06-04"
+        "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+        "url": "https://arxiv.org/abs/2604.24881",
+        "score": 17,
+        "date": "2026-06-05"
       },
       {
         "source": "googlenews",
         "title": "Meta enters enterprise AI race with new business agent - Reuters",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       },
       {
         "source": "googlenews",
         "title": "Workday launches Agent Passport to test and monitor AI agents in the enterprise - cio.com",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
+      },
+      {
+        "source": "googlenews",
+        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-06-05"
       },
       {
         "source": "techcrunch",
         "title": "Meta&#8217;s AI agent for WhatsApp Business is now available globally",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       },
       {
         "source": "techcrunch",
         "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
         "score": 1,
-        "date": "2026-06-04"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Microsoft offers devs a better way to control AI agent behavior",
-        "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-04"
+    "lastSeen": "2026-06-05"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -163,104 +186,175 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Introducing Gemini Omni - blog.google",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
         "score": 1,
-        "date": "2026-06-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
-        "score": 1,
-        "date": "2026-06-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       },
       {
         "source": "googlenews",
         "title": "Google、AIノートPC「Googlebook」発表、2026年秋に発売予定 Gemini前提でマウスポインターやデスクトップを再設計 - Ledge.ai",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-04"
+    "lastSeen": "2026-06-05"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.2,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-        "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-        "score": 229,
-        "date": "2026-05-31"
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-06-05"
       }
     ],
-    "firstSeen": "2026-05-23",
-    "lastSeen": "2026-05-31"
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "davinci-resolve-21",
+    "toolName": "DaVinci Resolve 21",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "DaVinci Resolve 21 Officially Released With New Photo Editing, AI Tools, and Much More - PetaPixel",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-06-04",
+    "lastSeen": "2026-06-05"
   },
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
         "score": 1,
-        "date": "2026-06-04"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-        "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       }
     ],
     "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-04"
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-06-02",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "poke",
+    "toolName": "Poke",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-06-05",
+    "lastSeen": "2026-06-05"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
         "score": 1,
-        "date": "2026-06-04"
+        "date": "2026-06-05"
       }
     ],
     "firstSeen": "2026-06-04",
-    "lastSeen": "2026-06-04"
+    "lastSeen": "2026-06-05"
   },
   {
     "toolSlug": "descript",
     "toolName": "Descript",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -273,99 +367,9 @@
     "lastSeen": "2026-06-04"
   },
   {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "DaVinci Resolve 21 Officially Released With New Photo Editing, AI Tools, and Much More - PetaPixel",
-        "score": 1,
-        "date": "2026-06-04"
-      }
-    ],
-    "firstSeen": "2026-06-04",
-    "lastSeen": "2026-06-04"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-06-04"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-04"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-06-04"
-      }
-    ],
-    "firstSeen": "2026-06-02",
-    "lastSeen": "2026-06-04"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-04"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-04"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-06-04"
-      }
-    ],
-    "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-04"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-04"
-      }
-    ],
-    "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-04"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -380,7 +384,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -395,7 +399,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -406,36 +410,5 @@
     ],
     "firstSeen": "2026-05-30",
     "lastSeen": "2026-06-03"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
-        "score": 1,
-        "date": "2026-06-02"
-      }
-    ],
-    "firstSeen": "2026-05-27",
-    "lastSeen": "2026-06-02"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Microsoft Copilot Cowork Exfiltrates Files",
-        "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-        "score": 250,
-        "date": "2026-05-26"
-      }
-    ],
-    "firstSeen": "2026-05-26",
-    "lastSeen": "2026-05-26"
   }
 ]
