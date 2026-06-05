@@ -6,35 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-        "url": "https://boxes.dev",
-        "score": 85,
+        "title": "Programmers will document for Claude, but not for each other",
+        "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+        "score": 72,
         "date": "2026-06-05"
       },
       {
         "source": "hackernews",
         "title": "Claude Code and Codex can have real-time conversation via Git",
         "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
-        "score": 105,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "hackernews",
-        "title": "The ways we contain Claude across products",
-        "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "score": 222,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "googlenews",
-        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "googlenews",
-        "title": "【バイテック生成AIオンラインスクール】\"思考するAI\"を実務の伴走者へ昇華させる「Claudeマスター講座」を新リリース - PR TIMES",
-        "score": 1,
+        "score": 112,
         "date": "2026-06-05"
       }
     ],
@@ -44,7 +25,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -58,9 +39,67 @@
     "lastSeen": "2026-06-03"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 5.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Magenta RealTime 2: Open and Local Live Music Models",
+        "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+        "score": 55,
+        "date": "2026-06-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+        "url": "https://arxiv.org/abs/2604.24881",
+        "score": 29,
+        "date": "2026-06-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
+        "url": "https://giovannigatti.github.io/cve-bench/",
+        "score": 3,
+        "date": "2026-06-05"
+      },
+      {
+        "source": "googlenews",
+        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-06-05"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta&#8217;s AI agent for WhatsApp Business is now available globally",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 4.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Go Experiments Explained",
+        "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+        "score": 67,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-05-23",
+    "lastSeen": "2026-06-05"
+  },
+  {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 4.8,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -76,7 +115,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -90,25 +129,9 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "I Must Attempt to Explain the Lego Scandal Rocking YouTube State of Utah",
-        "url": "https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/",
-        "score": 36,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-05-23",
-    "lastSeen": "2026-06-05"
-  },
-  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,55 +145,9 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-        "url": "https://arxiv.org/abs/2604.24881",
-        "score": 17,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "googlenews",
-        "title": "Workday launches Agent Passport to test and monitor AI agents in the enterprise - cio.com",
-        "score": 1,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "googlenews",
-        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Meta&#8217;s AI agent for WhatsApp Business is now available globally",
-        "score": 1,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-05"
-  },
-  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -186,14 +163,8 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1.2,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemini Omni - blog.google",
-        "score": 1,
-        "date": "2026-06-05"
-      },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
@@ -202,13 +173,19 @@
       },
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "title": "Introducing Gemini Omni - blog.google",
         "score": 1,
         "date": "2026-06-05"
       },
       {
         "source": "googlenews",
-        "title": "Google、AIノートPC「Googlebook」発表、2026年秋に発売予定 Gemini前提でマウスポインターやデスクトップを再設計 - Ledge.ai",
+        "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
+        "score": 1,
+        "date": "2026-06-05"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-06-05"
       }
@@ -217,18 +194,48 @@
     "lastSeen": "2026-06-05"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
+    "toolSlug": "poke",
+    "toolName": "Poke",
+    "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
+        "source": "techcrunch",
+        "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
         "score": 1,
         "date": "2026-06-05"
       }
     ],
-    "firstSeen": "2026-05-08",
+    "firstSeen": "2026-06-05",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "lovable",
+    "toolName": "Lovable",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-06-04",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-06-05",
     "lastSeen": "2026-06-05"
   },
   {
@@ -262,6 +269,21 @@
     "lastSeen": "2026-06-05"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-05"
+  },
+  {
     "toolSlug": "udio",
     "toolName": "Udio",
     "buzzScore": 1,
@@ -274,6 +296,21 @@
       }
     ],
     "firstSeen": "2026-06-02",
+    "lastSeen": "2026-06-05"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ChatGPTのメモリ新基盤「Dreaming」公開、無料層へ順次拡大 - tech-noisy.com",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-06-05",
     "lastSeen": "2026-06-05"
   },
   {
@@ -292,9 +329,24 @@
     "lastSeen": "2026-06-05"
   },
   {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-06-05"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-06-05"
+  },
+  {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -309,7 +361,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -322,39 +374,9 @@
     "lastSeen": "2026-06-05"
   },
   {
-    "toolSlug": "poke",
-    "toolName": "Poke",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-06-05",
-    "lastSeen": "2026-06-05"
-  },
-  {
-    "toolSlug": "lovable",
-    "toolName": "Lovable",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-06-04",
-    "lastSeen": "2026-06-05"
-  },
-  {
     "toolSlug": "descript",
     "toolName": "Descript",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -369,7 +391,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -382,24 +404,9 @@
     "lastSeen": "2026-06-04"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-06-03"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-06-03"
-  },
-  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
