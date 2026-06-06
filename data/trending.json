@@ -8,14 +8,7 @@
         "source": "hackernews",
         "title": "Did Claude increase bugs in rsync?",
         "url": "https://alexispurslane.github.io/rsync-analysis/",
-        "score": 325,
-        "date": "2026-06-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Programmers will document for Claude, but not for each other",
-        "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-        "score": 177,
+        "score": 452,
         "date": "2026-06-06"
       }
     ],
@@ -25,7 +18,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 5.9,
+    "buzzScore": 5.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -41,31 +34,24 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 4.7,
+    "buzzScore": 5.1,
     "mentions": [
       {
         "source": "hackernews",
         "title": "My Agent Skill for Test-Driven Development",
         "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-        "score": 139,
-        "date": "2026-06-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Magenta RealTime 2: Open and Local Live Music Models",
-        "url": "https://magenta.withgoogle.com/magenta-realtime-2",
-        "score": 63,
+        "score": 203,
         "date": "2026-06-06"
       },
       {
         "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "title": "How to use Google’s new AI agents to go beyond your standard searches - TechCrunch",
         "score": 1,
         "date": "2026-06-06"
       },
       {
         "source": "googlenews",
-        "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA - NVIDIA Developer",
+        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
         "score": 1,
         "date": "2026-06-06"
       }
@@ -76,7 +62,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 3.9,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -92,13 +78,13 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.5,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Go Experiments Explained",
         "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-        "score": 81,
+        "score": 82,
         "date": "2026-06-06"
       }
     ],
@@ -108,7 +94,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -124,7 +110,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -138,35 +124,25 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-        "score": 718,
-        "date": "2026-05-26"
-      }
-    ],
-    "firstSeen": "2026-05-17",
-    "lastSeen": "2026-05-26"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More - MacRumors",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
         "score": 1,
         "date": "2026-06-06"
       },
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-06-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
         "score": 1,
         "date": "2026-06-06"
       },
@@ -187,6 +163,53 @@
     "lastSeen": "2026-06-06"
   },
   {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "score": 718,
+        "date": "2026-05-26"
+      }
+    ],
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-05-26"
+  },
+  {
+    "toolSlug": "mbodi-ai",
+    "toolName": "Mbodi AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Mbodi AI",
+        "url": "YC P25) Is Hiring Founding Machine Learning Engineer (Robotics) (https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+        "score": 1,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-06-06",
+    "lastSeen": "2026-06-06"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
+        "score": 1,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-06"
+  },
+  {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
     "buzzScore": 1,
@@ -202,18 +225,48 @@
     "lastSeen": "2026-06-06"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "ChatGPTのメモリ新基盤「Dreaming」公開、無料層へ順次拡大 - tech-noisy.com",
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
         "score": 1,
         "date": "2026-06-06"
       }
     ],
     "firstSeen": "2026-06-05",
+    "lastSeen": "2026-06-06"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-06"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-06-02",
     "lastSeen": "2026-06-06"
   },
   {
@@ -277,69 +330,24 @@
     "lastSeen": "2026-06-06"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
     "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
+        "title": "ChatGPTのメモリ新基盤「Dreaming」公開、無料層へ順次拡大 - tech-noisy.com",
         "score": 1,
-        "date": "2026-06-05"
+        "date": "2026-06-06"
       }
     ],
     "firstSeen": "2026-06-05",
-    "lastSeen": "2026-06-05"
-  },
-  {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-05"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-05"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-06-02",
-    "lastSeen": "2026-06-05"
+    "lastSeen": "2026-06-06"
   },
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -354,7 +362,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -369,7 +377,7 @@
   {
     "toolSlug": "descript",
     "toolName": "Descript",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -384,7 +392,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
