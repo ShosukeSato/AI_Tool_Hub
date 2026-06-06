@@ -6,26 +6,26 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Programmers will document for Claude, but not for each other",
-        "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-        "score": 72,
-        "date": "2026-06-05"
+        "title": "Did Claude increase bugs in rsync?",
+        "url": "https://alexispurslane.github.io/rsync-analysis/",
+        "score": 325,
+        "date": "2026-06-06"
       },
       {
         "source": "hackernews",
-        "title": "Claude Code and Codex can have real-time conversation via Git",
-        "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
-        "score": 112,
-        "date": "2026-06-05"
+        "title": "Programmers will document for Claude, but not for each other",
+        "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+        "score": 177,
+        "date": "2026-06-06"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-05"
+    "lastSeen": "2026-06-06"
   },
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 6.6,
+    "buzzScore": 5.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -41,65 +41,42 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.4,
+    "buzzScore": 4.7,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "My Agent Skill for Test-Driven Development",
+        "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+        "score": 139,
+        "date": "2026-06-06"
+      },
       {
         "source": "hackernews",
         "title": "Magenta RealTime 2: Open and Local Live Music Models",
         "url": "https://magenta.withgoogle.com/magenta-realtime-2",
-        "score": 55,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "hackernews",
-        "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-        "url": "https://arxiv.org/abs/2604.24881",
-        "score": 29,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
-        "url": "https://giovannigatti.github.io/cve-bench/",
-        "score": 3,
-        "date": "2026-06-05"
+        "score": 63,
+        "date": "2026-06-06"
       },
       {
         "source": "googlenews",
-        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
         "score": 1,
-        "date": "2026-06-05"
+        "date": "2026-06-06"
       },
       {
-        "source": "techcrunch",
-        "title": "Meta&#8217;s AI agent for WhatsApp Business is now available globally",
+        "source": "googlenews",
+        "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA - NVIDIA Developer",
         "score": 1,
-        "date": "2026-06-05"
+        "date": "2026-06-06"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-05"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 4.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Go Experiments Explained",
-        "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-        "score": 67,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-05-23",
-    "lastSeen": "2026-06-05"
+    "lastSeen": "2026-06-06"
   },
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -113,9 +90,25 @@
     "lastSeen": "2026-06-01"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Go Experiments Explained",
+        "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+        "score": 81,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-05-23",
+    "lastSeen": "2026-06-06"
+  },
+  {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -131,7 +124,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -147,7 +140,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -163,70 +156,130 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "What to Expect From WWDC 2026: Gemini-Powered Siri, iOS 27, macOS 27 and More - MacRumors",
+        "score": 1,
+        "date": "2026-06-06"
+      },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
         "score": 1,
-        "date": "2026-06-05"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemini Omni - blog.google",
-        "score": 1,
-        "date": "2026-06-05"
+        "date": "2026-06-06"
       },
       {
         "source": "googlenews",
         "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
         "score": 1,
-        "date": "2026-06-05"
+        "date": "2026-06-06"
       },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-06-05"
+        "date": "2026-06-06"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-05"
+    "lastSeen": "2026-06-06"
+  },
+  {
+    "toolSlug": "davinci-resolve-21",
+    "toolName": "DaVinci Resolve 21",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "DaVinci Resolve 21 Officially Released With New Photo Editing, AI Tools, and Much More - PetaPixel",
+        "score": 1,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-06-04",
+    "lastSeen": "2026-06-06"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ChatGPTのメモリ新基盤「Dreaming」公開、無料層へ順次拡大 - tech-noisy.com",
+        "score": 1,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-06-05",
+    "lastSeen": "2026-06-06"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-06"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-06-06"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-06-06"
   },
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
         "score": 1,
-        "date": "2026-06-05"
+        "date": "2026-06-06"
       }
     ],
     "firstSeen": "2026-06-05",
-    "lastSeen": "2026-06-05"
+    "lastSeen": "2026-06-06"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
         "score": 1,
-        "date": "2026-06-05"
+        "date": "2026-06-06"
       }
     ],
     "firstSeen": "2026-06-04",
-    "lastSeen": "2026-06-05"
+    "lastSeen": "2026-06-06"
   },
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -239,24 +292,9 @@
     "lastSeen": "2026-06-05"
   },
   {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "DaVinci Resolve 21 Officially Released With New Photo Editing, AI Tools, and Much More - PetaPixel",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-06-04",
-    "lastSeen": "2026-06-05"
-  },
-  {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -271,7 +309,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -286,7 +324,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -299,54 +337,9 @@
     "lastSeen": "2026-06-05"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ChatGPTのメモリ新基盤「Dreaming」公開、無料層へ順次拡大 - tech-noisy.com",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-06-05",
-    "lastSeen": "2026-06-05"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-05"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-06-05"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-06-05"
-  },
-  {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -361,7 +354,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -376,7 +369,7 @@
   {
     "toolSlug": "descript",
     "toolName": "Descript",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -391,7 +384,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -402,20 +395,5 @@
     ],
     "firstSeen": "2026-06-03",
     "lastSeen": "2026-06-04"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-        "score": 1,
-        "date": "2026-06-03"
-      }
-    ],
-    "firstSeen": "2026-05-30",
-    "lastSeen": "2026-06-03"
   }
 ]
