@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-06-07",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Harness engineering: Leveraging Codex in an agent-first world",
+    "date": "2026-06-07",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-06",
     "type": "trending",
     "toolSlug": "claude",
@@ -492,15 +501,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Using Claude Code: The unreasonable effectiveness of HTML",
     "date": "2026-05-09",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-08",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Agents need control flow, not more prompts",
-    "date": "2026-05-08",
     "source": "hackernews"
   }
 ]
