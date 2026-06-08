@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-06-08",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Anthropic, please ship an official Claude Desktop for Linux",
+    "date": "2026-06-08",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-06-08",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 7.4）",
+    "summary": "hackernewsで注目: Harness engineering: Leveraging Codex in an agent-first world",
+    "date": "2026-06-08",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-06-07",
     "type": "trending",
     "toolSlug": "agent",
@@ -483,24 +501,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 7.9）",
     "summary": "hackernewsで注目: A recent experience with ChatGPT 5.5 Pro",
     "date": "2026-05-10",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-09",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: Git for AI Agents",
-    "date": "2026-05-09",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-09",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Using Claude Code: The unreasonable effectiveness of HTML",
-    "date": "2026-05-09",
     "source": "hackernews"
   }
 ]
