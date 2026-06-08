@@ -6,16 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Anthropic, please ship an official Claude Desktop for Linux",
-        "url": "https://github.com/anthropics/claude-code/issues/65697",
-        "score": 470,
+        "title": "I design with Claude more than Figma now",
+        "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+        "score": 301,
         "date": "2026-06-08"
       },
       {
         "source": "hackernews",
-        "title": "I design with Claude more than Figma now",
-        "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-        "score": 276,
+        "title": "Anthropic, please ship an official Claude Desktop for Linux",
+        "url": "https://github.com/anthropics/claude-code/issues/65697",
+        "score": 509,
         "date": "2026-06-08"
       }
     ],
@@ -23,22 +23,37 @@
     "lastSeen": "2026-06-08"
   },
   {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 5.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+        "score": 369,
+        "date": "2026-06-08"
+      }
+    ],
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-06-08"
+  },
+  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 7.4,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Harness engineering: Leveraging Codex in an agent-first world",
         "url": "https://openai.com/index/harness-engineering/",
-        "score": 286,
+        "score": 294,
         "date": "2026-06-08"
       },
       {
-        "source": "hackernews",
-        "title": "My Agent Skill for Test-Driven Development",
-        "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-        "score": 246,
+        "source": "googlenews",
+        "title": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI - NVIDIA Newsroom",
+        "score": 1,
         "date": "2026-06-08"
       },
       {
@@ -54,7 +69,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 3.9,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -70,19 +85,13 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 3,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
         "url": "https://arxiv.org/abs/2601.14470",
-        "score": 167,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
-        "score": 1,
+        "score": 172,
         "date": "2026-06-08"
       }
     ],
@@ -90,25 +99,9 @@
     "lastSeen": "2026-06-08"
   },
   {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 2.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-        "score": 131,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-05-17",
-    "lastSeen": "2026-06-08"
-  },
-  {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -124,7 +117,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -135,37 +128,6 @@
       }
     ],
     "firstSeen": "2026-05-23",
-    "lastSeen": "2026-06-08"
-  },
-  {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GitHub Copilot App",
-        "url": "https://github.com/features/preview/github-app",
-        "score": 115,
-        "date": "2026-06-03"
-      }
-    ],
-    "firstSeen": "2026-05-31",
-    "lastSeen": "2026-06-03"
-  },
-  {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
-        "score": 1,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-06-05",
     "lastSeen": "2026-06-08"
   },
   {
@@ -193,7 +155,7 @@
       },
       {
         "source": "googlenews",
-        "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-06-08"
       },
@@ -205,6 +167,21 @@
       }
     ],
     "firstSeen": "2026-04-27",
+    "lastSeen": "2026-06-08"
+  },
+  {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
+        "score": 1,
+        "date": "2026-06-08"
+      }
+    ],
+    "firstSeen": "2026-06-05",
     "lastSeen": "2026-06-08"
   },
   {
@@ -238,9 +215,67 @@
     "lastSeen": "2026-06-08"
   },
   {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - au Webポータル",
+        "score": 1,
+        "date": "2026-06-08"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-08"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "アドビ、Adobe FireflyにクリエイティブAIエージェントを導入、新たな生成AI機能とともに創造性の新時代を切り拓く - Adobe Newsroom",
+        "score": 1,
+        "date": "2026-06-08"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-08"
+  },
+  {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GitHub Copilot App",
+        "url": "https://github.com/features/preview/github-app",
+        "score": 115,
+        "date": "2026-06-03"
+      }
+    ],
+    "firstSeen": "2026-05-31",
+    "lastSeen": "2026-06-03"
+  },
+  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -253,24 +288,9 @@
     "lastSeen": "2026-06-08"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-08"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -285,7 +305,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -299,30 +319,9 @@
     "lastSeen": "2026-05-31"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-06-07"
-      },
-      {
-        "source": "googlenews",
-        "title": "アドビ、Adobe FireflyにクリエイティブAIエージェントを導入、新たな生成AI機能とともに創造性の新時代を切り拓く - Adobe Newsroom",
-        "score": 1,
-        "date": "2026-06-07"
-      }
-    ],
-    "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-07"
-  },
-  {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -337,7 +336,7 @@
   {
     "toolSlug": "mbodi-ai",
     "toolName": "Mbodi AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -353,7 +352,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -368,7 +367,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -383,7 +382,7 @@
   {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -398,7 +397,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
