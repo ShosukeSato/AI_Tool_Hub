@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-gemini-2026-06-09",
+    "type": "trending",
+    "toolSlug": "gemini",
+    "title": "Gemini が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Apple reveals new AI architecture built around Google Gemini models",
+    "date": "2026-06-09",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-06-09",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.4）",
+    "summary": "hackernewsで注目: I design with Claude more than Figma now",
+    "date": "2026-06-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-08",
     "type": "trending",
     "toolSlug": "claude",
@@ -483,24 +501,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 8.9）",
     "summary": "hackernewsで注目: How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
     "date": "2026-05-11",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-10",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Using Claude Code: The unreasonable effectiveness of HTML",
-    "date": "2026-05-10",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-05-10",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 7.9）",
-    "summary": "hackernewsで注目: A recent experience with ChatGPT 5.5 Pro",
-    "date": "2026-05-10",
     "source": "hackernews"
   }
 ]

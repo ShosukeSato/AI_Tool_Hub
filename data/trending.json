@@ -1,31 +1,64 @@
 [
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Apple reveals new AI architecture built around Google Gemini models",
+        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+        "score": 375,
+        "date": "2026-06-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "score": 1,
+        "date": "2026-06-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-06-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-06-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-06-09"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 10,
+    "buzzScore": 8.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "I design with Claude more than Figma now",
         "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-        "score": 301,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Anthropic, please ship an official Claude Desktop for Linux",
-        "url": "https://github.com/anthropics/claude-code/issues/65697",
-        "score": 509,
-        "date": "2026-06-08"
+        "score": 309,
+        "date": "2026-06-09"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-08"
+    "lastSeen": "2026-06-09"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 5.1,
+    "buzzScore": 4.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -39,37 +72,9 @@
     "lastSeen": "2026-06-08"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 4.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Harness engineering: Leveraging Codex in an agent-first world",
-        "url": "https://openai.com/index/harness-engineering/",
-        "score": 294,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI - NVIDIA Newsroom",
-        "score": 1,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "Building the agentic future: Developer highlights from I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-08"
-  },
-  {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,25 +88,25 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 2.9,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-        "url": "https://arxiv.org/abs/2601.14470",
-        "score": 172,
-        "date": "2026-06-08"
+        "title": "Hermes Agent – Open-source AI agent with persistent memory",
+        "url": "https://hermes-agent.org/",
+        "score": 46,
+        "date": "2026-06-09"
       }
     ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-06-08"
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-09"
   },
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -117,7 +122,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -131,48 +136,90 @@
     "lastSeen": "2026-06-08"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
+    "toolSlug": "era",
+    "toolName": "Era",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
         "score": 1,
-        "date": "2026-06-08"
+        "date": "2026-06-09"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Gemini Omni - blog.google",
+        "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
-        "score": 1,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-06-08"
+        "date": "2026-06-09"
       }
     ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-08"
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-09"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-06-02",
+    "lastSeen": "2026-06-09"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-09"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-06-07",
+    "lastSeen": "2026-06-09"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-06-09"
   },
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -185,39 +232,9 @@
     "lastSeen": "2026-06-08"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-08"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-06-02",
-    "lastSeen": "2026-06-08"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -236,30 +253,9 @@
     "lastSeen": "2026-06-08"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "アドビ、Adobe FireflyにクリエイティブAIエージェントを導入、新たな生成AI機能とともに創造性の新時代を切り拓く - Adobe Newsroom",
-        "score": 1,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-08"
-  },
-  {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -273,24 +269,9 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-06-07",
-    "lastSeen": "2026-06-08"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -305,7 +286,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -321,7 +302,7 @@
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -336,7 +317,7 @@
   {
     "toolSlug": "mbodi-ai",
     "toolName": "Mbodi AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -352,7 +333,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -363,50 +344,5 @@
     ],
     "firstSeen": "2026-06-05",
     "lastSeen": "2026-06-07"
-  },
-  {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
-        "score": 1,
-        "date": "2026-06-06"
-      }
-    ],
-    "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-06"
-  },
-  {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "DaVinci Resolve 21 Officially Released With New Photo Editing, AI Tools, and Much More - PetaPixel",
-        "score": 1,
-        "date": "2026-06-06"
-      }
-    ],
-    "firstSeen": "2026-06-04",
-    "lastSeen": "2026-06-06"
-  },
-  {
-    "toolSlug": "lovable",
-    "toolName": "Lovable",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-        "score": 1,
-        "date": "2026-06-06"
-      }
-    ],
-    "firstSeen": "2026-06-04",
-    "lastSeen": "2026-06-06"
   }
 ]
