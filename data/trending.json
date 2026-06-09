@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Apple reveals new AI architecture built around Google Gemini models",
         "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-        "score": 375,
+        "score": 666,
         "date": "2026-06-09"
       },
       {
@@ -25,13 +25,19 @@
       },
       {
         "source": "googlenews",
+        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+        "score": 1,
+        "date": "2026-06-09"
+      },
+      {
+        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-06-09"
       },
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
         "score": 1,
         "date": "2026-06-09"
       }
@@ -42,13 +48,19 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 8.4,
+    "buzzScore": 5.2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "I design with Claude more than Figma now",
         "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-        "score": 309,
+        "score": 314,
+        "date": "2026-06-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "【自治体AI zevo】Claude Opus 4.8 が本日2026年5月29日（金曜日）より利用可能に！新たな日本リージョンのClaude系の生成AIモデルを追加！ - PR TIMES",
+        "score": 1,
         "date": "2026-06-09"
       }
     ],
@@ -58,7 +70,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 4.6,
+    "buzzScore": 4.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -74,7 +86,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -90,7 +102,7 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -106,7 +118,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -118,22 +130,6 @@
     ],
     "firstSeen": "2026-06-01",
     "lastSeen": "2026-06-01"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-        "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
-        "score": 25,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-05-23",
-    "lastSeen": "2026-06-08"
   },
   {
     "toolSlug": "era",
@@ -157,6 +153,21 @@
     "lastSeen": "2026-06-09"
   },
   {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
+        "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-06-05",
+    "lastSeen": "2026-06-09"
+  },
+  {
     "toolSlug": "udio",
     "toolName": "Udio",
     "buzzScore": 1,
@@ -172,33 +183,48 @@
     "lastSeen": "2026-06-09"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "title": "議事録AI「YOMEL」が「The Best Software in Japan 2026」のTOP100に選出。生成AI部門も同時受賞！ - PR TIMES",
         "score": 1,
         "date": "2026-06-09"
       }
     ],
-    "firstSeen": "2026-06-03",
+    "firstSeen": "2026-06-09",
     "lastSeen": "2026-06-09"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - oita-press.co.jp",
         "score": 1,
         "date": "2026-06-09"
       }
     ],
-    "firstSeen": "2026-06-07",
+    "firstSeen": "2026-06-09",
+    "lastSeen": "2026-06-09"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-09"
   },
   {
@@ -217,45 +243,70 @@
     "lastSeen": "2026-06-09"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.9,
+    "toolSlug": "lovable",
+    "toolName": "Lovable",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
+        "source": "techcrunch",
+        "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
         "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-06-09",
+    "lastSeen": "2026-06-09"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
+        "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
+        "score": 25,
         "date": "2026-06-08"
       }
     ],
-    "firstSeen": "2026-06-05",
+    "firstSeen": "2026-05-23",
     "lastSeen": "2026-06-08"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
     "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
         "score": 1,
-        "date": "2026-06-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - au Webポータル",
-        "score": 1,
-        "date": "2026-06-08"
+        "date": "2026-06-09"
       }
     ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-08"
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-09"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-09"
+      }
+    ],
+    "firstSeen": "2026-06-07",
+    "lastSeen": "2026-06-09"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -271,7 +322,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -286,7 +337,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -302,42 +353,11 @@
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-        "score": 1,
-        "date": "2026-06-07"
-      }
-    ],
-    "firstSeen": "2026-06-05",
-    "lastSeen": "2026-06-07"
-  },
-  {
-    "toolSlug": "mbodi-ai",
-    "toolName": "Mbodi AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Mbodi AI",
-        "url": "YC P25) Is Hiring Founding Machine Learning Engineer (Robotics) (https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
-        "score": 1,
-        "date": "2026-06-07"
-      }
-    ],
-    "firstSeen": "2026-06-06",
-    "lastSeen": "2026-06-07"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
         "score": 1,
         "date": "2026-06-07"
       }
