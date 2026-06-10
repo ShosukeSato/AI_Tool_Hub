@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-06-10",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Fable 5",
+    "date": "2026-06-10",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-gemini-2026-06-09",
     "type": "trending",
     "toolSlug": "gemini",
@@ -483,24 +492,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: A recent experience with ChatGPT 5.5 Pro",
     "date": "2026-05-12",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-05-11",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: A recent experience with ChatGPT 5.5 Pro",
-    "date": "2026-05-11",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-11",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 8.9）",
-    "summary": "hackernewsで注目: How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-    "date": "2026-05-11",
     "source": "hackernews"
   }
 ]
