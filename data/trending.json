@@ -8,28 +8,21 @@
         "source": "hackernews",
         "title": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "score": 1867,
+        "score": 2447,
+        "date": "2026-06-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+        "url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+        "score": 45,
         "date": "2026-06-10"
       },
       {
         "source": "hackernews",
         "title": "If Claude Fable stops helping you, you'll never know",
         "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-        "score": 580,
-        "date": "2026-06-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Fable 5 will sabotage \"frontier LLM research\" tasks",
-        "url": "https://twitter.com/i/status/2064399902684139852",
-        "score": 30,
-        "date": "2026-06-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: OpenYabby, voice-controlled multi-agent orchestrator for Claude Code",
-        "url": "https://github.com/OpenYabby/OpenYabby",
-        "score": 7,
+        "score": 942,
         "date": "2026-06-10"
       },
       {
@@ -45,13 +38,13 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 5,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Apple reveals new AI architecture built around Google Gemini models",
         "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-        "score": 713,
+        "score": 722,
         "date": "2026-06-10"
       },
       {
@@ -68,13 +61,13 @@
       },
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-06-10"
       },
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - tradingkey.com",
+        "title": "Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意 - PR TIMES",
         "score": 1,
         "date": "2026-06-10"
       }
@@ -85,7 +78,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -99,9 +92,46 @@
     "lastSeen": "2026-06-08"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Apache Burr: Build reliable AI agents and applications",
+        "url": "https://burr.apache.org/",
+        "score": 10,
+        "date": "2026-06-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "A €0.01 bank transfer could compromise a banking AI agent",
+        "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+        "score": 36,
+        "date": "2026-06-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Grit: Rewriting Git in Rust with agents",
+        "url": "https://blog.gitbutler.com/true-grit",
+        "score": 164,
+        "date": "2026-06-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+        "url": "https://arxiv.org/abs/2605.15184",
+        "score": 155,
+        "date": "2026-06-10"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-10"
+  },
+  {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -115,45 +145,21 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Grit: Rewriting Git in Rust with agents",
-        "url": "https://blog.gitbutler.com/true-grit",
-        "score": 85,
-        "date": "2026-06-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-        "url": "https://arxiv.org/abs/2605.15184",
-        "score": 130,
-        "date": "2026-06-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Apple's Siri-AI, or more shouting into the void about \"private\" agents",
-        "url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
-        "score": 5,
-        "date": "2026-06-10"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-10"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.8,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Where is the AI jobs crisis?",
         "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
-        "score": 141,
+        "score": 157,
+        "date": "2026-06-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
         "date": "2026-06-10"
       }
     ],
@@ -163,7 +169,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -185,7 +191,7 @@
         "source": "hackernews",
         "title": "Blaise v0.10.0: Native Back End, Threads and Incremental Compilation",
         "url": "https://github.com/graemeg/blaise/discussions/82",
-        "score": 19,
+        "score": 24,
         "date": "2026-06-10"
       }
     ],
@@ -229,6 +235,21 @@
     "lastSeen": "2026-06-10"
   },
   {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - oita-press.co.jp",
+        "score": 1,
+        "date": "2026-06-10"
+      }
+    ],
+    "firstSeen": "2026-06-09",
+    "lastSeen": "2026-06-10"
+  },
+  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
     "buzzScore": 1,
@@ -238,45 +259,24 @@
         "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
         "score": 1,
         "date": "2026-06-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - au Webポータル",
-        "score": 1,
-        "date": "2026-06-10"
       }
     ],
     "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-10"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
+    "toolSlug": "dify",
+    "toolName": "Dify",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "source": "techcrunch",
+        "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
         "score": 1,
         "date": "2026-06-10"
       }
     ],
-    "firstSeen": "2026-06-03",
-    "lastSeen": "2026-06-10"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-10"
-      }
-    ],
-    "firstSeen": "2026-06-03",
+    "firstSeen": "2026-06-10",
     "lastSeen": "2026-06-10"
   },
   {
@@ -295,9 +295,39 @@
     "lastSeen": "2026-06-10"
   },
   {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-10"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-10"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-06-10"
+      }
+    ],
+    "firstSeen": "2026-06-03",
+    "lastSeen": "2026-06-10"
+  },
+  {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -312,7 +342,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -325,24 +355,9 @@
     "lastSeen": "2026-06-09"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - oita-press.co.jp",
-        "score": 1,
-        "date": "2026-06-09"
-      }
-    ],
-    "firstSeen": "2026-06-09",
-    "lastSeen": "2026-06-09"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -358,7 +373,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -373,7 +388,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -385,21 +400,5 @@
     ],
     "firstSeen": "2026-05-31",
     "lastSeen": "2026-06-03"
-  },
-  {
-    "toolSlug": "openrouter",
-    "toolName": "OpenRouter",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenRouter raises $113M Series B",
-        "url": "https://openrouter.ai/announcements/series-b",
-        "score": 438,
-        "date": "2026-05-31"
-      }
-    ],
-    "firstSeen": "2026-05-27",
-    "lastSeen": "2026-05-31"
   }
 ]
