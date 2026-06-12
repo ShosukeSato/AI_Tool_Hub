@@ -8,28 +8,28 @@
         "source": "hackernews",
         "title": "Claude Fable is relentlessly proactive",
         "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "score": 160,
+        "score": 621,
         "date": "2026-06-12"
       },
       {
         "source": "hackernews",
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "score": 341,
+        "score": 470,
         "date": "2026-06-12"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5: mid-tier results on coding tasks",
         "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-        "score": 256,
+        "score": 371,
         "date": "2026-06-12"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "score": 2593,
+        "score": 2604,
         "date": "2026-06-12"
       }
     ],
@@ -37,45 +37,29 @@
     "lastSeen": "2026-06-12"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 3.8,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 5.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "AI agent runs amok in Fedora and elsewhere",
-        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-        "score": 540,
+        "title": "AI agent bankrupted their operator while trying to scan DN42",
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "score": 1087,
         "date": "2026-06-12"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-06-12"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 3.3,
-    "mentions": [
+      },
       {
         "source": "hackernews",
         "title": "Show HN: Claw Patrol, a security firewall for agents",
         "url": "https://github.com/denoland/clawpatrol",
-        "score": 88,
+        "score": 95,
         "date": "2026-06-12"
       },
       {
         "source": "hackernews",
         "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
         "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-        "score": 126,
-        "date": "2026-06-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Apache Burr: Build reliable AI agents and applications",
-        "url": "https://burr.apache.org/",
-        "score": 243,
+        "score": 135,
         "date": "2026-06-12"
       }
     ],
@@ -83,9 +67,25 @@
     "lastSeen": "2026-06-12"
   },
   {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AI agent runs amok in Fedora and elsewhere",
+        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+        "score": 546,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-06-12"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -101,7 +101,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -115,31 +115,15 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "1-bit-bonsai",
-    "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-        "url": "https://prismml.com/news/bonsai-image-4b",
-        "score": 442,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-06-01",
-    "lastSeen": "2026-06-01"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1.1,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "How a new DSL may survive in the era of LLMs",
         "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-        "score": 21,
+        "score": 47,
         "date": "2026-06-12"
       },
       {
@@ -151,6 +135,22 @@
     ],
     "firstSeen": "2026-05-08",
     "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "1-bit-bonsai",
+    "toolName": "1-Bit Bonsai",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "score": 442,
+        "date": "2026-06-01"
+      }
+    ],
+    "firstSeen": "2026-06-01",
+    "lastSeen": "2026-06-01"
   },
   {
     "toolSlug": "gemini",
@@ -174,24 +174,30 @@
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-06-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
+        "score": 1,
+        "date": "2026-06-12"
       }
     ],
     "firstSeen": "2026-04-27",
     "lastSeen": "2026-06-12"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - oita-press.co.jp",
         "score": 1,
         "date": "2026-06-12"
       }
     ],
-    "firstSeen": "2026-06-02",
+    "firstSeen": "2026-06-09",
     "lastSeen": "2026-06-12"
   },
   {
@@ -207,6 +213,21 @@
       }
     ],
     "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Difyで進める自社専用AIエージェント開発 〜本格導入と運用コストのリアル〜」を2026年6月24日（水）12:00に開催 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-06-10",
     "lastSeen": "2026-06-12"
   },
   {
@@ -255,24 +276,24 @@
     "lastSeen": "2026-06-12"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 0.9,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+        "source": "googlenews",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
         "score": 1,
         "date": "2026-06-12"
       }
     ],
-    "firstSeen": "2026-06-10",
+    "firstSeen": "2026-06-02",
     "lastSeen": "2026-06-12"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -285,24 +306,9 @@
     "lastSeen": "2026-06-11"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - oita-press.co.jp",
-        "score": 1,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-06-09",
-    "lastSeen": "2026-06-11"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -317,7 +323,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -332,7 +338,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -347,7 +353,7 @@
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -363,7 +369,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
