@@ -6,107 +6,86 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Yserver: Modern X11 Server Written in Rust with the Help of Claude Code",
-        "url": "https://www.phoronix.com/news/YSERVER-Rust-X11-Server",
-        "score": 5,
-        "date": "2026-06-11"
+        "title": "Claude Fable is relentlessly proactive",
+        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "score": 160,
+        "date": "2026-06-12"
+      },
+      {
+        "source": "hackernews",
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "score": 341,
+        "date": "2026-06-12"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Fable 5: mid-tier results on coding tasks",
+        "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+        "score": 256,
+        "date": "2026-06-12"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "score": 2580,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-        "url": "https://github.com/anthropics/claude-code/issues/29045",
-        "score": 420,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Claumon – forecasting Claude Code usage limits with a Gamma process",
-        "url": "https://github.com/fabioconcina/claumon",
-        "score": 5,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "If Claude Fable stops helping you, you'll never know",
-        "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-        "score": 1020,
-        "date": "2026-06-11"
+        "score": 2593,
+        "date": "2026-06-12"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-11"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 3.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-        "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-        "score": 98,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "Apache Burr: Build reliable AI agents and applications",
-        "url": "https://burr.apache.org/",
-        "score": 234,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: I applied Lyapunov stability theory to detect when LLM agents spiral",
-        "url": "https://github.com/vishal-dehurdle/state-harness",
-        "score": 4,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug",
-        "url": "https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5",
-        "score": 23,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "A €0.01 bank transfer could compromise a banking AI agent",
-        "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-        "score": 196,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-11"
+    "lastSeen": "2026-06-12"
   },
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 2.9,
+    "buzzScore": 3.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "AI agent runs amok in Fedora and elsewhere",
         "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-        "score": 520,
-        "date": "2026-06-11"
+        "score": 540,
+        "date": "2026-06-12"
       }
     ],
     "firstSeen": "2026-05-18",
-    "lastSeen": "2026-06-11"
+    "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 3.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Claw Patrol, a security firewall for agents",
+        "url": "https://github.com/denoland/clawpatrol",
+        "score": 88,
+        "date": "2026-06-12"
+      },
+      {
+        "source": "hackernews",
+        "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+        "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+        "score": 126,
+        "date": "2026-06-12"
+      },
+      {
+        "source": "hackernews",
+        "title": "Apache Burr: Build reliable AI agents and applications",
+        "url": "https://burr.apache.org/",
+        "score": 243,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-12"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,7 +101,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -138,7 +117,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -152,6 +131,28 @@
     "lastSeen": "2026-06-01"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "How a new DSL may survive in the era of LLMs",
+        "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+        "score": 21,
+        "date": "2026-06-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-12"
+  },
+  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
@@ -160,40 +161,118 @@
         "source": "googlenews",
         "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
         "score": 1,
-        "date": "2026-06-11"
+        "date": "2026-06-12"
       },
       {
         "source": "googlenews",
         "title": "Introducing Gemini Omni - blog.google",
         "score": 1,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "googlenews",
-        "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
-        "score": 1,
-        "date": "2026-06-11"
+        "date": "2026-06-12"
       },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "googlenews",
-        "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
-        "score": 1,
-        "date": "2026-06-11"
+        "date": "2026-06-12"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-11"
+    "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-06-02",
+    "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
+        "score": 1,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-06-12",
+    "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "score": 1,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-06-11",
+    "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "bond",
+    "toolName": "Bond",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+        "score": 1,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-06-11",
+    "lastSeen": "2026-06-12"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+        "score": 1,
+        "date": "2026-06-12"
+      }
+    ],
+    "firstSeen": "2026-06-10",
+    "lastSeen": "2026-06-12"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -206,39 +285,9 @@
     "lastSeen": "2026-06-11"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-11"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-06-02",
-    "lastSeen": "2026-06-11"
-  },
-  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -251,75 +300,9 @@
     "lastSeen": "2026-06-11"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-11"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Difyで進める自社専用AIエージェント開発 〜本格導入と運用コストのリアル〜」を2026年6月24日（水）12:00に開催 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-11"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-        "score": 1,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-06-10",
-    "lastSeen": "2026-06-11"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-        "score": 1,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-11"
-  },
-  {
-    "toolSlug": "bond",
-    "toolName": "Bond",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-        "score": 1,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-11"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -334,7 +317,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -349,7 +332,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -364,7 +347,7 @@
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -380,7 +363,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -391,51 +374,5 @@
     ],
     "firstSeen": "2026-06-09",
     "lastSeen": "2026-06-10"
-  },
-  {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
-        "score": 1,
-        "date": "2026-06-09"
-      }
-    ],
-    "firstSeen": "2026-06-05",
-    "lastSeen": "2026-06-09"
-  },
-  {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "議事録AI「YOMEL」が「The Best Software in Japan 2026」のTOP100に選出。生成AI部門も同時受賞！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-09"
-      }
-    ],
-    "firstSeen": "2026-06-09",
-    "lastSeen": "2026-06-09"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-        "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
-        "score": 25,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-05-23",
-    "lastSeen": "2026-06-08"
   }
 ]

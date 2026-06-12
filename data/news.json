@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-06-12",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Fable is relentlessly proactive",
+    "date": "2026-06-12",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-11",
     "type": "trending",
     "toolSlug": "claude",
@@ -465,33 +474,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 7.9）",
     "summary": "hackernewsで注目: Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
     "date": "2026-05-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-13",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Platform on AWS",
-    "date": "2026-05-13",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-era-2026-05-13",
-    "type": "trending",
-    "toolSlug": "era",
-    "title": "Era が話題沸騰中（バズスコア: 7.1）",
-    "summary": "hackernewsで注目: Reimagining the mouse pointer for the AI era",
-    "date": "2026-05-13",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-13",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 8.4）",
-    "summary": "hackernewsで注目: Show HN: Agentic interface for mainframes and COBOL",
-    "date": "2026-05-13",
     "source": "hackernews"
   }
 ]
