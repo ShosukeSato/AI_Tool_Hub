@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-06-13",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: We've suspended access to Claude Mythos 5 and Claude Fable 5",
+    "date": "2026-06-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-12",
     "type": "trending",
     "toolSlug": "claude",
@@ -447,33 +456,6 @@
     "title": "Era が話題沸騰中（バズスコア: 7.3）",
     "summary": "hackernewsで注目: Reimagining the mouse pointer for the AI era",
     "date": "2026-05-15",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-14",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing ()",
-    "date": "2026-05-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-era-2026-05-14",
-    "type": "trending",
-    "toolSlug": "era",
-    "title": "Era が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: Reimagining the mouse pointer for the AI era",
-    "date": "2026-05-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-14",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 7.9）",
-    "summary": "hackernewsで注目: Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
-    "date": "2026-05-14",
     "source": "hackernews"
   }
 ]

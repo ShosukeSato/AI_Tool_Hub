@@ -6,70 +6,83 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+        "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+        "score": 108,
+        "date": "2026-06-13"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude Fable is relentlessly proactive",
         "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "score": 621,
-        "date": "2026-06-12"
+        "score": 729,
+        "date": "2026-06-13"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+        "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+        "score": 53,
+        "date": "2026-06-13"
       },
       {
         "source": "hackernews",
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "score": 470,
-        "date": "2026-06-12"
+        "score": 499,
+        "date": "2026-06-13"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5: mid-tier results on coding tasks",
         "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-        "score": 371,
-        "date": "2026-06-12"
+        "score": 394,
+        "date": "2026-06-13"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "score": 2604,
-        "date": "2026-06-12"
+        "score": 2612,
+        "date": "2026-06-13"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-12"
+    "lastSeen": "2026-06-13"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.5,
+    "buzzScore": 5.2,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "How to setup a local coding agent on macOS",
+        "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+        "score": 292,
+        "date": "2026-06-13"
+      },
       {
         "source": "hackernews",
         "title": "AI agent bankrupted their operator while trying to scan DN42",
         "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "score": 1087,
-        "date": "2026-06-12"
+        "score": 1396,
+        "date": "2026-06-13"
       },
       {
-        "source": "hackernews",
-        "title": "Show HN: Claw Patrol, a security firewall for agents",
-        "url": "https://github.com/denoland/clawpatrol",
-        "score": 95,
-        "date": "2026-06-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-        "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-        "score": 135,
-        "date": "2026-06-12"
+        "source": "googlenews",
+        "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf - CoinDesk",
+        "score": 1,
+        "date": "2026-06-13"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-12"
+    "lastSeen": "2026-06-13"
   },
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,9 +96,25 @@
     "lastSeen": "2026-06-12"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 2.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "\"Don't You Just Upload It to ChatGPT?\"",
+        "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+        "score": 344,
+        "date": "2026-06-13"
+      }
+    ],
+    "firstSeen": "2026-06-11",
+    "lastSeen": "2026-06-13"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -101,7 +130,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -115,31 +144,111 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1.2,
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "How a new DSL may survive in the era of LLMs",
-        "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-        "score": 47,
-        "date": "2026-06-12"
+        "source": "googlenews",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "score": 1,
+        "date": "2026-06-13"
       },
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-06-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
+        "score": 1,
+        "date": "2026-06-13"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-06-13"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-06-12"
+        "date": "2026-06-13"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-12"
+    "lastSeen": "2026-06-13"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - oita-press.co.jp",
+        "score": 1,
+        "date": "2026-06-13"
+      }
+    ],
+    "firstSeen": "2026-06-09",
+    "lastSeen": "2026-06-13"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Difyで進める自社専用AIエージェント開発 〜本格導入と運用コストのリアル〜」を2026年6月24日（水）12:00に開催 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-13"
+      }
+    ],
+    "firstSeen": "2026-06-10",
+    "lastSeen": "2026-06-13"
+  },
+  {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
+        "score": 1,
+        "date": "2026-06-13"
+      }
+    ],
+    "firstSeen": "2026-06-12",
+    "lastSeen": "2026-06-13"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "score": 1,
+        "date": "2026-06-13"
+      }
+    ],
+    "firstSeen": "2026-06-11",
+    "lastSeen": "2026-06-13"
   },
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -153,57 +262,9 @@
     "lastSeen": "2026-06-01"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
-        "score": 1,
-        "date": "2026-06-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemini Omni - blog.google",
-        "score": 1,
-        "date": "2026-06-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-06-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "プレスリリース：Uravation、特定のAIツールに絞った「ツール特化型研修」を2026年5月19日より提供開始。第1弾としてGemini特化型研修を用意（PR TIMES） - 毎日新聞",
-        "score": 1,
-        "date": "2026-06-12"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-12"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - oita-press.co.jp",
-        "score": 1,
-        "date": "2026-06-12"
-      }
-    ],
-    "firstSeen": "2026-06-09",
-    "lastSeen": "2026-06-12"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -216,54 +277,9 @@
     "lastSeen": "2026-06-12"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Difyで進める自社専用AIエージェント開発 〜本格導入と運用コストのリアル〜」を2026年6月24日（水）12:00に開催 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-12"
-      }
-    ],
-    "firstSeen": "2026-06-10",
-    "lastSeen": "2026-06-12"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
-        "score": 1,
-        "date": "2026-06-12"
-      }
-    ],
-    "firstSeen": "2026-06-12",
-    "lastSeen": "2026-06-12"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-        "score": 1,
-        "date": "2026-06-12"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-12"
-  },
-  {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -278,7 +294,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -291,24 +307,9 @@
     "lastSeen": "2026-06-12"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
-        "score": 1,
-        "date": "2026-06-11"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-11"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -323,7 +324,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -338,7 +339,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -353,7 +354,7 @@
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -364,21 +365,6 @@
       }
     ],
     "firstSeen": "2026-06-10",
-    "lastSeen": "2026-06-10"
-  },
-  {
-    "toolSlug": "lovable",
-    "toolName": "Lovable",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-        "score": 1,
-        "date": "2026-06-10"
-      }
-    ],
-    "firstSeen": "2026-06-09",
     "lastSeen": "2026-06-10"
   }
 ]
