@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-06-14",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: How to setup a local coding agent on macOS",
+    "date": "2026-06-14",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-13",
     "type": "trending",
     "toolSlug": "claude",
@@ -438,24 +447,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 9.5）",
     "summary": "hackernewsで注目: Claude for Legal",
     "date": "2026-05-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-15",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: A Claude Code and Codex Skill for Deliberate Skill Development",
-    "date": "2026-05-15",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-era-2026-05-15",
-    "type": "trending",
-    "toolSlug": "era",
-    "title": "Era が話題沸騰中（バズスコア: 7.3）",
-    "summary": "hackernewsで注目: Reimagining the mouse pointer for the AI era",
-    "date": "2026-05-15",
     "source": "hackernews"
   }
 ]

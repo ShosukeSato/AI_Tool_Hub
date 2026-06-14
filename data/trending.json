@@ -1,74 +1,48 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude Fable is relentlessly proactive",
-        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "score": 751,
-        "date": "2026-06-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "score": 503,
-        "date": "2026-06-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Fable 5",
-        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "score": 2617,
-        "date": "2026-06-13"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-13"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 6.7,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "How to setup a local coding agent on macOS",
         "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-        "score": 412,
-        "date": "2026-06-13"
+        "score": 475,
+        "date": "2026-06-14"
       },
       {
-        "source": "hackernews",
-        "title": "AI agent bankrupted their operator while trying to scan DN42",
-        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "score": 1424,
-        "date": "2026-06-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agent Memory Systems and Knowledge Graphs: Letta, Mem0, Graphiti, and Cognee",
-        "url": "https://codepointer.substack.com/p/agent-memory-systems-and-knowledge",
-        "score": 3,
-        "date": "2026-06-13"
+        "source": "googlenews",
+        "title": "Coinbase’s new tool can help agents trade and pay for premium research - TechCrunch",
+        "score": 1,
+        "date": "2026-06-14"
       },
       {
         "source": "googlenews",
         "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf - CoinDesk",
         "score": 1,
-        "date": "2026-06-13"
+        "date": "2026-06-14"
+      },
+      {
+        "source": "googlenews",
+        "title": "Dataiku Launches Cobuild AI Agent for Enterprise AI Development - HPCwire",
+        "score": 1,
+        "date": "2026-06-14"
+      },
+      {
+        "source": "googlenews",
+        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
+        "score": 1,
+        "date": "2026-06-14"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-13"
+    "lastSeen": "2026-06-14"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -82,25 +56,9 @@
     "lastSeen": "2026-06-13"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 2.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AI agent runs amok in Fedora and elsewhere",
-        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-        "score": 546,
-        "date": "2026-06-12"
-      }
-    ],
-    "firstSeen": "2026-05-18",
-    "lastSeen": "2026-06-12"
-  },
-  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -114,9 +72,24 @@
     "lastSeen": "2026-06-08"
   },
   {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Is there a name for the type of comments agents add where they leak the prompt? ()",
+        "score": 10,
+        "date": "2026-06-14"
+      }
+    ],
+    "firstSeen": "2026-05-18",
+    "lastSeen": "2026-06-14"
+  },
+  {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -130,9 +103,106 @@
     "lastSeen": "2026-06-03"
   },
   {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "LLMs Pre-Commodify Ideas",
+        "url": "https://summerlightning.substack.com/p/llms-pre-commodify-ideas",
+        "score": 6,
+        "date": "2026-06-14"
+      },
+      {
+        "source": "googlenews",
+        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Difyで進める自社専用AIエージェント開発 〜本格導入と運用コストのリアル〜」を2026年6月24日（水）12:00に開催 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-14"
+      }
+    ],
+    "firstSeen": "2026-06-10",
+    "lastSeen": "2026-06-14"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks - Venturebeat",
+        "score": 1,
+        "date": "2026-06-14"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-06-14"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "score": 1,
+        "date": "2026-06-14"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-06-14"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-14"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-14"
+  },
+  {
+    "toolSlug": "manus",
+    "toolName": "Manus",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand",
+        "score": 1,
+        "date": "2026-06-14"
+      }
+    ],
+    "firstSeen": "2026-06-14",
+    "lastSeen": "2026-06-14"
+  },
+  {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
+        "score": 1,
+        "date": "2026-06-14"
+      }
+    ],
+    "firstSeen": "2026-06-12",
+    "lastSeen": "2026-06-14"
+  },
+  {
     "toolSlug": "gbrain",
     "toolName": "GBrain",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -146,36 +216,9 @@
     "lastSeen": "2026-06-13"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
-        "score": 1,
-        "date": "2026-06-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemini Omni - blog.google",
-        "score": 1,
-        "date": "2026-06-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-06-13"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-13"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -188,39 +231,9 @@
     "lastSeen": "2026-06-13"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-13"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-13"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Difyで進める自社専用AIエージェント開発 〜本格導入と運用コストのリアル〜」を2026年6月24日（水）12:00に開催 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-13"
-      }
-    ],
-    "firstSeen": "2026-06-10",
-    "lastSeen": "2026-06-13"
-  },
-  {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -233,24 +246,9 @@
     "lastSeen": "2026-06-13"
   },
   {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
-        "score": 1,
-        "date": "2026-06-13"
-      }
-    ],
-    "firstSeen": "2026-06-12",
-    "lastSeen": "2026-06-13"
-  },
-  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -265,7 +263,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -280,7 +278,7 @@
   {
     "toolSlug": "1-bit-bonsai",
     "toolName": "1-Bit Bonsai",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -296,7 +294,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -311,7 +309,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
