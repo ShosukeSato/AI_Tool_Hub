@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-06-15",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.7）",
+    "summary": "hackernewsで注目: Making Claude a Chemist",
+    "date": "2026-06-15",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-06-15",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 7）",
+    "summary": "hackernewsで注目: Inverse Rubric Optimization: A testbed for agent science",
+    "date": "2026-06-15",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-06-14",
     "type": "trending",
     "toolSlug": "agent",
@@ -429,24 +447,6 @@
     "title": "OpenClaw が話題沸騰中（バズスコア: 7）",
     "summary": "hackernewsで注目: OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
     "date": "2026-05-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-05-16",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Codex is now in the ChatGPT mobile app",
-    "date": "2026-05-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-16",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 9.5）",
-    "summary": "hackernewsで注目: Claude for Legal",
-    "date": "2026-05-16",
     "source": "hackernews"
   }
 ]
