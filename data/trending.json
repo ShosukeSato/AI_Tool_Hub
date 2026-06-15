@@ -2,13 +2,19 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 8.7,
+    "buzzScore": 10,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
+        "score": 51,
+        "date": "2026-06-15"
+      },
       {
         "source": "hackernews",
         "title": "Making Claude a Chemist",
         "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-        "score": 86,
+        "score": 90,
         "date": "2026-06-15"
       }
     ],
@@ -18,57 +24,31 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 7,
+    "buzzScore": 8.1,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Inverse Rubric Optimization: A testbed for agent science",
-        "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
-        "score": 26,
-        "date": "2026-06-15"
-      },
       {
         "source": "hackernews",
         "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
         "url": "https://github.com/DietrichGebert/ponytail",
-        "score": 41,
+        "score": 82,
+        "date": "2026-06-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "Inverse Rubric Optimization: A testbed for agent science",
+        "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+        "score": 28,
+        "date": "2026-06-15"
+      },
+      {
+        "source": "techcrunch",
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+        "score": 1,
         "date": "2026-06-15"
       }
     ],
     "firstSeen": "2026-04-16",
     "lastSeen": "2026-06-15"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "\"Don't You Just Upload It to ChatGPT?\"",
-        "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-        "score": 431,
-        "date": "2026-06-13"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-13"
-  },
-  {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-        "score": 369,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-05-17",
-    "lastSeen": "2026-06-08"
   },
   {
     "toolSlug": "gemini",
@@ -98,6 +78,37 @@
     "lastSeen": "2026-06-15"
   },
   {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+        "score": 369,
+        "date": "2026-06-08"
+      }
+    ],
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-06-08"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
+        "score": 1,
+        "date": "2026-06-15"
+      }
+    ],
+    "firstSeen": "2026-06-11",
+    "lastSeen": "2026-06-15"
+  },
+  {
     "toolSlug": "era",
     "toolName": "Era",
     "buzzScore": 1.1,
@@ -113,18 +124,33 @@
     "lastSeen": "2026-06-15"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
         "score": 1,
         "date": "2026-06-15"
       }
     ],
-    "firstSeen": "2026-06-02",
+    "firstSeen": "2026-06-14",
+    "lastSeen": "2026-06-15"
+  },
+  {
+    "toolSlug": "",
+    "toolName": "ナレフルチャット",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "法人向け生成AIチャットサービス「ナレフルチャット」、「AI博覧会 Nagoya 2026」出展のお知らせ - ドリームニュース",
+        "score": 1,
+        "date": "2026-06-15"
+      }
+    ],
+    "firstSeen": "2026-06-15",
     "lastSeen": "2026-06-15"
   },
   {
@@ -173,9 +199,24 @@
     "lastSeen": "2026-06-15"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
+        "score": 1,
+        "date": "2026-06-15"
+      }
+    ],
+    "firstSeen": "2026-06-02",
+    "lastSeen": "2026-06-15"
+  },
+  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -190,7 +231,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -204,24 +245,9 @@
     "lastSeen": "2026-06-03"
   },
   {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
-        "score": 1,
-        "date": "2026-06-14"
-      }
-    ],
-    "firstSeen": "2026-06-14",
-    "lastSeen": "2026-06-14"
-  },
-  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -236,7 +262,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -251,7 +277,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -266,7 +292,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -281,7 +307,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -303,7 +329,7 @@
   {
     "toolSlug": "gbrain",
     "toolName": "GBrain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -315,36 +341,5 @@
     ],
     "firstSeen": "2026-06-13",
     "lastSeen": "2026-06-13"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-        "score": 1,
-        "date": "2026-06-13"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-13"
-  },
-  {
-    "toolSlug": "1-bit-bonsai",
-    "toolName": "1-Bit Bonsai",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-        "url": "https://prismml.com/news/bonsai-image-4b",
-        "score": 442,
-        "date": "2026-06-01"
-      }
-    ],
-    "firstSeen": "2026-06-01",
-    "lastSeen": "2026-06-01"
   }
 ]
