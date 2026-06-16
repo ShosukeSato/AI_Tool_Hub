@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-06-16",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
+    "date": "2026-06-16",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-15",
     "type": "trending",
     "toolSlug": "claude",
@@ -402,51 +411,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
     "date": "2026-05-18",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-deepseek-2026-05-17",
-    "type": "trending",
-    "toolSlug": "deepseek",
-    "title": "DeepSeek が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: DeepSeek-V4-Flash means LLM steering is interesting again",
-    "date": "2026-05-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-17",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude for Legal",
-    "date": "2026-05-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-17",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: Zerostack – A Unix-inspired coding agent written in pure Rust",
-    "date": "2026-05-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-05-17",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-    "date": "2026-05-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-openclaw-2026-05-17",
-    "type": "trending",
-    "toolSlug": "openclaw",
-    "title": "OpenClaw が話題沸騰中（バズスコア: 7）",
-    "summary": "hackernewsで注目: OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-    "date": "2026-05-17",
     "source": "hackernews"
   }
 ]

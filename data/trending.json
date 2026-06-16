@@ -7,80 +7,38 @@
       {
         "source": "hackernews",
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
-        "score": 51,
-        "date": "2026-06-15"
+        "score": 757,
+        "date": "2026-06-16"
       },
       {
         "source": "hackernews",
-        "title": "Making Claude a Chemist",
-        "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-        "score": 90,
-        "date": "2026-06-15"
+        "title": "Claude Corps",
+        "url": "https://www.anthropic.com/news/claude-corps",
+        "score": 99,
+        "date": "2026-06-16"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Claude Code for Visual Studio",
+        "url": "native diff with accept/reject) (https://github.com/firish/claude_code_vs",
+        "score": 14,
+        "date": "2026-06-16"
+      },
+      {
+        "source": "hackernews",
+        "title": "Prediction and Entropy of Printed English - Claude Shannon",
+        "url": "1950) [pdf] (https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf",
+        "score": 6,
+        "date": "2026-06-16"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-15"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 8.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
-        "url": "https://github.com/DietrichGebert/ponytail",
-        "score": 82,
-        "date": "2026-06-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Inverse Rubric Optimization: A testbed for agent science",
-        "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
-        "score": 28,
-        "date": "2026-06-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-15"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
-        "score": 1,
-        "date": "2026-06-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemini Omni - blog.google",
-        "score": 1,
-        "date": "2026-06-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-15"
+    "lastSeen": "2026-06-16"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -94,9 +52,144 @@
     "lastSeen": "2026-06-08"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-16"
+      },
+      {
+        "source": "techcrunch",
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+        "score": 1,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-16"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "score": 1,
+        "date": "2026-06-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-06-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-06-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-06-16"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-16"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-06-14",
+    "lastSeen": "2026-06-16"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "アドビ、Adobe FireflyにクリエイティブAIエージェントを導入、新たな生成AI機能とともに創造性の新時代を切り拓く - Adobe Newsroom",
+        "score": 1,
+        "date": "2026-06-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-06-16"
+  },
+  {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-06-13",
+    "lastSeen": "2026-06-16"
+  },
+  {
+    "toolSlug": "manus",
+    "toolName": "Manus",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand",
+        "score": 1,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-06-14",
+    "lastSeen": "2026-06-16"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -111,7 +204,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -126,7 +219,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -141,7 +234,7 @@
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -154,54 +247,9 @@
     "lastSeen": "2026-06-15"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-15"
-  },
-  {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-15"
-  },
-  {
-    "toolSlug": "manus",
-    "toolName": "Manus",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-06-14",
-    "lastSeen": "2026-06-15"
-  },
-  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -216,7 +264,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -231,7 +279,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -247,7 +295,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -260,24 +308,9 @@
     "lastSeen": "2026-06-14"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-06-14"
-      }
-    ],
-    "firstSeen": "2026-06-14",
-    "lastSeen": "2026-06-14"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -292,7 +325,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -307,7 +340,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -329,7 +362,7 @@
   {
     "toolSlug": "gbrain",
     "toolName": "GBrain",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
