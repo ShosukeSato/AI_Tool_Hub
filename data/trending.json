@@ -7,28 +7,14 @@
       {
         "source": "hackernews",
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
-        "score": 757,
+        "score": 1210,
         "date": "2026-06-16"
       },
       {
         "source": "hackernews",
         "title": "Claude Corps",
         "url": "https://www.anthropic.com/news/claude-corps",
-        "score": 99,
-        "date": "2026-06-16"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Claude Code for Visual Studio",
-        "url": "native diff with accept/reject) (https://github.com/firish/claude_code_vs",
-        "score": 14,
-        "date": "2026-06-16"
-      },
-      {
-        "source": "hackernews",
-        "title": "Prediction and Entropy of Printed English - Claude Shannon",
-        "url": "1950) [pdf] (https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf",
-        "score": 6,
+        "score": 151,
         "date": "2026-06-16"
       }
     ],
@@ -36,29 +22,25 @@
     "lastSeen": "2026-06-16"
   },
   {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 1.1,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-        "score": 369,
-        "date": "2026-06-08"
-      }
-    ],
-    "firstSeen": "2026-05-17",
-    "lastSeen": "2026-06-08"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1,
-    "mentions": [
+        "title": "AskHN:How do you handle skill atrophy from using coding agents? ()",
+        "score": 23,
+        "date": "2026-06-16"
+      },
       {
         "source": "googlenews",
         "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-16"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
         "score": 1,
         "date": "2026-06-16"
       },
@@ -73,16 +55,26 @@
     "lastSeen": "2026-06-16"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Vibe coding can build your pipeline. It can't explain it six months later",
+        "url": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
+        "score": 7,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-06-16"
+  },
+  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
-        "score": 1,
-        "date": "2026-06-16"
-      },
       {
         "source": "googlenews",
         "title": "Introducing Gemini Omni - blog.google",
@@ -91,13 +83,13 @@
       },
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
         "score": 1,
         "date": "2026-06-16"
       },
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-06-16"
       }
@@ -106,9 +98,40 @@
     "lastSeen": "2026-06-16"
   },
   {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+        "score": 1,
+        "date": "2026-06-16"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-06-16"
+  },
+  {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+        "score": 369,
+        "date": "2026-06-08"
+      }
+    ],
+    "firstSeen": "2026-05-17",
+    "lastSeen": "2026-06-08"
+  },
+  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -123,7 +146,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -138,7 +161,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -159,7 +182,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -174,7 +197,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -189,7 +212,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -204,7 +227,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -219,7 +242,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -234,7 +257,7 @@
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -249,7 +272,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -264,7 +287,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -279,7 +302,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -295,7 +318,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -310,7 +333,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -325,7 +348,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -340,7 +363,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -358,21 +381,5 @@
     ],
     "firstSeen": "2026-06-10",
     "lastSeen": "2026-06-14"
-  },
-  {
-    "toolSlug": "gbrain",
-    "toolName": "GBrain",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-        "url": "https://github.com/vladignatyev/brain-map-skill",
-        "score": 14,
-        "date": "2026-06-13"
-      }
-    ],
-    "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-13"
   }
 ]
