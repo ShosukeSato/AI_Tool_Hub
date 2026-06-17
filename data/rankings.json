@@ -30,7 +30,7 @@
     "toolSlug": "deepseek",
     "overall": 7.3,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-06-17"
@@ -102,7 +102,7 @@
     "toolSlug": "gemma-4",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 9,
     "lastCalculated": "2026-06-17"
@@ -444,7 +444,7 @@
     "toolSlug": "anything",
     "overall": 4.9,
     "performance": 5,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-06-17"
@@ -453,7 +453,7 @@
     "toolSlug": "agent",
     "overall": 6.4,
     "performance": 6,
-    "buzz": 1.3,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-06-17"
@@ -802,9 +802,9 @@
   },
   {
     "toolSlug": "com",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-06-17"
@@ -840,7 +840,7 @@
     "toolSlug": "manus",
     "overall": 5.5,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-06-17"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.4,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-06-17"
@@ -1585,9 +1585,9 @@
   },
   {
     "toolSlug": "elevenlabs",
-    "overall": 6.7,
+    "overall": 6.6,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-06-17"
@@ -1722,7 +1722,7 @@
     "toolSlug": "",
     "overall": 6.4,
     "performance": 9,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-06-17"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-06-17"
@@ -2953,9 +2953,9 @@
   },
   {
     "toolSlug": "era",
-    "overall": 5.3,
+    "overall": 5.2,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-06-17"

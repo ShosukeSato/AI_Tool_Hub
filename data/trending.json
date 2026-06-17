@@ -7,28 +7,14 @@
       {
         "source": "hackernews",
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
-        "score": 1240,
+        "score": 1274,
         "date": "2026-06-17"
       },
       {
         "source": "hackernews",
         "title": "Claude Corps",
         "url": "https://www.anthropic.com/news/claude-corps",
-        "score": 155,
-        "date": "2026-06-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
-        "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
-        "score": 36,
-        "date": "2026-06-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude: Elevated errors across many models [resolved]",
-        "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-        "score": 182,
+        "score": 160,
         "date": "2026-06-17"
       }
     ],
@@ -38,20 +24,12 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.3,
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "The octopus architecture for AI agents",
-        "url": "https://blog.goodman.dev/blog/octopus-agent-architecture/",
-        "score": 20,
-        "date": "2026-06-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "A Git forge for the agentic era",
-        "url": "https://cursor.com/origin",
-        "score": 16,
+        "source": "googlenews",
+        "title": "Databricks Launches Genie One: All-New Agentic Coworker for Every Team - Databricks",
+        "score": 1,
         "date": "2026-06-17"
       },
       {
@@ -68,22 +46,6 @@
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-17"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Leviathan Waking – On Anthropic/USG, and a new era in AI governance",
-        "url": "https://www.hyperdimensional.co/p/leviathan-waking",
-        "score": 6,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-05-08",
     "lastSeen": "2026-06-17"
   },
   {
@@ -116,12 +78,6 @@
         "date": "2026-06-17"
       },
       {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-06-17"
-      },
-      {
         "source": "techcrunch",
         "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
         "score": 1,
@@ -129,21 +85,6 @@
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-17"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-17"
   },
   {
@@ -166,12 +107,6 @@
     "toolName": "Adobe Firefly",
     "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "アドビ、Adobe FireflyにクリエイティブAIエージェントを導入、新たな生成AI機能とともに創造性の新時代を切り拓く - Adobe Newsroom",
-        "score": 1,
-        "date": "2026-06-17"
-      },
       {
         "source": "googlenews",
         "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
@@ -198,18 +133,18 @@
     "lastSeen": "2026-06-17"
   },
   {
-    "toolSlug": "com",
-    "toolName": "アド.com",
+    "toolSlug": "udio",
+    "toolName": "Udio",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "source": "techcrunch",
+        "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
         "score": 1,
         "date": "2026-06-17"
       }
     ],
-    "firstSeen": "2026-06-14",
+    "firstSeen": "2026-06-02",
     "lastSeen": "2026-06-17"
   },
   {
@@ -243,9 +178,55 @@
     "lastSeen": "2026-06-17"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Leviathan Waking – On Anthropic/USG, and a new era in AI governance",
+        "url": "https://www.hyperdimensional.co/p/leviathan-waking",
+        "score": 6,
+        "date": "2026-06-17"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-17"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-17"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-17"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-06-17"
+      }
+    ],
+    "firstSeen": "2026-06-14",
+    "lastSeen": "2026-06-17"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -261,7 +242,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -277,7 +258,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -292,7 +273,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -307,7 +288,7 @@
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -320,24 +301,9 @@
     "lastSeen": "2026-06-15"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Bring any idea to life: Google AI Studio at I/O 2026 - blog.google",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-06-02",
-    "lastSeen": "2026-06-15"
-  },
-  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -348,21 +314,5 @@
     ],
     "firstSeen": "2026-06-12",
     "lastSeen": "2026-06-15"
-  },
-  {
-    "toolSlug": "flux",
-    "toolName": "FLUX",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-        "url": "https://blog.adafruit.com/",
-        "score": 665,
-        "date": "2026-06-03"
-      }
-    ],
-    "firstSeen": "2026-06-02",
-    "lastSeen": "2026-06-03"
   }
 ]
