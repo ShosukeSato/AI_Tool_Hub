@@ -6,86 +6,172 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
-        "score": 1274,
-        "date": "2026-06-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Corps",
-        "url": "https://www.anthropic.com/news/claude-corps",
-        "score": 160,
-        "date": "2026-06-17"
+        "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+        "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+        "score": 192,
+        "date": "2026-06-18"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-17"
+    "lastSeen": "2026-06-18"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1,
+    "buzzScore": 5.3,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+        "url": "https://blitzgraph.com",
+        "score": 6,
+        "date": "2026-06-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+        "url": "https://github.com/evanklem/polypore",
+        "score": 75,
+        "date": "2026-06-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agentic coding and persistent returns to expertise",
+        "url": "https://www.anthropic.com/research/claude-code-expertise",
+        "score": 8,
+        "date": "2026-06-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
+        "date": "2026-06-18"
+      },
       {
         "source": "googlenews",
         "title": "Databricks Launches Genie One: All-New Agentic Coworker for Every Team - Databricks",
         "score": 1,
-        "date": "2026-06-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-06-17"
+        "date": "2026-06-18"
       },
       {
         "source": "techcrunch",
-        "title": "Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+        "title": "NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
         "score": 1,
-        "date": "2026-06-17"
+        "date": "2026-06-18"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-17"
+    "lastSeen": "2026-06-18"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 4.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+        "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+        "score": 71,
+        "date": "2026-06-18"
+      }
+    ],
+    "firstSeen": "2026-06-11",
+    "lastSeen": "2026-06-18"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Android 17 launches with new multitasking tools as Google expands Gemini features - TechCrunch",
         "score": 1,
-        "date": "2026-06-17"
+        "date": "2026-06-18"
       },
       {
         "source": "googlenews",
         "title": "Introducing Gemini Omni - blog.google",
         "score": 1,
-        "date": "2026-06-17"
+        "date": "2026-06-18"
       },
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-06-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-06-17"
+        "date": "2026-06-18"
       },
       {
         "source": "techcrunch",
-        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+        "title": "Google bets on Gemini to reinvent the smart home speaker",
         "score": 1,
-        "date": "2026-06-17"
+        "date": "2026-06-18"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-17"
+    "lastSeen": "2026-06-18"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+        "score": 1,
+        "date": "2026-06-18"
+      }
+    ],
+    "firstSeen": "2026-06-02",
+    "lastSeen": "2026-06-18"
+  },
+  {
+    "toolSlug": "trellis-ai",
+    "toolName": "Trellis AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Trellis AI",
+        "url": "YC W24)  hiring a product lead to build agents for healthcare access (https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+        "score": 1,
+        "date": "2026-06-18"
+      }
+    ],
+    "firstSeen": "2026-06-18",
+    "lastSeen": "2026-06-18"
+  },
+  {
+    "toolSlug": "davinci-resolve-21",
+    "toolName": "DaVinci Resolve 21",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - CGWORLD.jp",
+        "score": 1,
+        "date": "2026-06-18"
+      }
+    ],
+    "firstSeen": "2026-06-18",
+    "lastSeen": "2026-06-18"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-18"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-18"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -96,16 +182,31 @@
         "source": "googlenews",
         "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-06-17"
+        "date": "2026-06-18"
       }
     ],
     "firstSeen": "2026-06-14",
-    "lastSeen": "2026-06-17"
+    "lastSeen": "2026-06-18"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-06-18"
+      }
+    ],
+    "firstSeen": "2026-06-18",
+    "lastSeen": "2026-06-18"
   },
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -120,7 +221,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -133,24 +234,9 @@
     "lastSeen": "2026-06-17"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-        "score": 1,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-06-02",
-    "lastSeen": "2026-06-17"
-  },
-  {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -163,24 +249,9 @@
     "lastSeen": "2026-06-17"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "ChatGPT&#8217;s market share slips below 50% for first time",
-        "score": 1,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-17"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -194,24 +265,9 @@
     "lastSeen": "2026-06-17"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-17"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -226,7 +282,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -242,7 +298,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -258,7 +314,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -273,7 +329,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -288,7 +344,7 @@
   {
     "toolSlug": "",
     "toolName": "ナレフルチャット",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -298,21 +354,6 @@
       }
     ],
     "firstSeen": "2026-06-15",
-    "lastSeen": "2026-06-15"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-06-12",
     "lastSeen": "2026-06-15"
   }
 ]
