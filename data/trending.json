@@ -6,9 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "CLI That Enforces Spec-Driven Development with Claude Code, OpenCode, and Codex",
+        "url": "https://github.com/davidpv/opsx-spec-driven-development-toolkit",
+        "score": 4,
+        "date": "2026-06-18"
+      },
+      {
+        "source": "hackernews",
         "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
         "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-        "score": 192,
+        "score": 259,
         "date": "2026-06-18"
       }
     ],
@@ -18,27 +25,27 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.3,
+    "buzzScore": 6.9,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
-        "url": "https://blitzgraph.com",
-        "score": 6,
+        "title": "Git platform built for agentic era",
+        "url": "https://gitlawb.com/node",
+        "score": 22,
+        "date": "2026-06-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+        "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+        "score": 57,
         "date": "2026-06-18"
       },
       {
         "source": "hackernews",
         "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
         "url": "https://github.com/evanklem/polypore",
-        "score": 75,
-        "date": "2026-06-18"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agentic coding and persistent returns to expertise",
-        "url": "https://www.anthropic.com/research/claude-code-expertise",
-        "score": 8,
+        "score": 88,
         "date": "2026-06-18"
       },
       {
@@ -50,6 +57,18 @@
       {
         "source": "googlenews",
         "title": "Databricks Launches Genie One: All-New Agentic Coworker for Every Team - Databricks",
+        "score": 1,
+        "date": "2026-06-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
         "score": 1,
         "date": "2026-06-18"
       },
@@ -66,13 +85,13 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 4.3,
+    "buzzScore": 4.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
         "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-        "score": 71,
+        "score": 114,
         "date": "2026-06-18"
       }
     ],
@@ -93,6 +112,12 @@
       {
         "source": "googlenews",
         "title": "Introducing Gemini Omni - blog.google",
+        "score": 1,
+        "date": "2026-06-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-06-18"
       },
@@ -144,21 +169,6 @@
     "lastSeen": "2026-06-18"
   },
   {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - CGWORLD.jp",
-        "score": 1,
-        "date": "2026-06-18"
-      }
-    ],
-    "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-18"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
     "buzzScore": 1,
@@ -174,9 +184,39 @@
     "lastSeen": "2026-06-18"
   },
   {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-18"
+      }
+    ],
+    "firstSeen": "2026-06-13",
+    "lastSeen": "2026-06-18"
+  },
+  {
+    "toolSlug": "davinci-resolve-21",
+    "toolName": "DaVinci Resolve 21",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - CGWORLD.jp",
+        "score": 1,
+        "date": "2026-06-18"
+      }
+    ],
+    "firstSeen": "2026-06-18",
+    "lastSeen": "2026-06-18"
+  },
+  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -191,7 +231,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -206,7 +246,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -219,24 +259,9 @@
     "lastSeen": "2026-06-17"
   },
   {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-17"
-  },
-  {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -251,7 +276,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -267,7 +292,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -282,7 +307,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -298,7 +323,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -310,50 +335,5 @@
     ],
     "firstSeen": "2026-05-17",
     "lastSeen": "2026-06-08"
-  },
-  {
-    "toolSlug": "manus",
-    "toolName": "Manus",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand",
-        "score": 1,
-        "date": "2026-06-16"
-      }
-    ],
-    "firstSeen": "2026-06-14",
-    "lastSeen": "2026-06-16"
-  },
-  {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-06-14",
-    "lastSeen": "2026-06-15"
-  },
-  {
-    "toolSlug": "",
-    "toolName": "ナレフルチャット",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "法人向け生成AIチャットサービス「ナレフルチャット」、「AI博覧会 Nagoya 2026」出展のお知らせ - ドリームニュース",
-        "score": 1,
-        "date": "2026-06-15"
-      }
-    ],
-    "firstSeen": "2026-06-15",
-    "lastSeen": "2026-06-15"
   }
 ]
