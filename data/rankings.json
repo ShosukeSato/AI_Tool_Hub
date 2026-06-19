@@ -3,16 +3,16 @@
     "toolSlug": "chatgpt",
     "overall": 7.7,
     "performance": 9,
-    "buzz": 4.4,
+    "buzz": 4,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-06-19"
   },
   {
     "toolSlug": "claude",
-    "overall": 8.2,
+    "overall": 8,
     "performance": 9,
-    "buzz": 9,
+    "buzz": 8.1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-06-19"
@@ -21,7 +21,7 @@
     "toolSlug": "gemini",
     "overall": 7,
     "performance": 8,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-06-19"
@@ -183,7 +183,7 @@
     "toolSlug": "cursor",
     "overall": 6.9,
     "performance": 9,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-06-19"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 7.7,
+    "overall": 6.9,
     "performance": 6,
-    "buzz": 9.4,
+    "buzz": 4.2,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-06-19"
@@ -624,7 +624,7 @@
     "toolSlug": "adobe-firefly",
     "overall": 6,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-06-19"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 6.7,
+    "overall": 6,
     "performance": 9,
-    "buzz": 8.6,
+    "buzz": 4,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-06-19"
@@ -894,7 +894,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-06-19"
@@ -1272,7 +1272,7 @@
     "toolSlug": "trellis-ai",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-06-19"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.4,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-06-19"
@@ -1569,7 +1569,7 @@
     "toolSlug": "davinci-resolve-21",
     "overall": 7.6,
     "performance": 10,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 10,
     "lastCalculated": "2026-06-19"
@@ -2955,7 +2955,7 @@
     "toolSlug": "era",
     "overall": 5.3,
     "performance": 8,
-    "buzz": 1.2,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-06-19"

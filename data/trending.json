@@ -6,9 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+        "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+        "score": 354,
+        "date": "2026-06-19"
+      },
+      {
+        "source": "hackernews",
         "title": "Notes from tired Egyptian whose job is explaining that humans built the pyramids",
         "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
-        "score": 175,
+        "score": 195,
         "date": "2026-06-19"
       }
     ],
@@ -16,75 +23,9 @@
     "lastSeen": "2026-06-19"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 9.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Agentic Resource Discovery Specification",
-        "url": "https://agenticresourcediscovery.org/introduction/",
-        "score": 55,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "hackernews",
-        "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
-        "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-        "score": 98,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Crawlie – Free open-source SEO audit tool for humans and agents",
-        "url": "https://github.com/spronta/crawlie",
-        "score": 5,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Adobe Unveils Major Expansion of Creative Agent Across Firefly and Creative Cloud Apps Including Photoshop and Premiere - Adobe Newsroom",
-        "score": 1,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
-        "score": 1,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Vercel launches a new framework and enterprise controls for agentic AI infrastructure - SiliconANGLE",
-        "score": 1,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Microsoft launches AI agent with pay-as-you-go pricing - Dawn",
-        "score": 1,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Databricks Launches Genie One: All-New Agentic Coworker for Every Team - Databricks",
-        "score": 1,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
-        "score": 1,
-        "date": "2026-06-19"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-19"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 9,
+    "buzzScore": 8.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -105,15 +46,75 @@
     "lastSeen": "2026-06-18"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 4.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Agentic Resource Discovery Specification",
+        "url": "https://agenticresourcediscovery.org/introduction/",
+        "score": 70,
+        "date": "2026-06-19"
+      },
+      {
+        "source": "hackernews",
+        "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+        "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+        "score": 109,
+        "date": "2026-06-19"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Crawlie – Free open-source SEO audit tool for humans and agents",
+        "url": "https://github.com/spronta/crawlie",
+        "score": 13,
+        "date": "2026-06-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
+        "date": "2026-06-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "Databricks Launches Genie One: All-New Agentic Coworker for Every Team - Databricks",
+        "score": 1,
+        "date": "2026-06-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
+        "score": 1,
+        "date": "2026-06-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
+        "score": 1,
+        "date": "2026-06-19"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-19"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 8.6,
+    "buzzScore": 4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
         "url": "https://gerrymandle.cc/",
-        "score": 147,
+        "score": 186,
         "date": "2026-06-19"
       }
     ],
@@ -123,7 +124,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 4.4,
+    "buzzScore": 4,
     "mentions": [
       {
         "source": "hackernews",
@@ -139,14 +140,8 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1.2,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Qualcomm Takes Spatial Computing into the AI Era with Snapdragon Reality Elite - Qualcomm",
-        "score": 1,
-        "date": "2026-06-19"
-      },
       {
         "source": "googlenews",
         "title": "Student Cheating Is Becoming Impossible to Detect in an A.I. Era - The New York Times",
@@ -166,7 +161,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -177,12 +172,6 @@
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-06-19"
       }
@@ -223,7 +212,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -238,7 +227,7 @@
   {
     "toolSlug": "trellis-ai",
     "toolName": "Trellis AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -254,7 +243,7 @@
   {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -269,7 +258,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -284,7 +273,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -299,7 +288,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -309,21 +298,6 @@
       }
     ],
     "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-17"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-06-14",
     "lastSeen": "2026-06-17"
   }
 ]
