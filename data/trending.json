@@ -7,22 +7,22 @@
       {
         "source": "hackernews",
         "title": "Data Compression Explained",
-        "url": "https://mattmahoney.net/dc/dce.html",
-        "score": 8,
-        "date": "2026-06-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Digital Printing of Arabic: explaining the problem",
-        "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-        "score": 28,
+        "url": "2012) (https://mattmahoney.net/dc/dce.html",
+        "score": 157,
         "date": "2026-06-20"
       },
       {
         "source": "hackernews",
         "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
         "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-        "score": 548,
+        "score": 620,
+        "date": "2026-06-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Digital Printing of Arabic: explaining the problem",
+        "url": "2017) (https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+        "score": 68,
         "date": "2026-06-20"
       }
     ],
@@ -32,7 +32,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -53,36 +53,52 @@
     "lastSeen": "2026-06-18"
   },
   {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 4.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+        "url": "https://arrowtsx.dev/bigger-models/",
+        "score": 318,
+        "date": "2026-06-20"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-20"
+  },
+  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 4.2,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "We built a lab to evaluate data agents – Hex",
         "url": "https://hex.tech/blog/evaluate-data-agents/",
-        "score": 5,
+        "score": 11,
         "date": "2026-06-20"
       },
       {
         "source": "hackernews",
         "title": "Hide Secrets from AI Agents and NPM install using Airgap",
         "url": "https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html",
-        "score": 16,
+        "score": 19,
         "date": "2026-06-20"
       },
       {
         "source": "hackernews",
         "title": "Agentic Resource Discovery Specification",
         "url": "https://agenticresourcediscovery.org/introduction/",
-        "score": 73,
+        "score": 75,
         "date": "2026-06-20"
       },
       {
         "source": "hackernews",
         "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
         "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-        "score": 111,
+        "score": 113,
         "date": "2026-06-20"
       },
       {
@@ -116,13 +132,13 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 4.2,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
         "url": "https://gerrymandle.cc/",
-        "score": 206,
+        "score": 217,
         "date": "2026-06-20"
       }
     ],
@@ -132,7 +148,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 3.6,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -144,22 +160,6 @@
     ],
     "firstSeen": "2026-06-11",
     "lastSeen": "2026-06-18"
-  },
-  {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 1.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-        "url": "https://arrowtsx.dev/bigger-models/",
-        "score": 37,
-        "date": "2026-06-20"
-      }
-    ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-20"
   },
   {
     "toolSlug": "era",
@@ -204,6 +204,36 @@
     "lastSeen": "2026-06-20"
   },
   {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
+        "score": 1,
+        "date": "2026-06-20"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-20"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
+        "score": 1,
+        "date": "2026-06-20"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-20"
+  },
+  {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
     "buzzScore": 1,
@@ -225,7 +255,7 @@
     "mentions": [
       {
         "source": "techcrunch",
-        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn&#8217;t work",
+        "title": "From PGP to Mythos: a brief history of export controls that didn&#8217;t stop anyone",
         "score": 1,
         "date": "2026-06-20"
       }
@@ -236,7 +266,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -251,7 +281,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -266,7 +296,7 @@
   {
     "toolSlug": "trellis-ai",
     "toolName": "Trellis AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -277,36 +307,6 @@
       }
     ],
     "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-18"
-  },
-  {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - CGWORLD.jp",
-        "score": 1,
-        "date": "2026-06-18"
-      }
-    ],
-    "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-18"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-06-18"
-      }
-    ],
-    "firstSeen": "2026-06-14",
     "lastSeen": "2026-06-18"
   }
 ]
