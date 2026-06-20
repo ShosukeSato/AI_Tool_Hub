@@ -6,26 +6,33 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-        "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-        "score": 354,
-        "date": "2026-06-19"
+        "title": "Data Compression Explained",
+        "url": "https://mattmahoney.net/dc/dce.html",
+        "score": 8,
+        "date": "2026-06-20"
       },
       {
         "source": "hackernews",
-        "title": "Notes from tired Egyptian whose job is explaining that humans built the pyramids",
-        "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
-        "score": 195,
-        "date": "2026-06-19"
+        "title": "Digital Printing of Arabic: explaining the problem",
+        "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+        "score": 28,
+        "date": "2026-06-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+        "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+        "score": 548,
+        "date": "2026-06-20"
       }
     ],
     "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-19"
+    "lastSeen": "2026-06-20"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 8.1,
+    "buzzScore": 7.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -52,79 +59,80 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "We built a lab to evaluate data agents – Hex",
+        "url": "https://hex.tech/blog/evaluate-data-agents/",
+        "score": 5,
+        "date": "2026-06-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Hide Secrets from AI Agents and NPM install using Airgap",
+        "url": "https://sauleau.com/notes/airgap-security-for-the-modern-ai-age.html",
+        "score": 16,
+        "date": "2026-06-20"
+      },
+      {
+        "source": "hackernews",
         "title": "Agentic Resource Discovery Specification",
         "url": "https://agenticresourcediscovery.org/introduction/",
-        "score": 70,
-        "date": "2026-06-19"
+        "score": 73,
+        "date": "2026-06-20"
       },
       {
         "source": "hackernews",
         "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
         "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-        "score": 109,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Crawlie – Free open-source SEO audit tool for humans and agents",
-        "url": "https://github.com/spronta/crawlie",
-        "score": 13,
-        "date": "2026-06-19"
+        "score": 111,
+        "date": "2026-06-20"
       },
       {
         "source": "googlenews",
         "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
         "score": 1,
-        "date": "2026-06-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Databricks Launches Genie One: All-New Agentic Coworker for Every Team - Databricks",
-        "score": 1,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       },
       {
         "source": "googlenews",
         "title": "Meta enters enterprise AI race with new business agent - Reuters",
         "score": 1,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       },
       {
         "source": "googlenews",
         "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
         "score": 1,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       },
       {
         "source": "googlenews",
         "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
         "score": 1,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-19"
+    "lastSeen": "2026-06-20"
   },
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 4,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
         "url": "https://gerrymandle.cc/",
-        "score": 186,
-        "date": "2026-06-19"
+        "score": 206,
+        "date": "2026-06-20"
       }
     ],
     "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-19"
+    "lastSeen": "2026-06-20"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 4,
+    "buzzScore": 3.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -138,6 +146,22 @@
     "lastSeen": "2026-06-18"
   },
   {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 1.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+        "url": "https://arrowtsx.dev/bigger-models/",
+        "score": 37,
+        "date": "2026-06-20"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-20"
+  },
+  {
     "toolSlug": "era",
     "toolName": "Era",
     "buzzScore": 1,
@@ -146,17 +170,17 @@
         "source": "googlenews",
         "title": "Student Cheating Is Becoming Impossible to Detect in an A.I. Era - The New York Times",
         "score": 1,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       },
       {
         "source": "techcrunch",
         "title": "The smartphone era created an attention crisis — slow tech is fixing it",
         "score": 1,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-19"
+    "lastSeen": "2026-06-20"
   },
   {
     "toolSlug": "gemini",
@@ -167,22 +191,52 @@
         "source": "googlenews",
         "title": "Android 17 launches with new multitasking tools as Google expands Gemini features - TechCrunch",
         "score": 1,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-06-19"
+        "date": "2026-06-20"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-19"
+    "lastSeen": "2026-06-20"
+  },
+  {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-20"
+      }
+    ],
+    "firstSeen": "2026-06-13",
+    "lastSeen": "2026-06-20"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn&#8217;t work",
+        "score": 1,
+        "date": "2026-06-20"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-20"
   },
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -195,24 +249,9 @@
     "lastSeen": "2026-06-19"
   },
   {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-19"
-      }
-    ],
-    "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-19"
-  },
-  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -227,7 +266,7 @@
   {
     "toolSlug": "trellis-ai",
     "toolName": "Trellis AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -243,7 +282,7 @@
   {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -258,7 +297,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -269,35 +308,5 @@
     ],
     "firstSeen": "2026-06-14",
     "lastSeen": "2026-06-18"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-17"
-  },
-  {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-        "score": 1,
-        "date": "2026-06-17"
-      }
-    ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-17"
   }
 ]

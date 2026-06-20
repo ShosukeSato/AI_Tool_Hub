@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-plain-2026-06-20",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Data Compression Explained",
+    "date": "2026-06-20",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-06-20",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.3）",
+    "summary": "hackernewsで注目: CLI That Enforces Spec-Driven Development with Claude Code, OpenCode, and Codex",
+    "date": "2026-06-20",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-06-19",
     "type": "trending",
     "toolSlug": "plain",
@@ -420,15 +438,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Show HN: Agent.email – sign up via curl, claim with a human OTP ()",
     "date": "2026-05-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-21",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Qwen3.7-Max: The Agent Frontier",
-    "date": "2026-05-21",
     "source": "hackernews"
   }
 ]
