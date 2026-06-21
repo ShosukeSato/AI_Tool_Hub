@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
         "url": "https://arrowtsx.dev/bigger-models/",
-        "score": 506,
+        "score": 537,
         "date": "2026-06-21"
       }
     ],
@@ -16,9 +16,56 @@
     "lastSeen": "2026-06-21"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 6.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Temporary Cloudflare accounts for AI agents",
+        "url": "https://blog.cloudflare.com/temporary-accounts/",
+        "score": 227,
+        "date": "2026-06-21"
+      },
+      {
+        "source": "hackernews",
+        "title": "Building reliable agentic AI systems",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "score": 123,
+        "date": "2026-06-21"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
+        "date": "2026-06-21"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-21"
+      },
+      {
+        "source": "googlenews",
+        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
+        "score": 1,
+        "date": "2026-06-21"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
+        "score": 1,
+        "date": "2026-06-21"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-21"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 5.7,
+    "buzzScore": 5.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -45,49 +92,15 @@
     "lastSeen": "2026-06-21"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 4.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Temporary Cloudflare accounts for AI agents",
-        "url": "https://blog.cloudflare.com/temporary-accounts/",
-        "score": 181,
-        "date": "2026-06-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
-        "score": 1,
-        "date": "2026-06-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-06-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
-        "score": 1,
-        "date": "2026-06-21"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-21"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.8,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-        "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
-        "score": 158,
+        "title": "The \"I don't know, Claude wrote this\" pandemic",
+        "url": "https://newsletter.manager.dev/p/the-i-don-t-know-claude-wrote-this-pandemic",
+        "score": 10,
         "date": "2026-06-21"
       }
     ],
@@ -116,43 +129,13 @@
     "lastSeen": "2026-06-21"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
+    "toolSlug": "notta",
+    "toolName": "Notta",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
-        "score": 1,
-        "date": "2026-06-21"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-21"
-  },
-  {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
-        "score": 1,
-        "date": "2026-06-21"
-      }
-    ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-21"
-  },
-  {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - CGWORLD.jp",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
         "score": 1,
         "date": "2026-06-21"
       }
@@ -191,18 +174,18 @@
     "lastSeen": "2026-06-21"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
         "score": 1,
         "date": "2026-06-21"
       }
     ],
-    "firstSeen": "2026-06-18",
+    "firstSeen": "2026-06-13",
     "lastSeen": "2026-06-21"
   },
   {
@@ -221,9 +204,69 @@
     "lastSeen": "2026-06-21"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
+        "score": 1,
+        "date": "2026-06-21"
+      }
+    ],
+    "firstSeen": "2026-06-11",
+    "lastSeen": "2026-06-21"
+  },
+  {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
+        "score": 1,
+        "date": "2026-06-21"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-21"
+  },
+  {
+    "toolSlug": "davinci-resolve-21",
+    "toolName": "DaVinci Resolve 21",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - CGWORLD.jp",
+        "score": 1,
+        "date": "2026-06-21"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-21"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "エンタープライズ企業の用地仕入れを強化する新機能をリリース。地権者とつながる不動産AIツール『WHERE』にて、商業登記簿の取得と管理者権限の設定が可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-06-21"
+      }
+    ],
+    "firstSeen": "2026-06-18",
+    "lastSeen": "2026-06-21"
+  },
+  {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -236,24 +279,9 @@
     "lastSeen": "2026-06-20"
   },
   {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-20"
-      }
-    ],
-    "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-20"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -264,20 +292,5 @@
     ],
     "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-19"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-        "score": 1,
-        "date": "2026-06-18"
-      }
-    ],
-    "firstSeen": "2026-06-02",
-    "lastSeen": "2026-06-18"
   }
 ]
