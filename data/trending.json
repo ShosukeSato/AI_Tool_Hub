@@ -6,29 +6,30 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Identity verification on Claude",
-        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "score": 622,
+        "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+        "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+        "score": 132,
         "date": "2026-06-22"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Recall – fully-local project memory for Claude Code",
+        "title": "Show HN: Recall – Local project memory for Claude Code",
         "url": "https://github.com/raiyanyahya/recall",
-        "score": 84,
+        "score": 124,
+        "date": "2026-06-22"
+      },
+      {
+        "source": "hackernews",
+        "title": "Identity verification on Claude",
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+        "score": 834,
         "date": "2026-06-22"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
         "url": "https://github.com/nikitadoudikov/claude-pulse",
-        "score": 34,
-        "date": "2026-06-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "Librex、Anthropicの生成AI「Claude」活用した「Claudeマスター講座」リリース - ICT教育ニュース",
-        "score": 1,
+        "score": 38,
         "date": "2026-06-22"
       }
     ],
@@ -38,13 +39,13 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 7.7,
+    "buzzScore": 5.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
         "url": "https://arrowtsx.dev/bigger-models/",
-        "score": 551,
+        "score": 570,
         "date": "2026-06-22"
       }
     ],
@@ -54,27 +55,27 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 3.6,
+    "buzzScore": 3.2,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+        "url": "https://github.com/0xroylee/ponytrail",
+        "score": 22,
+        "date": "2026-06-22"
+      },
       {
         "source": "hackernews",
         "title": "You're probably using Agent Skills wrong",
         "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
-        "score": 15,
+        "score": 55,
         "date": "2026-06-22"
       },
       {
         "source": "hackernews",
         "title": "Building reliable agentic AI systems",
         "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "score": 186,
-        "date": "2026-06-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "Securing the Future of AI Agents",
-        "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-        "score": 7,
+        "score": 194,
         "date": "2026-06-22"
       },
       {
@@ -94,6 +95,12 @@
         "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
         "score": 1,
         "date": "2026-06-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
+        "score": 1,
+        "date": "2026-06-22"
       }
     ],
     "firstSeen": "2026-04-16",
@@ -102,32 +109,17 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.2,
+    "buzzScore": 3.1,
     "mentions": [
       {
         "source": "hackernews",
         "title": "JSON-LD explained for personal websites",
         "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-        "score": 183,
+        "score": 261,
         "date": "2026-06-22"
       }
     ],
     "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-22"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Student Cheating Is Becoming Impossible to Detect in an A.I. Era - The New York Times",
-        "score": 1,
-        "date": "2026-06-22"
-      }
-    ],
-    "firstSeen": "2026-05-08",
     "lastSeen": "2026-06-22"
   },
   {
@@ -138,6 +130,12 @@
       {
         "source": "googlenews",
         "title": "Android 17 launches with new multitasking tools as Google expands Gemini features - TechCrunch",
+        "score": 1,
+        "date": "2026-06-22"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-06-22"
       },
@@ -179,36 +177,6 @@
       }
     ],
     "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-22"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-06-22"
-      }
-    ],
-    "firstSeen": "2026-06-22",
-    "lastSeen": "2026-06-22"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-22"
-      }
-    ],
-    "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-22"
   },
   {
@@ -257,9 +225,54 @@
     "lastSeen": "2026-06-22"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Student Cheating Is Becoming Impossible to Detect in an A.I. Era - The New York Times",
+        "score": 1,
+        "date": "2026-06-22"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-22"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-22"
+      }
+    ],
+    "firstSeen": "2026-06-22",
+    "lastSeen": "2026-06-22"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-22"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-22"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -274,7 +287,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -289,7 +302,7 @@
   {
     "toolSlug": "davinci-resolve-21",
     "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -304,7 +317,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -319,7 +332,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
