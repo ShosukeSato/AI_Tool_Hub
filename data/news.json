@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-06-22",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Identity verification on Claude",
+    "date": "2026-06-22",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-gpt-5-5-2026-06-22",
+    "type": "trending",
+    "toolSlug": "gpt-5-5",
+    "title": "GPT-5.5 が話題沸騰中（バズスコア: 7.7）",
+    "summary": "hackernewsで注目: GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "date": "2026-06-22",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-gpt-5-5-2026-06-21",
     "type": "trending",
     "toolSlug": "gpt-5-5",
@@ -420,24 +438,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Microsoft starts canceling Claude Code licenses",
     "date": "2026-05-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-05-23",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Open source Kanban desktop app that runs parallel agents on every card",
-    "date": "2026-05-23",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-23",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Microsoft starts canceling Claude Code licenses",
-    "date": "2026-05-23",
     "source": "hackernews"
   }
 ]
