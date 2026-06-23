@@ -8,21 +8,20 @@
         "source": "hackernews",
         "title": "The text in Claude Code’s “Extended Thinking” output",
         "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-        "score": 286,
+        "score": 315,
         "date": "2026-06-23"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Recall – Local project memory for Claude Code",
         "url": "https://github.com/raiyanyahya/recall",
-        "score": 128,
+        "score": 134,
         "date": "2026-06-23"
       },
       {
-        "source": "hackernews",
-        "title": "Identity verification on Claude",
-        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "score": 845,
+        "source": "googlenews",
+        "title": "Claude Code×Slack連携で実現。いつものチャットで勝手にタスクが片付く実装手法を7月31日公開＜参加無料＞（PR TIMES） - 毎日新聞",
+        "score": 1,
         "date": "2026-06-23"
       }
     ],
@@ -30,52 +29,34 @@
     "lastSeen": "2026-06-23"
   },
   {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-        "url": "https://arrowtsx.dev/bigger-models/",
-        "score": 570,
-        "date": "2026-06-22"
-      }
-    ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-22"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "JSON-LD explained for personal websites",
-        "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-        "score": 261,
-        "date": "2026-06-22"
-      }
-    ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-22"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.1,
+    "buzzScore": 6.1,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Who Does What? Team Topologies for the Agentic Platform",
+        "url": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
+        "score": 36,
+        "date": "2026-06-23"
+      },
       {
         "source": "hackernews",
         "title": "Show HN: Oak – Git alternative designed for agents",
         "url": "https://oak.space/oak/oak",
-        "score": 152,
+        "score": 203,
+        "date": "2026-06-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "GLM-5.2 is the step change for open agents",
+        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+        "score": 15,
         "date": "2026-06-23"
       },
       {
         "source": "googlenews",
-        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
         "score": 1,
         "date": "2026-06-23"
       },
@@ -87,18 +68,65 @@
       },
       {
         "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-06-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
         "score": 1,
         "date": "2026-06-23"
       }
     ],
     "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-23"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 4.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "The new HTTP QUERY method explained",
+        "url": "https://kreya.app/blog/new-http-query-method-explained/",
+        "score": 191,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-06-23"
+  },
+  {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 4.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+        "url": "https://openai.com/index/daybreak-securing-the-world/",
+        "score": 156,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-23"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+        "score": 1,
+        "date": "2026-06-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+        "score": 1,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-06-18",
     "lastSeen": "2026-06-23"
   },
   {
@@ -108,78 +136,12 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features - TechCrunch",
-        "score": 1,
-        "date": "2026-06-23"
-      },
-      {
-        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-06-23"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-23"
-  },
-  {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-23"
-  },
-  {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-23"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-23"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-23"
   },
   {
@@ -198,36 +160,6 @@
     "lastSeen": "2026-06-23"
   },
   {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-22",
-    "lastSeen": "2026-06-23"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-23"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
     "buzzScore": 1,
@@ -243,9 +175,84 @@
     "lastSeen": "2026-06-23"
   },
   {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
+        "score": 1,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-23"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-23"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-23"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-23"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-06-22",
+    "lastSeen": "2026-06-23"
+  },
+  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -260,7 +267,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -271,35 +278,5 @@
     ],
     "firstSeen": "2026-06-22",
     "lastSeen": "2026-06-22"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Coinbase’s Base launches AI tool for ChatGPT to manage crypto wallets and DeFi apps - CoinDesk",
-        "score": 1,
-        "date": "2026-06-21"
-      }
-    ],
-    "firstSeen": "2026-06-11",
-    "lastSeen": "2026-06-21"
-  },
-  {
-    "toolSlug": "davinci-resolve-21",
-    "toolName": "DaVinci Resolve 21",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - CGWORLD.jp",
-        "score": 1,
-        "date": "2026-06-21"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-21"
   }
 ]
