@@ -18,6 +18,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-06-24",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 9.3）",
+    "summary": "hackernewsで注目: Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+    "date": "2026-06-24",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-23",
     "type": "trending",
     "toolSlug": "claude",

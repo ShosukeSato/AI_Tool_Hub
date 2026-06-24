@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Claude Tag",
         "url": "https://www.anthropic.com/news/introducing-claude-tag",
-        "score": 237,
+        "score": 257,
         "date": "2026-06-24"
       },
       {
@@ -34,54 +34,42 @@
     "lastSeen": "2026-06-24"
   },
   {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 8.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-        "url": "https://openai.com/index/daybreak-securing-the-world/",
-        "score": 206,
-        "date": "2026-06-24"
-      }
-    ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-24"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 4.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "The new HTTP QUERY method explained",
-        "url": "https://kreya.app/blog/new-http-query-method-explained/",
-        "score": 191,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-23"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.4,
+    "buzzScore": 9.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-        "url": "https://github.com/y-times-y/y",
-        "score": 23,
+        "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+        "url": "https://haystack.deepset.ai/",
+        "score": 25,
+        "date": "2026-06-24"
+      },
+      {
+        "source": "hackernews",
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "url": "https://arxiv.org/abs/2606.24597",
+        "score": 155,
         "date": "2026-06-24"
       },
       {
         "source": "hackernews",
         "title": "Show HN: RLM-based local debugger for AI agent traces",
         "url": "https://github.com/context-labs/halo",
-        "score": 12,
+        "score": 23,
+        "date": "2026-06-24"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+        "url": "https://github.com/y-times-y/y",
+        "score": 32,
+        "date": "2026-06-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
         "date": "2026-06-24"
       },
       {
@@ -105,6 +93,38 @@
     ],
     "firstSeen": "2026-04-16",
     "lastSeen": "2026-06-24"
+  },
+  {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 8.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+        "url": "https://openai.com/index/daybreak-securing-the-world/",
+        "score": 213,
+        "date": "2026-06-24"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-24"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 3.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "The new HTTP QUERY method explained",
+        "url": "https://kreya.app/blog/new-http-query-method-explained/",
+        "score": 191,
+        "date": "2026-06-23"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-06-23"
   },
   {
     "toolSlug": "gemini",
@@ -155,7 +175,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
+        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
         "score": 1,
         "date": "2026-06-24"
       }
@@ -176,21 +196,6 @@
       }
     ],
     "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-24"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-06-24"
-      }
-    ],
-    "firstSeen": "2026-06-22",
     "lastSeen": "2026-06-24"
   },
   {
@@ -224,9 +229,24 @@
     "lastSeen": "2026-06-24"
   },
   {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-24"
+      }
+    ],
+    "firstSeen": "2026-06-22",
+    "lastSeen": "2026-06-24"
+  },
+  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -241,7 +261,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -256,7 +276,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -271,7 +291,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",

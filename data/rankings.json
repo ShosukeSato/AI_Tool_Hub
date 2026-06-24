@@ -102,7 +102,7 @@
     "toolSlug": "gemma-4",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 9,
     "lastCalculated": "2026-06-24"
@@ -163,9 +163,9 @@
   },
   {
     "toolSlug": "gpt-5-5",
-    "overall": 8.7,
+    "overall": 8.6,
     "performance": 9,
-    "buzz": 8.7,
+    "buzz": 8.4,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-06-24"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.6,
+    "overall": 7.6,
     "performance": 6,
-    "buzz": 2.4,
+    "buzz": 9.3,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-06-24"
@@ -622,9 +622,9 @@
   },
   {
     "toolSlug": "adobe-firefly",
-    "overall": 6.1,
+    "overall": 6,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-06-24"
@@ -804,7 +804,7 @@
     "toolSlug": "com",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-06-24"
@@ -1623,7 +1623,7 @@
     "toolSlug": "notta",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-06-24"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7.4,
     "performance": 7,
-    "buzz": 4.3,
+    "buzz": 3.9,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-06-24"
@@ -2784,7 +2784,7 @@
     "toolSlug": "mythos",
     "overall": 6.1,
     "performance": 10,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 4,
     "lastCalculated": "2026-06-24"
