@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-06-24",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Tag",
+    "date": "2026-06-24",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-gpt-5-5-2026-06-24",
+    "type": "trending",
+    "toolSlug": "gpt-5-5",
+    "title": "GPT-5.5 が話題沸騰中（バズスコア: 8.7）",
+    "summary": "hackernewsで注目: OpenAI DayBreak – GPT-5.5-Cyber",
+    "date": "2026-06-24",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-23",
     "type": "trending",
     "toolSlug": "claude",
@@ -420,24 +438,6 @@
     "title": "DeepSeek が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "date": "2026-05-26",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-25",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude is not your architect. Stop letting it pretend",
-    "date": "2026-05-25",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-deepseek-2026-05-25",
-    "type": "trending",
-    "toolSlug": "deepseek",
-    "title": "DeepSeek が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "date": "2026-05-25",
     "source": "hackernews"
   }
 ]
