@@ -1,21 +1,49 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "GLM-5.2 is a step change for open agents",
-        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "score": 138,
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "score": 591,
+        "date": "2026-06-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
+        "score": 1,
+        "date": "2026-06-25"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "score": 1,
+        "date": "2026-06-25"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-06-25"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 9.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+        "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
+        "score": 21,
         "date": "2026-06-25"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
-        "url": "https://github.com/NotASithLord/peerd",
-        "score": 58,
+        "title": "GLM-5.2 is a step change for open agents",
+        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+        "score": 295,
         "date": "2026-06-25"
       },
       {
@@ -27,16 +55,9 @@
       },
       {
         "source": "hackernews",
-        "title": "Omnigent: Open-source meta harness for agents",
-        "url": "https://github.com/omnigent-ai/omnigent",
-        "score": 4,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-        "url": "https://haystack.deepset.ai/",
-        "score": 86,
+        "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+        "url": "https://github.com/NotASithLord/peerd",
+        "score": 63,
         "date": "2026-06-25"
       },
       {
@@ -64,7 +85,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 7.6,
+    "buzzScore": 6.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -80,7 +101,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -94,48 +115,15 @@
     "lastSeen": "2026-06-23"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 2.8,
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "score": 97,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
-        "score": 1,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-        "score": 1,
-        "date": "2026-06-25"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-25"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-        "score": 1,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-        "score": 1,
+        "title": "Where every major LLM stands politically",
+        "url": "https://trakkr.ai/bias",
+        "score": 13,
         "date": "2026-06-25"
       }
     ],
@@ -191,6 +179,21 @@
     "lastSeen": "2026-06-25"
   },
   {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "企業向けAIのリーディングカンパニーFelo、「AWS Summit Japan 2026」に参加 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-25"
+      }
+    ],
+    "firstSeen": "2026-06-25",
+    "lastSeen": "2026-06-25"
+  },
+  {
     "toolSlug": "notta",
     "toolName": "Notta",
     "buzzScore": 1,
@@ -203,36 +206,6 @@
       }
     ],
     "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-25"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-06-25"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-25"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-25"
-      }
-    ],
-    "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-25"
   },
   {
@@ -251,9 +224,39 @@
     "lastSeen": "2026-06-25"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-25"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-25"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-25"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-25"
+  },
+  {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -268,7 +271,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -278,36 +281,6 @@
       }
     ],
     "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-23"
-  },
-  {
-    "toolSlug": "gemma-4",
-    "toolName": "Gemma 4",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model - blog.google",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-23"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-22",
     "lastSeen": "2026-06-23"
   }
 ]
