@@ -1,103 +1,70 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Tag",
-        "url": "https://www.anthropic.com/news/introducing-claude-tag",
-        "score": 257,
-        "date": "2026-06-24"
+        "title": "GLM-5.2 is a step change for open agents",
+        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+        "score": 138,
+        "date": "2026-06-25"
       },
-      {
-        "source": "googlenews",
-        "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
-        "score": 1,
-        "date": "2026-06-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Claude Code×Slack連携で実現。いつものチャットで勝手にタスクが片付く実装手法を7月31日公開＜参加無料＞（PR TIMES） - 毎日新聞",
-        "score": 1,
-        "date": "2026-06-24"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-        "score": 1,
-        "date": "2026-06-24"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-24"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 9.3,
-    "mentions": [
       {
         "source": "hackernews",
-        "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-        "url": "https://haystack.deepset.ai/",
-        "score": 25,
-        "date": "2026-06-24"
+        "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+        "url": "https://github.com/NotASithLord/peerd",
+        "score": 58,
+        "date": "2026-06-25"
       },
       {
         "source": "hackernews",
         "title": "Qwen-AgentWorld: Language World Models for General Agents",
         "url": "https://arxiv.org/abs/2606.24597",
-        "score": 155,
-        "date": "2026-06-24"
+        "score": 196,
+        "date": "2026-06-25"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: RLM-based local debugger for AI agent traces",
-        "url": "https://github.com/context-labs/halo",
-        "score": 23,
-        "date": "2026-06-24"
+        "title": "Omnigent: Open-source meta harness for agents",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "score": 4,
+        "date": "2026-06-25"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-        "url": "https://github.com/y-times-y/y",
-        "score": 32,
-        "date": "2026-06-24"
+        "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+        "url": "https://haystack.deepset.ai/",
+        "score": 86,
+        "date": "2026-06-25"
       },
       {
         "source": "googlenews",
         "title": "Meta enters enterprise AI race with new business agent - Reuters",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       },
       {
         "source": "googlenews",
         "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
         "score": 1,
-        "date": "2026-06-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
-        "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       },
       {
         "source": "techcrunch",
         "title": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agents",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-24"
+    "lastSeen": "2026-06-25"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 8.4,
+    "buzzScore": 7.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -113,7 +80,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.9,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -127,25 +94,32 @@
     "lastSeen": "2026-06-23"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 2.8,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-06-24"
+        "source": "hackernews",
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "score": 97,
+        "date": "2026-06-25"
       },
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "score": 1,
+        "date": "2026-06-25"
       }
     ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-24"
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-06-25"
   },
   {
     "toolSlug": "where",
@@ -156,17 +130,17 @@
         "source": "techcrunch",
         "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       },
       {
         "source": "techcrunch",
         "title": "The running list: major tech layoffs in 2026 where employers cited AI",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       }
     ],
     "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-24"
+    "lastSeen": "2026-06-25"
   },
   {
     "toolSlug": "era",
@@ -175,13 +149,61 @@
     "mentions": [
       {
         "source": "googlenews",
+        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
+        "score": 1,
+        "date": "2026-06-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-06-25"
+      },
+      {
+        "source": "googlenews",
         "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-24"
+    "lastSeen": "2026-06-25"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-06-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-06-25"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-06-25"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-25"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-25"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -192,11 +214,11 @@
         "source": "googlenews",
         "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       }
     ],
     "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-24"
+    "lastSeen": "2026-06-25"
   },
   {
     "toolSlug": "elevenlabs",
@@ -207,11 +229,11 @@
         "source": "googlenews",
         "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       }
     ],
     "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-24"
+    "lastSeen": "2026-06-25"
   },
   {
     "toolSlug": "findy-ai",
@@ -222,16 +244,16 @@
         "source": "googlenews",
         "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
         "score": 1,
-        "date": "2026-06-24"
+        "date": "2026-06-25"
       }
     ],
     "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-24"
+    "lastSeen": "2026-06-25"
   },
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -246,7 +268,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -261,7 +283,7 @@
   {
     "toolSlug": "gemma-4",
     "toolName": "Gemma 4",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -274,24 +296,9 @@
     "lastSeen": "2026-06-23"
   },
   {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-23"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
