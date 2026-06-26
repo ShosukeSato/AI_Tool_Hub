@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
         "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "score": 752,
+        "score": 772,
         "date": "2026-06-26"
       }
     ],
@@ -18,7 +18,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 6.1,
+    "buzzScore": 5.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -34,20 +34,19 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.5,
+    "buzzScore": 5.2,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP",
-        "url": "MIT) (https://github.com/runtypelabs/persona",
-        "score": 23,
-        "date": "2026-06-26"
-      },
       {
         "source": "hackernews",
         "title": "GLM-5.2 is a step change for open agents",
         "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "score": 351,
+        "score": 358,
+        "date": "2026-06-26"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
         "date": "2026-06-26"
       },
       {
@@ -59,6 +58,12 @@
       {
         "source": "googlenews",
         "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
+        "score": 1,
+        "date": "2026-06-26"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
         "score": 1,
         "date": "2026-06-26"
       },
@@ -79,9 +84,25 @@
     "lastSeen": "2026-06-26"
   },
   {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 2.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Political bias in AI: Where the AI models stand",
+        "url": "https://trakkr.ai/bias",
+        "score": 154,
+        "date": "2026-06-26"
+      }
+    ],
+    "firstSeen": "2026-06-18",
+    "lastSeen": "2026-06-26"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -95,26 +116,16 @@
     "lastSeen": "2026-06-23"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 2.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Political bias in AI: Where the AI models stand",
-        "url": "https://trakkr.ai/bias",
-        "score": 126,
-        "date": "2026-06-26"
-      }
-    ],
-    "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-26"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
     "buzzScore": 1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
+        "score": 1,
+        "date": "2026-06-26"
+      },
       {
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
@@ -130,6 +141,12 @@
     "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-06-26"
+      },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
@@ -153,21 +170,6 @@
       }
     ],
     "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-26"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-26"
-      }
-    ],
-    "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-26"
   },
   {
@@ -216,9 +218,24 @@
     "lastSeen": "2026-06-26"
   },
   {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-26"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-26"
+  },
+  {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -229,20 +246,5 @@
     ],
     "firstSeen": "2026-06-25",
     "lastSeen": "2026-06-25"
-  },
-  {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-06-24"
-      }
-    ],
-    "firstSeen": "2026-06-22",
-    "lastSeen": "2026-06-24"
   }
 ]
