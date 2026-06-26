@@ -8,84 +8,17 @@
         "source": "hackernews",
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
         "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "score": 591,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
-        "score": 1,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-        "score": 1,
-        "date": "2026-06-25"
+        "score": 752,
+        "date": "2026-06-26"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-25"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 9.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
-        "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
-        "score": 21,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "GLM-5.2 is a step change for open agents",
-        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-        "score": 295,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Qwen-AgentWorld: Language World Models for General Agents",
-        "url": "https://arxiv.org/abs/2606.24597",
-        "score": 196,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
-        "url": "https://github.com/NotASithLord/peerd",
-        "score": 63,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
-        "score": 1,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agents",
-        "score": 1,
-        "date": "2026-06-25"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-25"
+    "lastSeen": "2026-06-26"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 6.8,
+    "buzzScore": 6.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -99,9 +32,56 @@
     "lastSeen": "2026-06-24"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 5.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP",
+        "url": "MIT) (https://github.com/runtypelabs/persona",
+        "score": 23,
+        "date": "2026-06-26"
+      },
+      {
+        "source": "hackernews",
+        "title": "GLM-5.2 is a step change for open agents",
+        "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+        "score": 351,
+        "date": "2026-06-26"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-26"
+      },
+      {
+        "source": "googlenews",
+        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
+        "score": 1,
+        "date": "2026-06-26"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "score": 1,
+        "date": "2026-06-26"
+      },
+      {
+        "source": "techcrunch",
+        "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
+        "score": 1,
+        "date": "2026-06-26"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-26"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -117,18 +97,18 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.2,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Where every major LLM stands politically",
+        "title": "Political bias in AI: Where the AI models stand",
         "url": "https://trakkr.ai/bias",
-        "score": 13,
-        "date": "2026-06-25"
+        "score": 126,
+        "date": "2026-06-26"
       }
     ],
     "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-25"
+    "lastSeen": "2026-06-26"
   },
   {
     "toolSlug": "era",
@@ -137,25 +117,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
-        "score": 1,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
-        "score": 1,
-        "date": "2026-06-25"
+        "date": "2026-06-26"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-25"
+    "lastSeen": "2026-06-26"
   },
   {
     "toolSlug": "gemini",
@@ -164,24 +132,93 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-06-25"
-      },
-      {
-        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-06-25"
+        "date": "2026-06-26"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-25"
+    "lastSeen": "2026-06-26"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-26"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-26"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-26"
+      }
+    ],
+    "firstSeen": "2026-05-22",
+    "lastSeen": "2026-06-26"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-26"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-26"
+  },
+  {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-26"
+      }
+    ],
+    "firstSeen": "2026-06-13",
+    "lastSeen": "2026-06-26"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "score": 1,
+        "date": "2026-06-26"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-06-26"
   },
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -194,69 +231,9 @@
     "lastSeen": "2026-06-25"
   },
   {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-25"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-25"
-  },
-  {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-25"
-      }
-    ],
-    "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-25"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-06-25"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-25"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-25"
-      }
-    ],
-    "firstSeen": "2026-05-22",
-    "lastSeen": "2026-06-25"
-  },
-  {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -267,20 +244,5 @@
     ],
     "firstSeen": "2026-06-22",
     "lastSeen": "2026-06-24"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "From PGP to Mythos: a brief history of export controls that didn&#8217;t stop anyone",
-        "score": 1,
-        "date": "2026-06-23"
-      }
-    ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-23"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-06-26",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "date": "2026-06-26",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-06-25",
     "type": "trending",
     "toolSlug": "agent",
@@ -447,24 +456,6 @@
     "title": "DeepSeek が話題沸騰中（バズスコア: 7.3）",
     "summary": "hackernewsで注目: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "date": "2026-05-28",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-deepseek-2026-05-27",
-    "type": "trending",
-    "toolSlug": "deepseek",
-    "title": "DeepSeek が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-    "date": "2026-05-27",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-27",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-    "date": "2026-05-27",
     "source": "hackernews"
   }
 ]
