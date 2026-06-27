@@ -8,14 +8,21 @@
         "source": "hackernews",
         "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
         "url": "https://github.com/workweave/router",
-        "score": 151,
+        "score": 182,
         "date": "2026-06-27"
       },
       {
         "source": "hackernews",
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
         "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "score": 790,
+        "score": 796,
+        "date": "2026-06-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "OpenTag: An open-source alternative to Claude in Slack",
+        "url": "https://github.com/CopilotKit/OpenTag/",
+        "score": 11,
         "date": "2026-06-27"
       }
     ],
@@ -23,9 +30,37 @@
     "lastSeen": "2026-06-27"
   },
   {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 5.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+        "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "score": 485,
+        "date": "2026-06-27"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
+        "score": 1,
+        "date": "2026-06-27"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "score": 1,
+        "date": "2026-06-27"
+      }
+    ],
+    "firstSeen": "2026-06-27",
+    "lastSeen": "2026-06-27"
+  },
+  {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 5,
+    "buzzScore": 4.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -47,7 +82,7 @@
         "source": "hackernews",
         "title": "Political bias in AI: Where the AI models stand",
         "url": "https://trakkr.ai/bias",
-        "score": 167,
+        "score": 174,
         "date": "2026-06-27"
       }
     ],
@@ -57,7 +92,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -73,20 +108,20 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.3,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
         "url": "https://www.agent-kits.com",
-        "score": 13,
+        "score": 29,
         "date": "2026-06-27"
       },
       {
         "source": "hackernews",
-        "title": "Murmur: Shared communication bus for your coding agents",
-        "url": "https://github.com/instavm/murmur",
-        "score": 11,
+        "title": "Ornith-1.0: A family of open-source LLMs specialized for agentic coding",
+        "url": "https://twitter.com/ornith_/status/2070148887067963854",
+        "score": 6,
         "date": "2026-06-27"
       },
       {
@@ -98,6 +133,12 @@
       {
         "source": "googlenews",
         "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-27"
+      },
+      {
+        "source": "googlenews",
+        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
         "score": 1,
         "date": "2026-06-27"
       },
@@ -136,12 +177,6 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
-        "score": 1,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
         "date": "2026-06-27"
@@ -157,13 +192,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "新機能5個！2026年6月版「Gemini Drops」 - jetstream.blog",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-06-27"
       },
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "title": "新機能5個！2026年6月版「Gemini Drops」 - jetstream.blog",
         "score": 1,
         "date": "2026-06-27"
       }
@@ -172,18 +207,18 @@
     "lastSeen": "2026-06-27"
   },
   {
-    "toolSlug": "felo",
-    "toolName": "Felo",
+    "toolSlug": "dify",
+    "toolName": "Dify",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "企業向けAIのリーディングカンパニーFelo、「AWS Summit Japan 2026」に参加 - PR TIMES",
+        "title": "株式会社Omlucの【Difyセルフホスト・プライベート】が「デジタル化・AI導入補助金2026」の対象ITツールに採択されました。 - PR TIMES",
         "score": 1,
         "date": "2026-06-27"
       }
     ],
-    "firstSeen": "2026-06-25",
+    "firstSeen": "2026-06-27",
     "lastSeen": "2026-06-27"
   },
   {
@@ -202,18 +237,18 @@
     "lastSeen": "2026-06-27"
   },
   {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
         "score": 1,
         "date": "2026-06-27"
       }
     ],
-    "firstSeen": "2026-06-27",
+    "firstSeen": "2026-06-13",
     "lastSeen": "2026-06-27"
   },
   {
@@ -232,9 +267,24 @@
     "lastSeen": "2026-06-27"
   },
   {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "企業向けAIのリーディングカンパニーFelo、「AWS Summit Japan 2026」に参加 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-27"
+      }
+    ],
+    "firstSeen": "2026-06-25",
+    "lastSeen": "2026-06-27"
+  },
+  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -247,24 +297,9 @@
     "lastSeen": "2026-06-26"
   },
   {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-26"
-      }
-    ],
-    "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-26"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
