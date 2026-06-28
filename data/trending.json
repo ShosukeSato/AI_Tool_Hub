@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Asian AI startups launch Mythos-like models",
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-        "score": 165,
+        "score": 252,
         "date": "2026-06-28"
       },
       {
@@ -36,7 +36,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 9,
+    "buzzScore": 8.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -66,13 +66,13 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 6.6,
+    "buzzScore": 5.2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
         "url": "https://github.com/kageroumado/adrafinil",
-        "score": 98,
+        "score": 113,
         "date": "2026-06-28"
       },
       {
@@ -118,7 +118,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 4.1,
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -132,9 +132,25 @@
     "lastSeen": "2026-06-24"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 3.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+        "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+        "score": 62,
+        "date": "2026-06-28"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-06-28"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -150,7 +166,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -164,20 +180,20 @@
     "lastSeen": "2026-06-28"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.9,
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The new HTTP QUERY method explained",
-        "url": "https://kreya.app/blog/new-http-query-method-explained/",
-        "score": 191,
-        "date": "2026-06-23"
+        "title": "Grok Is More Important Than Clean Air, DOJ Says",
+        "url": "https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai/",
+        "score": 6,
+        "date": "2026-06-28"
       }
     ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-23"
+    "firstSeen": "2026-06-28",
+    "lastSeen": "2026-06-28"
   },
   {
     "toolSlug": "era",
@@ -186,13 +202,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
+        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
         "score": 1,
         "date": "2026-06-28"
       },
       {
         "source": "googlenews",
-        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
+        "title": "A new era for AI Search - blog.google",
         "score": 1,
         "date": "2026-06-28"
       }
@@ -260,7 +276,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -275,7 +291,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -290,7 +306,7 @@
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -305,7 +321,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -315,21 +331,6 @@
       }
     ],
     "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-26"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-06-26"
-      }
-    ],
-    "firstSeen": "2026-05-22",
     "lastSeen": "2026-06-26"
   }
 ]

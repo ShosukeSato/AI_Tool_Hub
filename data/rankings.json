@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 8.2,
+    "overall": 8,
     "performance": 9,
-    "buzz": 9,
+    "buzz": 8.1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-06-28"
@@ -37,9 +37,9 @@
   },
   {
     "toolSlug": "grok",
-    "overall": 5.4,
+    "overall": 5.5,
     "performance": 6,
-    "buzz": 0.6,
+    "buzz": 1.2,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-06-28"
@@ -163,9 +163,9 @@
   },
   {
     "toolSlug": "gpt-5-5",
-    "overall": 8,
+    "overall": 7.9,
     "performance": 9,
-    "buzz": 4.1,
+    "buzz": 3.7,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-06-28"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 7.2,
+    "overall": 7,
     "performance": 6,
-    "buzz": 6.6,
+    "buzz": 5.2,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-06-28"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.7,
     "performance": 9,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-06-28"
@@ -777,7 +777,7 @@
     "toolSlug": "felo",
     "overall": 6.4,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-06-28"
@@ -849,7 +849,7 @@
     "toolSlug": "dify",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-06-28"
@@ -892,9 +892,9 @@
   },
   {
     "toolSlug": "rakuten-ai",
-    "overall": 7.2,
+    "overall": 7.1,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-06-28"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.5,
     "performance": 8,
-    "buzz": 1.9,
+    "buzz": 1.7,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-06-28"
@@ -1893,7 +1893,7 @@
     "toolSlug": "findy-ai",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-06-28"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7.1,
+    "overall": 7.3,
     "performance": 7,
-    "buzz": 1.9,
+    "buzz": 3.2,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-06-28"
