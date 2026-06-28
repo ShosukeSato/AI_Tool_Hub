@@ -1,8 +1,42 @@
 [
   {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Asian AI startups launch Mythos-like models",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "score": 165,
+        "date": "2026-06-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch",
+        "score": 1,
+        "date": "2026-06-28"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
+        "score": 1,
+        "date": "2026-06-28"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+        "score": 1,
+        "date": "2026-06-28"
+      }
+    ],
+    "firstSeen": "2026-06-27",
+    "lastSeen": "2026-06-28"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 10,
+    "buzzScore": 9,
     "mentions": [
       {
         "source": "hackernews",
@@ -30,37 +64,61 @@
     "lastSeen": "2026-06-27"
   },
   {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 5.4,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-        "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-        "score": 485,
-        "date": "2026-06-27"
+        "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+        "url": "https://github.com/kageroumado/adrafinil",
+        "score": 98,
+        "date": "2026-06-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
+        "date": "2026-06-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
+        "score": 1,
+        "date": "2026-06-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
+        "score": 1,
+        "date": "2026-06-28"
       },
       {
         "source": "techcrunch",
-        "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
         "score": 1,
-        "date": "2026-06-27"
+        "date": "2026-06-28"
       },
       {
         "source": "techcrunch",
-        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
         "score": 1,
-        "date": "2026-06-27"
+        "date": "2026-06-28"
       }
     ],
-    "firstSeen": "2026-06-27",
-    "lastSeen": "2026-06-27"
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-28"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 4.5,
+    "buzzScore": 4.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -76,7 +134,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -90,9 +148,25 @@
     "lastSeen": "2026-06-27"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Peppa Pig studio wants to clone child actors' voices with AI indefinitely",
+        "url": "https://www.gadgetreview.com/peppa-pigs-ai-voice-clause-draws-nearly-1000-industry-objections",
+        "score": 17,
+        "date": "2026-06-28"
+      }
+    ],
+    "firstSeen": "2026-06-28",
+    "lastSeen": "2026-06-28"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -106,110 +180,87 @@
     "lastSeen": "2026-06-23"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
-        "url": "https://www.agent-kits.com",
-        "score": 29,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "Ornith-1.0: A family of open-source LLMs specialized for agentic coding",
-        "url": "https://twitter.com/ornith_/status/2070148887067963854",
-        "score": 6,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
-        "score": 1,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
-        "score": 1,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
-        "score": 1,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
-        "score": 1,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-        "score": 1,
-        "date": "2026-06-27"
-      },
-      {
-        "source": "techcrunch",
-        "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
-        "score": 1,
-        "date": "2026-06-27"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-27"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-06-27"
+        "date": "2026-06-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
+        "score": 1,
+        "date": "2026-06-28"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-27"
+    "lastSeen": "2026-06-28"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features - TechCrunch",
+        "score": 1,
+        "date": "2026-06-28"
+      },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-06-27"
+        "date": "2026-06-28"
       },
       {
         "source": "googlenews",
         "title": "新機能5個！2026年6月版「Gemini Drops」 - jetstream.blog",
         "score": 1,
-        "date": "2026-06-27"
+        "date": "2026-06-28"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-27"
+    "lastSeen": "2026-06-28"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "score": 1,
+        "date": "2026-06-28"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-06-28"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-06-28"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-28"
   },
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -222,24 +273,9 @@
     "lastSeen": "2026-06-27"
   },
   {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-27"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-27"
-  },
-  {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -252,24 +288,9 @@
     "lastSeen": "2026-06-27"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
-        "score": 1,
-        "date": "2026-06-27"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-06-27"
-  },
-  {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -284,7 +305,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -299,7 +320,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",

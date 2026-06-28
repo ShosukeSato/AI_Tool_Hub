@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-mythos-2026-06-28",
+    "type": "trending",
+    "toolSlug": "mythos",
+    "title": "Mythos が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Asian AI startups launch Mythos-like models",
+    "date": "2026-06-28",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-06-28",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "date": "2026-06-28",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-06-27",
     "type": "trending",
     "toolSlug": "claude",
@@ -438,15 +456,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Opus 4.8",
     "date": "2026-05-30",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-29",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Opus 4.8",
-    "date": "2026-05-29",
     "source": "hackernews"
   }
 ]
