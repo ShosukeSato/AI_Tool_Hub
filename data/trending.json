@@ -8,14 +8,14 @@
         "source": "hackernews",
         "title": "GLM 5.2 beats Claude in our benchmarks",
         "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "score": 552,
+        "score": 1021,
         "date": "2026-06-29"
       },
       {
         "source": "hackernews",
         "title": "I used Claude Code to get a second opinion on my MRI",
         "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-        "score": 367,
+        "score": 522,
         "date": "2026-06-29"
       }
     ],
@@ -23,17 +23,140 @@
     "lastSeen": "2026-06-29"
   },
   {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 3.7,
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Asian AI startups launch Mythos-like models",
-        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-        "score": 267,
+        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+        "url": "https://openai.com/index/daybreak-securing-the-world/",
+        "score": 213,
+        "date": "2026-06-24"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-06-24"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+        "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+        "score": 62,
+        "date": "2026-06-28"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-06-28"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Herdr: Agent multiplexer that lives in your terminal",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "score": 115,
         "date": "2026-06-29"
       },
+      {
+        "source": "hackernews",
+        "title": "Lore – Give your coding agent the decisions your team made",
+        "url": "https://github.com/itsthelore/rac-core",
+        "score": 40,
+        "date": "2026-06-29"
+      },
+      {
+        "source": "hackernews",
+        "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+        "url": "https://deep-reinforce.com/ornith_1_0.html",
+        "score": 34,
+        "date": "2026-06-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "TikTok brings agentic AI, new ad tools to MENA brands at Cannes Lions 2026 - Arab News PK",
+        "score": 1,
+        "date": "2026-06-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
+        "date": "2026-06-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
+        "score": 1,
+        "date": "2026-06-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
+        "score": 1,
+        "date": "2026-06-29"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "score": 1,
+        "date": "2026-06-29"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-29"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Political bias in AI: Where the AI models stand",
+        "url": "https://trakkr.ai/bias",
+        "score": 174,
+        "date": "2026-06-27"
+      }
+    ],
+    "firstSeen": "2026-06-18",
+    "lastSeen": "2026-06-27"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Peppa Pig studio wants to clone child actors' voices with AI indefinitely",
+        "url": "https://www.gadgetreview.com/peppa-pigs-ai-voice-clause-draws-nearly-1000-industry-objections",
+        "score": 17,
+        "date": "2026-06-28"
+      }
+    ],
+    "firstSeen": "2026-06-28",
+    "lastSeen": "2026-06-28"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
         "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch",
@@ -57,55 +180,25 @@
     "lastSeen": "2026-06-29"
   },
   {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 3.3,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-        "url": "https://openai.com/index/daybreak-securing-the-world/",
-        "score": 213,
-        "date": "2026-06-24"
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-06-29"
       }
     ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-24"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-        "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
-        "score": 62,
-        "date": "2026-06-28"
-      }
-    ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-06-28"
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-29"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 2.5,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google limits Meta's use of its Gemini AI models",
-        "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-        "score": 146,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features - TechCrunch",
-        "score": 1,
-        "date": "2026-06-29"
-      },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
@@ -120,121 +213,6 @@
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-29"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Political bias in AI: Where the AI models stand",
-        "url": "https://trakkr.ai/bias",
-        "score": 174,
-        "date": "2026-06-27"
-      }
-    ],
-    "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-27"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Peppa Pig studio wants to clone child actors' voices with AI indefinitely",
-        "url": "https://www.gadgetreview.com/peppa-pigs-ai-voice-clause-draws-nearly-1000-industry-objections",
-        "score": 17,
-        "date": "2026-06-28"
-      }
-    ],
-    "firstSeen": "2026-06-28",
-    "lastSeen": "2026-06-28"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "url": "https://deep-reinforce.com/ornith_1_0.html",
-        "score": 19,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "techcrunch",
-        "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
-        "score": 1,
-        "date": "2026-06-29"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-29"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Grok Is More Important Than Clean Air, DOJ Says",
-        "url": "https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai/",
-        "score": 6,
-        "date": "2026-06-28"
-      }
-    ],
-    "firstSeen": "2026-06-28",
-    "lastSeen": "2026-06-28"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
-        "score": 1,
-        "date": "2026-06-29"
-      }
-    ],
-    "firstSeen": "2026-05-08",
     "lastSeen": "2026-06-29"
   },
   {
@@ -253,18 +231,18 @@
     "lastSeen": "2026-06-29"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
         "score": 1,
         "date": "2026-06-29"
       }
     ],
-    "firstSeen": "2026-06-21",
+    "firstSeen": "2026-06-13",
     "lastSeen": "2026-06-29"
   },
   {
@@ -283,9 +261,40 @@
     "lastSeen": "2026-06-29"
   },
   {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Grok Is More Important Than Clean Air, DOJ Says",
+        "url": "https://www.motherjones.com/environment/2026/06/grok-doj-justice-naacp-clean-air-act-gas-turbine-pollution-national-security-ai/",
+        "score": 6,
+        "date": "2026-06-28"
+      }
+    ],
+    "firstSeen": "2026-06-28",
+    "lastSeen": "2026-06-28"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-29"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-29"
+  },
+  {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -295,36 +304,6 @@
       }
     ],
     "firstSeen": "2026-06-27",
-    "lastSeen": "2026-06-27"
-  },
-  {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-27"
-      }
-    ],
-    "firstSeen": "2026-06-13",
-    "lastSeen": "2026-06-27"
-  },
-  {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "企業向けAIのリーディングカンパニーFelo、「AWS Summit Japan 2026」に参加 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-27"
-      }
-    ],
-    "firstSeen": "2026-06-25",
     "lastSeen": "2026-06-27"
   }
 ]
