@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-06-29",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: GLM 5.2 beats Claude in our benchmarks",
+    "date": "2026-06-29",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-mythos-2026-06-28",
     "type": "trending",
     "toolSlug": "mythos",
@@ -447,15 +456,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Opus 4.8",
     "date": "2026-05-31",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-05-30",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Opus 4.8",
-    "date": "2026-05-30",
     "source": "hackernews"
   }
 ]
