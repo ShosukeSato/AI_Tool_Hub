@@ -8,24 +8,97 @@
         "source": "hackernews",
         "title": "GLM 5.2 beats Claude in our benchmarks",
         "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "score": 1021,
-        "date": "2026-06-29"
+        "score": 1066,
+        "date": "2026-06-30"
       },
       {
         "source": "hackernews",
         "title": "I used Claude Code to get a second opinion on my MRI",
         "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-        "score": 522,
-        "date": "2026-06-29"
+        "score": 549,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "score": 1,
+        "date": "2026-06-30"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-06-29"
+    "lastSeen": "2026-06-30"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 3.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "url": "https://github.com/deepreinforce-ai/Ornith-1",
+        "score": 166,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "hackernews",
+        "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+        "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+        "score": 58,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "hackernews",
+        "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+        "url": "https://deep-reinforce.com/ornith_1_0.html",
+        "score": 60,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "hackernews",
+        "title": "Herdr: Agent multiplexer that lives in your terminal",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "score": 146,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "TikTok brings agentic AI, new ad tools to MENA brands at Cannes Lions 2026 - Arab News PK",
+        "score": 1,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
+        "score": 1,
+        "date": "2026-06-30"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-06-30"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -41,7 +114,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -55,75 +128,9 @@
     "lastSeen": "2026-06-28"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Herdr: Agent multiplexer that lives in your terminal",
-        "url": "https://github.com/ogulcancelik/herdr",
-        "score": 115,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "hackernews",
-        "title": "Lore – Give your coding agent the decisions your team made",
-        "url": "https://github.com/itsthelore/rac-core",
-        "score": 40,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "hackernews",
-        "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-        "url": "https://deep-reinforce.com/ornith_1_0.html",
-        "score": 34,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "TikTok brings agentic AI, new ad tools to MENA brands at Cannes Lions 2026 - Arab News PK",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "Coinbase launches tool to let AI agents manage trading and payments - CNBC",
-        "score": 1,
-        "date": "2026-06-29"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-        "score": 1,
-        "date": "2026-06-29"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-06-29"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -139,7 +146,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -153,6 +160,50 @@
     "lastSeen": "2026-06-28"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+        "url": "https://github.com/SMJAI/open-memory-protocol",
+        "score": 13,
+        "date": "2026-06-30"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-06-30"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ACL 1.0: A source-available commercial license for the AI era",
+        "url": "https://www.auditablelicense.org/",
+        "score": 18,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
+        "score": 1,
+        "date": "2026-06-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-06-30"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-06-30"
+  },
+  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
     "buzzScore": 1,
@@ -161,38 +212,23 @@
         "source": "googlenews",
         "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch",
         "score": 1,
-        "date": "2026-06-29"
+        "date": "2026-06-30"
       },
       {
         "source": "techcrunch",
         "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
         "score": 1,
-        "date": "2026-06-29"
+        "date": "2026-06-30"
       },
       {
         "source": "techcrunch",
-        "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+        "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
         "score": 1,
-        "date": "2026-06-29"
+        "date": "2026-06-30"
       }
     ],
     "firstSeen": "2026-06-27",
-    "lastSeen": "2026-06-29"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-06-29"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-06-29"
+    "lastSeen": "2026-06-30"
   },
   {
     "toolSlug": "gemini",
@@ -203,17 +239,68 @@
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-06-29"
+        "date": "2026-06-30"
       },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-06-29"
+        "date": "2026-06-30"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Gemini&#8217;s personalized AI image generation is now free for US users",
+        "score": 1,
+        "date": "2026-06-30"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-06-29"
+    "lastSeen": "2026-06-30"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-06-30"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-06-30"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "score": 1,
+        "date": "2026-06-30"
+      }
+    ],
+    "firstSeen": "2026-06-30",
+    "lastSeen": "2026-06-30"
+  },
+  {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-06-30"
+      }
+    ],
+    "firstSeen": "2026-06-30",
+    "lastSeen": "2026-06-30"
   },
   {
     "toolSlug": "notta",
@@ -224,16 +311,31 @@
         "source": "googlenews",
         "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
         "score": 1,
-        "date": "2026-06-29"
+        "date": "2026-06-30"
       }
     ],
     "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-29"
+    "lastSeen": "2026-06-30"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+        "score": 1,
+        "date": "2026-06-30"
+      }
+    ],
+    "firstSeen": "2026-06-30",
+    "lastSeen": "2026-06-30"
   },
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -246,24 +348,9 @@
     "lastSeen": "2026-06-29"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
-        "score": 1,
-        "date": "2026-06-29"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-06-29"
-  },
-  {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -275,35 +362,5 @@
     ],
     "firstSeen": "2026-06-28",
     "lastSeen": "2026-06-28"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-06-29"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-06-29"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "株式会社Omlucの【Difyセルフホスト・プライベート】が「デジタル化・AI導入補助金2026」の対象ITツールに採択されました。 - PR TIMES",
-        "score": 1,
-        "date": "2026-06-27"
-      }
-    ],
-    "firstSeen": "2026-06-27",
-    "lastSeen": "2026-06-27"
   }
 ]
