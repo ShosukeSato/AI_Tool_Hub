@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-07-02",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "date": "2026-07-02",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-01",
     "type": "trending",
     "toolSlug": "claude",
@@ -402,42 +411,6 @@
     "title": "1-Bit Bonsai が話題沸騰中（バズスコア: 7.3）",
     "summary": "hackernewsで注目: 1-Bit Bonsai Image 4B Image Generation for Local Devices",
     "date": "2026-06-03",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-06-02",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: AI Agent Guidelines for CS336 at Stanford",
-    "date": "2026-06-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-1-bit-bonsai-2026-06-02",
-    "type": "trending",
-    "toolSlug": "1-bit-bonsai",
-    "title": "1-Bit Bonsai が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: 1-Bit Bonsai Image 4B Image Generation for Local Devices",
-    "date": "2026-06-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-02",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 8.1）",
-    "summary": "hackernewsで注目: With Claude: Less Coding, More Testing",
-    "date": "2026-06-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-flux-2026-06-02",
-    "type": "trending",
-    "toolSlug": "flux",
-    "title": "FLUX が話題沸騰中（バズスコア: 8.2）",
-    "summary": "hackernewsで注目: Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-    "date": "2026-06-02",
     "source": "hackernews"
   }
 ]
