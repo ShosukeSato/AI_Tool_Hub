@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-07-04",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Agentic coding notes from Galapagos Island",
+    "date": "2026-07-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-03",
     "type": "trending",
     "toolSlug": "claude",

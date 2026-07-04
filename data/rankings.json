@@ -1,18 +1,18 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 7.6,
+    "overall": 8,
     "performance": 9,
-    "buzz": 3.9,
+    "buzz": 6.3,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-07-04"
   },
   {
     "toolSlug": "claude",
-    "overall": 8.3,
+    "overall": 8,
     "performance": 9,
-    "buzz": 10,
+    "buzz": 8.3,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-07-04"
@@ -21,7 +21,7 @@
     "toolSlug": "gemini",
     "overall": 7,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 1.1,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-07-04"
@@ -165,7 +165,7 @@
     "toolSlug": "gpt-5-5",
     "overall": 7.5,
     "performance": 9,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-07-04"
@@ -201,7 +201,7 @@
     "toolSlug": "github-copilot",
     "overall": 7.1,
     "performance": 8,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-07-04"
@@ -291,7 +291,7 @@
     "toolSlug": "ctx",
     "overall": 6.3,
     "performance": 8,
-    "buzz": 2.1,
+    "buzz": 1.9,
     "easeOfUse": 6,
     "costPerformance": 7,
     "lastCalculated": "2026-07-04"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.5,
+    "overall": 7.8,
     "performance": 6,
-    "buzz": 1.4,
+    "buzz": 10,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-07-04"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.5,
     "performance": 9,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-07-04"
@@ -1054,9 +1054,9 @@
   },
   {
     "toolSlug": "poke",
-    "overall": 6.9,
+    "overall": 6.8,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-07-04"
@@ -1360,9 +1360,9 @@
   },
   {
     "toolSlug": "udio",
-    "overall": 6.3,
+    "overall": 6.5,
     "performance": 8,
-    "buzz": 0.6,
+    "buzz": 1.7,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-07-04"
@@ -1623,7 +1623,7 @@
     "toolSlug": "notta",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-07-04"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 6.9,
+    "overall": 7.2,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 2.6,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-07-04"
