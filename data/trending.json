@@ -6,52 +6,87 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+        "url": "https://epoch.ai/data-insights/cve-severity-spike",
+        "score": 52,
+        "date": "2026-07-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Save Claude Code Tokens with Smart Routing",
+        "url": "https://github.com/regolo-ai/brick-SR1",
+        "score": 6,
+        "date": "2026-07-04"
+      },
+      {
+        "source": "hackernews",
         "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
         "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-        "score": 208,
-        "date": "2026-07-03"
+        "score": 316,
+        "date": "2026-07-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude's Criminally Bad Electron Mac App Is an Inside Job",
+        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "score": 10,
+        "date": "2026-07-04"
       },
       {
         "source": "hackernews",
         "title": "Claude-real-video － any LLM can watch a video",
         "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "score": 147,
-        "date": "2026-07-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-        "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-        "score": 966,
-        "date": "2026-07-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Code is steganographically marking requests",
-        "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-        "score": 2424,
-        "date": "2026-07-03"
+        "score": 157,
+        "date": "2026-07-04"
       },
       {
         "source": "googlenews",
-        "title": "【2026年7月版】生成AI主要8サービス料金早見表 ―― Claude Sonnet 5登場から気になるFable/Mythosの行方 - Business Insider Japan",
+        "title": "【2026年7月版】生成AI主要8サービス料金早見表 ── Claude Sonnet 5登場から気になるFable/Mythosの行方 - Yahoo!ニュース",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       },
       {
         "source": "googlenews",
         "title": "【自治体AI zevo】Claude Sonnet 5 & Gemini 3.1 Flash Lite Image の2AIモデルを追加！【2026年7月1日水曜日】 - PR TIMES",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI活用に関する意識調査レポートvol.2 エンジニアのAIツール利用率1位はClaude - PR TIMES",
+        "score": 1,
+        "date": "2026-07-04"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-03"
+    "lastSeen": "2026-07-04"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 3.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
+        "url": "2025) (https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+        "score": 176,
+        "date": "2026-07-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "［2026年最新］職場AIは「3強時代」へ - ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8%（PR TIMES） - 毎日新聞",
+        "score": 1,
+        "date": "2026-07-04"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-07-04"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -65,43 +100,53 @@
     "lastSeen": "2026-07-03"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.7,
+    "toolSlug": "ctx",
+    "toolName": "ctx",
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-        "url": "https://senior-swe-bench.snorkel.ai/",
-        "score": 176,
-        "date": "2026-07-03"
-      },
+        "title": "Show HN: ctx – Search the coding agent history already on your machine",
+        "url": "https://github.com/ctxrs/ctx",
+        "score": 64,
+        "date": "2026-07-04"
+      }
+    ],
+    "firstSeen": "2026-07-03",
+    "lastSeen": "2026-07-04"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.4,
+    "mentions": [
       {
-        "source": "googlenews",
-        "title": "LINE targets 2026 launch of Agent i in chat - International Business Times",
-        "score": 1,
-        "date": "2026-07-03"
+        "source": "hackernews",
+        "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+        "url": "https://github.com/clidey/deptrust",
+        "score": 22,
+        "date": "2026-07-04"
       },
       {
         "source": "googlenews",
         "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       },
       {
         "source": "techcrunch",
         "title": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-03"
+    "lastSeen": "2026-07-04"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -123,17 +168,11 @@
         "source": "googlenews",
         "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch",
         "score": 1,
-        "date": "2026-07-03"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
-        "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       }
     ],
     "firstSeen": "2026-06-27",
-    "lastSeen": "2026-07-03"
+    "lastSeen": "2026-07-04"
   },
   {
     "toolSlug": "era",
@@ -144,32 +183,17 @@
         "source": "googlenews",
         "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       },
       {
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       }
     ],
     "firstSeen": "2026-05-08",
-    "lastSeen": "2026-07-03"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "［2026年最新］職場AIは「3強時代」へ - ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8%（PR TIMES） - 毎日新聞",
-        "score": 1,
-        "date": "2026-07-03"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-03"
+    "lastSeen": "2026-07-04"
   },
   {
     "toolSlug": "gemini",
@@ -180,17 +204,17 @@
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       },
       {
         "source": "techcrunch",
         "title": "Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-07-03"
+    "lastSeen": "2026-07-04"
   },
   {
     "toolSlug": "openclaw",
@@ -201,32 +225,16 @@
         "source": "techcrunch",
         "title": "Yep, we&#8217;re using OpenClaw to date now",
         "score": 1,
-        "date": "2026-07-03"
+        "date": "2026-07-04"
       }
     ],
     "firstSeen": "2026-07-01",
-    "lastSeen": "2026-07-03"
-  },
-  {
-    "toolSlug": "ctx",
-    "toolName": "ctx",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: ctx – Search the coding agent history already on your machine",
-        "url": "https://github.com/ctxrs/ctx",
-        "score": 27,
-        "date": "2026-07-03"
-      }
-    ],
-    "firstSeen": "2026-07-03",
-    "lastSeen": "2026-07-03"
+    "lastSeen": "2026-07-04"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -242,7 +250,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -257,7 +265,7 @@
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -272,7 +280,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -284,36 +292,5 @@
     ],
     "firstSeen": "2026-06-18",
     "lastSeen": "2026-06-27"
-  },
-  {
-    "toolSlug": "",
-    "toolName": "ナレフルチャット",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【日本ナレッジスペース】全額会社負担で最新AIが“使い放題”！特許取得のプロンプト生成機能を備えた新福利厚生「AIまるごと使い放題制度（ナレフルチャット）」を2026年7月1日より導入 - AGARA紀伊民報",
-        "score": 1,
-        "date": "2026-07-01"
-      }
-    ],
-    "firstSeen": "2026-07-01",
-    "lastSeen": "2026-07-01"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Peppa Pig studio wants to clone child actors' voices with AI indefinitely",
-        "url": "https://www.gadgetreview.com/peppa-pigs-ai-voice-clause-draws-nearly-1000-industry-objections",
-        "score": 17,
-        "date": "2026-06-28"
-      }
-    ],
-    "firstSeen": "2026-06-28",
-    "lastSeen": "2026-06-28"
   }
 ]

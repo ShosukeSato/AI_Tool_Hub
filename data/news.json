@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-07-04",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: New serious vulnerabilities spiked around release of Claude Mythos Preview",
+    "date": "2026-07-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-03",
     "type": "trending",
     "toolSlug": "claude",
@@ -384,24 +393,6 @@
     "title": "FLUX が話題沸騰中（バズスコア: 7.3）",
     "summary": "hackernewsで注目: Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
     "date": "2026-06-05",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-flux-2026-06-04",
-    "type": "trending",
-    "toolSlug": "flux",
-    "title": "FLUX が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-    "date": "2026-06-04",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-04",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: The ways we contain Claude across products",
-    "date": "2026-06-04",
     "source": "hackernews"
   }
 ]
