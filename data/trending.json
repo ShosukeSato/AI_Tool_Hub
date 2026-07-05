@@ -1,97 +1,80 @@
 [
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+        "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+        "score": 169,
+        "date": "2026-07-05"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-07-05"
+  },
+  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 10,
+    "buzzScore": 9.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Agentic coding notes from Galapagos Island",
         "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-        "score": 125,
-        "date": "2026-07-04"
+        "score": 163,
+        "date": "2026-07-05"
       },
       {
-        "source": "hackernews",
-        "title": "Show HN: Morph Reflexes – Multi-head classifiers for agent traces ()",
-        "score": 20,
-        "date": "2026-07-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-        "url": "https://senior-swe-bench.snorkel.ai/",
-        "score": 181,
-        "date": "2026-07-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
-        "url": "https://github.com/clidey/deptrust",
-        "score": 24,
-        "date": "2026-07-04"
+        "source": "googlenews",
+        "title": "LINE targets 2026 launch of Agent i in chat - International Business Times",
+        "score": 1,
+        "date": "2026-07-05"
       },
       {
         "source": "googlenews",
         "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
         "score": 1,
-        "date": "2026-07-04"
+        "date": "2026-07-05"
       },
       {
         "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
         "score": 1,
-        "date": "2026-07-04"
+        "date": "2026-07-05"
       },
       {
         "source": "techcrunch",
         "title": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped",
         "score": 1,
-        "date": "2026-07-04"
+        "date": "2026-07-05"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-04"
+    "lastSeen": "2026-07-05"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 8.3,
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 9.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "score": 124,
-        "date": "2026-07-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude-real-video － any LLM can watch a video",
-        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-        "score": 160,
-        "date": "2026-07-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "【2026年7月版】生成AI主要8サービス料金早見表 ―― Claude Sonnet 5登場から気になるFable/Mythosの行方 - Business Insider Japan",
-        "score": 1,
-        "date": "2026-07-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "【自治体AI zevo】Claude Sonnet 5 & Gemini 3.1 Flash Lite Image の2AIモデルを追加！【2026年7月1日水曜日】 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-04"
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "score": 161,
+        "date": "2026-07-05"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-04"
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-07-05"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 6.3,
+    "buzzScore": 5.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -111,25 +94,25 @@
     "lastSeen": "2026-07-04"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.6,
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-        "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-        "score": 64,
-        "date": "2026-07-04"
+        "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+        "url": "https://github.com/adam-s/car-diagnosis",
+        "score": 33,
+        "date": "2026-07-05"
       }
     ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-07-04"
+    "firstSeen": "2026-07-04",
+    "lastSeen": "2026-07-05"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -145,7 +128,7 @@
   {
     "toolSlug": "ctx",
     "toolName": "ctx",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -159,62 +142,164 @@
     "lastSeen": "2026-07-04"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.7,
+    "toolSlug": "lovable",
+    "toolName": "Lovable",
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
-        "url": "https://github.com/adam-s/car-diagnosis",
-        "score": 26,
-        "date": "2026-07-04"
+        "title": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
+        "url": "https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable",
+        "score": 9,
+        "date": "2026-07-05"
       }
     ],
-    "firstSeen": "2026-07-04",
-    "lastSeen": "2026-07-04"
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-05"
+  },
+  {
+    "toolSlug": "atomic",
+    "toolName": "Atomic",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+        "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+        "score": 6,
+        "date": "2026-07-05"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-05"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年7月版】生成AI主要8サービス料金早見表 ―― Claude Sonnet 5登場から気になるFable/Mythosの行方 - Business Insider Japan",
+        "score": 1,
+        "date": "2026-07-05"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI活用に関する意識調査レポートvol.2 エンジニアのAIツール利用率1位はClaude - PR TIMES",
+        "score": 1,
+        "date": "2026-07-05"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "score": 1,
+        "date": "2026-07-05"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-07-05"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
+        "score": 1,
+        "date": "2026-07-05"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-05"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-07-05"
+  },
+  {
+    "toolSlug": "midjourney",
+    "toolName": "Midjourney",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "score": 1,
+        "date": "2026-07-05"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-05"
+  },
+  {
+    "toolSlug": "openclaw",
+    "toolName": "OpenClaw",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Yep, we&#8217;re using OpenClaw to date now",
+        "score": 1,
+        "date": "2026-07-05"
+      }
+    ],
+    "firstSeen": "2026-07-01",
+    "lastSeen": "2026-07-05"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-07-04"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac",
-        "score": 1,
-        "date": "2026-07-04"
+        "date": "2026-07-05"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-07-04"
+    "lastSeen": "2026-07-05"
   },
   {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 1.1,
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-        "url": "https://openai.com/index/daybreak-securing-the-world/",
-        "score": 213,
-        "date": "2026-06-24"
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-07-05"
       }
     ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-06-24"
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-05"
+  },
+  {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-05"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-05"
   },
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -227,45 +312,9 @@
     "lastSeen": "2026-07-04"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Everything announced at WWDC 2026, the start of the Siri AI era - Mashable",
-        "score": 1,
-        "date": "2026-07-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-07-04"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-07-04"
-  },
-  {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Yep, we&#8217;re using OpenClaw to date now",
-        "score": 1,
-        "date": "2026-07-04"
-      }
-    ],
-    "firstSeen": "2026-07-01",
-    "lastSeen": "2026-07-04"
-  },
-  {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -276,36 +325,5 @@
     ],
     "firstSeen": "2026-06-21",
     "lastSeen": "2026-07-03"
-  },
-  {
-    "toolSlug": "poke",
-    "toolName": "Poke",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-        "score": 1,
-        "date": "2026-07-02"
-      }
-    ],
-    "firstSeen": "2026-07-01",
-    "lastSeen": "2026-07-02"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Political bias in AI: Where the AI models stand",
-        "url": "https://trakkr.ai/bias",
-        "score": 174,
-        "date": "2026-06-27"
-      }
-    ],
-    "firstSeen": "2026-06-18",
-    "lastSeen": "2026-06-27"
   }
 ]
