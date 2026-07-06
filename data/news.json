@@ -1,5 +1,32 @@
 [
   {
+    "id": "trending-gpt-5-5-2026-07-06",
+    "type": "trending",
+    "toolSlug": "gpt-5-5",
+    "title": "GPT-5.5 が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "date": "2026-07-06",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-07-06",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 9.2）",
+    "summary": "hackernewsで注目: Does Code Cleanliness Affect Coding Agents?",
+    "date": "2026-07-06",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-plain-2026-07-06",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: Postgres data stored in Parquet on S3: LTAP architecture explained",
+    "date": "2026-07-06",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-07-05",
     "type": "trending",
     "toolSlug": "plain",
@@ -402,15 +429,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Harness engineering: Leveraging Codex in an agent-first world",
     "date": "2026-06-07",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-06",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Did Claude increase bugs in rsync?",
-    "date": "2026-06-06",
     "source": "hackernews"
   }
 ]
