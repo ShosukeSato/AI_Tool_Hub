@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-07-07",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "date": "2026-07-07",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-gpt-5-5-2026-07-07",
+    "type": "trending",
+    "toolSlug": "gpt-5-5",
+    "title": "GPT-5.5 が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "date": "2026-07-07",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-gpt-5-5-2026-07-06",
     "type": "trending",
     "toolSlug": "gpt-5-5",
@@ -420,15 +438,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 7.4）",
     "summary": "hackernewsで注目: Harness engineering: Leveraging Codex in an agent-first world",
     "date": "2026-06-08",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-06-07",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Harness engineering: Leveraging Codex in an agent-first world",
-    "date": "2026-06-07",
     "source": "hackernews"
   }
 ]
