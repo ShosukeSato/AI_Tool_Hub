@@ -1,62 +1,24 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "plain",
+    "toolName": "Plain",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-        "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "score": 200,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "hackernews",
-        "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-        "url": "https://arxiv.org/abs/2605.20049",
-        "score": 200,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "hackernews",
-        "title": "Zuckerberg says AI agent development going slower than expected",
-        "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-        "score": 335,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta enters enterprise AI race with new business agent - Reuters",
-        "score": 1,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
-        "score": 1,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-        "score": 1,
-        "date": "2026-07-07"
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "url": "https://fightchatcontrol.eu/chat-control-overview",
+        "score": 455,
+        "date": "2026-07-08"
       }
     ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-07"
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-07-08"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -70,25 +32,98 @@
     "lastSeen": "2026-07-06"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 5.9,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-        "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-        "score": 169,
-        "date": "2026-07-05"
+        "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+        "url": "https://github.com/tiliondev/fortress",
+        "score": 22,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+        "url": "https://github.com/kklimuk/docx-cli",
+        "score": 56,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+        "url": "https://github.com/bkuan001/halo-record",
+        "score": 27,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
+        "score": 1,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta enters enterprise AI race with new business agent - Reuters",
+        "score": 1,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+        "score": 1,
+        "date": "2026-07-08"
       }
     ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-07-05"
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-08"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 3.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "score": 100,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Fable extended to July 12",
+        "url": "https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/",
+        "score": 7,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Claude Cowork expands to mobile and web",
+        "score": 1,
+        "date": "2026-07-08"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-07-08"
   },
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -104,7 +139,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -118,43 +153,9 @@
     "lastSeen": "2026-07-05"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "The Making of Claude Code",
-        "url": "https://www.anthropic.com/features/making-of-claude-code",
-        "score": 21,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists - TechCrunch",
-        "score": 1,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI活用に関する意識調査レポートvol.2 エンジニアのAIツール利用率1位はClaude - PR TIMES",
-        "score": 1,
-        "date": "2026-07-07"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Alibaba reportedly bans employees from using Claude Code",
-        "score": 1,
-        "date": "2026-07-07"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-07"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -170,7 +171,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -184,9 +185,75 @@
     "lastSeen": "2026-07-03"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-08"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-07-08"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-07-08"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-07-08"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-08"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-07-08"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-07-08"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-08"
+  },
+  {
     "toolSlug": "ctx",
     "toolName": "ctx",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -200,54 +267,9 @@
     "lastSeen": "2026-07-04"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-07-07"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-07-07"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-07-07"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-07-07"
-  },
-  {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-07"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-07-07"
-  },
-  {
     "toolSlug": "midjourney",
     "toolName": "Midjourney",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -262,7 +284,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -278,7 +300,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -294,7 +316,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -307,24 +329,9 @@
     "lastSeen": "2026-07-07"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-07-07"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-07"
-  },
-  {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -339,7 +346,7 @@
   {
     "toolSlug": "atomic",
     "toolName": "Atomic",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -355,7 +362,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -370,7 +377,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",

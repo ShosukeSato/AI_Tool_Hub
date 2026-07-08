@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-plain-2026-07-08",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Chat Control 1.0 and 2.0 Explained",
+    "date": "2026-07-08",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-07",
     "type": "trending",
     "toolSlug": "agent",
@@ -420,24 +429,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 8.4）",
     "summary": "hackernewsで注目: I design with Claude more than Figma now",
     "date": "2026-06-09",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-08",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Anthropic, please ship an official Claude Desktop for Linux",
-    "date": "2026-06-08",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-06-08",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 7.4）",
-    "summary": "hackernewsで注目: Harness engineering: Leveraging Codex in an agent-first world",
-    "date": "2026-06-08",
     "source": "hackernews"
   }
 ]
