@@ -3,7 +3,7 @@
     "toolSlug": "chatgpt",
     "overall": 7.2,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-07-08"
@@ -12,7 +12,7 @@
     "toolSlug": "claude",
     "overall": 7.3,
     "performance": 9,
-    "buzz": 3.1,
+    "buzz": 3.5,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-07-08"
@@ -163,9 +163,9 @@
   },
   {
     "toolSlug": "gpt-5-5",
-    "overall": 8.3,
+    "overall": 8.2,
     "performance": 9,
-    "buzz": 6.6,
+    "buzz": 5.9,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-07-08"
@@ -201,7 +201,7 @@
     "toolSlug": "github-copilot",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-07-08"
@@ -255,16 +255,16 @@
     "toolSlug": "lovable",
     "overall": 6.3,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-07-08"
   },
   {
     "toolSlug": "openclaw",
-    "overall": 5.6,
+    "overall": 5.5,
     "performance": 6,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 5,
     "costPerformance": 8,
     "lastCalculated": "2026-07-08"
@@ -289,9 +289,9 @@
   },
   {
     "toolSlug": "ctx",
-    "overall": 6.2,
+    "overall": 6.1,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 7,
     "lastCalculated": "2026-07-08"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.7,
+    "overall": 7,
     "performance": 6,
-    "buzz": 3.2,
+    "buzz": 5.3,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-07-08"
@@ -597,7 +597,7 @@
     "toolSlug": "midjourney",
     "overall": 6.4,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 7,
     "lastCalculated": "2026-07-08"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 5.6,
+    "overall": 5.5,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-07-08"
@@ -894,7 +894,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-07-08"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.5,
     "performance": 8,
-    "buzz": 1.5,
+    "buzz": 1.4,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-07-08"
@@ -1407,7 +1407,7 @@
     "toolSlug": "runway",
     "overall": 6.8,
     "performance": 8,
-    "buzz": 2.1,
+    "buzz": 1.9,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-07-08"
@@ -1992,7 +1992,7 @@
     "toolSlug": "rocket",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-07-08"
@@ -2386,9 +2386,9 @@
   },
   {
     "toolSlug": "atomic",
-    "overall": 6.7,
+    "overall": 6.6,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-07-08"

@@ -6,9 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+        "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+        "score": 153,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "hackernews",
         "title": "Chat Control 1.0 and 2.0 Explained",
         "url": "https://fightchatcontrol.eu/chat-control-overview",
-        "score": 455,
+        "score": 752,
         "date": "2026-07-08"
       }
     ],
@@ -18,7 +25,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 6.6,
+    "buzzScore": 5.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -34,27 +41,34 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 3.2,
+    "buzzScore": 5.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
-        "url": "https://github.com/tiliondev/fortress",
-        "score": 22,
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "score": 326,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "Don't rewrite your CLI for agents",
+        "url": "https://developer.microsoft.com/blog/dont-rewrite-your-cli-for-agents",
+        "score": 3,
         "date": "2026-07-08"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
         "url": "https://github.com/kklimuk/docx-cli",
-        "score": 56,
+        "score": 66,
         "date": "2026-07-08"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
         "url": "https://github.com/bkuan001/halo-record",
-        "score": 27,
+        "score": 37,
         "date": "2026-07-08"
       },
       {
@@ -66,12 +80,6 @@
       {
         "source": "googlenews",
         "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
-        "score": 1,
-        "date": "2026-07-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
         "score": 1,
         "date": "2026-07-08"
       },
@@ -94,20 +102,26 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.1,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-        "url": "https://github.com/rowboatlabs/rowboat",
-        "score": 100,
+        "title": "Geosql: A Claude/Codex skill for geospatial data",
+        "url": "https://github.com/dekart-xyz/geosql",
+        "score": 59,
         "date": "2026-07-08"
       },
       {
         "source": "hackernews",
-        "title": "Claude Fable extended to July 12",
-        "url": "https://www.forbes.com/sites/sandycarter/2026/07/07/claude-fable-5-extends-by-five-more-days-10-moves-to-make-now/",
-        "score": 7,
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "score": 189,
+        "date": "2026-07-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI活用に関する意識調査レポートvol.2 エンジニアのAIツール利用率1位はClaude - PR TIMES",
+        "score": 1,
         "date": "2026-07-08"
       },
       {
@@ -123,7 +137,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -139,7 +153,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -151,38 +165,6 @@
     ],
     "firstSeen": "2026-07-04",
     "lastSeen": "2026-07-05"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "How ChatGPT Picks Sources",
-        "url": "I Read the Network Traffic, Not the Outputs) (https://suganthan.com/blog/how-chatgpt-picks-sources/",
-        "score": 11,
-        "date": "2026-07-07"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-07"
-  },
-  {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-        "score": 413,
-        "date": "2026-07-03"
-      }
-    ],
-    "firstSeen": "2026-07-02",
-    "lastSeen": "2026-07-03"
   },
   {
     "toolSlug": "era",
@@ -209,12 +191,6 @@
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-07-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-07-08"
       }
     ],
     "firstSeen": "2026-04-27",
@@ -236,9 +212,41 @@
     "lastSeen": "2026-07-08"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "How ChatGPT Picks Sources",
+        "url": "I Read the Network Traffic, Not the Outputs) (https://suganthan.com/blog/how-chatgpt-picks-sources/",
+        "score": 11,
+        "date": "2026-07-07"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-07-07"
+  },
+  {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "score": 413,
+        "date": "2026-07-03"
+      }
+    ],
+    "firstSeen": "2026-07-02",
+    "lastSeen": "2026-07-03"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -253,7 +261,7 @@
   {
     "toolSlug": "ctx",
     "toolName": "ctx",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -269,7 +277,7 @@
   {
     "toolSlug": "midjourney",
     "toolName": "Midjourney",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -284,7 +292,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -300,7 +308,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -316,7 +324,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -331,7 +339,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -346,7 +354,7 @@
   {
     "toolSlug": "atomic",
     "toolName": "Atomic",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -358,35 +366,5 @@
     ],
     "firstSeen": "2026-07-05",
     "lastSeen": "2026-07-05"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on - TechCrunch",
-        "score": 1,
-        "date": "2026-07-06"
-      }
-    ],
-    "firstSeen": "2026-06-27",
-    "lastSeen": "2026-07-06"
-  },
-  {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-06"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-06"
   }
 ]
