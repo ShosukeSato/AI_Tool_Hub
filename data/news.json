@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-plain-2026-07-09",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "date": "2026-07-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-07-08",
     "type": "trending",
     "toolSlug": "plain",
@@ -411,24 +420,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Fable 5",
     "date": "2026-06-10",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-gemini-2026-06-09",
-    "type": "trending",
-    "toolSlug": "gemini",
-    "title": "Gemini が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Apple reveals new AI architecture built around Google Gemini models",
-    "date": "2026-06-09",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-09",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 8.4）",
-    "summary": "hackernewsで注目: I design with Claude more than Figma now",
-    "date": "2026-06-09",
     "source": "hackernews"
   }
 ]
