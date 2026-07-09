@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-07-09",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 8.8）",
+    "summary": "hackernewsで注目: Show HN: FableCut – A browser video editor AI agents can drive",
+    "date": "2026-07-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-07-08",
     "type": "trending",
     "toolSlug": "plain",
