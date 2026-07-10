@@ -1,120 +1,115 @@
 [
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-        "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-        "score": 397,
-        "date": "2026-07-09"
+        "title": "Show HN: Use Any Agent as an Orchestrator",
+        "url": "https://github.com/backnotprop/orchestrator",
+        "score": 10,
+        "date": "2026-07-10"
       },
       {
         "source": "hackernews",
-        "title": "Chat Control 1.0 and 2.0 Explained",
-        "url": "https://fightchatcontrol.eu/chat-control-overview",
-        "score": 899,
-        "date": "2026-07-09"
-      }
-    ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-07-09"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 8.8,
-    "mentions": [
+        "title": "Show HN: Reverse-engineering web apps into agent tools ()",
+        "score": 27,
+        "date": "2026-07-10"
+      },
       {
         "source": "hackernews",
         "title": "Show HN: FableCut – A browser video editor AI agents can drive",
         "url": "zero deps) (https://github.com/ronak-create/FableCut",
-        "score": 51,
-        "date": "2026-07-09"
+        "score": 86,
+        "date": "2026-07-10"
       },
       {
         "source": "hackernews",
-        "title": "How Version Control Will Evolve for the Agent Boom",
+        "title": "How version control will evolve for the agent boom",
         "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
-        "score": 27,
-        "date": "2026-07-09"
+        "score": 45,
+        "date": "2026-07-10"
       },
       {
         "source": "hackernews",
-        "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
-        "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
-        "score": 9,
-        "date": "2026-07-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-        "url": "https://microsoft.github.io/flint-chart/#/",
-        "score": 329,
-        "date": "2026-07-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Altman: GPT-5.6 is 54% more token efficient on agentic coding",
-        "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
-        "score": 7,
-        "date": "2026-07-09"
+        "title": "Show HN: Pylon Sync, an agent-first full-stack realtime framework",
+        "url": "https://www.pylonsync.com",
+        "score": 8,
+        "date": "2026-07-10"
       },
       {
         "source": "hackernews",
         "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
         "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-        "score": 134,
-        "date": "2026-07-09"
+        "score": 142,
+        "date": "2026-07-10"
       },
       {
         "source": "hackernews",
-        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-        "score": 523,
-        "date": "2026-07-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
-        "url": "https://techstackups.com/articles/tldraw-agent-draw/",
-        "score": 36,
-        "date": "2026-07-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-07-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
-        "score": 1,
-        "date": "2026-07-09"
+        "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
+        "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
+        "score": 29,
+        "date": "2026-07-10"
       },
       {
         "source": "googlenews",
         "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
         "score": 1,
-        "date": "2026-07-09"
+        "date": "2026-07-10"
       },
       {
         "source": "techcrunch",
-        "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+        "title": "An AI agent startup just let its agent run its $100M fundraise",
         "score": 1,
-        "date": "2026-07-09"
+        "date": "2026-07-10"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-09"
+    "lastSeen": "2026-07-10"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 9.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT Work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+        "score": 327,
+        "date": "2026-07-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "score": 1,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-07-10"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 6.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AI content is everywhere on social media, especially LinkedIn",
+        "url": "https://www.pangram.com/blog/ai-in-your-feed",
+        "score": 198,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-10"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 4.8,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -128,50 +123,88 @@
     "lastSeen": "2026-07-06"
   },
   {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 2.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "DeepSeek aims to make its own AI chip",
+        "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
+        "score": 46,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-07-10",
+    "lastSeen": "2026-07-10"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 2.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "The next era of AI is about infrastructure, not just models",
+        "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+        "score": 44,
+        "date": "2026-07-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-07-10"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
     "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "A new way to reflect on how you use Claude",
-        "url": "https://www.anthropic.com/news/reflect-with-claude",
-        "score": 14,
-        "date": "2026-07-09"
+        "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+        "url": "https://abralo.com/",
+        "score": 23,
+        "date": "2026-07-10"
       },
       {
         "source": "hackernews",
-        "title": "Geosql: A Claude/Codex skill for geospatial data",
-        "url": "https://github.com/dekart-xyz/geosql",
-        "score": 133,
-        "date": "2026-07-09"
+        "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+        "url": "https://kastra.ai/",
+        "score": 11,
+        "date": "2026-07-10"
       },
       {
         "source": "googlenews",
         "title": "AWS Weekly Roundup: AWS での Claude Sonnet 5、AI エージェント向けの Amazon WorkSpaces、AWS サービスの可用性アップデートなど (2026 年 7 月 6 日) - Amazon Web Services (AWS)",
         "score": 1,
-        "date": "2026-07-09"
+        "date": "2026-07-10"
       },
       {
         "source": "googlenews",
         "title": "AI活用に関する意識調査レポートvol.2 エンジニアのAIツール利用率1位はClaude - PR TIMES",
         "score": 1,
-        "date": "2026-07-09"
+        "date": "2026-07-10"
       },
       {
         "source": "techcrunch",
         "title": "Anthropic’s new Claude feature is quietly selling you on AI",
         "score": 1,
-        "date": "2026-07-09"
+        "date": "2026-07-10"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-09"
+    "lastSeen": "2026-07-10"
   },
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -187,7 +220,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -201,9 +234,25 @@
     "lastSeen": "2026-07-07"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "A plain-English guide to moving a Windows 10 PC to Linux Mint",
+        "url": "https://tomadelstein.substack.com/p/chapter-one-linux-system-administration",
+        "score": 4,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-07-10"
+  },
+  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -217,43 +266,6 @@
     "lastSeen": "2026-07-05"
   },
   {
-    "toolSlug": "llama",
-    "toolName": "Llama",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Ollama raises $65M, grows to nearly 9M users",
-        "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-        "score": 3,
-        "date": "2026-07-09"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-        "score": 1,
-        "date": "2026-07-09"
-      }
-    ],
-    "firstSeen": "2026-07-09",
-    "lastSeen": "2026-07-09"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-07-09"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-07-09"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
@@ -262,11 +274,11 @@
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-07-09"
+        "date": "2026-07-10"
       }
     ],
     "firstSeen": "2026-04-27",
-    "lastSeen": "2026-07-09"
+    "lastSeen": "2026-07-10"
   },
   {
     "toolSlug": "notta",
@@ -277,16 +289,61 @@
         "source": "googlenews",
         "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
         "score": 1,
-        "date": "2026-07-09"
+        "date": "2026-07-10"
       }
     ],
     "firstSeen": "2026-06-21",
-    "lastSeen": "2026-07-09"
+    "lastSeen": "2026-07-10"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
+        "score": 1,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-07-10",
+    "lastSeen": "2026-07-10"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Elon Musk praises Mythos/Fable, promises not to &#8216;cut off&#8217; Anthropic",
+        "score": 1,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-07-10",
+    "lastSeen": "2026-07-10"
+  },
+  {
+    "toolSlug": "llama",
+    "toolName": "Llama",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+        "score": 1,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-07-09",
+    "lastSeen": "2026-07-10"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -301,7 +358,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -314,24 +371,9 @@
     "lastSeen": "2026-07-09"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "This startup thinks robotics is about to have its ChatGPT moment",
-        "score": 1,
-        "date": "2026-07-09"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-09"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -344,24 +386,9 @@
     "lastSeen": "2026-07-09"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-07-09"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-09"
-  },
-  {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -377,7 +404,7 @@
   {
     "toolSlug": "ctx",
     "toolName": "ctx",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -389,20 +416,5 @@
     ],
     "firstSeen": "2026-07-03",
     "lastSeen": "2026-07-04"
-  },
-  {
-    "toolSlug": "midjourney",
-    "toolName": "Midjourney",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-        "score": 1,
-        "date": "2026-07-07"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-07"
   }
 ]

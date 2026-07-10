@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-07-10",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Use Any Agent as an Orchestrator",
+    "date": "2026-07-10",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-chatgpt-2026-07-10",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 9.5）",
+    "summary": "hackernewsで注目: ChatGPT Work",
+    "date": "2026-07-10",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-07-09",
     "type": "trending",
     "toolSlug": "plain",
@@ -420,15 +438,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
     "date": "2026-06-11",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-10",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Fable 5",
-    "date": "2026-06-10",
     "source": "hackernews"
   }
 ]
