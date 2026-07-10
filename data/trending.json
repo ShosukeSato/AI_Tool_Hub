@@ -1,83 +1,14 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Use Any Agent as an Orchestrator",
-        "url": "https://github.com/backnotprop/orchestrator",
-        "score": 10,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Reverse-engineering web apps into agent tools ()",
-        "score": 27,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: FableCut – A browser video editor AI agents can drive",
-        "url": "zero deps) (https://github.com/ronak-create/FableCut",
-        "score": 86,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "How version control will evolve for the agent boom",
-        "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
-        "score": 45,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Pylon Sync, an agent-first full-stack realtime framework",
-        "url": "https://www.pylonsync.com",
-        "score": 8,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-        "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-        "score": 142,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
-        "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
-        "score": 29,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
-        "score": 1,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "techcrunch",
-        "title": "An AI agent startup just let its agent run its $100M fundraise",
-        "score": 1,
-        "date": "2026-07-10"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-10"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 9.5,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "ChatGPT Work",
         "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-        "score": 327,
+        "score": 343,
         "date": "2026-07-10"
       },
       {
@@ -91,15 +22,57 @@
     "lastSeen": "2026-07-10"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 9.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Reverse-engineering web apps into agent tools ()",
+        "score": 34,
+        "date": "2026-07-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: FableCut – A browser video editor AI agents can drive",
+        "url": "zero deps) (https://github.com/ronak-create/FableCut",
+        "score": 94,
+        "date": "2026-07-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+        "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+        "score": 148,
+        "date": "2026-07-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "How version control will evolve for the agent boom",
+        "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
+        "score": 51,
+        "date": "2026-07-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "An AI agent startup just let its agent run its $100M fundraise",
+        "score": 1,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-10"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 6.1,
+    "buzzScore": 6.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "AI content is everywhere on social media, especially LinkedIn",
         "url": "https://www.pangram.com/blog/ai-in-your-feed",
-        "score": 198,
+        "score": 226,
         "date": "2026-07-10"
       }
     ],
@@ -107,9 +80,32 @@
     "lastSeen": "2026-07-10"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 4.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+        "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+        "score": 132,
+        "date": "2026-07-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
+        "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
+        "score": 6,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-07-10"
+  },
+  {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -125,13 +121,13 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.2,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "DeepSeek aims to make its own AI chip",
         "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
-        "score": 46,
+        "score": 64,
         "date": "2026-07-10"
       }
     ],
@@ -139,50 +135,15 @@
     "lastSeen": "2026-07-10"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 2.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "The next era of AI is about infrastructure, not just models",
-        "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-        "score": 44,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-07-10"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-07-10"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
         "url": "https://abralo.com/",
-        "score": 23,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
-        "url": "https://kastra.ai/",
-        "score": 11,
-        "date": "2026-07-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Weekly Roundup: AWS での Claude Sonnet 5、AI エージェント向けの Amazon WorkSpaces、AWS サービスの可用性アップデートなど (2026 年 7 月 6 日) - Amazon Web Services (AWS)",
-        "score": 1,
+        "score": 29,
         "date": "2026-07-10"
       },
       {
@@ -202,9 +163,30 @@
     "lastSeen": "2026-07-10"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "How do you use Vim in the era of AI? ()",
+        "score": 22,
+        "date": "2026-07-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-10"
+      }
+    ],
+    "firstSeen": "2026-05-08",
+    "lastSeen": "2026-07-10"
+  },
+  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -220,7 +202,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -232,38 +214,6 @@
     ],
     "firstSeen": "2026-07-07",
     "lastSeen": "2026-07-07"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "A plain-English guide to moving a Windows 10 PC to Linux Mint",
-        "url": "https://tomadelstein.substack.com/p/chapter-one-linux-system-administration",
-        "score": 4,
-        "date": "2026-07-10"
-      }
-    ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-07-10"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
-        "url": "https://github.com/adam-s/car-diagnosis",
-        "score": 33,
-        "date": "2026-07-05"
-      }
-    ],
-    "firstSeen": "2026-07-04",
-    "lastSeen": "2026-07-05"
   },
   {
     "toolSlug": "gemini",
@@ -341,9 +291,25 @@
     "lastSeen": "2026-07-10"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+        "url": "https://github.com/adam-s/car-diagnosis",
+        "score": 33,
+        "date": "2026-07-05"
+      }
+    ],
+    "firstSeen": "2026-07-04",
+    "lastSeen": "2026-07-05"
+  },
+  {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -358,7 +324,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -373,7 +339,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -388,7 +354,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -400,21 +366,5 @@
     ],
     "firstSeen": "2026-07-02",
     "lastSeen": "2026-07-03"
-  },
-  {
-    "toolSlug": "ctx",
-    "toolName": "ctx",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: ctx – Search the coding agent history already on your machine",
-        "url": "https://github.com/ctxrs/ctx",
-        "score": 64,
-        "date": "2026-07-04"
-      }
-    ],
-    "firstSeen": "2026-07-03",
-    "lastSeen": "2026-07-04"
   }
 ]
