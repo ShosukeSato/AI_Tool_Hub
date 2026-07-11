@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-plain-2026-07-11",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "date": "2026-07-11",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-07-11",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.9）",
+    "summary": "hackernewsで注目: GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+    "date": "2026-07-11",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-10",
     "type": "trending",
     "toolSlug": "agent",
@@ -429,15 +447,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Fable is relentlessly proactive",
     "date": "2026-06-12",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-11",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-    "date": "2026-06-11",
     "source": "hackernews"
   }
 ]
