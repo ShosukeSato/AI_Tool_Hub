@@ -18,6 +18,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-where-2026-07-11",
+    "type": "trending",
+    "toolSlug": "where",
+    "title": "WHERE が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: AI content is everywhere on social media, especially LinkedIn",
+    "date": "2026-07-11",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-10",
     "type": "trending",
     "toolSlug": "agent",
