@@ -1,5 +1,32 @@
 [
   {
+    "id": "trending-plain-2026-07-12",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "date": "2026-07-12",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-where-2026-07-12",
+    "type": "trending",
+    "toolSlug": "where",
+    "title": "WHERE が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: AI content is everywhere on social media, especially LinkedIn",
+    "date": "2026-07-12",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-07-12",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 7.9）",
+    "summary": "hackernewsで注目: Show HN: Reverse-engineering web apps into agent tools ()",
+    "date": "2026-07-12",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-07-11",
     "type": "trending",
     "toolSlug": "plain",
@@ -447,15 +474,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: We've suspended access to Claude Mythos 5 and Claude Fable 5",
     "date": "2026-06-13",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-12",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Fable is relentlessly proactive",
-    "date": "2026-06-12",
     "source": "hackernews"
   }
 ]

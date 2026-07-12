@@ -1,8 +1,24 @@
 [
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+        "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+        "score": 214,
+        "date": "2026-07-12"
+      }
+    ],
+    "firstSeen": "2026-06-16",
+    "lastSeen": "2026-07-12"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 10,
+    "buzzScore": 9,
     "mentions": [
       {
         "source": "hackernews",
@@ -22,72 +38,55 @@
     "lastSeen": "2026-07-11"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 8.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-        "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-        "score": 206,
-        "date": "2026-07-11"
-      }
-    ],
-    "firstSeen": "2026-06-16",
-    "lastSeen": "2026-07-11"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.5,
+    "buzzScore": 7.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Reverse-engineering web apps into agent tools ()",
-        "score": 84,
-        "date": "2026-07-11"
+        "score": 89,
+        "date": "2026-07-12"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
-        "url": "https://sxp.studio/apps/subz",
-        "score": 23,
-        "date": "2026-07-11"
-      },
-      {
-        "source": "hackernews",
-        "title": "Prismata: Confining cross-site prompt injection in web agents",
-        "url": "https://arxiv.org/abs/2607.08147",
-        "score": 13,
-        "date": "2026-07-11"
+        "title": "Who manages the agents?",
+        "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+        "score": 70,
+        "date": "2026-07-12"
       },
       {
         "source": "googlenews",
         "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
         "score": 1,
-        "date": "2026-07-11"
+        "date": "2026-07-12"
       },
       {
         "source": "googlenews",
         "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
         "score": 1,
-        "date": "2026-07-11"
+        "date": "2026-07-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
+        "score": 1,
+        "date": "2026-07-12"
       },
       {
         "source": "techcrunch",
         "title": "An AI agent startup just let its agent run its $100M fundraise",
         "score": 1,
-        "date": "2026-07-11"
+        "date": "2026-07-12"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-11"
+    "lastSeen": "2026-07-12"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -103,7 +102,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -116,37 +115,9 @@
     "lastSeen": "2026-07-11"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 2.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
-        "url": "https://abralo.com/",
-        "score": 34,
-        "date": "2026-07-11"
-      },
-      {
-        "source": "googlenews",
-        "title": "AWS Weekly Roundup: AWS での Claude Sonnet 5、AI エージェント向けの Amazon WorkSpaces、AWS サービスの可用性アップデートなど (2026 年 7 月 6 日) - Amazon Web Services (AWS)",
-        "score": 1,
-        "date": "2026-07-11"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI活用に関する意識調査レポートvol.2 エンジニアのAIツール利用率1位はClaude - PR TIMES",
-        "score": 1,
-        "date": "2026-07-11"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-11"
-  },
-  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -162,23 +133,56 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "googlenews",
         "title": "OpenAI launches ChatGPT Work, deepening race for workplace AI tools - BNN Bloomberg",
         "score": 1,
-        "date": "2026-07-11"
+        "date": "2026-07-12"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "score": 1,
+        "date": "2026-07-12"
       },
       {
         "source": "techcrunch",
         "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
         "score": 1,
-        "date": "2026-07-11"
+        "date": "2026-07-12"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-11"
+    "lastSeen": "2026-07-12"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【アーカイブ録画配信】はじめてのClaude Code講座 ～デザイナーのためのAIツール活用術～ - CREATIVE VILLAGE",
+        "score": 1,
+        "date": "2026-07-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Weekly Roundup: AWS での Claude Sonnet 5、AI エージェント向けの Amazon WorkSpaces、AWS サービスの可用性アップデートなど (2026 年 7 月 6 日) - Amazon Web Services (AWS)",
+        "score": 1,
+        "date": "2026-07-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI活用に関する意識調査レポートvol.2 エンジニアのAIツール利用率1位はClaude - PR TIMES",
+        "score": 1,
+        "date": "2026-07-12"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-07-12"
   },
   {
     "toolSlug": "microsoft-copilot",
@@ -189,11 +193,11 @@
         "source": "techcrunch",
         "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
         "score": 1,
-        "date": "2026-07-11"
+        "date": "2026-07-12"
       }
     ],
     "firstSeen": "2026-07-10",
-    "lastSeen": "2026-07-11"
+    "lastSeen": "2026-07-12"
   },
   {
     "toolSlug": "mythos",
@@ -204,16 +208,46 @@
         "source": "techcrunch",
         "title": "Elon Musk praises Mythos/Fable, promises not to &#8216;cut off&#8217; Anthropic",
         "score": 1,
-        "date": "2026-07-11"
+        "date": "2026-07-12"
       }
     ],
     "firstSeen": "2026-07-10",
-    "lastSeen": "2026-07-11"
+    "lastSeen": "2026-07-12"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-07-12"
+      }
+    ],
+    "firstSeen": "2026-04-27",
+    "lastSeen": "2026-07-12"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-12"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-07-12"
   },
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -229,7 +263,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -243,24 +277,9 @@
     "lastSeen": "2026-07-07"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-07-11"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-07-11"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -273,24 +292,9 @@
     "lastSeen": "2026-07-11"
   },
   {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-11"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-07-11"
-  },
-  {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -305,7 +309,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -317,35 +321,5 @@
     ],
     "firstSeen": "2026-07-04",
     "lastSeen": "2026-07-05"
-  },
-  {
-    "toolSlug": "lovable",
-    "toolName": "Lovable",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-        "score": 1,
-        "date": "2026-07-09"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-09"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;",
-        "score": 1,
-        "date": "2026-07-09"
-      }
-    ],
-    "firstSeen": "2026-07-09",
-    "lastSeen": "2026-07-09"
   }
 ]
