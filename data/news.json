@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-07-13",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Old and new apps, via modern coding agents",
+    "date": "2026-07-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-07-12",
     "type": "trending",
     "toolSlug": "plain",
@@ -465,15 +474,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: How to setup a local coding agent on macOS",
     "date": "2026-06-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-13",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: We've suspended access to Claude Mythos 5 and Claude Fable 5",
-    "date": "2026-06-13",
     "source": "hackernews"
   }
 ]
