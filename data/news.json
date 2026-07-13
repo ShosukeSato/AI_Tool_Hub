@@ -9,6 +9,24 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-07-13",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "date": "2026-07-13",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-grok-2026-07-13",
+    "type": "trending",
+    "toolSlug": "grok",
+    "title": "Grok が話題沸騰中（バズスコア: 7.1）",
+    "summary": "hackernewsで注目: Grok uploaded my user directory to xAI's servers",
+    "date": "2026-07-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-07-12",
     "type": "trending",
     "toolSlug": "plain",
