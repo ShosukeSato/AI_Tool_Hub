@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-07-14",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Codex starts encrypting sub-agent prompts",
+    "date": "2026-07-14",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-13",
     "type": "trending",
     "toolSlug": "agent",
