@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-whisper-2026-07-14",
+    "type": "trending",
+    "toolSlug": "whisper",
+    "title": "Whisper が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "date": "2026-07-14",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-13",
     "type": "trending",
     "toolSlug": "agent",
@@ -483,15 +492,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 7）",
     "summary": "hackernewsで注目: Inverse Rubric Optimization: A testbed for agent science",
     "date": "2026-06-15",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-06-14",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: How to setup a local coding agent on macOS",
-    "date": "2026-06-14",
     "source": "hackernews"
   }
 ]
