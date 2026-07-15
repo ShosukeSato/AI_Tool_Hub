@@ -1,91 +1,58 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The zero-cost fallacy: open-source software in the agentic era",
-        "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-        "score": 109,
+        "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+        "url": "https://github.com/evansjp/grepathy",
+        "score": 4,
         "date": "2026-07-15"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-        "url": "https://github.com/juggler-ai/juggler",
-        "score": 182,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Legal AI, not a coding agent with scaffolding",
-        "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
-        "score": 6,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "The Agentic Loop: Three loops in a trench coat",
-        "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-        "score": 73,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: I RL-trained an agent that trains models with RL",
-        "url": "for ~$1.3k) (https://github.com/Danau5tin/ai-trains-ai",
-        "score": 97,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Coding agents think ahead of time",
-        "url": "https://arxiv.org/abs/2607.05188",
-        "score": 89,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
-        "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+        "title": "Societal Impacts: Claude's values across models and languages",
+        "url": "https://www.anthropic.com/research/claude-values-models-languages",
         "score": 25,
         "date": "2026-07-15"
       },
       {
         "source": "hackernews",
-        "title": "Codex starts encrypting sub-agent prompts",
-        "url": "https://github.com/openai/codex/issues/28058",
-        "score": 410,
+        "title": "How to stop Claude from saying load-bearing",
+        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+        "score": 569,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "I tricked Claude into leaking your deepest, darkest secrets",
+        "url": "https://www.ayush.digital/blog/the-memory-heist",
+        "score": 467,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "If you want Claude to speak nicely to you, try Hindi or Arabic",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
+        "score": 5,
         "date": "2026-07-15"
       },
       {
         "source": "googlenews",
-        "title": "INETCO Launches Agentic AI Tool to Accelerate Payment Fraud Investigations - TechAfrica News",
-        "score": 1,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
+        "title": "イベントレポート＞スマートニュース、AWS Summit Japan 2026に登壇 Amazon Bedrockを活用した「Claude Code全社民主化」の取り組みを紹介 - 北海道新聞デジタル",
         "score": 1,
         "date": "2026-07-15"
       }
     ],
-    "firstSeen": "2026-04-16",
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-07-15"
   },
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 7.9,
+    "buzzScore": 7.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -99,9 +66,70 @@
     "lastSeen": "2026-07-14"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 5.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: I built a smart proxy so your coding agent can run loose",
+        "url": "https://trollbridge.dev/",
+        "score": 3,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+        "url": "https://github.com/juggler-ai/juggler",
+        "score": 264,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "The Agentic Loop: Three loops in a trench coat",
+        "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+        "score": 86,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "The zero-cost fallacy: open-source software in the agentic era",
+        "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+        "score": 150,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "googlenews",
+        "title": "INETCO Launches Agentic AI Tool to Accelerate Payment Fraud Investigations - TechAfrica News",
+        "score": 1,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
+        "score": 1,
+        "date": "2026-07-15"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+        "score": 1,
+        "date": "2026-07-15"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-15"
+  },
+  {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 5.2,
+    "buzzScore": 4.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,25 +150,9 @@
     "lastSeen": "2026-07-13"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "How to stop Claude from saying load-bearing",
-        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-        "score": 439,
-        "date": "2026-07-15"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-15"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -156,7 +168,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -172,7 +184,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -186,32 +198,28 @@
     "lastSeen": "2026-07-12"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.2,
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "ChatGPT Is Down",
-        "url": "https://chatgpt.com/",
-        "score": 13,
+        "source": "googlenews",
+        "title": "プレスリリース：［Dify活用ウェビナー］株式会社バイタリフィ、「Difyで整理する、既製AIツールのできること・できないこと」を2026年7月29日（水）12:00に開催（PR TIMES） - 毎日新聞",
+        "score": 1,
         "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "ChatGPT Remote Connection Failure ()",
-        "score": 3,
-        "date": "2026-07-15"
-      },
+      }
+    ],
+    "firstSeen": "2026-07-15",
+    "lastSeen": "2026-07-15"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
         "title": "【ChatGPT】自治体AI zevoにてGPT-5.6の最新3モデル（sol/terra/luna）を2026年7月13日より提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
         "score": 1,
         "date": "2026-07-15"
       }
@@ -220,9 +228,54 @@
     "lastSeen": "2026-07-15"
   },
   {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-15"
+      }
+    ],
+    "firstSeen": "2026-07-15",
+    "lastSeen": "2026-07-15"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-07-15"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-15"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-15"
+      }
+    ],
+    "firstSeen": "2026-06-21",
+    "lastSeen": "2026-07-15"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -236,24 +289,9 @@
     "lastSeen": "2026-07-10"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Difyで整理する、既製AIツールのできること・できないこと」を2026年7月29日（水）12:00に開催 - ドリームニュース",
-        "score": 1,
-        "date": "2026-07-15"
-      }
-    ],
-    "firstSeen": "2026-07-15",
-    "lastSeen": "2026-07-15"
-  },
-  {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -266,24 +304,9 @@
     "lastSeen": "2026-07-15"
   },
   {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-14"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-07-14"
-  },
-  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -298,7 +321,7 @@
   {
     "toolSlug": "stitch",
     "toolName": "Stitch",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -314,7 +337,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -329,7 +352,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -339,36 +362,6 @@
       }
     ],
     "firstSeen": "2026-07-10",
-    "lastSeen": "2026-07-13"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-07-13"
-      }
-    ],
-    "firstSeen": "2026-04-27",
-    "lastSeen": "2026-07-13"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-07-13"
-      }
-    ],
-    "firstSeen": "2026-07-05",
     "lastSeen": "2026-07-13"
   }
 ]
