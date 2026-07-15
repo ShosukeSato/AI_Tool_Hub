@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-07-15",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: The zero-cost fallacy: open-source software in the agentic era",
+    "date": "2026-07-15",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-whisper-2026-07-15",
+    "type": "trending",
+    "toolSlug": "whisper",
+    "title": "Whisper が話題沸騰中（バズスコア: 7.9）",
+    "summary": "hackernewsで注目: Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "date": "2026-07-15",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-whisper-2026-07-14",
     "type": "trending",
     "toolSlug": "whisper",
@@ -483,24 +501,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
     "date": "2026-06-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-15",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 8.7）",
-    "summary": "hackernewsで注目: Making Claude a Chemist",
-    "date": "2026-06-15",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-06-15",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 7）",
-    "summary": "hackernewsで注目: Inverse Rubric Optimization: A testbed for agent science",
-    "date": "2026-06-15",
     "source": "hackernews"
   }
 ]
