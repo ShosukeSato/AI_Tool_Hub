@@ -9,6 +9,24 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-07-16",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.5）",
+    "summary": "hackernewsで注目: Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "date": "2026-07-16",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-where-2026-07-16",
+    "type": "trending",
+    "toolSlug": "where",
+    "title": "WHERE が話題沸騰中（バズスコア: 7.6）",
+    "summary": "hackernewsで注目: Where are YC founders now? OpenAI and Anthropic, mostly",
+    "date": "2026-07-16",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-15",
     "type": "trending",
     "toolSlug": "agent",
