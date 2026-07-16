@@ -1,58 +1,105 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Grepathy – Claude made a decision nobody approved",
-        "url": "https://github.com/evansjp/grepathy",
-        "score": 4,
-        "date": "2026-07-15"
+        "title": "Designing APIs for Agents",
+        "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+        "score": 53,
+        "date": "2026-07-16"
       },
       {
         "source": "hackernews",
-        "title": "Societal Impacts: Claude's values across models and languages",
-        "url": "https://www.anthropic.com/research/claude-values-models-languages",
-        "score": 25,
-        "date": "2026-07-15"
+        "title": "Open-source memory for coding agents, synced over SSH",
+        "url": "https://github.com/vshulcz/deja-vu/",
+        "score": 111,
+        "date": "2026-07-16"
       },
       {
         "source": "hackernews",
-        "title": "How to stop Claude from saying load-bearing",
-        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-        "score": 569,
-        "date": "2026-07-15"
+        "title": "Show HN: Capn-hook for coding agents – don't grep the same mystery twice",
+        "url": "https://github.com/cyrusNuevoDia/capn-hook",
+        "score": 28,
+        "date": "2026-07-16"
       },
       {
         "source": "hackernews",
-        "title": "I tricked Claude into leaking your deepest, darkest secrets",
-        "url": "https://www.ayush.digital/blog/the-memory-heist",
-        "score": 467,
-        "date": "2026-07-15"
+        "title": "Baml: The Programming Language for Agents",
+        "url": "https://github.com/BoundaryML/baml",
+        "score": 7,
+        "date": "2026-07-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-07-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "AWS Summit New York 2026: New ways to make AI agents more effective at work - About Amazon",
+        "score": 1,
+        "date": "2026-07-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
+        "score": 1,
+        "date": "2026-07-16"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+        "score": 1,
+        "date": "2026-07-16"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-16"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 6.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+        "url": "https://brainless.swerdlow.dev",
+        "score": 97,
+        "date": "2026-07-16"
       },
       {
         "source": "hackernews",
-        "title": "If you want Claude to speak nicely to you, try Hindi or Arabic",
-        "url": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
-        "score": 5,
-        "date": "2026-07-15"
+        "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+        "url": "https://github.com/1ay1/agentty",
+        "score": 13,
+        "date": "2026-07-16"
+      },
+      {
+        "source": "hackernews",
+        "title": "Fuse – an open source MCP/CLI tool to speed up Claude Code on C# codebases",
+        "url": "https://github.com/Litenova-Solutions/Fuse",
+        "score": 12,
+        "date": "2026-07-16"
       },
       {
         "source": "googlenews",
         "title": "イベントレポート＞スマートニュース、AWS Summit Japan 2026に登壇 Amazon Bedrockを活用した「Claude Code全社民主化」の取り組みを紹介 - 北海道新聞デジタル",
         "score": 1,
-        "date": "2026-07-15"
+        "date": "2026-07-16"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-15"
+    "lastSeen": "2026-07-16"
   },
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 7.1,
+    "buzzScore": 6.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -66,70 +113,9 @@
     "lastSeen": "2026-07-14"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 5.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: I built a smart proxy so your coding agent can run loose",
-        "url": "https://trollbridge.dev/",
-        "score": 3,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-        "url": "https://github.com/juggler-ai/juggler",
-        "score": 264,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "The Agentic Loop: Three loops in a trench coat",
-        "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-        "score": 86,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "The zero-cost fallacy: open-source software in the agentic era",
-        "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-        "score": 150,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "INETCO Launches Agentic AI Tool to Accelerate Payment Fraud Investigations - TechAfrica News",
-        "score": 1,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "AI時代の検索マーケティングを支援する新組織「AI Search マーケティング事業本部」を新設 - cyberagent.co.jp",
-        "score": 1,
-        "date": "2026-07-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-        "score": 1,
-        "date": "2026-07-15"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-15"
-  },
-  {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 4.7,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -152,7 +138,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -168,7 +154,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -182,9 +168,39 @@
     "lastSeen": "2026-07-06"
   },
   {
+    "toolSlug": "thinking-machines",
+    "toolName": "Thinking Machines",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+        "score": 1,
+        "date": "2026-07-16"
+      }
+    ],
+    "firstSeen": "2026-07-16",
+    "lastSeen": "2026-07-16"
+  },
+  {
+    "toolSlug": "suno",
+    "toolName": "Suno",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+        "score": 1,
+        "date": "2026-07-16"
+      }
+    ],
+    "firstSeen": "2026-07-16",
+    "lastSeen": "2026-07-16"
+  },
+  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -206,16 +222,31 @@
         "source": "googlenews",
         "title": "プレスリリース：［Dify活用ウェビナー］株式会社バイタリフィ、「Difyで整理する、既製AIツールのできること・できないこと」を2026年7月29日（水）12:00に開催（PR TIMES） - 毎日新聞",
         "score": 1,
-        "date": "2026-07-15"
+        "date": "2026-07-16"
       }
     ],
     "firstSeen": "2026-07-15",
-    "lastSeen": "2026-07-15"
+    "lastSeen": "2026-07-16"
+  },
+  {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "社内の「ファイルサーバー」を学習できるAIをリリース予定、セキュアな企業向けAIサービス「ChatSense」 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-16"
+      }
+    ],
+    "firstSeen": "2026-07-16",
+    "lastSeen": "2026-07-16"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -230,7 +261,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -245,7 +276,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -260,7 +291,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -275,7 +306,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -291,7 +322,7 @@
   {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -306,7 +337,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -321,7 +352,7 @@
   {
     "toolSlug": "stitch",
     "toolName": "Stitch",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -333,35 +364,5 @@
     ],
     "firstSeen": "2026-07-14",
     "lastSeen": "2026-07-14"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-07-13"
-      }
-    ],
-    "firstSeen": "2026-05-08",
-    "lastSeen": "2026-07-13"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Elon Musk praises Mythos/Fable, promises not to &#8216;cut off&#8217; Anthropic",
-        "score": 1,
-        "date": "2026-07-13"
-      }
-    ],
-    "firstSeen": "2026-07-10",
-    "lastSeen": "2026-07-13"
   }
 ]

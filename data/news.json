@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-07-16",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Designing APIs for Agents",
+    "date": "2026-07-16",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-15",
     "type": "trending",
     "toolSlug": "agent",
@@ -501,15 +510,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
     "date": "2026-06-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-16",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
-    "date": "2026-06-16",
     "source": "hackernews"
   }
 ]
