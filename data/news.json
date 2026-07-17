@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-udio-2026-07-17",
+    "type": "trending",
+    "toolSlug": "udio",
+    "title": "Udio が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: LM Studio Bionic: the AI agent for open models",
+    "date": "2026-07-17",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-07-17",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.9）",
+    "summary": "hackernewsで注目: $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "date": "2026-07-17",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-16",
     "type": "trending",
     "toolSlug": "agent",
@@ -519,15 +537,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: A robot is sprinting towards you. Do you want it running on Claude or Grok?",
     "date": "2026-06-18",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-17",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? ()",
-    "date": "2026-06-17",
     "source": "hackernews"
   }
 ]
