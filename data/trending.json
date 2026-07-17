@@ -1,30 +1,14 @@
 [
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "LM Studio Bionic: the AI agent for open models",
-        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "score": 164,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-04",
-    "lastSeen": "2026-07-17"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 8.9,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
         "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "score": 143,
+        "score": 314,
         "date": "2026-07-17"
       },
       {
@@ -38,9 +22,25 @@
     "lastSeen": "2026-07-17"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 9.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "LM Studio Bionic: the AI agent for open models",
+        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+        "score": 284,
+        "date": "2026-07-17"
+      }
+    ],
+    "firstSeen": "2026-07-04",
+    "lastSeen": "2026-07-17"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 6.8,
+    "buzzScore": 6.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -56,7 +56,7 @@
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 5.2,
+    "buzzScore": 4.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -70,44 +70,9 @@
     "lastSeen": "2026-07-14"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 3.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Agent-talk: Enabling coding agents to work together",
-        "url": "https://github.com/xhluca/agent-talk",
-        "score": 45,
-        "date": "2026-07-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Harness IDE: Run your coding agents on any machine",
-        "url": "https://harness.mikelyons.org/announcements/remote-backends.html",
-        "score": 7,
-        "date": "2026-07-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-07-17"
-      },
-      {
-        "source": "googlenews",
-        "title": "「ChatPlus」、「AI AgentPlus」 ITreview Grid Award 2026 Summer の4部門で28期連続Leaderに選出（PR TIMES） - 毎日新聞",
-        "score": 1,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-17"
-  },
-  {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 3.4,
+    "buzzScore": 3.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -128,15 +93,43 @@
     "lastSeen": "2026-07-13"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Agent-talk: Enabling coding agents to work together",
+        "url": "https://github.com/xhluca/agent-talk",
+        "score": 52,
+        "date": "2026-07-17"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-07-17"
+      },
+      {
+        "source": "googlenews",
+        "title": "「ChatPlus」、「AI AgentPlus」 ITreview Grid Award 2026 Summer の4部門で28期連続Leaderに選出（PR TIMES） - 毎日新聞",
+        "score": 1,
+        "date": "2026-07-17"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-17"
+  },
+  {
     "toolSlug": "libretto",
     "toolName": "Libretto",
-    "buzzScore": 1.9,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
         "url": "https://libretto.sh/debug-agents",
-        "score": 17,
+        "score": 19,
         "date": "2026-07-17"
       }
     ],
@@ -146,7 +139,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -160,25 +153,16 @@
     "lastSeen": "2026-07-14"
   },
   {
-    "toolSlug": "google-vids",
-    "toolName": "Google Vids",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google Vids now lets you star in your own AI videos",
-        "score": 1,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-17"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
     "buzzScore": 1.1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
+        "score": 1,
+        "date": "2026-07-17"
+      },
       {
         "source": "techcrunch",
         "title": "Why is OpenAI selling a ChatGPT basketball?",
@@ -187,82 +171,6 @@
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-17"
-  },
-  {
-    "toolSlug": "thinking-machines",
-    "toolName": "Thinking Machines",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-        "score": 1,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-16",
-    "lastSeen": "2026-07-17"
-  },
-  {
-    "toolSlug": "suno",
-    "toolName": "Suno",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-        "score": 1,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-16",
-    "lastSeen": "2026-07-17"
-  },
-  {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "url": "https://github.com/openai/codex/issues/30364",
-        "score": 358,
-        "date": "2026-07-06"
-      }
-    ],
-    "firstSeen": "2026-06-20",
-    "lastSeen": "2026-07-06"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-16",
-    "lastSeen": "2026-07-17"
-  },
-  {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "議事録AI「YOMEL」が「ITトレンド 上半期ランキング2026」の議事録作成ツール部門で第1位を獲得 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-17",
     "lastSeen": "2026-07-17"
   },
   {
@@ -281,6 +189,21 @@
     "lastSeen": "2026-07-17"
   },
   {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "PKSHA Infinityの議事録AI「YOMEL」がITトレンド上半期ランキング2026で第1位を受賞 - ニュースメディアVOIX",
+        "score": 1,
+        "date": "2026-07-17"
+      }
+    ],
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-17"
+  },
+  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
@@ -296,9 +219,85 @@
     "lastSeen": "2026-07-17"
   },
   {
+    "toolSlug": "google-vids",
+    "toolName": "Google Vids",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google Vids now lets you star in your own AI videos",
+        "score": 1,
+        "date": "2026-07-17"
+      }
+    ],
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-17"
+  },
+  {
+    "toolSlug": "thinking-machines",
+    "toolName": "Thinking Machines",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+        "score": 1,
+        "date": "2026-07-17"
+      }
+    ],
+    "firstSeen": "2026-07-16",
+    "lastSeen": "2026-07-17"
+  },
+  {
+    "toolSlug": "suno",
+    "toolName": "Suno",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+        "score": 1,
+        "date": "2026-07-17"
+      }
+    ],
+    "firstSeen": "2026-07-16",
+    "lastSeen": "2026-07-17"
+  },
+  {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "score": 358,
+        "date": "2026-07-06"
+      }
+    ],
+    "firstSeen": "2026-06-20",
+    "lastSeen": "2026-07-06"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-17"
+      }
+    ],
+    "firstSeen": "2026-07-16",
+    "lastSeen": "2026-07-17"
+  },
+  {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -313,7 +312,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -328,7 +327,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -343,7 +342,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -355,20 +354,5 @@
     ],
     "firstSeen": "2026-07-10",
     "lastSeen": "2026-07-10"
-  },
-  {
-    "toolSlug": "superhuman",
-    "toolName": "Superhuman",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Superhuman&#8217;s new auto-draft feature almost makes me like AI replies",
-        "score": 1,
-        "date": "2026-07-15"
-      }
-    ],
-    "firstSeen": "2026-07-15",
-    "lastSeen": "2026-07-15"
   }
 ]
