@@ -6,41 +6,31 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now? ()",
+        "score": 86,
+        "date": "2026-07-18"
+      },
+      {
+        "source": "hackernews",
         "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
         "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "score": 314,
-        "date": "2026-07-17"
+        "score": 383,
+        "date": "2026-07-18"
       },
       {
         "source": "googlenews",
         "title": "話題のエージェント型AIを解説本著者から学ぶ！『Claude Code入門』オープン講座を2026年8月に2日程で開催決定 - PR TIMES",
         "score": 1,
-        "date": "2026-07-17"
+        "date": "2026-07-18"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-17"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 9.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "LM Studio Bionic: the AI agent for open models",
-        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "score": 284,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-04",
-    "lastSeen": "2026-07-17"
+    "lastSeen": "2026-07-18"
   },
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 6.1,
+    "buzzScore": 5.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -56,7 +46,7 @@
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 4.7,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -72,7 +62,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 3.1,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -95,35 +85,54 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.5,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Agent-talk: Enabling coding agents to work together",
-        "url": "https://github.com/xhluca/agent-talk",
-        "score": 52,
-        "date": "2026-07-17"
+        "title": "Agent Security Is a Systems Problem",
+        "url": "https://arxiv.org/abs/2605.18991",
+        "score": 8,
+        "date": "2026-07-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "VulnHunter: Capital One's agentic AI code security tool",
+        "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+        "score": 61,
+        "date": "2026-07-18"
       },
       {
         "source": "googlenews",
         "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
         "score": 1,
-        "date": "2026-07-17"
+        "date": "2026-07-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
+        "score": 1,
+        "date": "2026-07-18"
       },
       {
         "source": "googlenews",
         "title": "「ChatPlus」、「AI AgentPlus」 ITreview Grid Award 2026 Summer の4部門で28期連続Leaderに選出（PR TIMES） - 毎日新聞",
         "score": 1,
-        "date": "2026-07-17"
+        "date": "2026-07-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
+        "score": 1,
+        "date": "2026-07-18"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-17"
+    "lastSeen": "2026-07-18"
   },
   {
     "toolSlug": "libretto",
     "toolName": "Libretto",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -139,7 +148,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -155,23 +164,53 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
         "score": 1,
-        "date": "2026-07-17"
+        "date": "2026-07-18"
       },
       {
         "source": "techcrunch",
         "title": "Why is OpenAI selling a ChatGPT basketball?",
         "score": 1,
-        "date": "2026-07-17"
+        "date": "2026-07-18"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-17"
+    "lastSeen": "2026-07-18"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【小説・脚本を”そのまま漫画”にできる】AI漫画制作プラットフォーム『MOOTOON STUDIO』に3つの新機能が登場 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-18"
+      }
+    ],
+    "firstSeen": "2026-07-04",
+    "lastSeen": "2026-07-18"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-07-18"
+      }
+    ],
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-18"
   },
   {
     "toolSlug": "dify",
@@ -180,18 +219,33 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "プレスリリース：［Dify活用ウェビナー］株式会社バイタリフィ、「Difyで整理する、既製AIツールのできること・できないこと」を2026年7月29日（水）12:00に開催（PR TIMES） - 毎日新聞",
+        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Difyで整理する、既製AIツールのできること・できないこと」を2026年7月29日（水）12:00に開催 - PR TIMES",
         "score": 1,
-        "date": "2026-07-17"
+        "date": "2026-07-18"
       }
     ],
     "firstSeen": "2026-07-15",
-    "lastSeen": "2026-07-17"
+    "lastSeen": "2026-07-18"
+  },
+  {
+    "toolSlug": "google-vids",
+    "toolName": "Google Vids",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google Vids now lets you star in your own AI videos",
+        "score": 1,
+        "date": "2026-07-18"
+      }
+    ],
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-18"
   },
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -204,39 +258,9 @@
     "lastSeen": "2026-07-17"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-17"
-  },
-  {
-    "toolSlug": "google-vids",
-    "toolName": "Google Vids",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google Vids now lets you star in your own AI videos",
-        "score": 1,
-        "date": "2026-07-17"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-17"
-  },
-  {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -251,7 +275,7 @@
   {
     "toolSlug": "suno",
     "toolName": "Suno",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -266,7 +290,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -282,7 +306,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -297,7 +321,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -308,51 +332,5 @@
     ],
     "firstSeen": "2026-07-16",
     "lastSeen": "2026-07-16"
-  },
-  {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-15"
-      }
-    ],
-    "firstSeen": "2026-07-15",
-    "lastSeen": "2026-07-15"
-  },
-  {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-15"
-      }
-    ],
-    "firstSeen": "2026-06-21",
-    "lastSeen": "2026-07-15"
-  },
-  {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "DeepSeek aims to make its own AI chip",
-        "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
-        "score": 64,
-        "date": "2026-07-10"
-      }
-    ],
-    "firstSeen": "2026-07-10",
-    "lastSeen": "2026-07-10"
   }
 ]

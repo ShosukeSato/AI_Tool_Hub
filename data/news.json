@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-07-18",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Ask HN: Did Fable disappear from your Claude usage and requires credits now? ()",
+    "date": "2026-07-18",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-udio-2026-07-17",
     "type": "trending",
     "toolSlug": "udio",
@@ -528,15 +537,6 @@
     "title": "WHERE が話題沸騰中（バズスコア: 8.6）",
     "summary": "hackernewsで注目: Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
     "date": "2026-06-19",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-18",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-    "date": "2026-06-18",
     "source": "hackernews"
   }
 ]
