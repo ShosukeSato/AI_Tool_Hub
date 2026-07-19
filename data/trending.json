@@ -6,48 +6,25 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Code(Fable) refused my slow down instruction",
-        "url": "https://qusaisuwan.github.io/cc-incident/index.html",
-        "score": 26,
-        "date": "2026-07-18"
-      },
-      {
-        "source": "hackernews",
-        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-        "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "score": 391,
-        "date": "2026-07-18"
+        "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "url": "https://ykdojo.github.io/claude-controls-mac/",
+        "score": 179,
+        "date": "2026-07-19"
       },
       {
         "source": "googlenews",
-        "title": "話題のエージェント型AIを解説本著者から学ぶ！『Claude Code入門』オープン講座を2026年8月に2日程で開催決定 - PR TIMES",
+        "title": "話題のエージェント型AIを解説本著者から学ぶ！『Claude Code入門』オープン講座を2026年8月に2日程で開催決定 - 時事ドットコム",
         "score": 1,
-        "date": "2026-07-18"
+        "date": "2026-07-19"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-18"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-        "url": "https://joinedanthropic.com",
-        "score": 148,
-        "date": "2026-07-16"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-16"
+    "lastSeen": "2026-07-19"
   },
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 3.8,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -63,47 +40,41 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.7,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "VulnHunter: Capital One's agentic AI code security tool",
-        "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-        "score": 73,
-        "date": "2026-07-18"
+        "title": "What's the deal with all the random weekly quota resets for agents lately?",
+        "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+        "score": 26,
+        "date": "2026-07-19"
       },
       {
         "source": "googlenews",
         "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
         "score": 1,
-        "date": "2026-07-18"
-      },
-      {
-        "source": "googlenews",
-        "title": "FreeAgent Launches New AI Tool for Landlords to Capture Rental Statements - FF News",
-        "score": 1,
-        "date": "2026-07-18"
+        "date": "2026-07-19"
       },
       {
         "source": "googlenews",
         "title": "「ChatPlus」、「AI AgentPlus」 ITreview Grid Award 2026 Summer の4部門で28期連続Leaderに選出（PR TIMES） - 毎日新聞",
         "score": 1,
-        "date": "2026-07-18"
+        "date": "2026-07-19"
       },
       {
         "source": "techcrunch",
         "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
         "score": 1,
-        "date": "2026-07-18"
+        "date": "2026-07-19"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-18"
+    "lastSeen": "2026-07-19"
   },
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -126,7 +97,7 @@
   {
     "toolSlug": "libretto",
     "toolName": "Libretto",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -140,9 +111,75 @@
     "lastSeen": "2026-07-17"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
+        "score": 1,
+        "date": "2026-07-19"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Why is OpenAI selling a ChatGPT basketball?",
+        "score": 1,
+        "date": "2026-07-19"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-07-19"
+  },
+  {
+    "toolSlug": "google-vids",
+    "toolName": "Google Vids",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google Vids now lets you star in your own AI videos",
+        "score": 1,
+        "date": "2026-07-19"
+      }
+    ],
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-19"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Cadence Stock Fell 9% in a Day on a Chinese AI Chip Demo. Here’s Where the Stock Could Go in 2026 - TIKR.com",
+        "score": 1,
+        "date": "2026-07-19"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-19"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-07-19"
+      }
+    ],
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-19"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -156,30 +193,9 @@
     "lastSeen": "2026-07-14"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
-        "score": 1,
-        "date": "2026-07-18"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Why is OpenAI selling a ChatGPT basketball?",
-        "score": 1,
-        "date": "2026-07-18"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-18"
-  },
-  {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -194,7 +210,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -207,39 +223,9 @@
     "lastSeen": "2026-07-18"
   },
   {
-    "toolSlug": "google-vids",
-    "toolName": "Google Vids",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google Vids now lets you star in your own AI videos",
-        "score": 1,
-        "date": "2026-07-18"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-18"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-07-18"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-18"
-  },
-  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -254,7 +240,7 @@
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -269,7 +255,7 @@
   {
     "toolSlug": "suno",
     "toolName": "Suno",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -284,7 +270,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -300,7 +286,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -311,20 +297,5 @@
     ],
     "firstSeen": "2026-07-16",
     "lastSeen": "2026-07-17"
-  },
-  {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "社内の「ファイルサーバー」を学習できるAIをリリース予定、セキュアな企業向けAIサービス「ChatSense」 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-16"
-      }
-    ],
-    "firstSeen": "2026-07-16",
-    "lastSeen": "2026-07-16"
   }
 ]

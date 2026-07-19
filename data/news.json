@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-07-19",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+    "date": "2026-07-19",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-18",
     "type": "trending",
     "toolSlug": "claude",
@@ -501,42 +510,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 7.3）",
     "summary": "hackernewsで注目: CLI That Enforces Spec-Driven Development with Claude Code, OpenCode, and Codex",
     "date": "2026-06-20",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-plain-2026-06-19",
-    "type": "trending",
-    "toolSlug": "plain",
-    "title": "Plain が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Notes from tired Egyptian whose job is explaining that humans built the pyramids",
-    "date": "2026-06-19",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-06-19",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 9.4）",
-    "summary": "hackernewsで注目: Agentic Resource Discovery Specification",
-    "date": "2026-06-19",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-19",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: CLI That Enforces Spec-Driven Development with Claude Code, OpenCode, and Codex",
-    "date": "2026-06-19",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-where-2026-06-19",
-    "type": "trending",
-    "toolSlug": "where",
-    "title": "WHERE が話題沸騰中（バズスコア: 8.6）",
-    "summary": "hackernewsで注目: Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-    "date": "2026-06-19",
     "source": "hackernews"
   }
 ]
