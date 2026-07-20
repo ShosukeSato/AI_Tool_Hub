@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-07-20",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code uses Bun written in Rust now",
+    "date": "2026-07-20",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-19",
     "type": "trending",
     "toolSlug": "claude",
@@ -492,24 +501,6 @@
     "title": "GPT-5.5 が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
     "date": "2026-06-21",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-plain-2026-06-20",
-    "type": "trending",
-    "toolSlug": "plain",
-    "title": "Plain が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Data Compression Explained",
-    "date": "2026-06-20",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-20",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 7.3）",
-    "summary": "hackernewsで注目: CLI That Enforces Spec-Driven Development with Claude Code, OpenCode, and Codex",
-    "date": "2026-06-20",
     "source": "hackernews"
   }
 ]
