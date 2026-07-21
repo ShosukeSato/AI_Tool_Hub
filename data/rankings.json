@@ -39,7 +39,7 @@
     "toolSlug": "grok",
     "overall": 5.6,
     "performance": 6,
-    "buzz": 1.5,
+    "buzz": 1.4,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-07-21"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.5,
+    "overall": 6.6,
     "performance": 6,
-    "buzz": 1.9,
+    "buzz": 2.6,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-07-21"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.8,
     "performance": 9,
-    "buzz": 2.4,
+    "buzz": 2.5,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-07-21"
@@ -849,7 +849,7 @@
     "toolSlug": "dify",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-07-21"
@@ -894,7 +894,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-07-21"
@@ -1164,7 +1164,7 @@
     "toolSlug": "libretto",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 9,
     "lastCalculated": "2026-07-21"
@@ -1470,7 +1470,7 @@
     "toolSlug": "google-vids",
     "overall": 6.6,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-07-21"
@@ -1605,7 +1605,7 @@
     "toolSlug": "whisper",
     "overall": 7.2,
     "performance": 8,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 6,
     "costPerformance": 10,
     "lastCalculated": "2026-07-21"
@@ -1891,9 +1891,9 @@
   },
   {
     "toolSlug": "findy-ai",
-    "overall": 6.9,
+    "overall": 7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-07-21"
