@@ -6,113 +6,76 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "score": 636,
+        "date": "2026-07-23"
+      },
+      {
+        "source": "hackernews",
         "title": "Advertise in ChatGPT",
         "url": "https://ads.openai.com/",
-        "score": 924,
-        "date": "2026-07-22"
+        "score": 1056,
+        "date": "2026-07-23"
       },
       {
         "source": "googlenews",
         "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
         "score": 1,
-        "date": "2026-07-22"
+        "date": "2026-07-23"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-22"
+    "lastSeen": "2026-07-23"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 7.7,
+    "buzzScore": 4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
         "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-        "score": 460,
-        "date": "2026-07-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-        "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-        "score": 226,
-        "date": "2026-07-22"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-22"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 7.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-        "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-        "score": 346,
-        "date": "2026-07-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
-        "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
-        "score": 27,
-        "date": "2026-07-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "A simple API for offering your coding agent a smoke break",
-        "url": "https://smoke-break.pineapplefreefall.com",
-        "score": 14,
-        "date": "2026-07-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agent swarms and the new model economics",
-        "url": "https://cursor.com/blog/agent-swarm-model-economics",
-        "score": 271,
-        "date": "2026-07-22"
+        "score": 548,
+        "date": "2026-07-23"
       },
       {
         "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
         "score": 1,
-        "date": "2026-07-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-        "score": 1,
-        "date": "2026-07-22"
+        "date": "2026-07-23"
       }
     ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-22"
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-07-23"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "So Reddit has decided that plain HTML is unsafe",
         "url": "https://www.cole-k.com/2026/07/21/reddit/",
-        "score": 103,
-        "date": "2026-07-22"
+        "score": 292,
+        "date": "2026-07-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+        "score": 1,
+        "date": "2026-07-23"
       }
     ],
     "firstSeen": "2026-07-22",
-    "lastSeen": "2026-07-22"
+    "lastSeen": "2026-07-23"
   },
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -126,9 +89,38 @@
     "lastSeen": "2026-07-14"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+        "url": "https://deepsql.ai/",
+        "score": 45,
+        "date": "2026-07-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "NotchAgent – native macOS notch control for AI agents running under herdr",
+        "url": "https://github.com/ykushch/agsig",
+        "score": 5,
+        "date": "2026-07-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-07-23"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-23"
+  },
+  {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -149,25 +141,19 @@
     "lastSeen": "2026-07-13"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
+        "title": "議事録AI「YOMEL」が「ITreview Grid Award 2026 Summer」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
         "score": 1,
-        "date": "2026-07-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-        "score": 1,
-        "date": "2026-07-22"
+        "date": "2026-07-23"
       }
     ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-07-22"
+    "firstSeen": "2026-07-23",
+    "lastSeen": "2026-07-23"
   },
   {
     "toolSlug": "gemini",
@@ -178,23 +164,41 @@
         "source": "googlenews",
         "title": "【Gemini 3.5 Flash-Lite & Gemini 3.6 Flash】自治体AI zevoにて2026年7月22日（水曜日）より提供開始！ - PR TIMES",
         "score": 1,
-        "date": "2026-07-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google releases three new Gemini models — but no 3.5 Pro",
-        "score": 1,
-        "date": "2026-07-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-        "score": 1,
-        "date": "2026-07-22"
+        "date": "2026-07-23"
       }
     ],
     "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-22"
+    "lastSeen": "2026-07-23"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-07-23"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-23"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+        "score": 1,
+        "date": "2026-07-23"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-07-23"
   },
   {
     "toolSlug": "synthesia",
@@ -205,11 +209,11 @@
         "source": "techcrunch",
         "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
         "score": 1,
-        "date": "2026-07-22"
+        "date": "2026-07-23"
       }
     ],
     "firstSeen": "2026-07-22",
-    "lastSeen": "2026-07-22"
+    "lastSeen": "2026-07-23"
   },
   {
     "toolSlug": "physical-intelligence",
@@ -220,16 +224,16 @@
         "source": "techcrunch",
         "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
         "score": 1,
-        "date": "2026-07-22"
+        "date": "2026-07-23"
       }
     ],
     "firstSeen": "2026-07-22",
-    "lastSeen": "2026-07-22"
+    "lastSeen": "2026-07-23"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -242,24 +246,9 @@
     "lastSeen": "2026-07-22"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-07-22"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-22"
-  },
-  {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -270,36 +259,5 @@
     ],
     "firstSeen": "2026-07-20",
     "lastSeen": "2026-07-21"
-  },
-  {
-    "toolSlug": "google-vids",
-    "toolName": "Google Vids",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google Vids now lets you star in your own AI videos",
-        "score": 1,
-        "date": "2026-07-20"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-20"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "San Francisco Demands Apple and Google Delete AI 'Nudify' Apps from App Stores",
-        "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-        "score": 6,
-        "date": "2026-07-19"
-      }
-    ],
-    "firstSeen": "2026-07-15",
-    "lastSeen": "2026-07-19"
   }
 ]

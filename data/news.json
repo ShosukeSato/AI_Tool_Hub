@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-chatgpt-2026-07-23",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "date": "2026-07-23",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-22",
     "type": "trending",
     "toolSlug": "agent",
@@ -501,15 +510,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 9.3）",
     "summary": "hackernewsで注目: Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
     "date": "2026-06-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-23",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: The text in Claude Code’s “Extended Thinking” output",
-    "date": "2026-06-23",
     "source": "hackernews"
   }
 ]
