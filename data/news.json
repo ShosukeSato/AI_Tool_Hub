@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-chatgpt-2026-07-24",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Free way to get your data out of ChatGPT Business accounts",
+    "date": "2026-07-24",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-07-23",
     "type": "trending",
     "toolSlug": "chatgpt",
@@ -483,33 +492,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "date": "2026-06-25",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-24",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Tag",
-    "date": "2026-06-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-gpt-5-5-2026-06-24",
-    "type": "trending",
-    "toolSlug": "gpt-5-5",
-    "title": "GPT-5.5 が話題沸騰中（バズスコア: 8.7）",
-    "summary": "hackernewsで注目: OpenAI DayBreak – GPT-5.5-Cyber",
-    "date": "2026-06-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-06-24",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 9.3）",
-    "summary": "hackernewsで注目: Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-    "date": "2026-06-24",
     "source": "hackernews"
   }
 ]
