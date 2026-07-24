@@ -6,21 +6,20 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Free way to get your data out of ChatGPT Business accounts",
-        "url": "https://github.com/Conradqh/scrapemychats",
-        "score": 77,
-        "date": "2026-07-24"
-      },
-      {
-        "source": "hackernews",
         "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
         "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-        "score": 1090,
+        "score": 1105,
         "date": "2026-07-24"
       },
       {
         "source": "googlenews",
         "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
+        "score": 1,
+        "date": "2026-07-24"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app",
         "score": 1,
         "date": "2026-07-24"
       },
@@ -35,74 +34,22 @@
     "lastSeen": "2026-07-24"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 6.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
-        "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
-        "score": 36,
-        "date": "2026-07-24"
-      },
-      {
-        "source": "hackernews",
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "url": "https://www.cole-k.com/2026/07/21/reddit/",
-        "score": 590,
-        "date": "2026-07-24"
-      }
-    ],
-    "firstSeen": "2026-07-22",
-    "lastSeen": "2026-07-24"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-        "url": "https://github.com/onecli/onecli",
-        "score": 81,
-        "date": "2026-07-24"
-      },
-      {
-        "source": "hackernews",
-        "title": "Fourth Circuit: Border Agents Can Search Your Phone by Hand, No Suspicion Needed",
-        "url": "https://www.eff.org/deeplinks/2026/07/fourth-circuit-says-border-agents-can-search-your-phone-hand-no-suspicion-required",
-        "score": 60,
-        "date": "2026-07-24"
-      },
-      {
-        "source": "hackernews",
-        "title": "Snapshots, copy-on-write, and the economics of agent sandboxes",
-        "url": "https://builders.cortex.io/blog/sandboxing-agents-part-2/",
-        "score": 14,
-        "date": "2026-07-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-07-24"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-24"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 1.6,
+    "buzzScore": 3.3,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude Cookbook",
+        "url": "https://platform.claude.com/cookbook/",
+        "score": 156,
+        "date": "2026-07-24"
+      },
       {
         "source": "hackernews",
         "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
         "url": "https://github.com/izeigerman/claude-thermos",
-        "score": 74,
+        "score": 104,
         "date": "2026-07-24"
       },
       {
@@ -116,9 +63,47 @@
     "lastSeen": "2026-07-24"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+        "url": "https://github.com/onecli/onecli",
+        "score": 101,
+        "date": "2026-07-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-07-24"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-24"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+        "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+        "score": 42,
+        "date": "2026-07-24"
+      }
+    ],
+    "firstSeen": "2026-07-22",
+    "lastSeen": "2026-07-24"
+  },
+  {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -153,18 +138,18 @@
     "lastSeen": "2026-07-24"
   },
   {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "議事録AI「YOMEL」が「ITreview Grid Award 2026 Summer」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
         "date": "2026-07-24"
       }
     ],
-    "firstSeen": "2026-07-23",
+    "firstSeen": "2026-07-20",
     "lastSeen": "2026-07-24"
   },
   {
@@ -213,6 +198,21 @@
     "lastSeen": "2026-07-24"
   },
   {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-07-24"
+      }
+    ],
+    "firstSeen": "2026-07-24",
+    "lastSeen": "2026-07-24"
+  },
+  {
     "toolSlug": "runway",
     "toolName": "Runway",
     "buzzScore": 1,
@@ -228,9 +228,24 @@
     "lastSeen": "2026-07-24"
   },
   {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "議事録AI「YOMEL」が「ITreview Grid Award 2026 Summer」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-24"
+      }
+    ],
+    "firstSeen": "2026-07-23",
+    "lastSeen": "2026-07-24"
+  },
+  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -245,7 +260,7 @@
   {
     "toolSlug": "synthesia",
     "toolName": "Synthesia",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -260,7 +275,7 @@
   {
     "toolSlug": "physical-intelligence",
     "toolName": "Physical Intelligence",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -275,7 +290,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -294,20 +309,5 @@
     ],
     "firstSeen": "2026-07-12",
     "lastSeen": "2026-07-13"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-07-22"
-      }
-    ],
-    "firstSeen": "2026-07-20",
-    "lastSeen": "2026-07-22"
   }
 ]
