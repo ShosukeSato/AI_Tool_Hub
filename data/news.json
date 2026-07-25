@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-07-25",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Opus 5",
+    "date": "2026-07-25",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-07-24",
     "type": "trending",
     "toolSlug": "chatgpt",
@@ -465,33 +474,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "date": "2026-06-26",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-06-25",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: GLM-5.2 is a step change for open agents",
-    "date": "2026-06-25",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-gpt-5-5-2026-06-25",
-    "type": "trending",
-    "toolSlug": "gpt-5-5",
-    "title": "GPT-5.5 が話題沸騰中（バズスコア: 7.6）",
-    "summary": "hackernewsで注目: OpenAI DayBreak – GPT-5.5-Cyber",
-    "date": "2026-06-25",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-25",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "date": "2026-06-25",
     "source": "hackernews"
   }
 ]
