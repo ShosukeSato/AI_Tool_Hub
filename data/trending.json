@@ -8,27 +8,20 @@
         "source": "hackernews",
         "title": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
-        "score": 1328,
+        "score": 1653,
         "date": "2026-07-25"
       },
       {
         "source": "hackernews",
         "title": "Claude Cookbook",
         "url": "https://platform.claude.com/cookbook/",
-        "score": 289,
+        "score": 317,
         "date": "2026-07-25"
       },
       {
         "source": "hackernews",
         "title": "Show HN: How well do you use Claude Code? ()",
-        "score": 6,
-        "date": "2026-07-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "score": 9,
+        "score": 15,
         "date": "2026-07-25"
       },
       {
@@ -44,13 +37,13 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 4,
+    "buzzScore": 4.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "score": 430,
+        "score": 501,
         "date": "2026-07-25"
       },
       {
@@ -66,7 +59,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -78,22 +71,6 @@
     ],
     "firstSeen": "2026-07-22",
     "lastSeen": "2026-07-24"
-  },
-  {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-        "score": 545,
-        "date": "2026-07-14"
-      }
-    ],
-    "firstSeen": "2026-07-14",
-    "lastSeen": "2026-07-14"
   },
   {
     "toolSlug": "chatgpt",
@@ -141,6 +118,21 @@
       }
     ],
     "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-25"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-07-25"
+      }
+    ],
+    "firstSeen": "2026-07-20",
     "lastSeen": "2026-07-25"
   },
   {
@@ -264,24 +256,25 @@
     "lastSeen": "2026-07-25"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "toolSlug": "whisper",
+    "toolName": "Whisper",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-07-24"
+        "source": "hackernews",
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+        "score": 545,
+        "date": "2026-07-14"
       }
     ],
-    "firstSeen": "2026-07-20",
-    "lastSeen": "2026-07-24"
+    "firstSeen": "2026-07-14",
+    "lastSeen": "2026-07-14"
   },
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -296,7 +289,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -311,7 +304,7 @@
   {
     "toolSlug": "synthesia",
     "toolName": "Synthesia",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -326,7 +319,7 @@
   {
     "toolSlug": "physical-intelligence",
     "toolName": "Physical Intelligence",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -341,7 +334,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
