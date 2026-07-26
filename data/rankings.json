@@ -28,9 +28,9 @@
   },
   {
     "toolSlug": "deepseek",
-    "overall": 7.4,
+    "overall": 7.5,
     "performance": 8,
-    "buzz": 1.5,
+    "buzz": 2,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-07-26"
@@ -453,7 +453,7 @@
     "toolSlug": "agent",
     "overall": 6.4,
     "performance": 6,
-    "buzz": 1,
+    "buzz": 1.1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-07-26"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.6,
     "performance": 9,
-    "buzz": 1.2,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-07-26"
@@ -1605,7 +1605,7 @@
     "toolSlug": "whisper",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 10,
     "lastCalculated": "2026-07-26"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7.1,
     "performance": 7,
-    "buzz": 1.8,
+    "buzz": 2.1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-07-26"
@@ -2955,7 +2955,7 @@
     "toolSlug": "era",
     "overall": 5.3,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 1.5,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-07-26"
