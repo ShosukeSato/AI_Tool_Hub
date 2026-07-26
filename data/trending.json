@@ -6,71 +6,152 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "score": 173,
+        "date": "2026-07-26"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
-        "score": 1653,
-        "date": "2026-07-25"
+        "score": 1740,
+        "date": "2026-07-26"
       },
       {
         "source": "hackernews",
         "title": "Claude Cookbook",
         "url": "https://platform.claude.com/cookbook/",
-        "score": 317,
-        "date": "2026-07-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: How well do you use Claude Code? ()",
-        "score": 15,
-        "date": "2026-07-25"
+        "score": 330,
+        "date": "2026-07-26"
       },
       {
         "source": "techcrunch",
         "title": "Anthropic updates Claude voice mode with more capable models",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-25"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 4.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Be skeptical of OpenAI's rogue hacker agent story",
-        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "score": 501,
-        "date": "2026-07-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-07-25"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
+    "buzzScore": 1.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Brolly, a plain-text weather forecast site",
+        "url": "https://brolly.sh/forecast/RWFP2qW8",
+        "score": 136,
+        "date": "2026-07-26"
+      }
+    ],
+    "firstSeen": "2026-07-22",
+    "lastSeen": "2026-07-26"
+  },
+  {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked",
+        "url": "transcript) [pdf] (https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "score": 87,
+        "date": "2026-07-26"
+      }
+    ],
+    "firstSeen": "2026-07-26",
+    "lastSeen": "2026-07-26"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
     "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
-        "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
-        "score": 42,
-        "date": "2026-07-24"
+        "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+        "url": "https://github.com/sktkkoo/Yorishiro",
+        "score": 38,
+        "date": "2026-07-26"
+      },
+      {
+        "source": "googlenews",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-07-26"
       }
     ],
-    "firstSeen": "2026-07-22",
-    "lastSeen": "2026-07-24"
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-26"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Rethinking Legal Education in the AI Era",
+        "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+        "score": 7,
+        "date": "2026-07-26"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-26"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-07-26"
+  },
+  {
+    "toolSlug": "runway",
+    "toolName": "Runway",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Runway launches AI model router as generative media gets crowded - TechCrunch",
+        "score": 1,
+        "date": "2026-07-26"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Runway launches AI model router as generative media gets crowded",
+        "score": 1,
+        "date": "2026-07-26"
+      }
+    ],
+    "firstSeen": "2026-07-24",
+    "lastSeen": "2026-07-26"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-07-26"
+      },
+      {
+        "source": "googlenews",
+        "title": "AI Mage、\"アニメオタク\"AI搭載のアシスタント「Mage Agent」をリリース。作品理解に特化し監修・企画業務に伴走 - Brand New Creativity",
+        "score": 1,
+        "date": "2026-07-26"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "chatgpt",
@@ -81,23 +162,23 @@
         "source": "googlenews",
         "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       },
       {
         "source": "techcrunch",
         "title": "OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       },
       {
         "source": "techcrunch",
         "title": "OpenAI makes ChatGPT Health available to all US users",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "gemini",
@@ -108,17 +189,11 @@
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-07-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "【Gemini 3.5 Flash-Lite & Gemini 3.6 Flash】自治体AI zevoにて2026年7月22日（水曜日）より提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -129,26 +204,11 @@
         "source": "googlenews",
         "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-07-20",
-    "lastSeen": "2026-07-25"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-07-25"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "findy-ai",
@@ -159,11 +219,11 @@
         "source": "googlenews",
         "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-07-20",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "notta",
@@ -174,11 +234,11 @@
         "source": "googlenews",
         "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-07-24",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "com",
@@ -189,11 +249,11 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-07-24",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "poke",
@@ -204,11 +264,11 @@
         "source": "techcrunch",
         "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-07-25",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "attie",
@@ -219,11 +279,11 @@
         "source": "techcrunch",
         "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-07-25",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "midjourney",
@@ -234,31 +294,16 @@
         "source": "techcrunch",
         "title": "Midjourney acquired the astrology app Co-Star",
         "score": 1,
-        "date": "2026-07-25"
+        "date": "2026-07-26"
       }
     ],
     "firstSeen": "2026-07-25",
-    "lastSeen": "2026-07-25"
-  },
-  {
-    "toolSlug": "runway",
-    "toolName": "Runway",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Runway launches AI model router as generative media gets crowded",
-        "score": 1,
-        "date": "2026-07-25"
-      }
-    ],
-    "firstSeen": "2026-07-24",
-    "lastSeen": "2026-07-25"
+    "lastSeen": "2026-07-26"
   },
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -274,7 +319,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -285,73 +330,5 @@
     ],
     "firstSeen": "2026-07-23",
     "lastSeen": "2026-07-24"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-        "score": 1,
-        "date": "2026-07-23"
-      }
-    ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-07-23"
-  },
-  {
-    "toolSlug": "synthesia",
-    "toolName": "Synthesia",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-        "score": 1,
-        "date": "2026-07-23"
-      }
-    ],
-    "firstSeen": "2026-07-22",
-    "lastSeen": "2026-07-23"
-  },
-  {
-    "toolSlug": "physical-intelligence",
-    "toolName": "Physical Intelligence",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-        "score": 1,
-        "date": "2026-07-23"
-      }
-    ],
-    "firstSeen": "2026-07-22",
-    "lastSeen": "2026-07-23"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Grok uploaded my user directory to xAI's servers",
-        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-        "score": 97,
-        "date": "2026-07-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-        "score": 502,
-        "date": "2026-07-13"
-      }
-    ],
-    "firstSeen": "2026-07-12",
-    "lastSeen": "2026-07-13"
   }
 ]
