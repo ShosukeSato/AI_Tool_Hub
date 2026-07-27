@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-07-27",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: The new rules of context engineering for Claude 5 generation models",
+    "date": "2026-07-27",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-26",
     "type": "trending",
     "toolSlug": "claude",
@@ -465,15 +474,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 9）",
     "summary": "hackernewsで注目: Show HN: Smart model routing directly in Claude, Codex and Cursor",
     "date": "2026-06-28",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-27",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "date": "2026-06-27",
     "source": "hackernews"
   }
 ]
