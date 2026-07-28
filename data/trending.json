@@ -6,16 +6,22 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Elevated errors on Claude Opus 5",
-        "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-        "score": 98,
+        "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+        "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+        "score": 3,
         "date": "2026-07-28"
       },
       {
         "source": "hackernews",
-        "title": "Claude shared chats and Artifacts may have ended up on Google",
-        "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-        "score": 22,
+        "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support ()",
+        "score": 36,
+        "date": "2026-07-28"
+      },
+      {
+        "source": "hackernews",
+        "title": "Elevated errors on Claude Opus 5",
+        "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+        "score": 101,
         "date": "2026-07-28"
       },
       {
@@ -35,9 +41,31 @@
     "lastSeen": "2026-07-28"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "score": 62,
+        "date": "2026-07-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-28"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-07-28"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 4.9,
+    "buzzScore": 4.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -51,31 +79,28 @@
     "lastSeen": "2026-07-27"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 3.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Rethinking legal education in the AI era",
-        "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-        "score": 142,
-        "date": "2026-07-27"
-      }
-    ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-07-27"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.7,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Ami – A local, open-source agent that does your busywork across apps",
-        "url": "https://github.com/NanoNets/ami",
-        "score": 7,
+        "title": "Show HN: Open-source Cloudflare deployed agent native task management and wiki",
+        "url": "https://tajd.github.io/projektor/",
+        "score": 8,
+        "date": "2026-07-28"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: BrowserAct: Browser Layer for Your AI Agent",
+        "url": "https://github.com/browser-act/skills",
+        "score": 5,
+        "date": "2026-07-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
+        "score": 1,
         "date": "2026-07-28"
       },
       {
@@ -97,7 +122,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -130,6 +155,12 @@
     "toolName": "Gemini",
     "buzzScore": 1.1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-07-28"
+      },
       {
         "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
@@ -171,9 +202,39 @@
     "lastSeen": "2026-07-28"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+        "score": 1,
+        "date": "2026-07-28"
+      }
+    ],
+    "firstSeen": "2026-07-28",
+    "lastSeen": "2026-07-28"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "score": 1,
+        "date": "2026-07-28"
+      }
+    ],
+    "firstSeen": "2026-07-28",
+    "lastSeen": "2026-07-28"
+  },
+  {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -188,7 +249,7 @@
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -203,7 +264,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -218,7 +279,7 @@
   {
     "toolSlug": "midjourney",
     "toolName": "Midjourney",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -233,7 +294,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -248,7 +309,7 @@
   {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -263,7 +324,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -278,7 +339,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
