@@ -8,37 +8,36 @@
         "source": "hackernews",
         "title": "Elevated errors on Claude Opus 5",
         "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-        "score": 54,
-        "date": "2026-07-27"
+        "score": 98,
+        "date": "2026-07-28"
       },
       {
         "source": "hackernews",
-        "title": "Elevated errors on Claude Opus 5",
-        "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-        "score": 37,
-        "date": "2026-07-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "score": 452,
-        "date": "2026-07-27"
+        "title": "Claude shared chats and Artifacts may have ended up on Google",
+        "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+        "score": 22,
+        "date": "2026-07-28"
       },
       {
         "source": "googlenews",
         "title": "【Claude Opus 5】自治体AI zevoに新たなClaude系LLMが2026年7月27日に追加！ - PR TIMES",
         "score": 1,
-        "date": "2026-07-27"
+        "date": "2026-07-28"
+      },
+      {
+        "source": "techcrunch",
+        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+        "score": 1,
+        "date": "2026-07-28"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-27"
+    "lastSeen": "2026-07-28"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 5.4,
+    "buzzScore": 4.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -54,7 +53,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 3.5,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -68,9 +67,37 @@
     "lastSeen": "2026-07-27"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Ami – A local, open-source agent that does your busywork across apps",
+        "url": "https://github.com/NanoNets/ami",
+        "score": 7,
+        "date": "2026-07-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-07-28"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+        "score": 1,
+        "date": "2026-07-28"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-07-28"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -84,66 +111,84 @@
     "lastSeen": "2026-07-27"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Ask HN: Why is every company encorporating AI everywhere? ()",
-        "score": 18,
-        "date": "2026-07-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-07-27"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-27"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
         "score": 1,
-        "date": "2026-07-27"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app",
-        "score": 1,
-        "date": "2026-07-27"
+        "date": "2026-07-28"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-27"
+    "lastSeen": "2026-07-28"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1,
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-07-27"
+        "date": "2026-07-28"
       }
     ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-27"
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-28"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-07-28"
+      }
+    ],
+    "firstSeen": "2026-07-20",
+    "lastSeen": "2026-07-28"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-07-28"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-28"
+  },
+  {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-07-28"
+      }
+    ],
+    "firstSeen": "2026-07-20",
+    "lastSeen": "2026-07-28"
   },
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -158,7 +203,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -173,7 +218,7 @@
   {
     "toolSlug": "midjourney",
     "toolName": "Midjourney",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -188,7 +233,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -201,39 +246,9 @@
     "lastSeen": "2026-07-27"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-07-27"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-27"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-07-27"
-      }
-    ],
-    "firstSeen": "2026-07-20",
-    "lastSeen": "2026-07-27"
-  },
-  {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -246,24 +261,9 @@
     "lastSeen": "2026-07-27"
   },
   {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-27"
-      }
-    ],
-    "firstSeen": "2026-07-20",
-    "lastSeen": "2026-07-27"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -278,7 +278,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -289,21 +289,5 @@
     ],
     "firstSeen": "2026-07-24",
     "lastSeen": "2026-07-26"
-  },
-  {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-        "score": 545,
-        "date": "2026-07-14"
-      }
-    ],
-    "firstSeen": "2026-07-14",
-    "lastSeen": "2026-07-14"
   }
 ]
