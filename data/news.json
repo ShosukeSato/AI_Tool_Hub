@@ -18,6 +18,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-07-29",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Handbook.md shows that long policy documents do not reliably govern agents",
+    "date": "2026-07-29",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-28",
     "type": "trending",
     "toolSlug": "claude",

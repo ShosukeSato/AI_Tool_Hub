@@ -1,82 +1,41 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Discovering Cryptographic Weaknesses with Claude",
-        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-        "score": 182,
-        "date": "2026-07-29"
-      },
-      {
-        "source": "techcrunch",
-        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-        "score": 1,
-        "date": "2026-07-29"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-29"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 8.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-        "score": 145,
-        "date": "2026-07-29"
-      }
-    ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-07-29"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 6.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Harmony Explained: Progress Towards a Scientific Theory of Music",
-        "url": "2012) (https://arxiv.org/abs/1202.4212",
-        "score": 95,
+        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+        "url": "https://arxiv.org/abs/2607.25398",
+        "score": 53,
         "date": "2026-07-29"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure",
-        "url": "https://github.com/cynative/cynative",
-        "score": 13,
+        "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+        "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+        "score": 30,
         "date": "2026-07-29"
-      }
-    ],
-    "firstSeen": "2026-07-22",
-    "lastSeen": "2026-07-29"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 5.9,
-    "mentions": [
+      },
       {
         "source": "hackernews",
         "title": "Hubble: Open-source notetaking app for you and your agents",
         "url": "https://www.hubble.md/",
-        "score": 39,
+        "score": 136,
         "date": "2026-07-29"
       },
       {
         "source": "hackernews",
-        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
-        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-        "score": 57,
+        "title": "Scaling Agentic RL: 365,000 Environments for SWE, Terminal, and Search",
+        "url": "https://www.primeintellect.ai/blog/scaling-agentic-rl",
+        "score": 3,
+        "date": "2026-07-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
+        "score": 1,
         "date": "2026-07-29"
       },
       {
@@ -102,9 +61,69 @@
     "lastSeen": "2026-07-29"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 9.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Discovering Cryptographic Weaknesses with Claude",
+        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+        "score": 222,
+        "date": "2026-07-29"
+      },
+      {
+        "source": "techcrunch",
+        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+        "score": 1,
+        "date": "2026-07-29"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-07-29"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 7.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "score": 152,
+        "date": "2026-07-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-29"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-07-29"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 5.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Harmony Explained: Progress Towards a Scientific Theory of Music",
+        "url": "2012) (https://arxiv.org/abs/1202.4212",
+        "score": 102,
+        "date": "2026-07-29"
+      }
+    ],
+    "firstSeen": "2026-07-22",
+    "lastSeen": "2026-07-29"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 4,
+    "buzzScore": 3.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -120,15 +139,8 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.6,
+    "buzzScore": 1.1,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AE Studio recruiting pirates to recover treasure located by AI",
-        "url": "https://ae.studio/jobs/pirate",
-        "score": 11,
-        "date": "2026-07-29"
-      },
       {
         "source": "techcrunch",
         "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
@@ -200,21 +212,6 @@
     "lastSeen": "2026-07-29"
   },
   {
-    "toolSlug": "adobe-firefly",
-    "toolName": "Adobe Firefly",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
-        "score": 1,
-        "date": "2026-07-29"
-      }
-    ],
-    "firstSeen": "2026-07-27",
-    "lastSeen": "2026-07-29"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
     "buzzScore": 1,
@@ -245,9 +242,24 @@
     "lastSeen": "2026-07-29"
   },
   {
+    "toolSlug": "adobe-firefly",
+    "toolName": "Adobe Firefly",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Fireflyの新AI機能とカスタムモデルで動画・画像制作がさらに進化 - Adobe",
+        "score": 1,
+        "date": "2026-07-29"
+      }
+    ],
+    "firstSeen": "2026-07-27",
+    "lastSeen": "2026-07-29"
+  },
+  {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -262,7 +274,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -277,7 +289,7 @@
   {
     "toolSlug": "midjourney",
     "toolName": "Midjourney",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -287,36 +299,6 @@
       }
     ],
     "firstSeen": "2026-07-25",
-    "lastSeen": "2026-07-27"
-  },
-  {
-    "toolSlug": "runway",
-    "toolName": "Runway",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Runway launches AI model router as generative media gets crowded - TechCrunch",
-        "score": 1,
-        "date": "2026-07-27"
-      }
-    ],
-    "firstSeen": "2026-07-24",
-    "lastSeen": "2026-07-27"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-07-27"
-      }
-    ],
-    "firstSeen": "2026-07-24",
     "lastSeen": "2026-07-27"
   }
 ]

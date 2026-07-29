@@ -12,7 +12,7 @@
     "toolSlug": "claude",
     "overall": 8.3,
     "performance": 9,
-    "buzz": 10,
+    "buzz": 9.9,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-07-29"
@@ -28,9 +28,9 @@
   },
   {
     "toolSlug": "deepseek",
-    "overall": 7.8,
+    "overall": 7.7,
     "performance": 8,
-    "buzz": 4,
+    "buzz": 3.6,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-07-29"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 7.1,
+    "overall": 7.8,
     "performance": 6,
-    "buzz": 5.9,
+    "buzz": 10,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-07-29"
@@ -597,7 +597,7 @@
     "toolSlug": "midjourney",
     "overall": 6.4,
     "performance": 9,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 7,
     "lastCalculated": "2026-07-29"
@@ -622,9 +622,9 @@
   },
   {
     "toolSlug": "adobe-firefly",
-    "overall": 6.1,
+    "overall": 6,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-07-29"
@@ -883,9 +883,9 @@
   },
   {
     "toolSlug": "attie",
-    "overall": 5.2,
+    "overall": 5.1,
     "performance": 4,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-07-29"
@@ -1054,9 +1054,9 @@
   },
   {
     "toolSlug": "poke",
-    "overall": 6.9,
+    "overall": 6.8,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-07-29"
@@ -1360,9 +1360,9 @@
   },
   {
     "toolSlug": "udio",
-    "overall": 6.5,
+    "overall": 6.4,
     "performance": 8,
-    "buzz": 1.6,
+    "buzz": 1.1,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-07-29"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7.7,
+    "overall": 7.6,
     "performance": 7,
-    "buzz": 6.3,
+    "buzz": 5.1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-07-29"
@@ -2953,9 +2953,9 @@
   },
   {
     "toolSlug": "era",
-    "overall": 6.3,
+    "overall": 6.2,
     "performance": 8,
-    "buzz": 8.1,
+    "buzz": 7.1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-07-29"
