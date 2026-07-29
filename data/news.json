@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-07-29",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Discovering Cryptographic Weaknesses with Claude",
+    "date": "2026-07-29",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-era-2026-07-29",
+    "type": "trending",
+    "toolSlug": "era",
+    "title": "Era が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: Google's Beyond Zero: Enterprise Security for the AI Era",
+    "date": "2026-07-29",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-28",
     "type": "trending",
     "toolSlug": "claude",
@@ -456,15 +474,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: GLM 5.2 beats Claude in our benchmarks",
     "date": "2026-06-30",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-29",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: GLM 5.2 beats Claude in our benchmarks",
-    "date": "2026-06-29",
     "source": "hackernews"
   }
 ]
