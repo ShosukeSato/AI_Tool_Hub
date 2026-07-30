@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-07-30",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "date": "2026-07-30",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-07-29",
     "type": "trending",
     "toolSlug": "claude",
@@ -474,15 +483,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Sonnet 5",
     "date": "2026-07-01",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-06-30",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: GLM 5.2 beats Claude in our benchmarks",
-    "date": "2026-06-30",
     "source": "hackernews"
   }
 ]
