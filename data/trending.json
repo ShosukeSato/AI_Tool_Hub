@@ -6,150 +6,210 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-        "score": 428,
-        "date": "2026-07-30"
+        "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+        "url": "https://github.com/AminBlg/SimpleEnglish",
+        "score": 215,
+        "date": "2026-07-31"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+        "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+        "score": 17,
+        "date": "2026-07-31"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Supapool – a Supabase per coding agent in ~400 ms",
+        "url": "https://supapool.io/",
+        "score": 27,
+        "date": "2026-07-31"
       },
       {
         "source": "hackernews",
         "title": "Kuna: Decompiler Development in the Age of Coding Agents",
         "url": "https://noelo.org/blog/kuna-release/",
-        "score": 63,
-        "date": "2026-07-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "How much can you delegate to agents?",
-        "url": "https://newsletter.posthog.com/p/agent-autonomy",
-        "score": 60,
-        "date": "2026-07-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "url": "https://arxiv.org/abs/2607.25398",
-        "score": 318,
-        "date": "2026-07-30"
+        "score": 75,
+        "date": "2026-07-31"
       },
       {
         "source": "googlenews",
         "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
         "score": 1,
-        "date": "2026-07-30"
+        "date": "2026-07-31"
       },
       {
         "source": "techcrunch",
         "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
         "score": 1,
-        "date": "2026-07-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Zuckerberg says Meta&#8217;s enterprise AI opportunity extends beyond agents",
-        "score": 1,
-        "date": "2026-07-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-        "score": 1,
-        "date": "2026-07-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-        "score": 1,
-        "date": "2026-07-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-        "score": 1,
-        "date": "2026-07-30"
+        "date": "2026-07-31"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-07-30"
+    "lastSeen": "2026-07-31"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3,
+    "buzzScore": 5.4,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+        "url": "https://github.com/hamzarehmandeveloper/claude-account",
+        "score": 47,
+        "date": "2026-07-31"
+      },
       {
         "source": "hackernews",
         "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
         "url": "https://github.com/YoanWai/agent-manager",
-        "score": 55,
-        "date": "2026-07-30"
+        "score": 95,
+        "date": "2026-07-31"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: A local merge queue for parallel Claude Code agents",
-        "url": "https://github.com/funador/claude-code-merge-queue",
-        "score": 39,
-        "date": "2026-07-30"
+        "title": "Anthropic says Claude hacked three companies during tests",
+        "url": "https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30/",
+        "score": 11,
+        "date": "2026-07-31"
       },
       {
         "source": "hackernews",
-        "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-        "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-        "score": 98,
-        "date": "2026-07-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "score": 1,
-        "date": "2026-07-30"
+        "title": "I asked Claude to reimplement Apple's LZRAVEN codec in C, conformance-tested",
+        "url": "https://github.com/anat0m1a/liblzraven",
+        "score": 11,
+        "date": "2026-07-31"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-07-30"
+    "lastSeen": "2026-07-31"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.9,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked",
-        "url": "transcript) [pdf] (https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/15c6504be51b884a0adc5d77e4dba41f94431454/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "score": 246,
-        "date": "2026-07-27"
+        "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "score": 87,
+        "date": "2026-07-31"
       }
     ],
     "firstSeen": "2026-07-26",
-    "lastSeen": "2026-07-27"
+    "lastSeen": "2026-07-31"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.4,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-        "score": 40,
-        "date": "2026-07-30"
-      },
       {
         "source": "googlenews",
         "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
         "score": 1,
-        "date": "2026-07-30"
+        "date": "2026-07-31"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-07-30"
+    "lastSeen": "2026-07-31"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-07-31"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-07-31"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-07-31"
+      }
+    ],
+    "firstSeen": "2026-07-20",
+    "lastSeen": "2026-07-31"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-07-31"
+      }
+    ],
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-07-31"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "バイタリフィ、「AI World 2026 夏 東京」の出展が大盛況で終了！Dify活用や生成AIチャットボットの導入に関心が集まる - prtimes.jp",
+        "score": 1,
+        "date": "2026-07-31"
+      }
+    ],
+    "firstSeen": "2026-07-30",
+    "lastSeen": "2026-07-31"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - prtimes.jp",
+        "score": 1,
+        "date": "2026-07-31"
+      }
+    ],
+    "firstSeen": "2026-07-05",
+    "lastSeen": "2026-07-31"
+  },
+  {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - prtimes.jp",
+        "score": 1,
+        "date": "2026-07-31"
+      }
+    ],
+    "firstSeen": "2026-07-20",
+    "lastSeen": "2026-07-31"
   },
   {
     "toolSlug": "mbodi-ai",
     "toolName": "Mbodi AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -163,24 +223,9 @@
     "lastSeen": "2026-07-30"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-07-30"
-      }
-    ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-07-30"
-  },
-  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -199,54 +244,9 @@
     "lastSeen": "2026-07-30"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-07-30"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-07-30"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-07-30"
-      }
-    ],
-    "firstSeen": "2026-07-20",
-    "lastSeen": "2026-07-30"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "バイタリフィ、「AI World 2026 夏 東京」の出展が大盛況で終了！Dify活用や生成AIチャットボットの導入に関心が集まる - PR TIMES",
-        "score": 1,
-        "date": "2026-07-30"
-      }
-    ],
-    "firstSeen": "2026-07-30",
-    "lastSeen": "2026-07-30"
-  },
-  {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -261,7 +261,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -276,7 +276,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -292,7 +292,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -305,39 +305,9 @@
     "lastSeen": "2026-07-29"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-07-29"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-07-29"
-  },
-  {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-07-29"
-      }
-    ],
-    "firstSeen": "2026-07-20",
-    "lastSeen": "2026-07-29"
-  },
-  {
     "toolSlug": "adobe-firefly",
     "toolName": "Adobe Firefly",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
