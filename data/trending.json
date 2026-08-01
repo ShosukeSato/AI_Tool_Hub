@@ -8,35 +8,41 @@
         "source": "hackernews",
         "title": "qm – Multiplayer agent harness for work",
         "url": "https://github.com/yc-software/qm",
-        "score": 475,
-        "date": "2026-08-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: How to build and self-host a code review agent",
-        "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
-        "score": 22,
-        "date": "2026-08-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-        "url": "https://arxiv.org/abs/2607.28545",
-        "score": 26,
-        "date": "2026-08-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-        "url": "https://swe-rebench.com",
-        "score": 43,
+        "score": 595,
         "date": "2026-08-01"
       },
       {
         "source": "hackernews",
         "title": "Show HN: What should the GUI for AI agents look like?",
         "url": "https://marbleos.com/demo",
-        "score": 108,
+        "score": 120,
+        "date": "2026-08-01"
+      },
+      {
+        "source": "hackernews",
+        "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+        "url": "https://arxiv.org/abs/2607.28545",
+        "score": 29,
+        "date": "2026-08-01"
+      },
+      {
+        "source": "hackernews",
+        "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+        "url": "https://swe-rebench.com",
+        "score": 48,
+        "date": "2026-08-01"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: How to build and self-host a code review agent",
+        "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+        "score": 27,
+        "date": "2026-08-01"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
         "date": "2026-08-01"
       },
       {
@@ -52,7 +58,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 4,
+    "buzzScore": 3.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -75,17 +81,39 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 3.2,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
         "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-        "score": 163,
+        "score": 165,
         "date": "2026-08-01"
       }
     ],
     "firstSeen": "2026-07-26",
+    "lastSeen": "2026-08-01"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 2.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Flint: A Visualization Language for the AI Era",
+        "url": "https://microsoft.github.io/flint-chart/",
+        "score": 157,
+        "date": "2026-08-01"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-08-01"
+      }
+    ],
+    "firstSeen": "2026-07-21",
     "lastSeen": "2026-08-01"
   },
   {
@@ -110,21 +138,6 @@
     "lastSeen": "2026-08-01"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-08-01"
-      }
-    ],
-    "firstSeen": "2026-07-17",
-    "lastSeen": "2026-08-01"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
     "buzzScore": 1,
@@ -137,6 +150,21 @@
       }
     ],
     "firstSeen": "2026-07-20",
+    "lastSeen": "2026-08-01"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-08-01"
+      }
+    ],
+    "firstSeen": "2026-07-17",
     "lastSeen": "2026-08-01"
   },
   {
@@ -170,30 +198,9 @@
     "lastSeen": "2026-08-01"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
-        "score": 1,
-        "date": "2026-07-31"
-      },
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-07-31"
-      }
-    ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-07-31"
-  },
-  {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -208,7 +215,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -223,7 +230,7 @@
   {
     "toolSlug": "mbodi-ai",
     "toolName": "Mbodi AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -239,7 +246,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -260,7 +267,7 @@
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -275,7 +282,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -290,7 +297,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -302,20 +309,5 @@
     ],
     "firstSeen": "2026-07-30",
     "lastSeen": "2026-07-30"
-  },
-  {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-        "score": 1,
-        "date": "2026-07-29"
-      }
-    ],
-    "firstSeen": "2026-07-28",
-    "lastSeen": "2026-07-29"
   }
 ]

@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 7.4,
+    "overall": 7.3,
     "performance": 9,
-    "buzz": 4,
+    "buzz": 3.6,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-01"
@@ -30,7 +30,7 @@
     "toolSlug": "deepseek",
     "overall": 7.6,
     "performance": 8,
-    "buzz": 3.2,
+    "buzz": 2.8,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-08-01"
@@ -48,7 +48,7 @@
     "toolSlug": "microsoft-copilot",
     "overall": 6.3,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-01"
@@ -849,7 +849,7 @@
     "toolSlug": "dify",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-08-01"
@@ -928,9 +928,9 @@
   },
   {
     "toolSlug": "mbodi-ai",
-    "overall": 5.3,
+    "overall": 5.2,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 5,
     "costPerformance": 5,
     "lastCalculated": "2026-08-01"
@@ -1360,9 +1360,9 @@
   },
   {
     "toolSlug": "udio",
-    "overall": 6.4,
+    "overall": 6.3,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-08-01"
@@ -1893,7 +1893,7 @@
     "toolSlug": "findy-ai",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-08-01"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 6.9,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-08-01"
@@ -2953,9 +2953,9 @@
   },
   {
     "toolSlug": "era",
-    "overall": 5.2,
+    "overall": 5.5,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 2.7,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-08-01"
@@ -3009,7 +3009,7 @@
     "toolSlug": "thinking-machines",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-08-01"
