@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-01",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: qm – Multiplayer agent harness for work",
+    "date": "2026-08-01",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-07-31",
     "type": "trending",
     "toolSlug": "agent",
@@ -474,15 +483,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude-real-video － any LLM can watch a video",
     "date": "2026-07-03",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-02",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "date": "2026-07-02",
     "source": "hackernews"
   }
 ]
