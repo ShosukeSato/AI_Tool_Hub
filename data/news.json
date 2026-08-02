@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-02",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+    "date": "2026-08-02",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-01",
     "type": "trending",
     "toolSlug": "agent",
@@ -474,15 +483,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Agentic coding notes from Galapagos Island",
     "date": "2026-07-04",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-03",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude-real-video － any LLM can watch a video",
-    "date": "2026-07-03",
     "source": "hackernews"
   }
 ]
