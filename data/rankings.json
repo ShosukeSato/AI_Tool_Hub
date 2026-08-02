@@ -3,16 +3,16 @@
     "toolSlug": "chatgpt",
     "overall": 7.2,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 1.1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-08-02"
   },
   {
     "toolSlug": "claude",
-    "overall": 7.3,
+    "overall": 7.2,
     "performance": 9,
-    "buzz": 3.2,
+    "buzz": 2.9,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-02"
@@ -30,7 +30,7 @@
     "toolSlug": "deepseek",
     "overall": 7.5,
     "performance": 8,
-    "buzz": 2.5,
+    "buzz": 2.3,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-08-02"
@@ -1360,9 +1360,9 @@
   },
   {
     "toolSlug": "udio",
-    "overall": 6.5,
+    "overall": 6.4,
     "performance": 8,
-    "buzz": 1.4,
+    "buzz": 1.3,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-08-02"
@@ -1893,7 +1893,7 @@
     "toolSlug": "findy-ai",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-08-02"
@@ -2953,9 +2953,9 @@
   },
   {
     "toolSlug": "era",
-    "overall": 5.7,
+    "overall": 5.8,
     "performance": 8,
-    "buzz": 4,
+    "buzz": 4.8,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-08-02"

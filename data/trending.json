@@ -6,36 +6,37 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-        "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-        "score": 4,
+        "title": "Agent4Lease",
+        "url": "https://agent4lease.com/",
+        "score": 3,
         "date": "2026-08-02"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Evidence-to-Skill – a gate between untrusted sources and agent skills",
-        "url": "https://github.com/Sanexxxx777/evidence-to-skill",
-        "score": 3,
+        "title": "Agent-Browser – Browser Automation for AI",
+        "url": "https://agent-browser.dev/",
+        "score": 5,
         "date": "2026-08-02"
       },
       {
         "source": "hackernews",
         "title": "qm – Multiplayer agent harness for work",
         "url": "https://github.com/yc-software/qm",
-        "score": 650,
+        "score": 657,
         "date": "2026-08-02"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: What should the GUI for AI agents look like?",
-        "url": "https://marbleos.com/demo",
-        "score": 131,
+        "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+        "url": "https://github.com/ANIRudH-lab-life/job-radar",
+        "score": 3,
         "date": "2026-08-02"
       },
       {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
+        "source": "hackernews",
+        "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+        "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+        "score": 10,
         "date": "2026-08-02"
       },
       {
@@ -51,26 +52,20 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 4,
+    "buzzScore": 4.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "AI opens new era in cognitive studies of wild primates",
         "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-        "score": 7,
+        "score": 23,
         "date": "2026-08-02"
       },
       {
         "source": "hackernews",
         "title": "Flint: A Visualization Language for the AI Era",
         "url": "https://microsoft.github.io/flint-chart/",
-        "score": 255,
-        "date": "2026-08-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
+        "score": 265,
         "date": "2026-08-02"
       }
     ],
@@ -80,7 +75,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -103,7 +98,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -119,7 +114,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -135,8 +130,21 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+        "score": 6,
+        "date": "2026-08-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers - OpenAI",
+        "score": 1,
+        "date": "2026-08-02"
+      },
       {
         "source": "googlenews",
         "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
@@ -154,6 +162,27 @@
     "lastSeen": "2026-08-02"
   },
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-08-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-08-02"
+      }
+    ],
+    "firstSeen": "2026-07-17",
+    "lastSeen": "2026-08-02"
+  },
+  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
     "buzzScore": 1,
@@ -166,21 +195,6 @@
       }
     ],
     "firstSeen": "2026-07-20",
-    "lastSeen": "2026-08-02"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-08-02"
-      }
-    ],
-    "firstSeen": "2026-07-17",
     "lastSeen": "2026-08-02"
   },
   {
@@ -231,7 +245,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
