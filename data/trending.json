@@ -2,27 +2,26 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 6.1,
+    "buzzScore": 10,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "url": "https://github.com/garagehq/nightcrawler/",
+        "score": 48,
+        "date": "2026-08-03"
+      },
       {
         "source": "hackernews",
         "title": "Show HN: Mu – Tools for Agents",
         "url": "https://github.com/micro/mu",
-        "score": 35,
+        "score": 50,
         "date": "2026-08-03"
       },
       {
-        "source": "hackernews",
-        "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-        "url": "https://github.com/paoloanzn/microcodex",
-        "score": 17,
-        "date": "2026-08-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "I Built and Battle Tested My OSAI Agent",
-        "url": "https://medium.com/@jacobdiamond/how-i-built-and-battle-tested-my-osai-agent-f30e4f0667f1",
-        "score": 3,
+        "source": "googlenews",
+        "title": "DATAFLUCT、「Airlake Copilot Agents」の企業プライベートクラウド版を2026年8月3日より提供開始 - PR TIMES",
+        "score": 1,
         "date": "2026-08-03"
       },
       {
@@ -38,7 +37,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -61,7 +60,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -77,7 +76,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -93,7 +92,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -107,9 +106,25 @@
     "lastSeen": "2026-08-03"
   },
   {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "How Cursor sets up their cloud agent environment",
+        "url": "https://cursor.com/blog/cloud-agent-environment",
+        "score": 6,
+        "date": "2026-08-03"
+      }
+    ],
+    "firstSeen": "2026-08-03",
+    "lastSeen": "2026-08-03"
+  },
+  {
     "toolSlug": "nanocode",
     "toolName": "Nanocode",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -125,17 +140,11 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers - OpenAI",
-        "score": 1,
-        "date": "2026-08-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - axios.com",
+        "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
         "score": 1,
         "date": "2026-08-03"
       },
@@ -150,34 +159,18 @@
     "lastSeen": "2026-08-03"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google cancels AI Studio app after 800k preorders",
-        "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-        "score": 37,
-        "date": "2026-08-02"
-      }
-    ],
-    "firstSeen": "2026-07-28",
-    "lastSeen": "2026-08-02"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "hiro",
+    "toolName": "Hiro",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "広島の学生向けAIハッカソン「HIROSHIMA AI SUMMER HACKATHON」開催 2026年8月1日～31日、広島県の課題を解決するAIサービスを開発 - RBB TODAY",
         "score": 1,
         "date": "2026-08-03"
       }
     ],
-    "firstSeen": "2026-07-20",
+    "firstSeen": "2026-08-03",
     "lastSeen": "2026-08-03"
   },
   {
@@ -187,7 +180,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - tradingkey.com",
         "score": 1,
         "date": "2026-08-03"
       }
@@ -211,21 +204,6 @@
     "lastSeen": "2026-08-03"
   },
   {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
-        "score": 1,
-        "date": "2026-08-03"
-      }
-    ],
-    "firstSeen": "2026-08-01",
-    "lastSeen": "2026-08-03"
-  },
-  {
     "toolSlug": "dify",
     "toolName": "Dify",
     "buzzScore": 1.1,
@@ -238,6 +216,52 @@
       }
     ],
     "firstSeen": "2026-07-30",
+    "lastSeen": "2026-08-03"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Google cancels AI Studio app after 800k preorders",
+        "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+        "score": 37,
+        "date": "2026-08-02"
+      }
+    ],
+    "firstSeen": "2026-07-28",
+    "lastSeen": "2026-08-02"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-08-03"
+      }
+    ],
+    "firstSeen": "2026-07-20",
+    "lastSeen": "2026-08-03"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-08-03"
+      }
+    ],
+    "firstSeen": "2026-08-01",
     "lastSeen": "2026-08-03"
   }
 ]
