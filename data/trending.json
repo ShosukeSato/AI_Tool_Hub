@@ -6,61 +6,51 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-        "url": "https://github.com/garagehq/nightcrawler/",
-        "score": 48,
-        "date": "2026-08-03"
+        "title": "The Shape of Things to Come, Part 2: Model Welfare for Agentic Engineers",
+        "url": "https://yegge.ai/essays/model-welfare/",
+        "score": 7,
+        "date": "2026-08-04"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Mu – Tools for Agents",
-        "url": "https://github.com/micro/mu",
-        "score": 50,
-        "date": "2026-08-03"
+        "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "url": "https://github.com/garagehq/nightcrawler/",
+        "score": 103,
+        "date": "2026-08-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "What is the actual point of agentic commerce?",
+        "url": "https://talkshi.com/blog/actual-point-of-agentic-commerce",
+        "score": 5,
+        "date": "2026-08-04"
       },
       {
         "source": "googlenews",
-        "title": "DATAFLUCT、「Airlake Copilot Agents」の企業プライベートクラウド版を2026年8月3日より提供開始 - PR TIMES",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
         "score": 1,
-        "date": "2026-08-03"
+        "date": "2026-08-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "DATAFLUCT、「Airlake Copilot Agents」の企業プライベートクラウド版を2026年8月3日より提供開始 - prtimes.jp",
+        "score": 1,
+        "date": "2026-08-04"
       },
       {
         "source": "techcrunch",
         "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
         "score": 1,
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-08-03"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 3.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AI opens new era in cognitive studies of wild primates",
-        "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-        "score": 23,
-        "date": "2026-08-02"
-      },
-      {
-        "source": "hackernews",
-        "title": "Flint: A Visualization Language for the AI Era",
-        "url": "https://microsoft.github.io/flint-chart/",
-        "score": 265,
-        "date": "2026-08-02"
-      }
-    ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-08-02"
+    "lastSeen": "2026-08-04"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -76,7 +66,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -92,7 +82,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -108,7 +98,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -124,7 +114,7 @@
   {
     "toolSlug": "nanocode",
     "toolName": "Nanocode",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -143,20 +133,35 @@
     "buzzScore": 1.2,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
+        "source": "techcrunch",
+        "title": "Congress&#8217; favorite AI tool? ChatGPT",
         "score": 1,
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       },
       {
         "source": "techcrunch",
         "title": "Sam Altman is still making the case for parenting via ChatGPT",
         "score": 1,
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-08-03"
+    "lastSeen": "2026-08-04"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-08-04"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-08-04"
   },
   {
     "toolSlug": "hiro",
@@ -165,13 +170,28 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "広島の学生向けAIハッカソン「HIROSHIMA AI SUMMER HACKATHON」開催 2026年8月1日～31日、広島県の課題を解決するAIサービスを開発 - RBB TODAY",
+        "title": "広島の学生向けAIハッカソン「HIROSHIMA AI SUMMER HACKATHON」開催 2026年8月1日～31日、広島県の課題を解決するAIサービスを開発 - 山陽新聞",
         "score": 1,
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       }
     ],
     "firstSeen": "2026-08-03",
-    "lastSeen": "2026-08-03"
+    "lastSeen": "2026-08-04"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-08-04"
+      }
+    ],
+    "firstSeen": "2026-07-20",
+    "lastSeen": "2026-08-04"
   },
   {
     "toolSlug": "gemini",
@@ -180,13 +200,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - tradingkey.com",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       }
     ],
     "firstSeen": "2026-07-17",
-    "lastSeen": "2026-08-03"
+    "lastSeen": "2026-08-04"
   },
   {
     "toolSlug": "where",
@@ -195,13 +215,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - prtimes.jp",
         "score": 1,
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       }
     ],
     "firstSeen": "2026-07-05",
-    "lastSeen": "2026-08-03"
+    "lastSeen": "2026-08-04"
   },
   {
     "toolSlug": "dify",
@@ -212,16 +232,16 @@
         "source": "techcrunch",
         "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
         "score": 1,
-        "date": "2026-08-03"
+        "date": "2026-08-04"
       }
     ],
     "firstSeen": "2026-07-30",
-    "lastSeen": "2026-08-03"
+    "lastSeen": "2026-08-04"
   },
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -235,24 +255,9 @@
     "lastSeen": "2026-08-02"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-08-03"
-      }
-    ],
-    "firstSeen": "2026-07-20",
-    "lastSeen": "2026-08-03"
-  },
-  {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",

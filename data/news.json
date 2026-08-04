@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-04",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: The Shape of Things to Come, Part 2: Model Welfare for Agentic Engineers",
+    "date": "2026-08-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-03",
     "type": "trending",
     "toolSlug": "agent",
@@ -447,33 +456,6 @@
     "title": "Plain が話題沸騰中（バズスコア: 8.1）",
     "summary": "hackernewsで注目: Postgres data stored in Parquet on S3: LTAP architecture explained",
     "date": "2026-07-06",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-plain-2026-07-05",
-    "type": "trending",
-    "toolSlug": "plain",
-    "title": "Plain が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Postgres data stored in Parquet on S3: LTAP architecture explained",
-    "date": "2026-07-05",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-05",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 9.9）",
-    "summary": "hackernewsで注目: Agentic coding notes from Galapagos Island",
-    "date": "2026-07-05",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-gpt-5-5-2026-07-05",
-    "type": "trending",
-    "toolSlug": "gpt-5-5",
-    "title": "GPT-5.5 が話題沸騰中（バズスコア: 9.6）",
-    "summary": "hackernewsで注目: GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-    "date": "2026-07-05",
     "source": "hackernews"
   }
 ]
