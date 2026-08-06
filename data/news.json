@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-06",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Prime Agent: A self-improving RLM agent",
+    "date": "2026-08-06",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-05",
     "type": "trending",
     "toolSlug": "agent",
@@ -420,24 +429,6 @@
     "title": "Plain が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Chat Control 1.0 and 2.0 Explained",
     "date": "2026-07-08",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-07",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "date": "2026-07-07",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-gpt-5-5-2026-07-07",
-    "type": "trending",
-    "toolSlug": "gpt-5-5",
-    "title": "GPT-5.5 が話題沸騰中（バズスコア: 8.1）",
-    "summary": "hackernewsで注目: GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-    "date": "2026-07-07",
     "source": "hackernews"
   }
 ]
