@@ -6,37 +6,43 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Prime Agent: A self-improving RLM agent",
-        "url": "https://www.primeintellect.ai/blog/prime-agent",
-        "score": 109,
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "score": 43,
         "date": "2026-08-06"
       },
       {
         "source": "hackernews",
         "title": "Cloudflare OS: an open platform for agents, apps, and work",
         "url": "https://blog.cloudflare.com/cloudflare-os/",
-        "score": 476,
+        "score": 600,
+        "date": "2026-08-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "Prime Agent: A self-improving RLM agent",
+        "url": "https://www.primeintellect.ai/blog/prime-agent",
+        "score": 202,
         "date": "2026-08-06"
       },
       {
         "source": "hackernews",
         "title": "Building an Advanced Agentic Harness",
         "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-        "score": 108,
+        "score": 116,
         "date": "2026-08-06"
       },
       {
         "source": "hackernews",
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "url": "https://arxiv.org/abs/2607.29377",
-        "score": 93,
+        "score": 96,
         "date": "2026-08-06"
       },
       {
-        "source": "hackernews",
-        "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
-        "url": "https://quantsignals.xyz/fst",
-        "score": 13,
+        "source": "techcrunch",
+        "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+        "score": 1,
         "date": "2026-08-06"
       },
       {
@@ -56,9 +62,25 @@
     "lastSeen": "2026-08-06"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+        "url": "https://github.com/pradipta/wallfacer",
+        "score": 28,
+        "date": "2026-08-06"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-08-06"
+  },
+  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -72,25 +94,9 @@
     "lastSeen": "2026-08-03"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode",
-        "url": "https://github.com/adrida/hud-mode",
-        "score": 17,
-        "date": "2026-08-06"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-08-06"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -125,7 +131,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - tradingkey.com",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-08-06"
       }
@@ -179,9 +185,24 @@
     "lastSeen": "2026-08-06"
   },
   {
+    "toolSlug": "suno",
+    "toolName": "Suno",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Amid legal battles, Suno says it will start watermarking songs",
+        "score": 1,
+        "date": "2026-08-06"
+      }
+    ],
+    "firstSeen": "2026-08-06",
+    "lastSeen": "2026-08-06"
+  },
+  {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -197,7 +218,7 @@
   {
     "toolSlug": "hiro",
     "toolName": "Hiro",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -212,7 +233,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -227,7 +248,7 @@
   {
     "toolSlug": "nanocode",
     "toolName": "Nanocode",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -243,7 +264,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -254,21 +275,5 @@
     ],
     "firstSeen": "2026-07-30",
     "lastSeen": "2026-08-04"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google cancels AI Studio app after 800k preorders",
-        "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-        "score": 37,
-        "date": "2026-08-02"
-      }
-    ],
-    "firstSeen": "2026-07-28",
-    "lastSeen": "2026-08-02"
   }
 ]
