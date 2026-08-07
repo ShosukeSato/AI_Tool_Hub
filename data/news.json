@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-07",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "date": "2026-08-07",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-06",
     "type": "trending",
     "toolSlug": "agent",
@@ -420,15 +429,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 8.8）",
     "summary": "hackernewsで注目: Show HN: FableCut – A browser video editor AI agents can drive",
     "date": "2026-07-09",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-plain-2026-07-08",
-    "type": "trending",
-    "toolSlug": "plain",
-    "title": "Plain が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Chat Control 1.0 and 2.0 Explained",
-    "date": "2026-07-08",
     "source": "hackernews"
   }
 ]
