@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-08",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Kitesurf: Agent-first browser that runs in V8 isolates",
+    "date": "2026-08-08",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-07",
     "type": "trending",
     "toolSlug": "agent",
@@ -411,24 +420,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 9.5）",
     "summary": "hackernewsで注目: ChatGPT Work",
     "date": "2026-07-10",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-plain-2026-07-09",
-    "type": "trending",
-    "toolSlug": "plain",
-    "title": "Plain が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-    "date": "2026-07-09",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-09",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 8.8）",
-    "summary": "hackernewsで注目: Show HN: FableCut – A browser video editor AI agents can drive",
-    "date": "2026-07-09",
     "source": "hackernews"
   }
 ]

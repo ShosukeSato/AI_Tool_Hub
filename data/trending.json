@@ -6,109 +6,102 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-        "score": 317,
-        "date": "2026-08-07"
+        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+        "url": "https://blog.cloudflare.com/kitesurf/",
+        "score": 162,
+        "date": "2026-08-08"
       },
       {
         "source": "hackernews",
         "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel",
         "url": "Slack, MS Teams) (https://github.com/CopilotKit/channels-sdk",
-        "score": 107,
-        "date": "2026-08-07"
+        "score": 115,
+        "date": "2026-08-08"
       },
       {
         "source": "hackernews",
-        "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-        "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-        "score": 511,
-        "date": "2026-08-07"
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "score": 330,
+        "date": "2026-08-08"
       },
       {
-        "source": "hackernews",
-        "title": "Cloudflare OS: an open platform for agents, apps, and work",
-        "url": "https://blog.cloudflare.com/cloudflare-os/",
-        "score": 657,
-        "date": "2026-08-07"
-      },
-      {
-        "source": "hackernews",
-        "title": "Building an Advanced Agentic Harness",
-        "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-        "score": 127,
-        "date": "2026-08-07"
+        "source": "techcrunch",
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "score": 1,
+        "date": "2026-08-08"
       },
       {
         "source": "techcrunch",
         "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
         "score": 1,
-        "date": "2026-08-07"
+        "date": "2026-08-08"
       },
       {
         "source": "techcrunch",
         "title": "Meta launches Muse Code, an AI agent for large code bases",
         "score": 1,
-        "date": "2026-08-07"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Hark previews its browser use agent for completing tasks",
-        "score": 1,
-        "date": "2026-08-07"
+        "date": "2026-08-08"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-08-07"
+    "lastSeen": "2026-08-08"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 2.4,
+    "buzzScore": 5.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
         "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-        "score": 260,
-        "date": "2026-08-07"
+        "score": 309,
+        "date": "2026-08-08"
       },
       {
         "source": "techcrunch",
         "title": "ChatGPT brings unlimited text chats to free users",
         "score": 1,
-        "date": "2026-08-07"
+        "date": "2026-08-08"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-08-07"
+    "lastSeen": "2026-08-08"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1.3,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-        "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-        "score": 54,
-        "date": "2026-08-07"
+        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+        "score": 28,
+        "date": "2026-08-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+        "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+        "score": 17,
+        "date": "2026-08-08"
       },
       {
         "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
+        "title": "経営と組織をつなぐAI時代の人事のあり方〜Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図〜｜9/4(金)・9/10(木)開催 - PR TIMES",
         "score": 1,
-        "date": "2026-08-07"
+        "date": "2026-08-08"
       }
     ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-08-07"
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-08-08"
   },
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,9 +115,39 @@
     "lastSeen": "2026-08-07"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-08-08"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-08-08"
+  },
+  {
+    "toolSlug": "suno",
+    "toolName": "Suno",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Amid legal battles, Suno says it will start watermarking songs",
+        "score": 1,
+        "date": "2026-08-08"
+      }
+    ],
+    "firstSeen": "2026-08-06",
+    "lastSeen": "2026-08-08"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -137,40 +160,9 @@
     "lastSeen": "2026-08-07"
   },
   {
-    "toolSlug": "suno",
-    "toolName": "Suno",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Amid legal battles, Suno says it will start watermarking songs",
-        "score": 1,
-        "date": "2026-08-07"
-      }
-    ],
-    "firstSeen": "2026-08-06",
-    "lastSeen": "2026-08-07"
-  },
-  {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-        "url": "https://github.com/pradipta/wallfacer",
-        "score": 28,
-        "date": "2026-08-06"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-08-06"
-  },
-  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -186,7 +178,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -201,7 +193,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -216,7 +208,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -232,7 +224,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -247,44 +239,13 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "How Cursor sets up their cloud agent environment",
         "url": "https://cursor.com/blog/cloud-agent-environment",
         "score": 6,
-        "date": "2026-08-03"
-      }
-    ],
-    "firstSeen": "2026-08-03",
-    "lastSeen": "2026-08-03"
-  },
-  {
-    "toolSlug": "hiro",
-    "toolName": "Hiro",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "広島の学生向けAIハッカソン「HIROSHIMA AI SUMMER HACKATHON」開催 2026年8月1日〜31日、広島県の課題を解決するAIサービスを開発 - PR TIMES",
-        "score": 1,
-        "date": "2026-08-05"
-      }
-    ],
-    "firstSeen": "2026-08-03",
-    "lastSeen": "2026-08-05"
-  },
-  {
-    "toolSlug": "nanocode",
-    "toolName": "Nanocode",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
-        "url": "https://github.com/gakonst/nanocodex",
-        "score": 5,
         "date": "2026-08-03"
       }
     ],
