@@ -8,21 +8,14 @@
         "source": "hackernews",
         "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
         "url": "https://blog.cloudflare.com/kitesurf/",
-        "score": 162,
-        "date": "2026-08-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel",
-        "url": "Slack, MS Teams) (https://github.com/CopilotKit/channels-sdk",
-        "score": 115,
+        "score": 199,
         "date": "2026-08-08"
       },
       {
         "source": "hackernews",
         "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
         "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-        "score": 330,
+        "score": 332,
         "date": "2026-08-08"
       },
       {
@@ -50,13 +43,13 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 5.6,
+    "buzzScore": 6.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
         "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-        "score": 309,
+        "score": 313,
         "date": "2026-08-08"
       },
       {
@@ -70,49 +63,20 @@
     "lastSeen": "2026-08-08"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-        "score": 28,
-        "date": "2026-08-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
-        "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
-        "score": 17,
-        "date": "2026-08-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "経営と組織をつなぐAI時代の人事のあり方〜Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図〜｜9/4(金)・9/10(木)開催 - PR TIMES",
-        "score": 1,
-        "date": "2026-08-08"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-08-08"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1.1,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
-        "url": "https://socket.dev/blog/ai-agent-open-source-malware",
-        "score": 42,
-        "date": "2026-08-07"
+        "title": "Mythos social engineering AISI INC-2026-07-28-01",
+        "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+        "score": 71,
+        "date": "2026-08-08"
       }
     ],
     "firstSeen": "2026-08-07",
-    "lastSeen": "2026-08-07"
+    "lastSeen": "2026-08-08"
   },
   {
     "toolSlug": "era",
@@ -127,6 +91,21 @@
       }
     ],
     "firstSeen": "2026-07-21",
+    "lastSeen": "2026-08-08"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "経営と組織をつなぐAI時代の人事のあり方〜Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図〜｜9/4(金)・9/10(木)開催 - PR TIMES",
+        "score": 1,
+        "date": "2026-08-08"
+      }
+    ],
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-08-08"
   },
   {
@@ -147,7 +126,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -162,7 +141,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -178,7 +157,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -193,7 +172,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -208,7 +187,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -224,7 +203,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -235,21 +214,5 @@
     ],
     "firstSeen": "2026-08-01",
     "lastSeen": "2026-08-06"
-  },
-  {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "How Cursor sets up their cloud agent environment",
-        "url": "https://cursor.com/blog/cloud-agent-environment",
-        "score": 6,
-        "date": "2026-08-03"
-      }
-    ],
-    "firstSeen": "2026-08-03",
-    "lastSeen": "2026-08-03"
   }
 ]
