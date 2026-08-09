@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-08-09",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+    "date": "2026-08-09",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-08-09",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 8.3）",
+    "summary": "hackernewsで注目: You can build an AI agent's memory layer with only Go's standard library",
+    "date": "2026-08-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-08",
     "type": "trending",
     "toolSlug": "agent",
@@ -402,24 +420,6 @@
     "title": "WHERE が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: AI content is everywhere on social media, especially LinkedIn",
     "date": "2026-07-11",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-10",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: Use Any Agent as an Orchestrator",
-    "date": "2026-07-10",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-07-10",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 9.5）",
-    "summary": "hackernewsで注目: ChatGPT Work",
-    "date": "2026-07-10",
     "source": "hackernews"
   }
 ]
