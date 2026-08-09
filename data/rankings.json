@@ -1,9 +1,9 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 7.2,
+    "overall": 7.4,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 2.4,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-08-09"
@@ -28,9 +28,9 @@
   },
   {
     "toolSlug": "deepseek",
-    "overall": 7.3,
+    "overall": 7.2,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-08-09"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 7.5,
+    "overall": 7.2,
     "performance": 6,
-    "buzz": 8.3,
+    "buzz": 6.2,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-08-09"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 6.9,
+    "overall": 7,
     "performance": 7,
-    "buzz": 0.6,
+    "buzz": 1.2,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-08-09"
@@ -2782,9 +2782,9 @@
   },
   {
     "toolSlug": "mythos",
-    "overall": 6.3,
+    "overall": 6.2,
     "performance": 10,
-    "buzz": 2,
+    "buzz": 1.8,
     "easeOfUse": 7,
     "costPerformance": 4,
     "lastCalculated": "2026-08-09"
