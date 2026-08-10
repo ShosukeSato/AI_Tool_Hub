@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-08-10",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "date": "2026-08-10",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-09",
     "type": "trending",
     "toolSlug": "claude",

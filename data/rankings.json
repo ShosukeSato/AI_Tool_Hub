@@ -3,16 +3,16 @@
     "toolSlug": "chatgpt",
     "overall": 7.4,
     "performance": 9,
-    "buzz": 2.6,
+    "buzz": 2.5,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-08-10"
   },
   {
     "toolSlug": "claude",
-    "overall": 8.3,
+    "overall": 7.9,
     "performance": 9,
-    "buzz": 10,
+    "buzz": 7.5,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-10"
@@ -46,9 +46,9 @@
   },
   {
     "toolSlug": "microsoft-copilot",
-    "overall": 6.3,
+    "overall": 6.4,
     "performance": 7,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-10"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.9,
+    "overall": 7.8,
     "performance": 6,
-    "buzz": 4.6,
+    "buzz": 10,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-08-10"
@@ -1351,9 +1351,9 @@
   },
   {
     "toolSlug": "suno",
-    "overall": 6.7,
+    "overall": 6.6,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-08-10"
@@ -1875,7 +1875,7 @@
     "toolSlug": "yomel",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-08-10"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7,
     "performance": 7,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-08-10"
@@ -2784,7 +2784,7 @@
     "toolSlug": "mythos",
     "overall": 6.2,
     "performance": 10,
-    "buzz": 1.6,
+    "buzz": 1.4,
     "easeOfUse": 7,
     "costPerformance": 4,
     "lastCalculated": "2026-08-10"
