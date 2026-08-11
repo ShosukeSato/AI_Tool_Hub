@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-11",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "date": "2026-08-11",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-10",
     "type": "trending",
     "toolSlug": "claude",
@@ -384,33 +393,6 @@
     "title": "Grok が話題沸騰中（バズスコア: 7.1）",
     "summary": "hackernewsで注目: Grok uploaded my user directory to xAI's servers",
     "date": "2026-07-13",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-plain-2026-07-12",
-    "type": "trending",
-    "toolSlug": "plain",
-    "title": "Plain が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-    "date": "2026-07-12",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-where-2026-07-12",
-    "type": "trending",
-    "toolSlug": "where",
-    "title": "WHERE が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: AI content is everywhere on social media, especially LinkedIn",
-    "date": "2026-07-12",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-12",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 7.9）",
-    "summary": "hackernewsで注目: Show HN: Reverse-engineering web apps into agent tools ()",
-    "date": "2026-07-12",
     "source": "hackernews"
   }
 ]
