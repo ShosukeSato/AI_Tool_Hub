@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-13",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Hax – a minimalist, terminal-native coding agent written in C",
+    "date": "2026-08-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-12",
     "type": "trending",
     "toolSlug": "agent",
@@ -357,24 +366,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Show HN: Grepathy – Claude made a decision nobody approved",
     "date": "2026-07-15",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-whisper-2026-07-14",
-    "type": "trending",
-    "toolSlug": "whisper",
-    "title": "Whisper が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "date": "2026-07-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-14",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Codex starts encrypting sub-agent prompts",
-    "date": "2026-07-14",
     "source": "hackernews"
   }
 ]
