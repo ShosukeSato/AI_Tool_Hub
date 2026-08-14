@@ -8,14 +8,14 @@
         "source": "hackernews",
         "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
         "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-        "score": 65,
+        "score": 116,
         "date": "2026-08-14"
       },
       {
         "source": "hackernews",
         "title": "Codex in ChatGPT desktop app for Linux is now in preview",
         "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-        "score": 443,
+        "score": 457,
         "date": "2026-08-14"
       },
       {
@@ -31,13 +31,13 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 3.8,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Lovable raises $400M Series C",
         "url": "https://lovable.dev/blog/series-c",
-        "score": 159,
+        "score": 160,
         "date": "2026-08-14"
       },
       {
@@ -59,14 +59,14 @@
         "source": "hackernews",
         "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
         "url": "https://github.com/fellowgeek/mcp-memory",
-        "score": 53,
+        "score": 61,
         "date": "2026-08-14"
       },
       {
         "source": "hackernews",
         "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
         "url": "https://ojcp.dev/",
-        "score": 27,
+        "score": 32,
         "date": "2026-08-14"
       },
       {
@@ -88,23 +88,23 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.8,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-        "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-        "score": 163,
-        "date": "2026-08-13"
+        "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
+        "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
+        "score": 10,
+        "date": "2026-08-14"
       }
     ],
     "firstSeen": "2026-08-03",
-    "lastSeen": "2026-08-13"
+    "lastSeen": "2026-08-14"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -133,18 +133,18 @@
     "lastSeen": "2026-08-14"
   },
   {
-    "toolSlug": "grok",
-    "toolName": "Grok",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Stella AI、「Grok 4.6」を提供開始 - PR TIMES",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-08-14"
       }
     ],
-    "firstSeen": "2026-08-13",
+    "firstSeen": "2026-08-11",
     "lastSeen": "2026-08-14"
   },
   {
@@ -199,30 +199,24 @@
     "lastSeen": "2026-08-14"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
+    "toolSlug": "grok",
+    "toolName": "Grok",
     "buzzScore": 0.9,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Everything announced at Made by Google &#8217;26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+        "source": "googlenews",
+        "title": "Stella AI、「Grok 4.6」を提供開始 - PR TIMES",
         "score": 1,
-        "date": "2026-08-13"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google’s Gemini app surges to 1 billion users",
-        "score": 1,
-        "date": "2026-08-13"
+        "date": "2026-08-14"
       }
     ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-08-13"
+    "firstSeen": "2026-08-13",
+    "lastSeen": "2026-08-14"
   },
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -238,7 +232,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -250,35 +244,5 @@
     ],
     "firstSeen": "2026-08-07",
     "lastSeen": "2026-08-08"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-08-12"
-      }
-    ],
-    "firstSeen": "2026-08-12",
-    "lastSeen": "2026-08-12"
-  },
-  {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-08-12"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-08-12"
   }
 ]
