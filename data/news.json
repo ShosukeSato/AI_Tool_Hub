@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-08-15",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Maximizing the value of your Claude Code sessions",
+    "date": "2026-08-15",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-08-15",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: Show HN: Mole – Deep research agent for your terminal",
+    "date": "2026-08-15",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-08-14",
     "type": "trending",
     "toolSlug": "chatgpt",
@@ -321,33 +339,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 8.9）",
     "summary": "hackernewsで注目: $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
     "date": "2026-07-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-16",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Designing APIs for Agents",
-    "date": "2026-07-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-16",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 8.5）",
-    "summary": "hackernewsで注目: Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-    "date": "2026-07-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-where-2026-07-16",
-    "type": "trending",
-    "toolSlug": "where",
-    "title": "WHERE が話題沸騰中（バズスコア: 7.6）",
-    "summary": "hackernewsで注目: Where are YC founders now? OpenAI and Anthropic, mostly",
-    "date": "2026-07-16",
     "source": "hackernews"
   }
 ]
