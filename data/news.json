@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-08-16",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Patterns and problems in emerging multi-agent systems",
+    "date": "2026-08-16",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-15",
     "type": "trending",
     "toolSlug": "claude",
