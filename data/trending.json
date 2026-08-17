@@ -6,16 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude: System Prompts",
-        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "score": 526,
+        "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+        "score": 392,
         "date": "2026-08-17"
       },
       {
         "source": "hackernews",
-        "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "score": 139,
+        "title": "Claude: System Prompts",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "score": 690,
         "date": "2026-08-17"
       },
       {
@@ -31,27 +31,20 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 4.5,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "MathCode, Mathematical Coding Agent",
         "url": "https://math-ai-org.github.io/mathcode/",
-        "score": 54,
+        "score": 106,
         "date": "2026-08-17"
       },
       {
         "source": "hackernews",
         "title": "Patterns and problems in emerging multi-agent systems",
         "url": "https://www.anthropic.com/research/multiagent-systems",
-        "score": 179,
-        "date": "2026-08-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Grafana agent observability for Hermes Agent",
-        "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
-        "score": 27,
+        "score": 186,
         "date": "2026-08-17"
       },
       {
@@ -73,20 +66,20 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 3.7,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
         "url": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
-        "score": 22,
+        "score": 30,
         "date": "2026-08-17"
       },
       {
         "source": "hackernews",
         "title": "AI in drug discovery – what it is, where we stand and the path forward",
         "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "score": 179,
+        "score": 184,
         "date": "2026-08-17"
       },
       {
@@ -106,31 +99,9 @@
     "lastSeen": "2026-08-17"
   },
   {
-    "toolSlug": "openrouter",
-    "toolName": "OpenRouter",
-    "buzzScore": 3.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-        "score": 177,
-        "date": "2026-08-17"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-        "score": 1,
-        "date": "2026-08-17"
-      }
-    ],
-    "firstSeen": "2026-08-17",
-    "lastSeen": "2026-08-17"
-  },
-  {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -150,26 +121,19 @@
     "lastSeen": "2026-08-14"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "ChatGPT lost 22 points of web share in a year",
-        "url": "https://aicharts.grok.me/c/market-share",
-        "score": 11,
-        "date": "2026-08-16"
-      },
-      {
         "source": "googlenews",
-        "title": "【2026年8月版】生成AI主要8サービス料金早見表 ── ChatGPT、Gemini新モデル公開や次世代音声技術の登場が相次ぐ - news.yahoo.co.jp",
+        "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-08-16"
+        "date": "2026-08-17"
       }
     ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-08-16"
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-08-17"
   },
   {
     "toolSlug": "gemini",
@@ -178,27 +142,18 @@
     "mentions": [
       {
         "source": "googlenews",
+        "title": "【Gemini 3.7 Flash】自治体AI zevoにて2026年8月17日（月曜日）より提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-08-17"
+      },
+      {
+        "source": "googlenews",
         "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-08-17"
       }
     ],
     "firstSeen": "2026-08-11",
-    "lastSeen": "2026-08-17"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-08-17"
-      }
-    ],
-    "firstSeen": "2026-08-15",
     "lastSeen": "2026-08-17"
   },
   {
@@ -217,18 +172,18 @@
     "lastSeen": "2026-08-17"
   },
   {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
+    "toolSlug": "openrouter",
+    "toolName": "OpenRouter",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "source": "techcrunch",
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
         "score": 1,
         "date": "2026-08-17"
       }
     ],
-    "firstSeen": "2026-08-16",
+    "firstSeen": "2026-08-17",
     "lastSeen": "2026-08-17"
   },
   {
@@ -262,24 +217,61 @@
     "lastSeen": "2026-08-17"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.7,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT lost 22 points of web share in a year",
+        "url": "https://aicharts.grok.me/c/market-share",
+        "score": 11,
+        "date": "2026-08-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "【2026年8月版】生成AI主要8サービス料金早見表 ── ChatGPT、Gemini新モデル公開や次世代音声技術の登場が相次ぐ - news.yahoo.co.jp",
+        "score": 1,
+        "date": "2026-08-16"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-08-16"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-08-15"
+        "date": "2026-08-17"
       }
     ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-08-15"
+    "firstSeen": "2026-08-15",
+    "lastSeen": "2026-08-17"
+  },
+  {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-08-17"
+      }
+    ],
+    "firstSeen": "2026-08-16",
+    "lastSeen": "2026-08-17"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -295,7 +287,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
