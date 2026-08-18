@@ -8,21 +8,14 @@
         "source": "hackernews",
         "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
         "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "score": 762,
+        "score": 797,
         "date": "2026-08-18"
       },
       {
         "source": "hackernews",
         "title": "Claude: System Prompts",
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "score": 739,
-        "date": "2026-08-18"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: A community library for Claude Code status lines",
-        "url": "https://statuslin.es",
-        "score": 10,
+        "score": 746,
         "date": "2026-08-18"
       },
       {
@@ -38,13 +31,13 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2.8,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "score": 310,
+        "score": 394,
         "date": "2026-08-18"
       }
     ],
@@ -52,44 +45,25 @@
     "lastSeen": "2026-08-18"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2,
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Pi coding agent: config folder is out of place on Linux",
-        "url": "https://github.com/earendil-works/pi/issues/534",
-        "score": 49,
-        "date": "2026-08-18"
-      },
-      {
-        "source": "hackernews",
-        "title": "MathCode, Mathematical Coding Agent",
-        "url": "https://math-ai-org.github.io/mathcode/",
-        "score": 115,
-        "date": "2026-08-18"
-      },
-      {
-        "source": "googlenews",
-        "title": "Microsoft wants AI agents fixing bugs before hackers find them - Axios",
-        "score": 1,
-        "date": "2026-08-18"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
+        "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+        "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+        "score": 86,
         "date": "2026-08-18"
       }
     ],
-    "firstSeen": "2026-04-16",
+    "firstSeen": "2026-08-18",
     "lastSeen": "2026-08-18"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -109,19 +83,40 @@
     "lastSeen": "2026-08-14"
   },
   {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 1,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-        "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
-        "score": 6,
+        "title": "Expert Witness to ChatGPT: \"Show how 3M is 0 percent at fault\"",
+        "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+        "score": 53,
         "date": "2026-08-18"
       }
     ],
-    "firstSeen": "2026-08-18",
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-08-18"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Microsoft wants AI agents fixing bugs before hackers find them - axios.com",
+        "score": 1,
+        "date": "2026-08-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-08-18"
+      }
+    ],
+    "firstSeen": "2026-04-16",
     "lastSeen": "2026-08-18"
   },
   {
@@ -230,31 +225,9 @@
     "lastSeen": "2026-08-18"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT lost 22 points of web share in a year",
-        "url": "https://aicharts.grok.me/c/market-share",
-        "score": 11,
-        "date": "2026-08-16"
-      },
-      {
-        "source": "googlenews",
-        "title": "【2026年8月版】生成AI主要8サービス料金早見表 ── ChatGPT、Gemini新モデル公開や次世代音声技術の登場が相次ぐ - news.yahoo.co.jp",
-        "score": 1,
-        "date": "2026-08-16"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-08-16"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -269,7 +242,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
