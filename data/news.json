@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-08-18",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
+    "date": "2026-08-18",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-17",
     "type": "trending",
     "toolSlug": "claude",
@@ -330,15 +339,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Code uses Bun written in Rust now",
     "date": "2026-07-20",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-19",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-    "date": "2026-07-19",
     "source": "hackernews"
   }
 ]
