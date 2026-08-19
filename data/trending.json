@@ -6,27 +6,21 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-        "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-        "score": 107,
+        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+        "score": 233,
         "date": "2026-08-19"
       },
       {
         "source": "hackernews",
         "title": "Claude Code May–August 2026 weekly limits promotion",
         "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-        "score": 255,
+        "score": 279,
         "date": "2026-08-19"
       },
       {
         "source": "googlenews",
         "title": "SAMURAI、「AI博覧会 Summer 2026」に出展 ―「Claude Code」や「Copilot」を活用した最新AI研修が登場 - PR TIMES",
-        "score": 1,
-        "date": "2026-08-19"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
         "score": 1,
         "date": "2026-08-19"
       }
@@ -37,20 +31,13 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 3,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "fx :Tiny, open, native coding agent.",
         "url": "https://fx.sh",
-        "score": 71,
-        "date": "2026-08-19"
-      },
-      {
-        "source": "hackernews",
-        "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
-        "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
-        "score": 8,
+        "score": 98,
         "date": "2026-08-19"
       },
       {
@@ -70,6 +57,12 @@
         "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
         "score": 1,
         "date": "2026-08-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "TestMu AI、AIエージェントのリリース前に検証を行う「Agent Assurance」をリリース - 沖縄タイムス社",
+        "score": 1,
+        "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-04-16",
@@ -78,7 +71,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -94,7 +87,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -110,7 +103,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -132,7 +125,7 @@
   {
     "toolSlug": "devin",
     "toolName": "Devin",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -146,49 +139,18 @@
     "lastSeen": "2026-08-19"
   },
   {
-    "toolSlug": "llama",
-    "toolName": "Llama",
-    "buzzScore": 1.1,
+    "toolSlug": "flux",
+    "toolName": "FLUX",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-        "url": "https://chatoss.ai",
-        "score": 5,
+        "source": "googlenews",
+        "title": "アールスリーインスティテュート、生成AIからkintoneを安全に使える「gusuku Fluxon」を2026年10月22日に正式リリース - PR TIMES",
+        "score": 1,
         "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-08-19",
-    "lastSeen": "2026-08-19"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-08-19"
-      }
-    ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-08-19"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【Gemini 3.7 Flash】自治体AI zevoにて2026年8月17日（月曜日）より提供開始！ - PR TIMES",
-        "score": 1,
-        "date": "2026-08-19"
-      }
-    ],
-    "firstSeen": "2026-08-11",
     "lastSeen": "2026-08-19"
   },
   {
@@ -297,9 +259,55 @@
     "lastSeen": "2026-08-19"
   },
   {
+    "toolSlug": "llama",
+    "toolName": "Llama",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+        "url": "https://chatoss.ai",
+        "score": 5,
+        "date": "2026-08-19"
+      }
+    ],
+    "firstSeen": "2026-08-19",
+    "lastSeen": "2026-08-19"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-08-19"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-08-19"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【Gemini 3.7 Flash】自治体AI zevoにて2026年8月17日（月曜日）より提供開始！ - PR TIMES",
+        "score": 1,
+        "date": "2026-08-19"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-08-19"
+  },
+  {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -310,35 +318,5 @@
     ],
     "firstSeen": "2026-08-13",
     "lastSeen": "2026-08-19"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-08-17"
-      }
-    ],
-    "firstSeen": "2026-08-15",
-    "lastSeen": "2026-08-17"
-  },
-  {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-08-17"
-      }
-    ],
-    "firstSeen": "2026-08-16",
-    "lastSeen": "2026-08-17"
   }
 ]
