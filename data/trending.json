@@ -6,32 +6,79 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "score": 797,
-        "date": "2026-08-18"
+        "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+        "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+        "score": 107,
+        "date": "2026-08-19"
       },
       {
         "source": "hackernews",
-        "title": "Claude: System Prompts",
-        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-        "score": 746,
-        "date": "2026-08-18"
+        "title": "Claude Code May–August 2026 weekly limits promotion",
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+        "score": 255,
+        "date": "2026-08-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "SAMURAI、「AI博覧会 Summer 2026」に出展 ―「Claude Code」や「Copilot」を活用した最新AI研修が登場 - PR TIMES",
+        "score": 1,
+        "date": "2026-08-19"
       },
       {
         "source": "techcrunch",
         "title": "Anthropic shares more details about how Claude’s new watermarks will work",
         "score": 1,
-        "date": "2026-08-18"
+        "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-08-18"
+    "lastSeen": "2026-08-19"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "fx :Tiny, open, native coding agent.",
+        "url": "https://fx.sh",
+        "score": 71,
+        "date": "2026-08-19"
+      },
+      {
+        "source": "hackernews",
+        "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+        "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+        "score": 8,
+        "date": "2026-08-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "Microsoft wants AI agents fixing bugs before hackers find them - Axios",
+        "score": 1,
+        "date": "2026-08-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
+        "score": 1,
+        "date": "2026-08-19"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-08-19"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-08-19"
   },
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 3.3,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
@@ -47,7 +94,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -63,7 +110,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,41 +130,36 @@
     "lastSeen": "2026-08-14"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.3,
+    "toolSlug": "devin",
+    "toolName": "Devin",
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Expert Witness to ChatGPT: \"Show how 3M is 0 percent at fault\"",
-        "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-        "score": 53,
-        "date": "2026-08-18"
+        "title": "GPT-5.6 Sol: 70% off in Devin",
+        "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
+        "score": 9,
+        "date": "2026-08-19"
       }
     ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-08-18"
+    "firstSeen": "2026-08-19",
+    "lastSeen": "2026-08-19"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1,
+    "toolSlug": "llama",
+    "toolName": "Llama",
+    "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Microsoft wants AI agents fixing bugs before hackers find them - axios.com",
-        "score": 1,
-        "date": "2026-08-18"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-08-18"
+        "source": "hackernews",
+        "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+        "url": "https://chatoss.ai",
+        "score": 5,
+        "date": "2026-08-19"
       }
     ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-08-18"
+    "firstSeen": "2026-08-19",
+    "lastSeen": "2026-08-19"
   },
   {
     "toolSlug": "era",
@@ -128,11 +170,11 @@
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-08-18"
+        "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-07-21",
-    "lastSeen": "2026-08-18"
+    "lastSeen": "2026-08-19"
   },
   {
     "toolSlug": "gemini",
@@ -143,11 +185,11 @@
         "source": "googlenews",
         "title": "【Gemini 3.7 Flash】自治体AI zevoにて2026年8月17日（月曜日）より提供開始！ - PR TIMES",
         "score": 1,
-        "date": "2026-08-18"
+        "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-08-11",
-    "lastSeen": "2026-08-18"
+    "lastSeen": "2026-08-19"
   },
   {
     "toolSlug": "microsoft-copilot",
@@ -158,11 +200,11 @@
         "source": "googlenews",
         "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
-        "date": "2026-08-18"
+        "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-08-10",
-    "lastSeen": "2026-08-18"
+    "lastSeen": "2026-08-19"
   },
   {
     "toolSlug": "where",
@@ -173,11 +215,71 @@
         "source": "googlenews",
         "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
         "score": 1,
-        "date": "2026-08-18"
+        "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-07-05",
-    "lastSeen": "2026-08-18"
+    "lastSeen": "2026-08-19"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "score": 1,
+        "date": "2026-08-19"
+      }
+    ],
+    "firstSeen": "2026-08-16",
+    "lastSeen": "2026-08-19"
+  },
+  {
+    "toolSlug": "factory",
+    "toolName": "Factory",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
+        "score": 1,
+        "date": "2026-08-19"
+      }
+    ],
+    "firstSeen": "2026-08-19",
+    "lastSeen": "2026-08-19"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "score": 1,
+        "date": "2026-08-19"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-08-19"
+  },
+  {
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Perplexity’s free AI offer left it with millions more users in India",
+        "score": 1,
+        "date": "2026-08-19"
+      }
+    ],
+    "firstSeen": "2026-08-19",
+    "lastSeen": "2026-08-19"
   },
   {
     "toolSlug": "openrouter",
@@ -188,11 +290,11 @@
         "source": "techcrunch",
         "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
         "score": 1,
-        "date": "2026-08-18"
+        "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-08-17",
-    "lastSeen": "2026-08-18"
+    "lastSeen": "2026-08-19"
   },
   {
     "toolSlug": "grok",
@@ -203,31 +305,16 @@
         "source": "techcrunch",
         "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
         "score": 1,
-        "date": "2026-08-18"
+        "date": "2026-08-19"
       }
     ],
     "firstSeen": "2026-08-13",
-    "lastSeen": "2026-08-18"
-  },
-  {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "score": 1,
-        "date": "2026-08-18"
-      }
-    ],
-    "firstSeen": "2026-08-16",
-    "lastSeen": "2026-08-18"
+    "lastSeen": "2026-08-19"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -242,7 +329,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",

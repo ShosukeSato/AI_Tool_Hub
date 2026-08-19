@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-08-19",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+    "date": "2026-08-19",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-18",
     "type": "trending",
     "toolSlug": "claude",
@@ -330,15 +339,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Fable produced a counterexample to the Jacobian Conjecture",
     "date": "2026-07-21",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-20",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Code uses Bun written in Rust now",
-    "date": "2026-07-20",
     "source": "hackernews"
   }
 ]
