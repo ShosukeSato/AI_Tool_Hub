@@ -8,35 +8,14 @@
         "source": "hackernews",
         "title": "fx :Tiny, open, native coding agent.",
         "url": "https://fx.sh",
-        "score": 172,
+        "score": 292,
         "date": "2026-08-20"
       },
       {
         "source": "hackernews",
         "title": "Feature Request: Support AGENTS.md",
         "url": "https://github.com/anthropics/claude-code/issues/6235",
-        "score": 126,
-        "date": "2026-08-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Collaborative Human Agent Protocol",
-        "url": "CHAP) (https://github.com/BrightbeamAI/chap",
-        "score": 17,
-        "date": "2026-08-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-        "url": "https://demo.frugaltokens.com/",
-        "score": 26,
-        "date": "2026-08-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "If your agent commits a crime, who is responsible?",
-        "url": "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
-        "score": 23,
+        "score": 305,
         "date": "2026-08-20"
       },
       {
@@ -53,7 +32,13 @@
       },
       {
         "source": "googlenews",
-        "title": "TestMu AI、AIエージェントのリリース前に検証を行う「Agent Assurance」をリリース - 沖縄タイムス社",
+        "title": "3,823名が申し込み──国内最大級のAIエージェントカンファレンス「AI Agent Day 2026 Summer」開催レポート - PR TIMES",
+        "score": 1,
+        "date": "2026-08-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
         "score": 1,
         "date": "2026-08-20"
       }
@@ -64,13 +49,13 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 8.6,
+    "buzzScore": 5.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
         "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-        "score": 310,
+        "score": 327,
         "date": "2026-08-20"
       }
     ],
@@ -80,7 +65,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -94,9 +79,25 @@
     "lastSeen": "2026-08-18"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ADHD charity complains about Channel 4 documentary",
+        "url": "https://www.bbc.com/news/articles/cj63jyg6zg9o",
+        "score": 10,
+        "date": "2026-08-20"
+      }
+    ],
+    "firstSeen": "2026-08-20",
+    "lastSeen": "2026-08-20"
+  },
+  {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -112,7 +113,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -134,17 +135,11 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
-        "score": 1,
-        "date": "2026-08-20"
-      },
-      {
-        "source": "googlenews",
-        "title": "【Gemini 3.7 Flash】自治体AI zevoにて2026年8月17日（月曜日）より提供開始！ - PR TIMES",
         "score": 1,
         "date": "2026-08-20"
       },
@@ -161,37 +156,22 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "10 AI-Powered Side Hustles: Smart Business Ideas Using ChatGPT Or Claude - Forbes",
+        "score": 1,
+        "date": "2026-08-20"
+      },
       {
         "source": "googlenews",
         "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
         "score": 1,
         "date": "2026-08-20"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-        "score": 1,
-        "date": "2026-08-20"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-08-20"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-08-20"
-      }
-    ],
-    "firstSeen": "2026-07-21",
     "lastSeen": "2026-08-20"
   },
   {
@@ -207,6 +187,21 @@
       }
     ],
     "firstSeen": "2026-08-10",
+    "lastSeen": "2026-08-20"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-08-20"
+      }
+    ],
+    "firstSeen": "2026-07-05",
     "lastSeen": "2026-08-20"
   },
   {
@@ -240,9 +235,24 @@
     "lastSeen": "2026-08-20"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-08-20"
+      }
+    ],
+    "firstSeen": "2026-07-21",
+    "lastSeen": "2026-08-20"
+  },
+  {
     "toolSlug": "factory",
     "toolName": "Factory",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -257,7 +267,7 @@
   {
     "toolSlug": "devin",
     "toolName": "Devin",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -273,7 +283,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -286,24 +296,9 @@
     "lastSeen": "2026-08-19"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-08-19"
-      }
-    ],
-    "firstSeen": "2026-07-05",
-    "lastSeen": "2026-08-19"
-  },
-  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -318,7 +313,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -334,7 +329,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
