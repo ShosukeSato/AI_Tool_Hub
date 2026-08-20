@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-08-20",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: fx :Tiny, open, native coding agent.",
+    "date": "2026-08-20",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-08-20",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.6）",
+    "summary": "hackernewsで注目: Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "date": "2026-08-20",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-19",
     "type": "trending",
     "toolSlug": "claude",
@@ -330,15 +348,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 7.7）",
     "summary": "hackernewsで注目: Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
     "date": "2026-07-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-21",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "date": "2026-07-21",
     "source": "hackernews"
   }
 ]
