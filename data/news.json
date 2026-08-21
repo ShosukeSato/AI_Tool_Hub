@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-08-21",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Feature Request: Support AGENTS.md",
+    "date": "2026-08-21",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-08-21",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.5）",
+    "summary": "hackernewsで注目: Vomit: Clean up Claude 5's token output with a separate LLM",
+    "date": "2026-08-21",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-20",
     "type": "trending",
     "toolSlug": "agent",
@@ -321,33 +339,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
     "date": "2026-07-23",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-22",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-    "date": "2026-07-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-07-22",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Advertise in ChatGPT",
-    "date": "2026-07-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-22",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 7.7）",
-    "summary": "hackernewsで注目: Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-    "date": "2026-07-22",
     "source": "hackernews"
   }
 ]
