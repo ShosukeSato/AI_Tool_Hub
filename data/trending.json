@@ -1,27 +1,51 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Feature Request: Support AGENTS.md",
-        "url": "https://github.com/anthropics/claude-code/issues/6235",
-        "score": 353,
+        "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+        "url": "https://github.com/zachahn/vomit",
+        "score": 267,
         "date": "2026-08-21"
       },
       {
         "source": "hackernews",
-        "title": "TrueForge – The open-source agent harness",
-        "url": "https://github.com/truefoundry/trueforge",
-        "score": 13,
+        "title": "Hacking with Claude on a $27 smart watch",
+        "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+        "score": 100,
         "date": "2026-08-21"
       },
       {
-        "source": "googlenews",
-        "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
-        "score": 1,
+        "source": "hackernews",
+        "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+        "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+        "score": 342,
+        "date": "2026-08-21"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-08-21"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 5.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+        "url": "https://Argentic.network",
+        "score": 8,
+        "date": "2026-08-21"
+      },
+      {
+        "source": "hackernews",
+        "title": "Feature Request: Support AGENTS.md",
+        "url": "https://github.com/anthropics/claude-code/issues/6235",
+        "score": 363,
         "date": "2026-08-21"
       },
       {
@@ -32,7 +56,7 @@
       },
       {
         "source": "googlenews",
-        "title": "3,823名が申し込み──国内最大級のAIエージェントカンファレンス「AI Agent Day 2026 Summer」開催レポート - PR TIMES",
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
         "score": 1,
         "date": "2026-08-21"
       },
@@ -47,32 +71,9 @@
     "lastSeen": "2026-08-21"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 7.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-        "url": "https://github.com/zachahn/vomit",
-        "score": 186,
-        "date": "2026-08-21"
-      },
-      {
-        "source": "hackernews",
-        "title": "Hacking with Claude on a $27 smart watch",
-        "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-        "score": 82,
-        "date": "2026-08-21"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-08-21"
-  },
-  {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -84,6 +85,22 @@
     ],
     "firstSeen": "2026-08-12",
     "lastSeen": "2026-08-18"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Seed: Minimal, self-modifying agent harness",
+        "url": "https://github.com/vivekhaldar/seed",
+        "score": 39,
+        "date": "2026-08-21"
+      }
+    ],
+    "firstSeen": "2026-08-21",
+    "lastSeen": "2026-08-21"
   },
   {
     "toolSlug": "chatgpt",
@@ -132,6 +149,12 @@
       {
         "source": "googlenews",
         "title": "Start the semester with one year of Gemini, on us - blog.google",
+        "score": 1,
+        "date": "2026-08-21"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
         "score": 1,
         "date": "2026-08-21"
       }
@@ -217,7 +240,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -233,7 +256,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -249,7 +272,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -271,7 +294,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -286,7 +309,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -301,7 +324,7 @@
   {
     "toolSlug": "factory",
     "toolName": "Factory",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -316,7 +339,7 @@
   {
     "toolSlug": "devin",
     "toolName": "Devin",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -332,7 +355,7 @@
   {
     "toolSlug": "flux",
     "toolName": "FLUX",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -347,7 +370,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -362,7 +385,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",

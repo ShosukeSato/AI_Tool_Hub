@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 7.9,
+    "overall": 8.3,
     "performance": 9,
-    "buzz": 7.5,
+    "buzz": 10,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-21"
@@ -66,7 +66,7 @@
     "toolSlug": "llama",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 9,
     "lastCalculated": "2026-08-21"
@@ -183,7 +183,7 @@
     "toolSlug": "cursor",
     "overall": 6.9,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-21"
@@ -201,7 +201,7 @@
     "toolSlug": "github-copilot",
     "overall": 7,
     "performance": 8,
-    "buzz": 2,
+    "buzz": 1.8,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-08-21"
@@ -219,7 +219,7 @@
     "toolSlug": "devin",
     "overall": 5.2,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 5,
     "lastCalculated": "2026-08-21"
@@ -253,9 +253,9 @@
   },
   {
     "toolSlug": "lovable",
-    "overall": 6.4,
+    "overall": 6.3,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-21"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 7.8,
+    "overall": 7.1,
     "performance": 6,
-    "buzz": 10,
+    "buzz": 5.7,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-08-21"
@@ -507,7 +507,7 @@
     "toolSlug": "factory",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-08-21"
@@ -649,9 +649,9 @@
   },
   {
     "toolSlug": "flux",
-    "overall": 6.8,
+    "overall": 6.7,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 5,
     "costPerformance": 10,
     "lastCalculated": "2026-08-21"
@@ -705,7 +705,7 @@
     "toolSlug": "perplexity",
     "overall": 7.5,
     "performance": 9,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-08-21"
@@ -847,9 +847,9 @@
   },
   {
     "toolSlug": "dify",
-    "overall": 6.9,
+    "overall": 7.1,
     "performance": 8,
-    "buzz": 0.6,
+    "buzz": 1.5,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-08-21"
@@ -1335,7 +1335,7 @@
     "toolSlug": "hats",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-08-21"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-08-21"
@@ -2955,7 +2955,7 @@
     "toolSlug": "era",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-08-21"
