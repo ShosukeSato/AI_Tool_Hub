@@ -8,21 +8,7 @@
         "source": "hackernews",
         "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
         "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-        "score": 193,
-        "date": "2026-08-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "Quick impressions: A week of using Codex more than Claude",
-        "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "score": 74,
-        "date": "2026-08-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-        "score": 42,
+        "score": 301,
         "date": "2026-08-22"
       }
     ],
@@ -32,20 +18,34 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.9,
+    "buzzScore": 6.8,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-        "url": "https://ozbrain.com",
-        "score": 27,
+        "title": "Munder Difflin – Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/",
+        "score": 44,
         "date": "2026-08-22"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-        "url": "https://github.com/proliferate-ai/proliferate",
-        "score": 36,
+        "title": "Autolith: A programming agent with a live runtime",
+        "url": "https://www.lambda-symbolics.com/autolith",
+        "score": 73,
+        "date": "2026-08-22"
+      },
+      {
+        "source": "hackernews",
+        "title": "A coding agent on a 1987 Commodore Amiga 500 with a 7MHz CPU and 1 MB of RAM",
+        "url": "https://twitter.com/DXhusni/status/2090839488058859726",
+        "score": 3,
+        "date": "2026-08-22"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "url": "https://ozbrain.com",
+        "score": 71,
         "date": "2026-08-22"
       },
       {
@@ -59,12 +59,6 @@
         "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
         "score": 1,
         "date": "2026-08-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
-        "score": 1,
-        "date": "2026-08-22"
       }
     ],
     "firstSeen": "2026-04-16",
@@ -73,7 +67,7 @@
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -89,7 +83,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -105,7 +99,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -197,21 +191,6 @@
     "lastSeen": "2026-08-22"
   },
   {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-08-22"
-      }
-    ],
-    "firstSeen": "2026-08-21",
-    "lastSeen": "2026-08-22"
-  },
-  {
     "toolSlug": "grok",
     "toolName": "Grok",
     "buzzScore": 1,
@@ -227,9 +206,24 @@
     "lastSeen": "2026-08-22"
   },
   {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-08-22"
+      }
+    ],
+    "firstSeen": "2026-08-21",
+    "lastSeen": "2026-08-22"
+  },
+  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -244,7 +238,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -260,7 +254,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -276,7 +270,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -298,7 +292,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -309,51 +303,5 @@
     ],
     "firstSeen": "2026-08-16",
     "lastSeen": "2026-08-20"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-08-20"
-      }
-    ],
-    "firstSeen": "2026-07-21",
-    "lastSeen": "2026-08-20"
-  },
-  {
-    "toolSlug": "factory",
-    "toolName": "Factory",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Warp&#8217;s new system is an out-of-the-box software factory for AI development",
-        "score": 1,
-        "date": "2026-08-20"
-      }
-    ],
-    "firstSeen": "2026-08-19",
-    "lastSeen": "2026-08-20"
-  },
-  {
-    "toolSlug": "devin",
-    "toolName": "Devin",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GPT-5.6 Sol: 70% off in Devin",
-        "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
-        "score": 9,
-        "date": "2026-08-19"
-      }
-    ],
-    "firstSeen": "2026-08-19",
-    "lastSeen": "2026-08-19"
   }
 ]
