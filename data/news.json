@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-08-22",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claudette: Make Claude stop talking like a BuzzFeed article",
+    "date": "2026-08-22",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-21",
     "type": "trending",
     "toolSlug": "agent",
@@ -330,15 +339,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Free way to get your data out of ChatGPT Business accounts",
     "date": "2026-07-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-07-23",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-    "date": "2026-07-23",
     "source": "hackernews"
   }
 ]
