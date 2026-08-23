@@ -6,68 +6,63 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "A week of using Codex more than Claude",
+        "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+        "score": 122,
+        "date": "2026-08-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "score": 163,
+        "date": "2026-08-23"
+      },
+      {
+        "source": "hackernews",
         "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
         "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-        "score": 301,
-        "date": "2026-08-22"
+        "score": 347,
+        "date": "2026-08-23"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-08-22"
+    "lastSeen": "2026-08-23"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 6.8,
+    "buzzScore": 7.2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Munder Difflin – Agent harness to run an office of your clones",
         "url": "https://munderdiffl.in/",
-        "score": 44,
-        "date": "2026-08-22"
+        "score": 248,
+        "date": "2026-08-23"
       },
       {
         "source": "hackernews",
         "title": "Autolith: A programming agent with a live runtime",
         "url": "https://www.lambda-symbolics.com/autolith",
-        "score": 73,
-        "date": "2026-08-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "A coding agent on a 1987 Commodore Amiga 500 with a 7MHz CPU and 1 MB of RAM",
-        "url": "https://twitter.com/DXhusni/status/2090839488058859726",
-        "score": 3,
-        "date": "2026-08-22"
+        "score": 109,
+        "date": "2026-08-23"
       },
       {
         "source": "hackernews",
         "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
         "url": "https://ozbrain.com",
-        "score": 71,
-        "date": "2026-08-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
-        "score": 1,
-        "date": "2026-08-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-08-22"
+        "score": 78,
+        "date": "2026-08-23"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-08-22"
+    "lastSeen": "2026-08-23"
   },
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,7 +78,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -99,7 +94,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -115,34 +110,43 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
-        "score": 1,
-        "date": "2026-08-22"
-      },
       {
         "source": "techcrunch",
         "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
         "score": 1,
-        "date": "2026-08-22"
+        "date": "2026-08-23"
       },
       {
         "source": "techcrunch",
         "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
         "score": 1,
-        "date": "2026-08-22"
+        "date": "2026-08-23"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-08-22"
+    "lastSeen": "2026-08-23"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Grok keeps sending gibberish responses to users",
+        "score": 1,
+        "date": "2026-08-23"
+      }
+    ],
+    "firstSeen": "2026-08-13",
+    "lastSeen": "2026-08-23"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -163,7 +167,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -178,7 +182,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -191,24 +195,9 @@
     "lastSeen": "2026-08-22"
   },
   {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Grok keeps sending gibberish responses to users",
-        "score": 1,
-        "date": "2026-08-22"
-      }
-    ],
-    "firstSeen": "2026-08-13",
-    "lastSeen": "2026-08-22"
-  },
-  {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -223,7 +212,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -238,7 +227,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -254,7 +243,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -270,7 +259,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -288,20 +277,5 @@
     ],
     "firstSeen": "2026-08-13",
     "lastSeen": "2026-08-14"
-  },
-  {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "score": 1,
-        "date": "2026-08-20"
-      }
-    ],
-    "firstSeen": "2026-08-16",
-    "lastSeen": "2026-08-20"
   }
 ]
