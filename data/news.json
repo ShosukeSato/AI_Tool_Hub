@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-08-24",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 9.5）",
+    "summary": "hackernewsで注目: Agent Is Not the Model",
+    "date": "2026-08-24",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-23",
     "type": "trending",
     "toolSlug": "claude",

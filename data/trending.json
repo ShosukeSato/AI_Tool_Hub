@@ -6,9 +6,23 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Why is Anthropic's public writing style so unlike Claude's?",
+        "url": "https://cmart.blog/claude-writing/",
+        "score": 57,
+        "date": "2026-08-24"
+      },
+      {
+        "source": "hackernews",
+        "title": "Anthropic Claude and API service outages",
+        "url": "https://status.claude.com/uptime",
+        "score": 64,
+        "date": "2026-08-24"
+      },
+      {
+        "source": "hackernews",
         "title": "A week of using Codex more than Claude",
         "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "score": 235,
+        "score": 240,
         "date": "2026-08-24"
       }
     ],
@@ -18,20 +32,20 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 6.9,
+    "buzzScore": 9.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "My agent.md to improve LLM-assisted code quality",
-        "url": "https://fabiensanglard.net/agent.md/index.html",
-        "score": 144,
+        "title": "Agent Is Not the Model",
+        "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+        "score": 8,
         "date": "2026-08-24"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Mnemosyne Local hierarchical memory engine for AI agents",
-        "url": "MCP Native) (https://github.com/M4F-S/mnemosyne",
-        "score": 8,
+        "title": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "score": 332,
         "date": "2026-08-24"
       },
       {
@@ -47,60 +61,17 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 4,
+    "buzzScore": 4.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Explain it to me like I'm ten",
         "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-        "score": 78,
+        "score": 156,
         "date": "2026-08-24"
       }
     ],
     "firstSeen": "2026-08-20",
-    "lastSeen": "2026-08-24"
-  },
-  {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Does whispering to agents in docs help?",
-        "url": "https://passo.uno/if-you-are-an-agent-read-this/",
-        "score": 27,
-        "date": "2026-08-22"
-      }
-    ],
-    "firstSeen": "2026-08-22",
-    "lastSeen": "2026-08-22"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
-        "score": 1,
-        "date": "2026-08-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Start the semester with one year of Gemini, on us - blog.google",
-        "score": 1,
-        "date": "2026-08-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
-        "score": 1,
-        "date": "2026-08-24"
-      }
-    ],
-    "firstSeen": "2026-08-11",
     "lastSeen": "2026-08-24"
   },
   {
@@ -125,20 +96,41 @@
     "lastSeen": "2026-08-24"
   },
   {
-    "toolSlug": "github-copilot",
-    "toolName": "GitHub Copilot",
+    "toolSlug": "whisper",
+    "toolName": "Whisper",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "score": 394,
-        "date": "2026-08-18"
+        "title": "Does whispering to agents in docs help?",
+        "url": "https://passo.uno/if-you-are-an-agent-read-this/",
+        "score": 27,
+        "date": "2026-08-22"
       }
     ],
-    "firstSeen": "2026-08-12",
-    "lastSeen": "2026-08-18"
+    "firstSeen": "2026-08-22",
+    "lastSeen": "2026-08-22"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
+        "score": 1,
+        "date": "2026-08-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google I/O 2026でGemini 4.0は発表されるか？アルファベットがAIナラティブの刷新を模索する中市場はAI収益化を注視 - TradingKey",
+        "score": 1,
+        "date": "2026-08-24"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-08-24"
   },
   {
     "toolSlug": "com",
@@ -156,13 +148,13 @@
     "lastSeen": "2026-08-24"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載 - PR TIMES",
         "score": 1,
         "date": "2026-08-24"
       }
@@ -216,9 +208,40 @@
     "lastSeen": "2026-08-24"
   },
   {
+    "toolSlug": "github-copilot",
+    "toolName": "GitHub Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "score": 394,
+        "date": "2026-08-18"
+      }
+    ],
+    "firstSeen": "2026-08-12",
+    "lastSeen": "2026-08-18"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-08-24"
+      }
+    ],
+    "firstSeen": "2026-08-24",
+    "lastSeen": "2026-08-24"
+  },
+  {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -234,7 +257,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
