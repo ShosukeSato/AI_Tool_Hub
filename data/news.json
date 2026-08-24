@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-08-24",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: A week of using Codex more than Claude",
+    "date": "2026-08-24",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-23",
     "type": "trending",
     "toolSlug": "claude",
@@ -339,15 +348,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: The new rules of context engineering for Claude 5 generation models",
     "date": "2026-07-26",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-25",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Opus 5",
-    "date": "2026-07-25",
     "source": "hackernews"
   }
 ]
