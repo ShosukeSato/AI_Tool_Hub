@@ -6,41 +6,42 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Agent Lightning v1.0",
-        "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-        "score": 41,
-        "date": "2026-08-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agent Is Not the Model",
-        "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-        "score": 63,
+        "title": "Headlong: A Microharness for Persistent Agents",
+        "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+        "score": 85,
         "date": "2026-08-25"
       },
       {
         "source": "hackernews",
         "title": "Characterizing Agentic Flooding of Government Services",
         "url": "https://arxiv.org/abs/2608.16603",
-        "score": 62,
+        "score": 71,
+        "date": "2026-08-25"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agent Lightning v1.0",
+        "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+        "score": 51,
+        "date": "2026-08-25"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agent Is Not the Model",
+        "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+        "score": 69,
         "date": "2026-08-25"
       },
       {
         "source": "hackernews",
         "title": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
-        "score": 394,
+        "score": 406,
         "date": "2026-08-25"
       },
       {
         "source": "googlenews",
         "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-08-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "日立の社員が、初代Agentic AI Foundationアンバサダーに就任し、日本初開催「AGNTCon + MCPCon Japan 2026」でキーノート登壇 - PR TIMES",
         "score": 1,
         "date": "2026-08-25"
       },
@@ -57,7 +58,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 4.1,
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -73,7 +74,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -84,28 +85,6 @@
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-08-25"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
-        "url": "https://dactyl.dev/",
-        "score": 15,
-        "date": "2026-08-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
-        "score": 1,
-        "date": "2026-08-25"
-      }
-    ],
-    "firstSeen": "2026-06-26",
     "lastSeen": "2026-08-25"
   },
   {
@@ -154,6 +133,21 @@
     "lastSeen": "2026-08-25"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
+        "score": 1,
+        "date": "2026-08-25"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-08-25"
+  },
+  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
     "buzzScore": 1,
@@ -171,7 +165,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -186,7 +180,7 @@
   {
     "toolSlug": "whisper",
     "toolName": "Whisper",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -202,7 +196,7 @@
   {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -217,7 +211,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -233,7 +227,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -248,7 +242,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -264,7 +258,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
