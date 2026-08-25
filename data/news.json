@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-25",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Agent Lightning v1.0",
+    "date": "2026-08-25",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-24",
     "type": "trending",
     "toolSlug": "claude",
@@ -348,15 +357,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: The new rules of context engineering for Claude 5 generation models",
     "date": "2026-07-27",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-26",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: The new rules of context engineering for Claude 5 generation models",
-    "date": "2026-07-26",
     "source": "hackernews"
   }
 ]
