@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-26",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Headlong: A microharness for persistent agents",
+    "date": "2026-08-26",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-25",
     "type": "trending",
     "toolSlug": "agent",
@@ -348,15 +357,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Elevated errors on Claude Opus 5",
     "date": "2026-07-28",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-27",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: The new rules of context engineering for Claude 5 generation models",
-    "date": "2026-07-27",
     "source": "hackernews"
   }
 ]
