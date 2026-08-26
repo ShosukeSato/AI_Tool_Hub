@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 7,
+    "overall": 7.2,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 2.8,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-26"
@@ -21,7 +21,7 @@
     "toolSlug": "gemini",
     "overall": 7,
     "performance": 8,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-08-26"
@@ -46,9 +46,9 @@
   },
   {
     "toolSlug": "microsoft-copilot",
-    "overall": 6.4,
+    "overall": 6.3,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-08-26"
@@ -199,9 +199,9 @@
   },
   {
     "toolSlug": "github-copilot",
-    "overall": 6.9,
+    "overall": 6.8,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-08-26"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 5.6,
+    "overall": 5.5,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-08-26"
@@ -1360,9 +1360,9 @@
   },
   {
     "toolSlug": "udio",
-    "overall": 6.3,
+    "overall": 6.4,
     "performance": 8,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-08-26"
@@ -1605,7 +1605,7 @@
     "toolSlug": "whisper",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 10,
     "lastCalculated": "2026-08-26"
@@ -1891,9 +1891,9 @@
   },
   {
     "toolSlug": "findy-ai",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-08-26"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7,
     "performance": 7,
-    "buzz": 1.4,
+    "buzz": 1.3,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-08-26"
