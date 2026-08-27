@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-08-27",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Serve Markdown to AI Agents with Accept Headers",
+    "date": "2026-08-27",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-era-2026-08-27",
+    "type": "trending",
+    "toolSlug": "era",
+    "title": "Era が話題沸騰中（バズスコア: 8）",
+    "summary": "hackernewsで注目: The turbulent AI era is here",
+    "date": "2026-08-27",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-26",
     "type": "trending",
     "toolSlug": "agent",
@@ -348,15 +366,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Handbook.md shows that long policy documents do not reliably govern agents",
     "date": "2026-07-29",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-28",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Elevated errors on Claude Opus 5",
-    "date": "2026-07-28",
     "source": "hackernews"
   }
 ]
