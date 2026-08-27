@@ -1,34 +1,81 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "era",
+    "toolName": "Era",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Serve Markdown to AI Agents with Accept Headers",
-        "url": "https://acceptmarkdown.com/",
-        "score": 122,
+        "title": "The turbulent AI era is here",
+        "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+        "score": 146,
+        "date": "2026-08-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "The turbulent AI era is here",
+        "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+        "score": 342,
+        "date": "2026-08-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "US Aims to Revive Civil War-Era Court to Claim Iran Oil as Prize",
+        "url": "https://news.bloomberglaw.com/us-law-week/us-aims-to-revive-civil-war-era-court-to-claim-iran-oil-as-prize",
+        "score": 10,
+        "date": "2026-08-27"
+      }
+    ],
+    "firstSeen": "2026-08-27",
+    "lastSeen": "2026-08-27"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 6.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: The load-bearing vocabulary of Claude",
+        "url": "https://louisabraham.github.io/load-bearing/",
+        "score": 264,
+        "date": "2026-08-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+        "url": "https://github.com/kelviq/tare",
+        "score": 61,
+        "date": "2026-08-27"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-08-27"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 4.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: A lightweight, stateless database for agent memory",
+        "url": "https://polign.com/blog-edge-agent-memory",
+        "score": 16,
         "date": "2026-08-27"
       },
       {
         "source": "hackernews",
         "title": "VMs won't contain cyber-capable agents",
         "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-        "score": 160,
+        "score": 176,
         "date": "2026-08-27"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
-        "url": "https://github.com/apvcode/Termux-Dev",
-        "score": 11,
-        "date": "2026-08-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "Kommo Launches Its New AI Booking Agent Automation, Enabling Businesses to Boost Efficiency Outside of Working Hours - FinancialContent",
-        "score": 1,
+        "title": "Show HN: Proval – Self-hosted code review agent for GitLab, Forgejo, and GitHub",
+        "url": "https://github.com/seoes/proval",
+        "score": 7,
         "date": "2026-08-27"
       },
       {
@@ -39,19 +86,13 @@
       },
       {
         "source": "techcrunch",
+        "title": "Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "score": 1,
+        "date": "2026-08-27"
+      },
+      {
+        "source": "techcrunch",
         "title": "Radar makes podcasts searchable — and usable by AI agents",
-        "score": 1,
-        "date": "2026-08-27"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Arga Labs is building a better way to train enterprise AI agents",
-        "score": 1,
-        "date": "2026-08-27"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
         "score": 1,
         "date": "2026-08-27"
       }
@@ -60,44 +101,15 @@
     "lastSeen": "2026-08-27"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "The turbulent AI era is here",
-        "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-        "score": 217,
-        "date": "2026-08-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "The turbulent AI era is here. The choices we make now are critical",
-        "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-        "score": 15,
-        "date": "2026-08-27"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Robot brain builders are pushing out of their GPT-2 era",
-        "score": 1,
-        "date": "2026-08-27"
-      }
-    ],
-    "firstSeen": "2026-08-27",
-    "lastSeen": "2026-08-27"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 4.9,
+    "buzzScore": 3.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "PageRank explained",
         "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-        "score": 127,
+        "score": 141,
         "date": "2026-08-27"
       },
       {
@@ -111,31 +123,46 @@
     "lastSeen": "2026-08-27"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 2.5,
+    "toolSlug": "bild-ai",
+    "toolName": "Bild AI",
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "I miss the old Claude Code",
-        "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
-        "score": 28,
-        "date": "2026-08-26"
+        "title": "Bild AI",
+        "url": "YC W25) is hiring product and AI engineers (https://www.bild.ai/jobs",
+        "score": 1,
+        "date": "2026-08-27"
+      }
+    ],
+    "firstSeen": "2026-08-27",
+    "lastSeen": "2026-08-27"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections - OpenAI",
+        "score": 1,
+        "date": "2026-08-27"
       },
       {
         "source": "techcrunch",
-        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "title": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India",
         "score": 1,
-        "date": "2026-08-26"
+        "date": "2026-08-27"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-08-26"
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-08-27"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -151,27 +178,6 @@
       }
     ],
     "firstSeen": "2026-08-11",
-    "lastSeen": "2026-08-27"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections - OpenAI",
-        "score": 1,
-        "date": "2026-08-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
-        "score": 1,
-        "date": "2026-08-27"
-      }
-    ],
-    "firstSeen": "2026-06-26",
     "lastSeen": "2026-08-27"
   },
   {
@@ -235,18 +241,18 @@
     "lastSeen": "2026-08-27"
   },
   {
-    "toolSlug": "findy-ai",
-    "toolName": "Findy AI+",
+    "toolSlug": "thinking-machines",
+    "toolName": "Thinking Machines",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "source": "techcrunch",
+        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
         "score": 1,
         "date": "2026-08-27"
       }
     ],
-    "firstSeen": "2026-08-21",
+    "firstSeen": "2026-08-27",
     "lastSeen": "2026-08-27"
   },
   {
@@ -265,9 +271,24 @@
     "lastSeen": "2026-08-27"
   },
   {
+    "toolSlug": "findy-ai",
+    "toolName": "Findy AI+",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-08-27"
+      }
+    ],
+    "firstSeen": "2026-08-21",
+    "lastSeen": "2026-08-27"
+  },
+  {
     "toolSlug": "stable-diffusion",
     "toolName": "Stable Diffusion",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -282,7 +303,7 @@
   {
     "toolSlug": "gamma",
     "toolName": "Gamma",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -297,7 +318,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -308,21 +329,5 @@
     ],
     "firstSeen": "2026-07-05",
     "lastSeen": "2026-08-26"
-  },
-  {
-    "toolSlug": "whisper",
-    "toolName": "Whisper",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Does whispering to agents in docs help?",
-        "url": "https://passo.uno/if-you-are-an-agent-read-this/",
-        "score": 27,
-        "date": "2026-08-22"
-      }
-    ],
-    "firstSeen": "2026-08-22",
-    "lastSeen": "2026-08-22"
   }
 ]
