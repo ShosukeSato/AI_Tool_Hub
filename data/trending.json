@@ -6,23 +6,16 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Show HN: Passively Earn BTC/Sol/Anthropic for Using Claude Code",
+        "url": "https://prmpt.cash/",
+        "score": 6,
+        "date": "2026-08-28"
+      },
+      {
+        "source": "hackernews",
         "title": "Show HN: The load-bearing vocabulary of Claude",
         "url": "https://louisabraham.github.io/load-bearing/",
-        "score": 514,
-        "date": "2026-08-28"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
-        "url": "https://github.com/kelviq/tare",
-        "score": 78,
-        "date": "2026-08-28"
-      },
-      {
-        "source": "hackernews",
-        "title": "The \"I don't know, Claude wrote this\" pandemic",
-        "url": "https://www.manager.dev/newsletter/the-i-don-t-know-claude-wrote-this-pandemic",
-        "score": 33,
+        "score": 642,
         "date": "2026-08-28"
       }
     ],
@@ -30,58 +23,9 @@
     "lastSeen": "2026-08-28"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 6.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-        "url": "https://www.terminal-bench-science.ai/announcement",
-        "score": 86,
-        "date": "2026-08-28"
-      },
-      {
-        "source": "hackernews",
-        "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
-        "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-        "score": 107,
-        "date": "2026-08-28"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: A lightweight, stateless database for agent memory",
-        "url": "https://polign.com/blog-edge-agent-memory",
-        "score": 31,
-        "date": "2026-08-28"
-      },
-      {
-        "source": "hackernews",
-        "title": "VMs won't contain cyber-capable agents",
-        "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-        "score": 180,
-        "date": "2026-08-28"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI agents",
-        "score": 1,
-        "date": "2026-08-28"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Radar makes podcasts searchable — and usable by AI agents",
-        "score": 1,
-        "date": "2026-08-28"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-08-28"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 5.2,
+    "buzzScore": 4.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -95,9 +39,59 @@
     "lastSeen": "2026-08-28"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 4.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+        "url": "https://arxiv.org/abs/2608.23691",
+        "score": 59,
+        "date": "2026-08-28"
+      },
+      {
+        "source": "hackernews",
+        "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+        "url": "https://www.terminal-bench-science.ai/announcement",
+        "score": 110,
+        "date": "2026-08-28"
+      },
+      {
+        "source": "hackernews",
+        "title": "KHMS – a file-based long-term memory an LLM agent installs into itself",
+        "url": "https://github.com/kostey/khms-memory",
+        "score": 10,
+        "date": "2026-08-28"
+      },
+      {
+        "source": "hackernews",
+        "title": "AI Agent Has Root",
+        "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
+        "score": 38,
+        "date": "2026-08-28"
+      },
+      {
+        "source": "hackernews",
+        "title": "Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "url": "https://arxiv.org/abs/2608.27454",
+        "score": 7,
+        "date": "2026-08-28"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "score": 1,
+        "date": "2026-08-28"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-08-28"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.1,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -147,12 +141,6 @@
         "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
         "score": 1,
         "date": "2026-08-28"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
-        "score": 1,
-        "date": "2026-08-28"
       }
     ],
     "firstSeen": "2026-08-11",
@@ -186,21 +174,6 @@
       }
     ],
     "firstSeen": "2026-08-23",
-    "lastSeen": "2026-08-28"
-  },
-  {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載 - PR TIMES",
-        "score": 1,
-        "date": "2026-08-28"
-      }
-    ],
-    "firstSeen": "2026-08-24",
     "lastSeen": "2026-08-28"
   },
   {
@@ -264,9 +237,24 @@
     "lastSeen": "2026-08-28"
   },
   {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載 - PR TIMES",
+        "score": 1,
+        "date": "2026-08-28"
+      }
+    ],
+    "firstSeen": "2026-08-24",
+    "lastSeen": "2026-08-28"
+  },
+  {
     "toolSlug": "factory",
     "toolName": "Factory",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -281,7 +269,7 @@
   {
     "toolSlug": "bild-ai",
     "toolName": "Bild AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -297,7 +285,7 @@
   {
     "toolSlug": "stable-diffusion",
     "toolName": "Stable Diffusion",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -312,7 +300,7 @@
   {
     "toolSlug": "gamma",
     "toolName": "Gamma",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
