@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-08-28",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: The load-bearing vocabulary of Claude",
+    "date": "2026-08-28",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-27",
     "type": "trending",
     "toolSlug": "agent",
@@ -339,33 +348,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
     "date": "2026-07-30",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-07-29",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Discovering Cryptographic Weaknesses with Claude",
-    "date": "2026-07-29",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-era-2026-07-29",
-    "type": "trending",
-    "toolSlug": "era",
-    "title": "Era が話題沸騰中（バズスコア: 8.1）",
-    "summary": "hackernewsで注目: Google's Beyond Zero: Enterprise Security for the AI Era",
-    "date": "2026-07-29",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-29",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Handbook.md shows that long policy documents do not reliably govern agents",
-    "date": "2026-07-29",
     "source": "hackernews"
   }
 ]
