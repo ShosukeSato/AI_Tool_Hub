@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-08-30",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Domain-Driven Agents",
+    "date": "2026-08-30",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-08-29",
     "type": "trending",
     "toolSlug": "claude",
@@ -339,15 +348,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: qm – Multiplayer agent harness for work",
     "date": "2026-08-01",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-07-31",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-    "date": "2026-07-31",
     "source": "hackernews"
   }
 ]
