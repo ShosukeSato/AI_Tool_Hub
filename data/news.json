@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-08-31",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: The Rise and Fall of Agent Civilizations",
+    "date": "2026-08-31",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-08-31",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.4）",
+    "summary": "hackernewsで注目: Claude Session URL appended to commit messages and PR descriptions by default",
+    "date": "2026-08-31",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-30",
     "type": "trending",
     "toolSlug": "agent",
@@ -339,15 +357,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: The Greenhouse and the Lens: Two Modes of Agentic AI Work",
     "date": "2026-08-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-01",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: qm – Multiplayer agent harness for work",
-    "date": "2026-08-01",
     "source": "hackernews"
   }
 ]
