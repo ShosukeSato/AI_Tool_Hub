@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-chatgpt-2026-09-01",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: ChatGPT Work Tool and Skill Reference",
+    "date": "2026-09-01",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-09-01",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.6）",
+    "summary": "hackernewsで注目: Breaking Claude Code Opus 5 Auto Mode",
+    "date": "2026-09-01",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-31",
     "type": "trending",
     "toolSlug": "agent",
@@ -357,15 +375,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
     "date": "2026-08-03",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-02",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-    "date": "2026-08-02",
     "source": "hackernews"
   }
 ]
