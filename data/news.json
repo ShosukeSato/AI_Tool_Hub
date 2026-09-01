@@ -18,6 +18,24 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-plain-2026-09-01",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Terence Tao explains 6 essential mathematical concepts [video]",
+    "date": "2026-09-01",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-udio-2026-09-01",
+    "type": "trending",
+    "toolSlug": "udio",
+    "title": "Udio が話題沸騰中（バズスコア: 8.8）",
+    "summary": "hackernewsで注目: Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "date": "2026-09-01",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-08-31",
     "type": "trending",
     "toolSlug": "agent",

@@ -1,18 +1,18 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 8.5,
+    "overall": 7.8,
     "performance": 9,
-    "buzz": 10,
+    "buzz": 4.9,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-09-01"
   },
   {
     "toolSlug": "claude",
-    "overall": 7.9,
+    "overall": 8,
     "performance": 9,
-    "buzz": 7.6,
+    "buzz": 7.8,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-01"
@@ -235,9 +235,9 @@
   },
   {
     "toolSlug": "v0",
-    "overall": 7.1,
+    "overall": 7,
     "performance": 8,
-    "buzz": 3.7,
+    "buzz": 3.3,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-01"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.9,
+    "overall": 7,
     "performance": 6,
-    "buzz": 4.3,
+    "buzz": 5.1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-09-01"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 5.6,
+    "overall": 5.5,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-09-01"
@@ -849,7 +849,7 @@
     "toolSlug": "dify",
     "overall": 7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-09-01"
@@ -894,7 +894,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-09-01"
@@ -1360,9 +1360,9 @@
   },
   {
     "toolSlug": "udio",
-    "overall": 7.3,
+    "overall": 7.6,
     "performance": 8,
-    "buzz": 6.7,
+    "buzz": 8.8,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-09-01"
@@ -1893,7 +1893,7 @@
     "toolSlug": "findy-ai",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-01"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7.6,
+    "overall": 8.3,
     "performance": 7,
-    "buzz": 5.5,
+    "buzz": 10,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-09-01"
@@ -2784,7 +2784,7 @@
     "toolSlug": "mythos",
     "overall": 6.1,
     "performance": 10,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 4,
     "lastCalculated": "2026-09-01"
@@ -2955,7 +2955,7 @@
     "toolSlug": "era",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-09-01"
@@ -3009,7 +3009,7 @@
     "toolSlug": "thinking-machines",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-09-01"

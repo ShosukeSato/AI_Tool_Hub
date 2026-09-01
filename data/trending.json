@@ -1,21 +1,116 @@
 [
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+        "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+        "score": 545,
+        "date": "2026-09-01"
+      }
+    ],
+    "firstSeen": "2026-08-20",
+    "lastSeen": "2026-09-01"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 8.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+        "score": 473,
+        "date": "2026-09-01"
+      }
+    ],
+    "firstSeen": "2026-08-26",
+    "lastSeen": "2026-09-01"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 7.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "score": 383,
+        "date": "2026-09-01"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
+        "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+        "score": 28,
+        "date": "2026-09-01"
+      },
+      {
+        "source": "googlenews",
+        "title": "＜AIトレンド通信 2026年8月号＞非エンジニアにも広がる「ClaudeCode」。実務活用の最前線をSHIFT AIが解説 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-01"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-01"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 5.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Agent memory as a file format",
+        "url": "https://calpaterson.com/memoryfields.html",
+        "score": 184,
+        "date": "2026-09-01"
+      },
+      {
+        "source": "hackernews",
+        "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+        "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+        "score": 60,
+        "date": "2026-09-01"
+      },
+      {
+        "source": "googlenews",
+        "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
+        "score": 1,
+        "date": "2026-09-01"
+      },
+      {
+        "source": "googlenews",
+        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "score": 1,
+        "date": "2026-09-01"
+      },
+      {
+        "source": "techcrunch",
+        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+        "score": 1,
+        "date": "2026-09-01"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-09-01"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 10,
+    "buzzScore": 4.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "ChatGPT Work Tool and Skill Reference",
         "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-        "score": 193,
-        "date": "2026-09-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Understanding ChatGPT Work",
-        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-        "score": 322,
+        "score": 231,
         "date": "2026-09-01"
       },
       {
@@ -35,106 +130,9 @@
     "lastSeen": "2026-09-01"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 7.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Breaking Claude Code Opus 5 Auto Mode",
-        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-        "score": 351,
-        "date": "2026-09-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
-        "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
-        "score": 25,
-        "date": "2026-09-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "＜AIトレンド通信 2026年8月号＞非エンジニアにも広がる「ClaudeCode」。実務活用の最前線をSHIFT AIが解説 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-01"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-01"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 6.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-        "score": 326,
-        "date": "2026-09-01"
-      }
-    ],
-    "firstSeen": "2026-08-26",
-    "lastSeen": "2026-09-01"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 5.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-        "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-        "score": 257,
-        "date": "2026-09-01"
-      }
-    ],
-    "firstSeen": "2026-08-20",
-    "lastSeen": "2026-09-01"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 4.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Agent memory as a file format",
-        "url": "https://calpaterson.com/memoryfields.html",
-        "score": 166,
-        "date": "2026-09-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "I built a forgetting curve for an agent with one user",
-        "url": "https://eris-system.dev/blog/forgetting-curve",
-        "score": 16,
-        "date": "2026-09-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude",
-        "url": "https://fellowgeek.github.io/mcp-speak/",
-        "score": 9,
-        "date": "2026-09-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - law.com",
-        "score": 1,
-        "date": "2026-09-01"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-01"
-  },
-  {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -163,13 +161,13 @@
     "lastSeen": "2026-09-01"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
+    "toolSlug": "dify",
+    "toolName": "Dify",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "バイタリフィ、「AI博覧会 Summer 2026」の出展が大盛況で終了！Dify活用やAIエージェントの導入に関心が集まる - ドリームニュース",
         "score": 1,
         "date": "2026-09-01"
       }
@@ -223,9 +221,24 @@
     "lastSeen": "2026-09-01"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-09-01"
+      }
+    ],
+    "firstSeen": "2026-08-31",
+    "lastSeen": "2026-09-01"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -246,7 +259,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -261,7 +274,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -274,24 +287,9 @@
     "lastSeen": "2026-08-31"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "バイタリフィ、「AI博覧会 Summer 2026」の出展が大盛況で終了！Dify活用やAIエージェントの導入に関心が集まる - ドリームニュース",
-        "score": 1,
-        "date": "2026-08-31"
-      }
-    ],
-    "firstSeen": "2026-08-31",
-    "lastSeen": "2026-08-31"
-  },
-  {
     "toolSlug": "findy-ai",
     "toolName": "Findy AI+",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -306,7 +304,7 @@
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
