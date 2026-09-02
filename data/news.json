@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-09-02",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Fable 5.1 and Claude Mythos 5.1",
+    "date": "2026-09-02",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-09-01",
     "type": "trending",
     "toolSlug": "chatgpt",
@@ -384,15 +393,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: The Shape of Things to Come, Part 2: Model Welfare for Agentic Engineers",
     "date": "2026-08-04",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-03",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-    "date": "2026-08-03",
     "source": "hackernews"
   }
 ]
