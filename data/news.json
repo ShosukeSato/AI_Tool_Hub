@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-09-04",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "date": "2026-09-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-03",
     "type": "trending",
     "toolSlug": "claude",
@@ -384,15 +393,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Prime Agent: A self-improving RLM agent",
     "date": "2026-08-06",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-05",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Cloudflare Wallets: the programmable wallet for the agentic Internet",
-    "date": "2026-08-05",
     "source": "hackernews"
   }
 ]
