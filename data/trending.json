@@ -8,27 +8,27 @@
         "source": "hackernews",
         "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
         "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-        "score": 117,
+        "score": 270,
         "date": "2026-09-04"
       },
       {
         "source": "hackernews",
         "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down? ()",
-        "score": 338,
-        "date": "2026-09-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude for Commerce Agents",
-        "url": "https://claude.com/blog/claude-for-commerce-agents",
-        "score": 60,
+        "score": 383,
         "date": "2026-09-04"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5.1 and Claude Mythos 5.1",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "score": 1404,
+        "score": 1409,
+        "date": "2026-09-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude for Commerce Agents",
+        "url": "https://claude.com/blog/claude-for-commerce-agents",
+        "score": 61,
         "date": "2026-09-04"
       }
     ],
@@ -36,15 +36,51 @@
     "lastSeen": "2026-09-04"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 5.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Discovery of a new OpenAI agent message board",
+        "url": "https://collusion.wiki/",
+        "score": 642,
+        "date": "2026-09-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Xanadu was waiting for agents",
+        "url": "https://zed.dev/blog/agentic-xanadu",
+        "score": 141,
+        "date": "2026-09-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+        "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+        "score": 89,
+        "date": "2026-09-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
+        "score": 1,
+        "date": "2026-09-04"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-09-04"
+  },
+  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 4,
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
         "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "score": 503,
+        "score": 512,
         "date": "2026-09-04"
       }
     ],
@@ -54,7 +90,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.3,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
@@ -70,7 +106,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -100,7 +136,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -116,7 +152,7 @@
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -128,44 +164,6 @@
     ],
     "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Xanadu was waiting for agents",
-        "url": "https://zed.dev/blog/agentic-xanadu",
-        "score": 92,
-        "date": "2026-09-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
-        "score": 1,
-        "date": "2026-09-04"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-04"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
-        "url": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
-        "score": 38,
-        "date": "2026-09-03"
-      }
-    ],
-    "firstSeen": "2026-09-03",
-    "lastSeen": "2026-09-03"
   },
   {
     "toolSlug": "gemini",
@@ -180,7 +178,19 @@
       },
       {
         "source": "googlenews",
+        "title": "Start the semester with one year of Gemini, on us - blog.google",
+        "score": 1,
+        "date": "2026-09-04"
+      },
+      {
+        "source": "googlenews",
         "title": "【Gemini 3.8 Flash】自治体AI zevoにて2026年9月3日（木曜日）より提供開始！ - 愛媛新聞",
+        "score": 1,
+        "date": "2026-09-04"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
         "score": 1,
         "date": "2026-09-04"
       }
@@ -234,21 +244,6 @@
     "lastSeen": "2026-09-04"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-04"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-09-04"
-  },
-  {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
     "buzzScore": 1,
@@ -264,9 +259,40 @@
     "lastSeen": "2026-09-04"
   },
   {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
+        "url": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
+        "score": 38,
+        "date": "2026-09-03"
+      }
+    ],
+    "firstSeen": "2026-09-03",
+    "lastSeen": "2026-09-03"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-04"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-09-04"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -281,7 +307,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
