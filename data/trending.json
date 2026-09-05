@@ -1,80 +1,92 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-        "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-        "score": 270,
-        "date": "2026-09-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down? ()",
-        "score": 383,
-        "date": "2026-09-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "score": 1409,
-        "date": "2026-09-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude for Commerce Agents",
-        "url": "https://claude.com/blog/claude-for-commerce-agents",
-        "score": 61,
-        "date": "2026-09-04"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-04"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.6,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Discovery of a new OpenAI agent message board",
         "url": "https://collusion.wiki/",
-        "score": 642,
-        "date": "2026-09-04"
+        "score": 1511,
+        "date": "2026-09-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Moadim.io – A scheduler for agents",
+        "url": "https://moadim.io/",
+        "score": 16,
+        "date": "2026-09-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "More Targets of the OpenAI Agent Swarm",
+        "url": "https://fi-le.net/vanderbilt/",
+        "score": 11,
+        "date": "2026-09-05"
       },
       {
         "source": "hackernews",
         "title": "Xanadu was waiting for agents",
         "url": "https://zed.dev/blog/agentic-xanadu",
-        "score": 141,
-        "date": "2026-09-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-        "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-        "score": 89,
-        "date": "2026-09-04"
+        "score": 144,
+        "date": "2026-09-05"
       },
       {
         "source": "googlenews",
         "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
         "score": 1,
-        "date": "2026-09-04"
+        "date": "2026-09-05"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+        "score": 1,
+        "date": "2026-09-05"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+        "score": 1,
+        "date": "2026-09-05"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-04"
+    "lastSeen": "2026-09-05"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 4.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+        "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "score": 44,
+        "date": "2026-09-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Code skills for advanced context engineering techniques and patterns",
+        "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+        "score": 12,
+        "date": "2026-09-05"
+      },
+      {
+        "source": "hackernews",
+        "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down? ()",
+        "score": 393,
+        "date": "2026-09-05"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-05"
   },
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -88,25 +100,9 @@
     "lastSeen": "2026-09-04"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-        "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-        "score": 608,
-        "date": "2026-09-02"
-      }
-    ],
-    "firstSeen": "2026-08-20",
-    "lastSeen": "2026-09-02"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -136,7 +132,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -150,9 +146,25 @@
     "lastSeen": "2026-09-02"
   },
   {
+    "toolSlug": "openrouter",
+    "toolName": "OpenRouter",
+    "buzzScore": 2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GPT-6 Astra on OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-6-astra",
+        "score": 136,
+        "date": "2026-09-05"
+      }
+    ],
+    "firstSeen": "2026-09-05",
+    "lastSeen": "2026-09-05"
+  },
+  {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -166,6 +178,22 @@
     "lastSeen": "2026-08-30"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+        "url": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
+        "score": 20,
+        "date": "2026-09-05"
+      }
+    ],
+    "firstSeen": "2026-08-20",
+    "lastSeen": "2026-09-05"
+  },
+  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
@@ -174,29 +202,23 @@
         "source": "googlenews",
         "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
         "score": 1,
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       },
       {
         "source": "googlenews",
-        "title": "Start the semester with one year of Gemini, on us - blog.google",
+        "title": "【Gemini 3.8 Flash】自治体AI zevoにて2026年9月3日（木曜日）より提供開始！ - prtimes.jp",
         "score": 1,
-        "date": "2026-09-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "【Gemini 3.8 Flash】自治体AI zevoにて2026年9月3日（木曜日）より提供開始！ - 愛媛新聞",
-        "score": 1,
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       },
       {
         "source": "techcrunch",
         "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
         "score": 1,
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       }
     ],
     "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-04"
+    "lastSeen": "2026-09-05"
   },
   {
     "toolSlug": "dify",
@@ -205,13 +227,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Dify無料版からビジネス活用へ！有償ライセンス×自社専用環境で進めるAI本格導入」を2026年9月16日（水）12:00に開催 - PR TIMES",
+        "title": "【Dify活用ウェビナー】株式会社バイタリフィ、「Dify無料版からビジネス活用へ！有償ライセンス×自社専用環境で進めるAI本格導入」を2026年9月16日（水）12:00に開催 - prtimes.jp",
         "score": 1,
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       }
     ],
     "firstSeen": "2026-08-31",
-    "lastSeen": "2026-09-04"
+    "lastSeen": "2026-09-05"
   },
   {
     "toolSlug": "com",
@@ -220,13 +242,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - prtimes.jp",
         "score": 1,
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       }
     ],
     "firstSeen": "2026-08-23",
-    "lastSeen": "2026-09-04"
+    "lastSeen": "2026-09-05"
   },
   {
     "toolSlug": "yomel",
@@ -235,13 +257,34 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載 - PR TIMES",
+        "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載 - prtimes.jp",
         "score": 1,
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       }
     ],
     "firstSeen": "2026-08-24",
-    "lastSeen": "2026-09-04"
+    "lastSeen": "2026-09-05"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "What will Apple&#8217;s John Ternus era look like?",
+        "score": 1,
+        "date": "2026-09-05"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Apple&#8217;s Ternus era begins as Nvidia bets on the whole AI stack",
+        "score": 1,
+        "date": "2026-09-05"
+      }
+    ],
+    "firstSeen": "2026-08-27",
+    "lastSeen": "2026-09-05"
   },
   {
     "toolSlug": "thinking-machines",
@@ -252,16 +295,16 @@
         "source": "techcrunch",
         "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
         "score": 1,
-        "date": "2026-09-04"
+        "date": "2026-09-05"
       }
     ],
     "firstSeen": "2026-09-04",
-    "lastSeen": "2026-09-04"
+    "lastSeen": "2026-09-05"
   },
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -277,7 +320,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -292,7 +335,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -303,20 +346,5 @@
     ],
     "firstSeen": "2026-07-05",
     "lastSeen": "2026-09-03"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-09-02"
-      }
-    ],
-    "firstSeen": "2026-08-27",
-    "lastSeen": "2026-09-02"
   }
 ]
