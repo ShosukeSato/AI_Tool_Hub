@@ -3,16 +3,16 @@
     "toolSlug": "chatgpt",
     "overall": 7.4,
     "performance": 9,
-    "buzz": 2.4,
+    "buzz": 2.2,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-09-05"
   },
   {
     "toolSlug": "claude",
-    "overall": 7.5,
+    "overall": 7.2,
     "performance": 9,
-    "buzz": 4.4,
+    "buzz": 2.7,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-05"
@@ -48,7 +48,7 @@
     "toolSlug": "microsoft-copilot",
     "overall": 6.3,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-05"
@@ -237,7 +237,7 @@
     "toolSlug": "v0",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 1.6,
+    "buzz": 1.4,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-05"
@@ -705,7 +705,7 @@
     "toolSlug": "perplexity",
     "overall": 7.9,
     "performance": 9,
-    "buzz": 3.3,
+    "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-09-05"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.5,
     "performance": 9,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-09-05"
@@ -849,7 +849,7 @@
     "toolSlug": "dify",
     "overall": 7,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-09-05"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.6,
     "performance": 8,
-    "buzz": 2.3,
+    "buzz": 2.1,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-09-05"
@@ -1992,7 +1992,7 @@
     "toolSlug": "rocket",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-09-05"
@@ -2476,9 +2476,9 @@
   },
   {
     "toolSlug": "openrouter",
-    "overall": 7.4,
+    "overall": 7.5,
     "performance": 9,
-    "buzz": 2,
+    "buzz": 3,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-05"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7,
     "performance": 7,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-09-05"
