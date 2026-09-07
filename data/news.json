@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-07",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+    "date": "2026-09-07",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-06",
     "type": "trending",
     "toolSlug": "agent",
@@ -384,15 +393,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 8.3）",
     "summary": "hackernewsで注目: You can build an AI agent's memory layer with only Go's standard library",
     "date": "2026-08-09",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-08",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Kitesurf: Agent-first browser that runs in V8 isolates",
-    "date": "2026-08-08",
     "source": "hackernews"
   }
 ]
