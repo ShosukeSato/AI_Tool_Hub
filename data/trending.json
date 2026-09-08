@@ -6,16 +6,30 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Isle – managed application environments for computer-use agents",
-        "url": "https://www.tryisle.com",
-        "score": 9,
+        "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "score": 43,
         "date": "2026-09-08"
       },
       {
         "source": "hackernews",
-        "title": "Discovery of a new OpenAI agent message board",
-        "url": "https://collusion.wiki/",
-        "score": 2288,
+        "title": "How well do agents use test/verification techniques?",
+        "url": "https://danluu.com/agentic-testing/",
+        "score": 155,
+        "date": "2026-09-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "The VMs Powering Mobile Agents",
+        "url": "Instinct, Claude Code) (https://rohanadwankar.github.io/posts/platforms.html",
+        "score": 61,
+        "date": "2026-09-08"
+      },
+      {
+        "source": "hackernews",
+        "title": "Multi-Agents LLM Financial Trading Framework",
+        "url": "https://github.com/TauricResearch/TradingAgents",
+        "score": 100,
         "date": "2026-09-08"
       },
       {
@@ -55,7 +69,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 3.1,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -69,31 +83,15 @@
     "lastSeen": "2026-09-07"
   },
   {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 1.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "score": 512,
-        "date": "2026-09-04"
-      }
-    ],
-    "firstSeen": "2026-09-02",
-    "lastSeen": "2026-09-04"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 1.5,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
         "url": "https://github.com/trailofbits/coop",
-        "score": 56,
+        "score": 64,
         "date": "2026-09-08"
       },
       {
@@ -107,9 +105,41 @@
     "lastSeen": "2026-09-08"
   },
   {
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 1.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "score": 512,
+        "date": "2026-09-04"
+      }
+    ],
+    "firstSeen": "2026-09-02",
+    "lastSeen": "2026-09-04"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Codex on GPT6 Astra Low launched a rocket into space in Factorio Space Age 2.1",
+        "url": "https://www.reddit.com/r/codex/comments/1wakicq/codex_on_gpt6_astra_low_tonight_launched_a_rocket/",
+        "score": 22,
+        "date": "2026-09-08"
+      }
+    ],
+    "firstSeen": "2026-09-08",
+    "lastSeen": "2026-09-08"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -139,7 +169,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -155,7 +185,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
@@ -186,6 +216,27 @@
     "lastSeen": "2026-09-08"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "What will Apple&#8217;s John Ternus era look like?",
+        "score": 1,
+        "date": "2026-09-08"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Apple&#8217;s Ternus era begins as Nvidia bets on the whole AI stack",
+        "score": 1,
+        "date": "2026-09-08"
+      }
+    ],
+    "firstSeen": "2026-08-27",
+    "lastSeen": "2026-09-08"
+  },
+  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
     "buzzScore": 1,
@@ -210,15 +261,24 @@
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
         "score": 1,
         "date": "2026-09-08"
-      },
+      }
+    ],
+    "firstSeen": "2026-08-23",
+    "lastSeen": "2026-09-08"
+  },
+  {
+    "toolSlug": "yomel",
+    "toolName": "YOMEL",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載 - PR TIMES",
         "score": 1,
         "date": "2026-09-08"
       }
     ],
-    "firstSeen": "2026-08-23",
+    "firstSeen": "2026-08-24",
     "lastSeen": "2026-09-08"
   },
   {
@@ -237,9 +297,24 @@
     "lastSeen": "2026-09-08"
   },
   {
+    "toolSlug": "thinking-machines",
+    "toolName": "Thinking Machines",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "score": 1,
+        "date": "2026-09-08"
+      }
+    ],
+    "firstSeen": "2026-09-04",
+    "lastSeen": "2026-09-08"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -258,45 +333,9 @@
     "lastSeen": "2026-09-08"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "What will Apple&#8217;s John Ternus era look like?",
-        "score": 1,
-        "date": "2026-09-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Apple&#8217;s Ternus era begins as Nvidia bets on the whole AI stack",
-        "score": 1,
-        "date": "2026-09-08"
-      }
-    ],
-    "firstSeen": "2026-08-27",
-    "lastSeen": "2026-09-08"
-  },
-  {
-    "toolSlug": "thinking-machines",
-    "toolName": "Thinking Machines",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-        "score": 1,
-        "date": "2026-09-08"
-      }
-    ],
-    "firstSeen": "2026-09-04",
-    "lastSeen": "2026-09-08"
-  },
-  {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -312,7 +351,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -323,21 +362,6 @@
       }
     ],
     "firstSeen": "2026-08-20",
-    "lastSeen": "2026-09-06"
-  },
-  {
-    "toolSlug": "yomel",
-    "toolName": "YOMEL",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-06"
-      }
-    ],
-    "firstSeen": "2026-08-24",
     "lastSeen": "2026-09-06"
   }
 ]
