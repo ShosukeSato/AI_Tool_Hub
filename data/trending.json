@@ -6,42 +6,61 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+        "url": "https://github.com/Atomburstofficial/geiger",
+        "score": 21,
+        "date": "2026-09-09"
+      },
+      {
+        "source": "hackernews",
         "title": "Muse – Meta’s personal AI agent",
         "url": "https://ai.meta.com/muse/",
-        "score": 348,
+        "score": 593,
         "date": "2026-09-09"
       },
       {
         "source": "hackernews",
         "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "score": 334,
+        "score": 513,
+        "date": "2026-09-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Google: Attackers are using prompt injection against coding agents",
+        "url": "https://cloud.google.com/blog/topics/threat-intelligence/from-prompting-to-autonomy-the-evolution-of-adversarial-ai",
+        "score": 6,
+        "date": "2026-09-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Post-Training RLM Agents for End-to-End M&A Diligence",
+        "url": "https://www.harvey.ai/blog/post-training-rlm-agents-for-m-and-a-diligence",
+        "score": 3,
         "date": "2026-09-09"
       },
       {
         "source": "hackernews",
         "title": "How well do agents use test/verification techniques?",
         "url": "https://danluu.com/agentic-testing/",
-        "score": 176,
+        "score": 185,
         "date": "2026-09-09"
       },
       {
-        "source": "hackernews",
-        "title": "The VMs Powering Mobile Agents",
-        "url": "Instinct, Claude Code) (https://rohanadwankar.github.io/posts/platforms.html",
-        "score": 71,
-        "date": "2026-09-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Multi-Agents LLM Financial Trading Framework",
-        "url": "https://github.com/TauricResearch/TradingAgents",
-        "score": 114,
+        "source": "googlenews",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
+        "score": 1,
         "date": "2026-09-09"
       },
       {
         "source": "googlenews",
         "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
+        "score": 1,
+        "date": "2026-09-09"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
         "score": 1,
         "date": "2026-09-09"
       },
@@ -56,33 +75,43 @@
         "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
         "score": 1,
         "date": "2026-09-09"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-        "score": 1,
-        "date": "2026-09-09"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-        "score": 1,
-        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-04-16",
     "lastSeen": "2026-09-09"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 4.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude, change the \"Add to Cart\" button to blue",
+        "url": "https://opusfived.dev/",
+        "score": 513,
+        "date": "2026-09-09"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "score": 1,
+        "date": "2026-09-09"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-09"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 3.4,
+    "buzzScore": 3.5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "ChatGPT Images 2.5",
         "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-        "score": 275,
+        "score": 367,
         "date": "2026-09-09"
       }
     ],
@@ -92,7 +121,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -108,7 +137,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -120,38 +149,6 @@
     ],
     "firstSeen": "2026-09-02",
     "lastSeen": "2026-09-04"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Codex on GPT6 Astra Low launched a rocket into space in Factorio Space Age 2.1",
-        "url": "https://www.reddit.com/r/codex/comments/1wakicq/codex_on_gpt6_astra_low_tonight_launched_a_rocket/",
-        "score": 22,
-        "date": "2026-09-08"
-      }
-    ],
-    "firstSeen": "2026-09-08",
-    "lastSeen": "2026-09-08"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-        "score": 491,
-        "date": "2026-09-02"
-      }
-    ],
-    "firstSeen": "2026-08-26",
-    "lastSeen": "2026-09-02"
   },
   {
     "toolSlug": "gemini",
@@ -169,12 +166,6 @@
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-09-09"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "score": 1,
-        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-08-11",
@@ -187,7 +178,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - corp.rakuten.co.jp",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
         "date": "2026-09-09"
       }
@@ -205,21 +196,61 @@
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
         "score": 1,
         "date": "2026-09-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-08-23",
     "lastSeen": "2026-09-09"
   },
   {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+        "score": 1,
+        "date": "2026-09-09"
+      }
+    ],
+    "firstSeen": "2026-09-08",
+    "lastSeen": "2026-09-09"
+  },
+  {
+    "toolSlug": "suno",
+    "toolName": "Suno",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+        "score": 1,
+        "date": "2026-09-09"
+      }
+    ],
+    "firstSeen": "2026-09-09",
+    "lastSeen": "2026-09-09"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+        "score": 491,
+        "date": "2026-09-02"
+      }
+    ],
+    "firstSeen": "2026-08-26",
+    "lastSeen": "2026-09-02"
+  },
+  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -234,7 +265,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -249,7 +280,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -262,24 +293,9 @@
     "lastSeen": "2026-09-09"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Hackers are stealing Claude tokens from subscribers",
-        "score": 1,
-        "date": "2026-09-09"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-09"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -294,7 +310,7 @@
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -309,7 +325,7 @@
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -321,21 +337,5 @@
     ],
     "firstSeen": "2026-08-30",
     "lastSeen": "2026-08-30"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Fileregister: Tagging and reference layer for your files, in plain text",
-        "url": "https://github.com/rhsev/fileregister",
-        "score": 9,
-        "date": "2026-09-06"
-      }
-    ],
-    "firstSeen": "2026-08-20",
-    "lastSeen": "2026-09-06"
   }
 ]
