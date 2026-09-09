@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-09",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Muse – Meta’s personal AI agent",
+    "date": "2026-09-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-08",
     "type": "trending",
     "toolSlug": "agent",
@@ -366,24 +375,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "date": "2026-08-11",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-10",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Message your other Claude Code sessions",
-    "date": "2026-08-10",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-10",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "date": "2026-08-10",
     "source": "hackernews"
   }
 ]

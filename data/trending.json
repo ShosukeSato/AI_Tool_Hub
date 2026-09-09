@@ -6,70 +6,93 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+        "title": "Muse – Meta’s personal AI agent",
+        "url": "https://ai.meta.com/muse/",
+        "score": 348,
+        "date": "2026-09-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
         "url": "https://github.com/ayghri/i-have-adhd",
-        "score": 43,
-        "date": "2026-09-08"
+        "score": 334,
+        "date": "2026-09-09"
       },
       {
         "source": "hackernews",
         "title": "How well do agents use test/verification techniques?",
         "url": "https://danluu.com/agentic-testing/",
-        "score": 155,
-        "date": "2026-09-08"
+        "score": 176,
+        "date": "2026-09-09"
       },
       {
         "source": "hackernews",
         "title": "The VMs Powering Mobile Agents",
         "url": "Instinct, Claude Code) (https://rohanadwankar.github.io/posts/platforms.html",
-        "score": 61,
-        "date": "2026-09-08"
+        "score": 71,
+        "date": "2026-09-09"
       },
       {
         "source": "hackernews",
         "title": "Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "score": 100,
-        "date": "2026-09-08"
+        "score": 114,
+        "date": "2026-09-09"
       },
       {
         "source": "googlenews",
         "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
-        "source": "googlenews",
-        "title": "The 10 Hottest Agentic AI Agents, Tools And Products Of 2026 (So Far) - crn.com",
+        "source": "techcrunch",
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
         "source": "techcrunch",
         "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
         "source": "techcrunch",
         "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
         "source": "techcrunch",
         "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-08"
+    "lastSeen": "2026-09-09"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 3.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT Images 2.5",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "score": 275,
+        "date": "2026-09-09"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-09-09"
   },
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,31 +106,9 @@
     "lastSeen": "2026-09-07"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 2.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "url": "https://github.com/trailofbits/coop",
-        "score": 64,
-        "date": "2026-09-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "『これからのAI×業務改善本格講座 Claudeで超効率文書作成・情報活用』 2026年9月17日発売！ 無料版Claudeでここまでできる！ビジネスパーソン必携の手引書 | 株式会社秀和システム新社のプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-09-08"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-08"
-  },
-  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -123,7 +124,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -137,39 +138,9 @@
     "lastSeen": "2026-09-08"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT Is Throwing 404",
-        "url": "https://chatgpt.com/",
-        "score": 288,
-        "date": "2026-09-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "ChatGPT, Claude, and Grok Are Down",
-        "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
-        "score": 8,
-        "date": "2026-09-03"
-      },
-      {
-        "source": "hackernews",
-        "title": "Elevated errors across ChatGPT and Codex",
-        "url": "https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR",
-        "score": 14,
-        "date": "2026-09-03"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-03"
-  },
-  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -185,56 +156,29 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       },
       {
         "source": "techcrunch",
         "title": "Hikers rescued after using Google Gemini for planning",
         "score": 1,
-        "date": "2026-09-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
-        "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-08"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "What will Apple&#8217;s John Ternus era look like?",
-        "score": 1,
-        "date": "2026-09-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Apple&#8217;s Ternus era begins as Nvidia bets on the whole AI stack",
-        "score": 1,
-        "date": "2026-09-08"
-      }
-    ],
-    "firstSeen": "2026-08-27",
-    "lastSeen": "2026-09-08"
+    "lastSeen": "2026-09-09"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -243,13 +187,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - corp.rakuten.co.jp",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-09-07",
-    "lastSeen": "2026-09-08"
+    "lastSeen": "2026-09-09"
   },
   {
     "toolSlug": "com",
@@ -260,11 +204,17 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-08-23",
-    "lastSeen": "2026-09-08"
+    "lastSeen": "2026-09-09"
   },
   {
     "toolSlug": "yomel",
@@ -275,11 +225,11 @@
         "source": "googlenews",
         "title": "議事録AI「YOMEL」、直感的な編集を実現する新機能「吹き出し編集モード」を搭載 - PR TIMES",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-08-24",
-    "lastSeen": "2026-09-08"
+    "lastSeen": "2026-09-09"
   },
   {
     "toolSlug": "microsoft-copilot",
@@ -290,16 +240,61 @@
         "source": "googlenews",
         "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
-        "date": "2026-09-08"
+        "date": "2026-09-09"
       }
     ],
     "firstSeen": "2026-08-10",
-    "lastSeen": "2026-09-08"
+    "lastSeen": "2026-09-09"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "株式会社WHERE、令和8年熊本地震の復旧・復興対応の支援に向け、現場と本部をつなぐ不動産AIツール『WHERE』の無償提供を開始 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-09-09"
+      }
+    ],
+    "firstSeen": "2026-09-06",
+    "lastSeen": "2026-09-09"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "score": 1,
+        "date": "2026-09-09"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-09"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "What will Apple&#8217;s John Ternus era look like?",
+        "score": 1,
+        "date": "2026-09-09"
+      }
+    ],
+    "firstSeen": "2026-08-27",
+    "lastSeen": "2026-09-09"
   },
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -312,30 +307,9 @@
     "lastSeen": "2026-09-08"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-09-08"
-      },
-      {
-        "source": "googlenews",
-        "title": "株式会社WHERE、令和8年熊本地震の復旧・復興対応の支援に向け、現場と本部をつなぐ不動産AIツール『WHERE』の無償提供を開始 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-09-08"
-      }
-    ],
-    "firstSeen": "2026-09-06",
-    "lastSeen": "2026-09-08"
-  },
-  {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -351,7 +325,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
