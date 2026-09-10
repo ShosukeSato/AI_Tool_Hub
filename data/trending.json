@@ -6,16 +6,22 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude, change the “Add to Cart” button to blue",
-        "url": "https://opusfived.dev/",
-        "score": 1039,
+        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+        "url": "https://github.com/OtoDock/oto-dock",
+        "score": 46,
         "date": "2026-09-10"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-        "url": "https://github.com/OtoDock/oto-dock",
-        "score": 42,
+        "title": "Claude, change the “Add to Cart” button to blue",
+        "url": "https://opusfived.dev/",
+        "score": 1142,
+        "date": "2026-09-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
+        "score": 1,
         "date": "2026-09-10"
       }
     ],
@@ -25,34 +31,27 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 7.4,
+    "buzzScore": 7.2,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-        "url": "https://arxiv.org/abs/2609.09153",
-        "score": 50,
-        "date": "2026-09-10"
-      },
       {
         "source": "hackernews",
         "title": "Muse – Meta’s personal AI agent",
         "url": "https://ai.meta.com/muse/",
-        "score": 639,
+        "score": 648,
         "date": "2026-09-10"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-        "url": "https://github.com/Atomburstofficial/geiger",
-        "score": 44,
+        "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+        "url": "https://botbin.io/?v=next",
+        "score": 7,
         "date": "2026-09-10"
       },
       {
         "source": "hackernews",
-        "title": "Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning",
-        "url": "https://arxiv.org/abs/2606.16576",
-        "score": 3,
+        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+        "url": "https://arxiv.org/abs/2609.09153",
+        "score": 57,
         "date": "2026-09-10"
       },
       {
@@ -63,13 +62,13 @@
       },
       {
         "source": "googlenews",
-        "title": "BharatPe rolls out agentic AI for merchants, AI tool to boost credit awareness at GFF 2026 - ET Enterprise AI",
+        "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
         "score": 1,
         "date": "2026-09-10"
       },
       {
-        "source": "googlenews",
-        "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
+        "source": "techcrunch",
+        "title": "AI agents are flooding public services with new requests",
         "score": 1,
         "date": "2026-09-10"
       },
@@ -84,31 +83,15 @@
     "lastSeen": "2026-09-10"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 4.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT Images 2.5",
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-        "score": 375,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-10"
-  },
-  {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 2.6,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
         "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-        "score": 183,
+        "score": 232,
         "date": "2026-09-10"
       }
     ],
@@ -118,7 +101,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -132,9 +115,25 @@
     "lastSeen": "2026-09-07"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Amazon pilots ad services in ChatGPT",
+        "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+        "score": 72,
+        "date": "2026-09-10"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-09-10"
+  },
+  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -154,7 +153,19 @@
     "mentions": [
       {
         "source": "googlenews",
+        "title": "Google launches Gemini AI tools for lawyers - The Arkansas Democrat-Gazette",
+        "score": 1,
+        "date": "2026-09-10"
+      },
+      {
+        "source": "googlenews",
         "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
+        "score": 1,
+        "date": "2026-09-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "Start the semester with one year of Gemini, on us - blog.google",
         "score": 1,
         "date": "2026-09-10"
       },
@@ -175,7 +186,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - corp.rakuten.co.jp",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
         "date": "2026-09-10"
       }
@@ -231,7 +242,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -246,7 +257,7 @@
   {
     "toolSlug": "suno",
     "toolName": "Suno",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -261,7 +272,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -277,7 +288,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -292,7 +303,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -307,7 +318,7 @@
   {
     "toolSlug": "thinking-machines",
     "toolName": "Thinking Machines",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",

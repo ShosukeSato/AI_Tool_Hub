@@ -1,9 +1,9 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 7.7,
+    "overall": 7.3,
     "performance": 9,
-    "buzz": 4.2,
+    "buzz": 1.6,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-09-10"
@@ -163,9 +163,9 @@
   },
   {
     "toolSlug": "gpt-5-5",
-    "overall": 7.7,
+    "overall": 7.8,
     "performance": 9,
-    "buzz": 2.6,
+    "buzz": 3,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-09-10"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 7.4,
+    "overall": 7.3,
     "performance": 6,
-    "buzz": 7.4,
+    "buzz": 7.2,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-09-10"
@@ -705,7 +705,7 @@
     "toolSlug": "perplexity",
     "overall": 7.6,
     "performance": 9,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-09-10"
@@ -1353,7 +1353,7 @@
     "toolSlug": "suno",
     "overall": 6.6,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-10"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.4,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-09-10"
@@ -1875,7 +1875,7 @@
     "toolSlug": "yomel",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-10"
@@ -1992,7 +1992,7 @@
     "toolSlug": "rocket",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-09-10"
@@ -2478,7 +2478,7 @@
     "toolSlug": "openrouter",
     "overall": 7.4,
     "performance": 9,
-    "buzz": 2.1,
+    "buzz": 1.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-10"
@@ -2955,7 +2955,7 @@
     "toolSlug": "era",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-09-10"
@@ -3009,7 +3009,7 @@
     "toolSlug": "thinking-machines",
     "overall": 5.2,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-09-10"
