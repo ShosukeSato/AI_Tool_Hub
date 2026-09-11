@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-11",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: OpenAI Agents API",
+    "date": "2026-09-11",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-10",
     "type": "trending",
     "toolSlug": "claude",
@@ -375,15 +384,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Hax – a minimalist, terminal-native coding agent written in C",
     "date": "2026-08-13",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-12",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: WorldClaw Agentic 3D open-world generation at scale",
-    "date": "2026-08-12",
     "source": "hackernews"
   }
 ]

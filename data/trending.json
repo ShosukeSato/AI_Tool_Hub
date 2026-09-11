@@ -1,91 +1,55 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-        "url": "https://github.com/OtoDock/oto-dock",
-        "score": 46,
-        "date": "2026-09-10"
+        "title": "OpenAI Agents API",
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "score": 155,
+        "date": "2026-09-11"
       },
-      {
-        "source": "hackernews",
-        "title": "Claude, change the “Add to Cart” button to blue",
-        "url": "https://opusfived.dev/",
-        "score": 1142,
-        "date": "2026-09-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-10"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 7.2,
-    "mentions": [
       {
         "source": "hackernews",
         "title": "Muse – Meta’s personal AI agent",
         "url": "https://ai.meta.com/muse/",
-        "score": 648,
-        "date": "2026-09-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
-        "url": "https://botbin.io/?v=next",
-        "score": 7,
-        "date": "2026-09-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-        "url": "https://arxiv.org/abs/2609.09153",
-        "score": 57,
-        "date": "2026-09-10"
+        "score": 652,
+        "date": "2026-09-11"
       },
       {
         "source": "googlenews",
         "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
         "score": 1,
-        "date": "2026-09-10"
+        "date": "2026-09-11"
       },
       {
-        "source": "googlenews",
-        "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
+        "source": "techcrunch",
+        "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
         "score": 1,
-        "date": "2026-09-10"
+        "date": "2026-09-11"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "score": 1,
+        "date": "2026-09-11"
       },
       {
         "source": "techcrunch",
         "title": "AI agents are flooding public services with new requests",
         "score": 1,
-        "date": "2026-09-10"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-        "score": 1,
-        "date": "2026-09-10"
+        "date": "2026-09-11"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-10"
+    "lastSeen": "2026-09-11"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -101,7 +65,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -117,23 +81,177 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.6,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Amazon pilots ad services in ChatGPT",
-        "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
-        "score": 72,
-        "date": "2026-09-10"
+        "title": "YouTube had a bug – I used ChatGPT to investigate",
+        "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+        "score": 14,
+        "date": "2026-09-11"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-10"
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Anthropic details how Claude was misused for surveillance and weapons",
+        "url": "https://thenextweb.com/news/anthropic-claude-misuse-threat-intelligence-report",
+        "score": 11,
+        "date": "2026-09-11"
+      },
+      {
+        "source": "googlenews",
+        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google launches Gemini AI tools for lawyers - The Arkansas Democrat-Gazette",
+        "score": 1,
+        "date": "2026-09-11"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design - techcrunch.com",
+        "score": 1,
+        "date": "2026-09-11"
+      },
+      {
+        "source": "googlenews",
+        "title": "株式会社WHERE、令和8年熊本地震の復旧・復興対応の支援に向け、現場と本部をつなぐ不動産AIツール『WHERE』の無償提供を開始 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-09-06",
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-09-07",
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-08-23",
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-09-11",
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-09-11",
+    "lastSeen": "2026-09-11"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+        "score": 1,
+        "date": "2026-09-11"
+      }
+    ],
+    "firstSeen": "2026-08-26",
+    "lastSeen": "2026-09-11"
   },
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -147,102 +265,9 @@
     "lastSeen": "2026-09-04"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google launches Gemini AI tools for lawyers - The Arkansas Democrat-Gazette",
-        "score": 1,
-        "date": "2026-09-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
-        "score": 1,
-        "date": "2026-09-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "Start the semester with one year of Gemini, on us - blog.google",
-        "score": 1,
-        "date": "2026-09-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-10"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-09-07",
-    "lastSeen": "2026-09-10"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-08-23",
-    "lastSeen": "2026-09-10"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-09-10"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "株式会社WHERE、令和8年熊本地震の復旧・復興対応の支援に向け、現場と本部をつなぐ不動産AIツール『WHERE』の無償提供を開始 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-09-06",
-    "lastSeen": "2026-09-10"
-  },
-  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -257,7 +282,7 @@
   {
     "toolSlug": "suno",
     "toolName": "Suno",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -270,25 +295,9 @@
     "lastSeen": "2026-09-09"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-        "score": 491,
-        "date": "2026-09-02"
-      }
-    ],
-    "firstSeen": "2026-08-26",
-    "lastSeen": "2026-09-02"
-  },
-  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -303,7 +312,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -314,20 +323,5 @@
     ],
     "firstSeen": "2026-08-27",
     "lastSeen": "2026-09-09"
-  },
-  {
-    "toolSlug": "thinking-machines",
-    "toolName": "Thinking Machines",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-        "score": 1,
-        "date": "2026-09-08"
-      }
-    ],
-    "firstSeen": "2026-09-04",
-    "lastSeen": "2026-09-08"
   }
 ]
