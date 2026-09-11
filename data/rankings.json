@@ -3,25 +3,25 @@
     "toolSlug": "chatgpt",
     "overall": 7.2,
     "performance": 9,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-09-11"
   },
   {
     "toolSlug": "claude",
-    "overall": 7,
+    "overall": 8.2,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 9,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-11"
   },
   {
     "toolSlug": "gemini",
-    "overall": 7,
+    "overall": 7.2,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 2.5,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-11"
@@ -163,9 +163,9 @@
   },
   {
     "toolSlug": "gpt-5-5",
-    "overall": 7.8,
+    "overall": 7.7,
     "performance": 9,
-    "buzz": 2.7,
+    "buzz": 2.4,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-09-11"
@@ -705,7 +705,7 @@
     "toolSlug": "perplexity",
     "overall": 7.5,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-09-11"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.6,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 1.1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-09-11"
@@ -1353,7 +1353,7 @@
     "toolSlug": "suno",
     "overall": 6.6,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-11"
@@ -1992,7 +1992,7 @@
     "toolSlug": "rocket",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-09-11"
@@ -2476,9 +2476,9 @@
   },
   {
     "toolSlug": "openrouter",
-    "overall": 7.4,
+    "overall": 7.3,
     "performance": 9,
-    "buzz": 1.7,
+    "buzz": 1.5,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-11"

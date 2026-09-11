@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-09-11",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: Claude is no longer available for minors",
+    "date": "2026-09-11",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-10",
     "type": "trending",
     "toolSlug": "claude",
