@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-09-12",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: OpenAI agents carried out an undisclosed attack on RubyGems",
+    "date": "2026-09-12",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-09-12",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.6）",
+    "summary": "hackernewsで注目: Claude is only available to people over 18 years",
+    "date": "2026-09-12",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-11",
     "type": "trending",
     "toolSlug": "agent",
@@ -384,15 +402,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: How Organizations Use AI: Evidence from ChatGPT [pdf]",
     "date": "2026-08-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-13",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Hax – a minimalist, terminal-native coding agent written in C",
-    "date": "2026-08-13",
     "source": "hackernews"
   }
 ]
