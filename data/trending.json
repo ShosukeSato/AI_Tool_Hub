@@ -6,42 +6,35 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+        "score": 58,
+        "date": "2026-09-12"
+      },
+      {
+        "source": "hackernews",
         "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
         "url": "https://www.rubyhack.ai/",
-        "score": 406,
+        "score": 839,
         "date": "2026-09-12"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
         "url": "https://github.com/zachsaw/graphify-csharp",
-        "score": 11,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-        "url": "https://www.firecrawl.dev/blog/ai-software-factory",
-        "score": 29,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
-        "url": "https://clawfight.ai/agents.md",
-        "score": 13,
+        "score": 38,
         "date": "2026-09-12"
       },
       {
         "source": "hackernews",
         "title": "OpenAI Agents API",
         "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "score": 338,
+        "score": 344,
         "date": "2026-09-12"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - about.fb.com",
         "score": 1,
         "date": "2026-09-12"
       },
@@ -76,13 +69,13 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 7.6,
+    "buzzScore": 5.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude is only available to people over 18 years",
         "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-        "score": 589,
+        "score": 657,
         "date": "2026-09-12"
       },
       {
@@ -98,13 +91,13 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 2.2,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Litelm: LiteLLM Without the Bloat",
         "url": "https://github.com/kennethwolters/litelm",
-        "score": 104,
+        "score": 161,
         "date": "2026-09-12"
       }
     ],
@@ -114,7 +107,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -130,7 +123,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -142,43 +135,6 @@
     ],
     "firstSeen": "2026-09-05",
     "lastSeen": "2026-09-07"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT puts 20x Plan on hold",
-        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-        "score": 8,
-        "date": "2026-09-12"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-12"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google launches Gemini AI tools for lawyers - The Arkansas Democrat-Gazette",
-        "score": 1,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-09-12"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-12"
   },
   {
     "toolSlug": "where",
@@ -205,6 +161,27 @@
       }
     ],
     "firstSeen": "2026-09-06",
+    "lastSeen": "2026-09-12"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
+        "score": 1,
+        "date": "2026-09-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-09-12"
+      }
+    ],
+    "firstSeen": "2026-08-11",
     "lastSeen": "2026-09-12"
   },
   {
@@ -298,9 +275,25 @@
     "lastSeen": "2026-09-12"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT puts 20x Plan on hold",
+        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+        "score": 8,
+        "date": "2026-09-12"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-09-12"
+  },
+  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -312,20 +305,5 @@
     ],
     "firstSeen": "2026-09-02",
     "lastSeen": "2026-09-04"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-        "score": 1,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-09-08",
-    "lastSeen": "2026-09-10"
   }
 ]
