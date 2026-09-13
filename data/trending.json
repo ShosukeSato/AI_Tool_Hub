@@ -6,92 +6,73 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+        "title": "AgentsDock: An IDE designed for agentic AI research",
+        "url": "https://agentsdock.net/",
+        "score": 17,
+        "date": "2026-09-13"
+      },
+      {
+        "source": "hackernews",
+        "title": "The worst spam emails: iLands AI agent hustle",
         "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-        "score": 58,
-        "date": "2026-09-12"
+        "score": 109,
+        "date": "2026-09-13"
       },
       {
         "source": "hackernews",
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "url": "https://www.rubyhack.ai/",
-        "score": 839,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-        "url": "https://github.com/zachsaw/graphify-csharp",
-        "score": 38,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "OpenAI Agents API",
-        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "score": 344,
-        "date": "2026-09-12"
+        "title": "A full-duplex AI phone agent that listens while speaking",
+        "url": "https://www.famulor.io",
+        "score": 3,
+        "date": "2026-09-13"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - about.fb.com",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
         "score": 1,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "Pre-ILTACON Legaltech Rundown: NetDocuments Announces New AI Tools, DISCO Launches Agentic E-Discovery Tool, and More - Law.com",
-        "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       },
       {
         "source": "techcrunch",
         "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       },
       {
         "source": "techcrunch",
         "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       },
       {
         "source": "techcrunch",
         "title": "AI agents are flooding public services with new requests",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-12"
+    "lastSeen": "2026-09-13"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 5.6,
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude is only available to people over 18 years",
-        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-        "score": 657,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-09-12"
+        "title": "How Trail of Bits helps verify the integrity of Signal chats",
+        "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+        "score": 59,
+        "date": "2026-09-13"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-12"
+    "firstSeen": "2026-09-13",
+    "lastSeen": "2026-09-13"
   },
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -107,7 +88,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -121,9 +102,25 @@
     "lastSeen": "2026-09-10"
   },
   {
+    "toolSlug": "gemma-4",
+    "toolName": "Gemma 4",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+        "url": "https://www.tokendelivery.ai/",
+        "score": 6,
+        "date": "2026-09-13"
+      }
+    ],
+    "firstSeen": "2026-09-13",
+    "lastSeen": "2026-09-13"
+  },
+  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -137,147 +134,162 @@
     "lastSeen": "2026-09-07"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design - TechCrunch",
-        "score": 1,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-09-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "株式会社WHERE、令和8年熊本地震の復旧・復興対応の支援に向け、現場と本部をつなぐ不動産AIツール『WHERE』の無償提供を開始 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-09-12"
-      }
-    ],
-    "firstSeen": "2026-09-06",
-    "lastSeen": "2026-09-12"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       }
     ],
     "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-12"
+    "lastSeen": "2026-09-13"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       }
     ],
     "firstSeen": "2026-09-07",
-    "lastSeen": "2026-09-12"
+    "lastSeen": "2026-09-13"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-09-13"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-13"
   },
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集 - ニコニコニュース",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集 - news.nicovideo.jp",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-09-13"
       }
     ],
     "firstSeen": "2026-08-23",
-    "lastSeen": "2026-09-12"
+    "lastSeen": "2026-09-13"
   },
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       }
     ],
     "firstSeen": "2026-08-10",
-    "lastSeen": "2026-09-12"
+    "lastSeen": "2026-09-13"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-09-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "株式会社WHERE、令和8年熊本地震の復旧・復興対応の支援に向け、現場と本部をつなぐ不動産AIツール『WHERE』の無償提供を開始 | 株式会社WHEREのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-09-13"
+      }
+    ],
+    "firstSeen": "2026-09-06",
+    "lastSeen": "2026-09-13"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       }
     ],
     "firstSeen": "2026-09-11",
-    "lastSeen": "2026-09-12"
+    "lastSeen": "2026-09-13"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       }
     ],
     "firstSeen": "2026-09-11",
-    "lastSeen": "2026-09-12"
+    "lastSeen": "2026-09-13"
   },
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "techcrunch",
         "title": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
         "score": 1,
-        "date": "2026-09-12"
+        "date": "2026-09-13"
       }
     ],
     "firstSeen": "2026-08-26",
-    "lastSeen": "2026-09-12"
+    "lastSeen": "2026-09-13"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -293,7 +305,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",

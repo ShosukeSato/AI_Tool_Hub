@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-13",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: AgentsDock: An IDE designed for agentic AI research",
+    "date": "2026-09-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-12",
     "type": "trending",
     "toolSlug": "agent",
@@ -393,15 +402,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 8.1）",
     "summary": "hackernewsで注目: Show HN: Mole – Deep research agent for your terminal",
     "date": "2026-08-15",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-08-14",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "date": "2026-08-14",
     "source": "hackernews"
   }
 ]
