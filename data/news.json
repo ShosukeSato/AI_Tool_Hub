@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-15",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Pion, an agent designed to run any company autonomously",
+    "date": "2026-09-15",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-14",
     "type": "trending",
     "toolSlug": "agent",
@@ -384,24 +393,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude: System Prompts",
     "date": "2026-08-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-16",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Maximizing the value of your Claude Code sessions",
-    "date": "2026-08-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-16",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Patterns and problems in emerging multi-agent systems",
-    "date": "2026-08-16",
     "source": "hackernews"
   }
 ]
