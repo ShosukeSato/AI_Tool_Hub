@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-16",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "date": "2026-09-16",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-15",
     "type": "trending",
     "toolSlug": "agent",
@@ -384,15 +393,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
     "date": "2026-08-18",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-17",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude: System Prompts",
-    "date": "2026-08-17",
     "source": "hackernews"
   }
 ]
