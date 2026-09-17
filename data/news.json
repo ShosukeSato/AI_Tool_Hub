@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-09-17",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Cowork and chat are now one Claude",
+    "date": "2026-09-17",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-16",
     "type": "trending",
     "toolSlug": "agent",
@@ -393,15 +402,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
     "date": "2026-08-19",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-18",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-    "date": "2026-08-18",
     "source": "hackernews"
   }
 ]
