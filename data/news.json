@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-09-17",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "date": "2026-09-17",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-16",
     "type": "trending",
     "toolSlug": "agent",

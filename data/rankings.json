@@ -10,18 +10,18 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 8.3,
+    "overall": 8,
     "performance": 9,
-    "buzz": 10,
+    "buzz": 8.2,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-17"
   },
   {
     "toolSlug": "gemini",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-17"
@@ -165,7 +165,7 @@
     "toolSlug": "gpt-5-5",
     "overall": 7.5,
     "performance": 9,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-09-17"
@@ -201,7 +201,7 @@
     "toolSlug": "github-copilot",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-09-17"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 6.9,
+    "overall": 7.8,
     "performance": 6,
-    "buzz": 4.3,
+    "buzz": 10,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-09-17"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.6,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-09-17"
@@ -894,7 +894,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-09-17"
@@ -1335,7 +1335,7 @@
     "toolSlug": "hats",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-09-17"
@@ -1864,9 +1864,9 @@
   },
   {
     "toolSlug": "superhuman",
-    "overall": 5.8,
+    "overall": 5.7,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 5,
     "lastCalculated": "2026-09-17"
@@ -1875,7 +1875,7 @@
     "toolSlug": "yomel",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-17"
@@ -2307,7 +2307,7 @@
     "toolSlug": "bond",
     "overall": 5.9,
     "performance": 6,
-    "buzz": 1.9,
+    "buzz": 1.7,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-09-17"
@@ -2415,7 +2415,7 @@
     "toolSlug": "litellm",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-09-17"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7,
     "performance": 7,
-    "buzz": 1.2,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-09-17"
