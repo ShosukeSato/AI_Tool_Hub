@@ -403,14 +403,5 @@
     "summary": "hackernewsで注目: Claude writing a macOS driver for my obscure HP printer built only for Windows",
     "date": "2026-08-20",
     "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-19",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-    "date": "2026-08-19",
-    "source": "hackernews"
   }
 ]
