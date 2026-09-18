@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-18",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: An Empirical Study of Harness Design for Coding Agents",
+    "date": "2026-09-18",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-17",
     "type": "trending",
     "toolSlug": "claude",

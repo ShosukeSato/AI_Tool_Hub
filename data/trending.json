@@ -2,38 +2,32 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 6.9,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
-        "url": "https://www.air.security/blog-posts/plugin4shell",
-        "score": 8,
+        "title": "An Empirical Study of Harness Design for Coding Agents",
+        "url": "https://arxiv.org/abs/2609.20804",
+        "score": 123,
         "date": "2026-09-18"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Craigslist for agent skills, curated by a human",
-        "url": "https://skillbay.sh/",
-        "score": 21,
+        "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+        "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+        "score": 4,
         "date": "2026-09-18"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
-        "url": "https://www.aclif.ai/",
-        "score": 31,
+        "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "score": 231,
         "date": "2026-09-18"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
-        "score": 1,
-        "date": "2026-09-18"
-      },
-      {
-        "source": "googlenews",
-        "title": "Meta’s AI agent Muse is now the No. 2 app in the US - TechCrunch",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - about.fb.com",
         "score": 1,
         "date": "2026-09-18"
       },
@@ -48,38 +42,37 @@
         "title": "UN turns to Google to make its global data ready for AI agents",
         "score": 1,
         "date": "2026-09-18"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Rival AI agents, Instinct and Meta&#8217;s Muse, both add the ability to make calls",
-        "score": 1,
-        "date": "2026-09-18"
       }
     ],
     "firstSeen": "2026-04-16",
     "lastSeen": "2026-09-18"
   },
   {
-    "toolSlug": "bond",
-    "toolName": "Bond",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-        "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
-        "score": 109,
-        "date": "2026-09-15"
-      }
-    ],
-    "firstSeen": "2026-09-15",
-    "lastSeen": "2026-09-15"
-  },
-  {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.2,
-    "mentions": [
+        "title": "Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong",
+        "url": "https://jev-pong.ably.dev/",
+        "score": 8,
+        "date": "2026-09-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "OpenAI 'ethically hacked' with help of Anthropic's Claude chatbot",
+        "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+        "score": 5,
+        "date": "2026-09-18"
+      },
+      {
+        "source": "hackernews",
+        "title": "Researchers used Claude to hack OpenAI",
+        "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+        "score": 3,
+        "date": "2026-09-18"
+      },
       {
         "source": "googlenews",
         "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
@@ -97,30 +90,37 @@
         "title": "AI活用に関する意識調査レポートvol.2 エンジニアのAIツール利用率1位はClaude - PR TIMES",
         "score": 1,
         "date": "2026-09-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Researchers used Anthropic&#8217;s Claude to hack into OpenAI",
+        "score": 1,
+        "date": "2026-09-18"
       }
     ],
     "firstSeen": "2026-04-02",
     "lastSeen": "2026-09-18"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "toolSlug": "bond",
+    "toolName": "Bond",
+    "buzzScore": 1.4,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-09-18"
+        "source": "hackernews",
+        "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+        "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+        "score": 109,
+        "date": "2026-09-15"
       }
     ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-18"
+    "firstSeen": "2026-09-15",
+    "lastSeen": "2026-09-15"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -135,7 +135,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -148,9 +148,24 @@
     "lastSeen": "2026-09-18"
   },
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-09-18"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-09-18"
+  },
+  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -165,7 +180,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -180,7 +195,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -201,7 +216,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -217,7 +232,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -238,7 +253,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -254,7 +269,7 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -266,21 +281,5 @@
     ],
     "firstSeen": "2026-09-12",
     "lastSeen": "2026-09-12"
-  },
-  {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-        "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-        "score": 232,
-        "date": "2026-09-10"
-      }
-    ],
-    "firstSeen": "2026-09-10",
-    "lastSeen": "2026-09-10"
   }
 ]
