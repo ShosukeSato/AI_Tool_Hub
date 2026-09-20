@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-09-20",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code now reads AGENTS.md if there is no Claude.md",
+    "date": "2026-09-20",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-19",
     "type": "trending",
     "toolSlug": "claude",
@@ -393,24 +402,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claudette: Make Claude stop talking like a BuzzFeed article",
     "date": "2026-08-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-21",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Feature Request: Support AGENTS.md",
-    "date": "2026-08-21",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-21",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 7.5）",
-    "summary": "hackernewsで注目: Vomit: Clean up Claude 5's token output with a separate LLM",
-    "date": "2026-08-21",
     "source": "hackernews"
   }
 ]

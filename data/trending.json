@@ -8,73 +8,29 @@
         "source": "hackernews",
         "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
         "url": "https://code.claude.com/docs/en/changelog",
-        "score": 691,
-        "date": "2026-09-19"
+        "score": 714,
+        "date": "2026-09-20"
       },
       {
         "source": "googlenews",
         "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
         "score": 1,
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       },
       {
         "source": "googlenews",
-        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
+        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ict-enews.net",
         "score": 1,
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-19"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Ax-check.com – Can agents use your product?",
-        "url": "https://www.ax-check.com/",
-        "score": 33,
-        "date": "2026-09-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
-        "score": 1,
-        "date": "2026-09-19"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
-        "score": 1,
-        "date": "2026-09-19"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-19"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google's Gemini AI hacked three companies in security test",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-        "score": 23,
-        "date": "2026-09-19"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-19"
+    "lastSeen": "2026-09-20"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -88,6 +44,27 @@
     "lastSeen": "2026-09-15"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
+        "score": 1,
+        "date": "2026-09-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
+        "score": 1,
+        "date": "2026-09-20"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-09-20"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
     "buzzScore": 1,
@@ -96,28 +73,91 @@
         "source": "googlenews",
         "title": "Google’s answer to Canva is an AI tool where you prompt instead of design - TechCrunch",
         "score": 1,
-        "date": "2026-09-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "株式会社WHERE、令和8年熊本地震の復旧・復興対応の支援に向け、現場と本部をつなぐ不動産AIツール『WHERE』の無償提供を開始 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-09-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "大東建託で、地権者とつながる不動産AIツール『WHERE』の運用を開始。衛星データ×AIによる探索から地権者へのアプローチまで「Deal Tech」として一気通貫で支援し、営業DXを推進 | 株式会社WHEREのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-09-19"
+        "date": "2026-09-20"
       }
     ],
     "firstSeen": "2026-09-06",
-    "lastSeen": "2026-09-19"
+    "lastSeen": "2026-09-20"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - prtimes.jp",
+        "score": 1,
+        "date": "2026-09-20"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-09-20"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - prtimes.jp",
+        "score": 1,
+        "date": "2026-09-20"
+      }
+    ],
+    "firstSeen": "2026-08-23",
+    "lastSeen": "2026-09-20"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - prtimes.jp",
+        "score": 1,
+        "date": "2026-09-20"
+      }
+    ],
+    "firstSeen": "2026-09-20",
+    "lastSeen": "2026-09-20"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "score": 1,
+        "date": "2026-09-20"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-09-20"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "score": 1,
+        "date": "2026-09-20"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-09-20"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -130,54 +170,9 @@
     "lastSeen": "2026-09-19"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-19"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-09-19"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-09-19"
-      }
-    ],
-    "firstSeen": "2026-08-23",
-    "lastSeen": "2026-09-19"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "score": 1,
-        "date": "2026-09-19"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-19"
-  },
-  {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -192,7 +187,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -207,7 +202,7 @@
   {
     "toolSlug": "github-copilot",
     "toolName": "GitHub Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
