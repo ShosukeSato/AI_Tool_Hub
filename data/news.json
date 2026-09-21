@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-chatgpt-2026-09-21",
+    "type": "trending",
+    "toolSlug": "chatgpt",
+    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: ChatGPT now knows what you do on other websites via ad collector",
+    "date": "2026-09-21",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-20",
     "type": "trending",
     "toolSlug": "claude",
@@ -393,15 +402,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 7.2）",
     "summary": "hackernewsで注目: Munder Difflin – Agent harness to run an office of your clones",
     "date": "2026-08-23",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-22",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claudette: Make Claude stop talking like a BuzzFeed article",
-    "date": "2026-08-22",
     "source": "hackernews"
   }
 ]
