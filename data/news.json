@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-09-21",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+    "date": "2026-09-21",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-20",
     "type": "trending",
     "toolSlug": "claude",

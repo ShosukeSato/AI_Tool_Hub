@@ -1,18 +1,18 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 8.5,
+    "overall": 8.4,
     "performance": 9,
-    "buzz": 10,
+    "buzz": 9,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-09-21"
   },
   {
     "toolSlug": "claude",
-    "overall": 7,
+    "overall": 7.1,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 2.1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-21"
@@ -21,7 +21,7 @@
     "toolSlug": "gemini",
     "overall": 7,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 1.1,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-21"
@@ -451,9 +451,9 @@
   },
   {
     "toolSlug": "agent",
-    "overall": 7,
+    "overall": 7.8,
     "performance": 6,
-    "buzz": 4.7,
+    "buzz": 10,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-09-21"
@@ -840,7 +840,7 @@
     "toolSlug": "manus",
     "overall": 5.5,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-09-21"
@@ -1623,7 +1623,7 @@
     "toolSlug": "notta",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-09-21"
@@ -2307,7 +2307,7 @@
     "toolSlug": "bond",
     "overall": 5.8,
     "performance": 6,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-09-21"
