@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-22",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: The agents, they just want to talk",
+    "date": "2026-09-22",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-09-21",
     "type": "trending",
     "toolSlug": "chatgpt",
@@ -393,24 +402,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 9.5）",
     "summary": "hackernewsで注目: Agent Is Not the Model",
     "date": "2026-08-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-23",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: A week of using Codex more than Claude",
-    "date": "2026-08-23",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-23",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 7.2）",
-    "summary": "hackernewsで注目: Munder Difflin – Agent harness to run an office of your clones",
-    "date": "2026-08-23",
     "source": "hackernews"
   }
 ]
