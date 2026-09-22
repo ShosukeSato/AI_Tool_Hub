@@ -6,28 +6,35 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The agents, they just want to talk",
-        "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
-        "score": 18,
+        "title": "Writing Rust code that's fast by asking agents to make the code faster",
+        "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+        "score": 6,
         "date": "2026-09-22"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-        "url": "https://github.com/naw103/foremerge",
-        "score": 39,
+        "title": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
+        "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+        "score": 20,
         "date": "2026-09-22"
       },
       {
         "source": "hackernews",
         "title": "AX – Google’s Open Agentic Orchestrator",
         "url": "https://agentexecutor.io",
-        "score": 633,
+        "score": 650,
+        "date": "2026-09-22"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+        "url": "https://github.com/naw103/foremerge",
+        "score": 44,
         "date": "2026-09-22"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - about.fb.com",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
         "score": 1,
         "date": "2026-09-22"
       },
@@ -44,13 +51,13 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 4,
+    "buzzScore": 7.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Transformers Explained Visually",
         "url": "https://poloclub.github.io/transformer-explainer/",
-        "score": 230,
+        "score": 555,
         "date": "2026-09-22"
       }
     ],
@@ -60,13 +67,13 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 2,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude Status – Elevated errors for multiple models",
         "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-        "score": 72,
+        "score": 137,
         "date": "2026-09-22"
       },
       {
@@ -92,12 +99,33 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - corp.rakuten.co.jp",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
         "date": "2026-09-22"
       }
     ],
     "firstSeen": "2026-09-07",
+    "lastSeen": "2026-09-22"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-09-22"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for Gemini",
+        "score": 1,
+        "date": "2026-09-22"
+      }
+    ],
+    "firstSeen": "2026-08-11",
     "lastSeen": "2026-09-22"
   },
   {
@@ -173,30 +201,9 @@
     "lastSeen": "2026-09-22"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for Gemini",
-        "score": 1,
-        "date": "2026-09-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google’s Gemini is the latest AI model to hack other companies",
-        "score": 1,
-        "date": "2026-09-22"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-22"
-  },
-  {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -208,20 +215,5 @@
     ],
     "firstSeen": "2026-09-15",
     "lastSeen": "2026-09-15"
-  },
-  {
-    "toolSlug": "notta",
-    "toolName": "Notta",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - prtimes.jp",
-        "score": 1,
-        "date": "2026-09-20"
-      }
-    ],
-    "firstSeen": "2026-09-20",
-    "lastSeen": "2026-09-20"
   }
 ]

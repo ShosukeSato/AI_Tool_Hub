@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 7.1,
+    "overall": 7.2,
     "performance": 9,
-    "buzz": 2,
+    "buzz": 2.7,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-09-22"
@@ -2305,9 +2305,9 @@
   },
   {
     "toolSlug": "bond",
-    "overall": 5.8,
+    "overall": 5.7,
     "performance": 6,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-09-22"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7.4,
+    "overall": 8,
     "performance": 7,
-    "buzz": 4,
+    "buzz": 7.9,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-09-22"
