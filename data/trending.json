@@ -6,27 +6,34 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "url": "https://github.com/Avinash-jetwani/jevmem",
+        "score": 18,
+        "date": "2026-09-25"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
         "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "score": 760,
+        "score": 772,
         "date": "2026-09-25"
       },
       {
         "source": "hackernews",
         "title": "Claude Opus 5.5",
         "url": "https://www.anthropic.com/claude-opus-5-5",
-        "score": 1792,
+        "score": 1797,
         "date": "2026-09-25"
       },
       {
         "source": "googlenews",
-        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
         "score": 1,
         "date": "2026-09-25"
       },
       {
         "source": "googlenews",
-        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
+        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
         "score": 1,
         "date": "2026-09-25"
       }
@@ -35,68 +42,57 @@
     "lastSeen": "2026-09-25"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 4.3,
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-        "url": "https://github.com/Parcha-ai/agentrun",
-        "score": 40,
+        "title": "Opus 5.5 is good at explainer videos",
+        "url": "https://launchvideo.io",
+        "score": 351,
+        "date": "2026-09-25"
+      }
+    ],
+    "firstSeen": "2026-09-22",
+    "lastSeen": "2026-09-25"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agentic CUDA Kernel Optimizer",
+        "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+        "score": 29,
         "date": "2026-09-25"
       },
       {
         "source": "hackernews",
         "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
         "url": "https://transluce.org/agent-activity",
-        "score": 249,
+        "score": 262,
+        "date": "2026-09-25"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+        "url": "https://github.com/Parcha-ai/agentrun",
+        "score": 44,
         "date": "2026-09-25"
       },
       {
         "source": "hackernews",
         "title": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
         "url": "https://www.docker.com/c/sbx-promo/",
-        "score": 14,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Critic – Review code with the agent that wrote it",
-        "url": "https://www.critic.run/",
-        "score": 7,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "A Million Agents Is a Distributed System Problem",
-        "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
-        "score": 30,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "SkillOpt: Training Loop for Agent Skills",
-        "url": "https://microsoft.github.io/SkillOpt/",
-        "score": 7,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "VSCode's SSH Agent Is Bananas",
-        "url": "2025) (https://fly.io/blog/vscode-ssh-wtf/",
-        "score": 301,
+        "score": 27,
         "date": "2026-09-25"
       },
       {
         "source": "googlenews",
         "title": "Meta says its Muse AI agent can do things for you. I put it to the test - CNN",
-        "score": 1,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "How brokerage Compass sold its 83,000 real estate agents to use more AI - Fortune",
         "score": 1,
         "date": "2026-09-25"
       },
@@ -108,19 +104,7 @@
       },
       {
         "source": "techcrunch",
-        "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-        "score": 1,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Everything new coming to Meta&#8217;s AI agent Muse",
-        "score": 1,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
         "score": 1,
         "date": "2026-09-25"
       }
@@ -129,31 +113,14 @@
     "lastSeen": "2026-09-25"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Opus 5.5 is good at explainer videos",
-        "url": "https://launchvideo.io",
-        "score": 152,
-        "date": "2026-09-25"
-      }
-    ],
-    "firstSeen": "2026-09-22",
-    "lastSeen": "2026-09-25"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.7,
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-        "score": 134,
+        "source": "googlenews",
+        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services - CNBC",
+        "score": 1,
         "date": "2026-09-25"
       },
       {
@@ -164,21 +131,6 @@
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-25"
-  },
-  {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Felo、福岡初開催の「AI博覧会 Fukuoka 2026」に出展 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-25"
-      }
-    ],
-    "firstSeen": "2026-09-24",
     "lastSeen": "2026-09-25"
   },
   {
@@ -194,6 +146,36 @@
       }
     ],
     "firstSeen": "2026-09-07",
+    "lastSeen": "2026-09-25"
+  },
+  {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "OrcaRouter、DeepSeek V4.1 Flashの利用枠を30%増額する入金キャンペーンを開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-25"
+      }
+    ],
+    "firstSeen": "2026-09-25",
+    "lastSeen": "2026-09-25"
+  },
+  {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Felo、福岡初開催の「AI博覧会 Fukuoka 2026」に出展 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-25"
+      }
+    ],
+    "firstSeen": "2026-09-24",
     "lastSeen": "2026-09-25"
   },
   {
@@ -274,7 +256,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -289,7 +271,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -304,7 +286,7 @@
   {
     "toolSlug": "openclaw",
     "toolName": "OpenClaw",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
