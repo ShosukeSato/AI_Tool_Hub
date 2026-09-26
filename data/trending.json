@@ -6,111 +6,96 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-        "url": "https://github.com/Avinash-jetwani/jevmem",
-        "score": 18,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "hackernews",
         "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
         "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "score": 772,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Opus 5.5",
-        "url": "https://www.anthropic.com/claude-opus-5-5",
-        "score": 1797,
-        "date": "2026-09-25"
+        "score": 774,
+        "date": "2026-09-26"
       },
       {
         "source": "googlenews",
         "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
         "score": 1,
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       },
       {
         "source": "googlenews",
         "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
         "score": 1,
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-25"
+    "lastSeen": "2026-09-26"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.8,
+    "buzzScore": 5.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Opus 5.5 is good at explainer videos",
         "url": "https://launchvideo.io",
-        "score": 351,
-        "date": "2026-09-25"
+        "score": 407,
+        "date": "2026-09-26"
       }
     ],
     "firstSeen": "2026-09-22",
-    "lastSeen": "2026-09-25"
+    "lastSeen": "2026-09-26"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.8,
+    "buzzScore": 4.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Agentic CUDA Kernel Optimizer",
-        "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-        "score": 29,
-        "date": "2026-09-25"
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "url": "https://swarmtraces.org/",
+        "score": 271,
+        "date": "2026-09-26"
       },
       {
         "source": "hackernews",
-        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-        "url": "https://transluce.org/agent-activity",
-        "score": 262,
-        "date": "2026-09-25"
+        "title": "Show HN: Recurse – Develop and deploy specialist agents faster",
+        "url": "https://recurse.run",
+        "score": 5,
+        "date": "2026-09-26"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-        "url": "https://github.com/Parcha-ai/agentrun",
-        "score": 44,
-        "date": "2026-09-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
-        "url": "https://www.docker.com/c/sbx-promo/",
-        "score": 27,
-        "date": "2026-09-25"
+        "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+        "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+        "score": 28,
+        "date": "2026-09-26"
       },
       {
         "source": "googlenews",
         "title": "Meta says its Muse AI agent can do things for you. I put it to the test - CNN",
         "score": 1,
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       },
       {
         "source": "googlenews",
         "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
         "score": 1,
-        "date": "2026-09-25"
+        "date": "2026-09-26"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+        "score": 1,
+        "date": "2026-09-26"
       },
       {
         "source": "techcrunch",
         "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
         "score": 1,
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-25"
+    "lastSeen": "2026-09-26"
   },
   {
     "toolSlug": "chatgpt",
@@ -121,22 +106,97 @@
         "source": "googlenews",
         "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services - CNBC",
         "score": 1,
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       },
       {
         "source": "googlenews",
         "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
         "score": 1,
-        "date": "2026-09-25"
+        "date": "2026-09-26"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-25"
+    "lastSeen": "2026-09-26"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ニュージーランド「Cyber Threat Report 2026」、AIでサイバー攻撃が高速化 2027年初頭に高度能力が悪用者へ - rocket-boys.co.jp",
+        "score": 1,
+        "date": "2026-09-26"
+      }
+    ],
+    "firstSeen": "2026-09-26",
+    "lastSeen": "2026-09-26"
+  },
+  {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Felo、福岡初開催の「AI博覧会 Fukuoka 2026」に出展 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-26"
+      }
+    ],
+    "firstSeen": "2026-09-24",
+    "lastSeen": "2026-09-26"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-26"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-09-26"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-09-26"
+      }
+    ],
+    "firstSeen": "2026-08-23",
+    "lastSeen": "2026-09-26"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-26"
+      }
+    ],
+    "firstSeen": "2026-09-26",
+    "lastSeen": "2026-09-26"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -151,7 +211,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -164,54 +224,9 @@
     "lastSeen": "2026-09-25"
   },
   {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Felo、福岡初開催の「AI博覧会 Fukuoka 2026」に出展 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-25"
-      }
-    ],
-    "firstSeen": "2026-09-24",
-    "lastSeen": "2026-09-25"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-25"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-09-25"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-09-25"
-      }
-    ],
-    "firstSeen": "2026-08-23",
-    "lastSeen": "2026-09-25"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -226,7 +241,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -241,7 +256,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -256,7 +271,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -271,7 +286,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -282,20 +297,5 @@
     ],
     "firstSeen": "2026-09-23",
     "lastSeen": "2026-09-24"
-  },
-  {
-    "toolSlug": "openclaw",
-    "toolName": "OpenClaw",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Meta admits Muse&#8217;s likeness to OpenClaw isn&#8217;t a coincidence",
-        "score": 1,
-        "date": "2026-09-23"
-      }
-    ],
-    "firstSeen": "2026-09-23",
-    "lastSeen": "2026-09-23"
   }
 ]
