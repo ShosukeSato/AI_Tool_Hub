@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-09-26",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 9.2）",
+    "summary": "hackernewsで注目: Revealing the details of how OpenAI agents hacked Hugging Face",
+    "date": "2026-09-26",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-25",
     "type": "trending",
     "toolSlug": "claude",
