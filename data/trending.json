@@ -6,28 +6,35 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "url": "https://tinyaiarena.com/",
+        "score": 12,
+        "date": "2026-09-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "An agent used DNS to reach an external chatbot",
+        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+        "score": 141,
+        "date": "2026-09-27"
+      },
+      {
+        "source": "hackernews",
         "title": "Drawgent: Coding agent on a live Excalidraw canvas",
         "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-        "score": 117,
+        "score": 170,
         "date": "2026-09-27"
       },
       {
         "source": "hackernews",
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "url": "https://swarmtraces.org/",
-        "score": 704,
-        "date": "2026-09-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
-        "url": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused/",
-        "score": 8,
+        "score": 731,
         "date": "2026-09-27"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - about.fb.com",
         "score": 1,
         "date": "2026-09-27"
       },
@@ -50,7 +57,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 5.2,
+    "buzzScore": 4.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -64,37 +71,47 @@
     "lastSeen": "2026-09-26"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.8,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: A Claude Code skill to analyze your chess games",
-        "url": "https://github.com/brumar/chess-postmortem-skills",
-        "score": 72,
+        "title": "Evolving programming languages in the AI era",
+        "url": "https://dashbit.co/blog/evolving-ai-era",
+        "score": 126,
+        "date": "2026-09-27"
+      }
+    ],
+    "firstSeen": "2026-09-27",
+    "lastSeen": "2026-09-27"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Generate fonts where every LLM token is the same width",
+        "url": "https://ampdot.mesh.host/token-space-fonts.html",
+        "score": 81,
         "date": "2026-09-27"
       },
       {
-        "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
-        "score": 1,
-        "date": "2026-09-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "AIへの指示から始める新しいプログラミング入門！ 『1週間でClaude Codeの基礎が学べる本』を9月25日に発売 - 株式会社インプレス",
+        "source": "techcrunch",
+        "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
         "score": 1,
         "date": "2026-09-27"
       }
     ],
-    "firstSeen": "2026-04-02",
+    "firstSeen": "2026-09-06",
     "lastSeen": "2026-09-27"
   },
   {
     "toolSlug": "copilot-plus",
     "toolName": "Copilot+ PC",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -108,41 +125,24 @@
     "lastSeen": "2026-09-26"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1.5,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Evolving programming languages in the AI era",
-        "url": "https://dashbit.co/blog/evolving-ai-era",
-        "score": 47,
-        "date": "2026-09-27"
-      }
-    ],
-    "firstSeen": "2026-09-27",
-    "lastSeen": "2026-09-27"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Generate fonts where every LLM token is the same width",
-        "url": "https://ampdot.mesh.host/token-space-fonts.html",
-        "score": 36,
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - geekwire.com",
+        "score": 1,
         "date": "2026-09-27"
       },
       {
-        "source": "techcrunch",
-        "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+        "source": "googlenews",
+        "title": "AIへの指示から始める新しいプログラミング入門！ 『1週間でClaude Codeの基礎が学べる本』を9月25日に発売 - 株式会社インプレス",
         "score": 1,
         "date": "2026-09-27"
       }
     ],
-    "firstSeen": "2026-09-06",
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-09-27"
   },
   {
@@ -167,49 +167,19 @@
     "lastSeen": "2026-09-27"
   },
   {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Felo、福岡初開催の「AI博覧会 Fukuoka 2026」に出展 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-27"
-      }
-    ],
-    "firstSeen": "2026-09-24",
-    "lastSeen": "2026-09-27"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ニュージーランド「Cyber Threat Report 2026」、AIでサイバー攻撃が高速化 2027年初頭に高度能力が悪用者へ - rocket-boys.co.jp",
-        "score": 1,
-        "date": "2026-09-27"
-      }
-    ],
-    "firstSeen": "2026-09-26",
-    "lastSeen": "2026-09-27"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
         "score": 1,
         "date": "2026-09-27"
       },
       {
         "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
         "date": "2026-09-27"
       }
@@ -242,9 +212,30 @@
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
         "score": 1,
         "date": "2026-09-27"
+      },
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-09-27"
       }
     ],
     "firstSeen": "2026-08-23",
+    "lastSeen": "2026-09-27"
+  },
+  {
+    "toolSlug": "notta",
+    "toolName": "Notta",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-27"
+      }
+    ],
+    "firstSeen": "2026-09-26",
     "lastSeen": "2026-09-27"
   },
   {
@@ -263,24 +254,39 @@
     "lastSeen": "2026-09-27"
   },
   {
-    "toolSlug": "notta",
-    "toolName": "Notta",
+    "toolSlug": "felo",
+    "toolName": "Felo",
     "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
+        "title": "Felo、福岡初開催の「AI博覧会 Fukuoka 2026」に出展 - PR TIMES",
         "score": 1,
-        "date": "2026-09-26"
+        "date": "2026-09-27"
+      }
+    ],
+    "firstSeen": "2026-09-24",
+    "lastSeen": "2026-09-27"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "ニュージーランド「Cyber Threat Report 2026」、AIでサイバー攻撃が高速化 2027年初頭に高度能力が悪用者へ - rocket-boys.co.jp",
+        "score": 1,
+        "date": "2026-09-27"
       }
     ],
     "firstSeen": "2026-09-26",
-    "lastSeen": "2026-09-26"
+    "lastSeen": "2026-09-27"
   },
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -295,7 +301,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -310,7 +316,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
