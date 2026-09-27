@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-09-27",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Drawgent: Coding agent on a live Excalidraw canvas",
+    "date": "2026-09-27",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-09-26",
     "type": "trending",
     "toolSlug": "claude",
@@ -393,15 +402,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Show HN: The load-bearing vocabulary of Claude",
     "date": "2026-08-29",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-08-28",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: The load-bearing vocabulary of Claude",
-    "date": "2026-08-28",
     "source": "hackernews"
   }
 ]
