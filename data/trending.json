@@ -6,37 +6,43 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: TinyAIArena watch AI agents battle it out",
-        "url": "https://tinyaiarena.com/",
-        "score": 103,
+        "title": "Cf: The Agentic CLI for the Cloudflare API",
+        "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+        "score": 46,
         "date": "2026-09-28"
       },
       {
         "source": "hackernews",
-        "title": "OpenAI pauses training of latest models after agents probed US Government sites",
-        "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
-        "score": 12,
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "url": "https://tinyaiarena.com/",
+        "score": 117,
+        "date": "2026-09-28"
+      },
+      {
+        "source": "hackernews",
+        "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+        "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
+        "score": 38,
         "date": "2026-09-28"
       },
       {
         "source": "hackernews",
         "title": "An agent used DNS to reach an external chatbot",
         "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-        "score": 169,
+        "score": 191,
         "date": "2026-09-28"
       },
       {
         "source": "hackernews",
-        "title": "There are no \"rogue\" AI agents",
-        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-        "score": 339,
+        "title": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
+        "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+        "score": 14,
         "date": "2026-09-28"
       },
       {
-        "source": "hackernews",
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "url": "https://swarmtraces.org/",
-        "score": 741,
+        "source": "googlenews",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
+        "score": 1,
         "date": "2026-09-28"
       },
       {
@@ -47,7 +53,13 @@
       },
       {
         "source": "techcrunch",
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+        "title": "Nvidia launches new platform for reining in rogue AI agents",
+        "score": 1,
+        "date": "2026-09-28"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
         "score": 1,
         "date": "2026-09-28"
       }
@@ -58,23 +70,51 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 4.2,
+    "buzzScore": 6.4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Opus 5.5 is good at explainer videos",
-        "url": "https://launchvideo.io",
-        "score": 415,
-        "date": "2026-09-26"
+        "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+        "url": "https://git.mills.io/prologic/parley",
+        "score": 248,
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-09-22",
-    "lastSeen": "2026-09-26"
+    "lastSeen": "2026-09-28"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 5.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Prompting Claude Opus 5.5",
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "score": 189,
+        "date": "2026-09-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-09-28"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
+        "score": 1,
+        "date": "2026-09-28"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -90,7 +130,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -112,7 +152,7 @@
   {
     "toolSlug": "copilot-plus",
     "toolName": "Copilot+ PC",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -126,45 +166,24 @@
     "lastSeen": "2026-09-26"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "source": "techcrunch",
+        "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
         "score": 1,
         "date": "2026-09-28"
       },
       {
-        "source": "googlenews",
-        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
+        "source": "techcrunch",
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
         "score": 1,
         "date": "2026-09-28"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-28"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services - CNBC",
-        "score": 1,
-        "date": "2026-09-28"
-      },
-      {
-        "source": "googlenews",
-        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
-        "score": 1,
-        "date": "2026-09-28"
-      }
-    ],
-    "firstSeen": "2026-06-26",
+    "firstSeen": "2026-08-11",
     "lastSeen": "2026-09-28"
   },
   {
@@ -186,6 +205,21 @@
       }
     ],
     "firstSeen": "2026-09-07",
+    "lastSeen": "2026-09-28"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
+        "score": 1,
+        "date": "2026-09-28"
+      }
+    ],
+    "firstSeen": "2026-06-26",
     "lastSeen": "2026-09-28"
   },
   {
@@ -240,24 +274,24 @@
     "lastSeen": "2026-09-28"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
+    "toolSlug": "gamma",
+    "toolName": "Gamma",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
-        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
         "score": 1,
         "date": "2026-09-28"
       }
     ],
-    "firstSeen": "2026-08-11",
+    "firstSeen": "2026-09-28",
     "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -272,7 +306,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
