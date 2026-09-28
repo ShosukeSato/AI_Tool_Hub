@@ -8,56 +8,57 @@
         "source": "hackernews",
         "title": "Show HN: TinyAIArena watch AI agents battle it out",
         "url": "https://tinyaiarena.com/",
+        "score": 103,
+        "date": "2026-09-28"
+      },
+      {
+        "source": "hackernews",
+        "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+        "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
         "score": 12,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       },
       {
         "source": "hackernews",
         "title": "An agent used DNS to reach an external chatbot",
         "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-        "score": 141,
-        "date": "2026-09-27"
+        "score": 169,
+        "date": "2026-09-28"
       },
       {
         "source": "hackernews",
-        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-        "score": 170,
-        "date": "2026-09-27"
+        "title": "There are no \"rogue\" AI agents",
+        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+        "score": 339,
+        "date": "2026-09-28"
       },
       {
         "source": "hackernews",
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "url": "https://swarmtraces.org/",
-        "score": 731,
-        "date": "2026-09-27"
+        "score": 741,
+        "date": "2026-09-28"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - about.fb.com",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       },
       {
         "source": "techcrunch",
         "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
         "score": 1,
-        "date": "2026-09-27"
-      },
-      {
-        "source": "techcrunch",
-        "title": "For months, OpenAI&#8217;s agent swarms have been attacking online databases to find obscure facts",
-        "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 4.7,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -73,7 +74,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -89,29 +90,29 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.7,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Generate fonts where every LLM token is the same width",
         "url": "https://ampdot.mesh.host/token-space-fonts.html",
-        "score": 81,
-        "date": "2026-09-27"
+        "score": 87,
+        "date": "2026-09-28"
       },
       {
         "source": "techcrunch",
         "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-09-06",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "copilot-plus",
     "toolName": "Copilot+ PC",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -131,19 +132,19 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - geekwire.com",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       },
       {
         "source": "googlenews",
-        "title": "AIへの指示から始める新しいプログラミング入門！ 『1週間でClaude Codeの基礎が学べる本』を9月25日に発売 - 株式会社インプレス",
+        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "chatgpt",
@@ -154,17 +155,17 @@
         "source": "googlenews",
         "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services - CNBC",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       },
       {
         "source": "googlenews",
         "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -173,19 +174,19 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       },
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-09-07",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "microsoft-copilot",
@@ -196,11 +197,11 @@
         "source": "googlenews",
         "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-08-10",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "com",
@@ -211,17 +212,17 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       },
       {
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-08-23",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "notta",
@@ -232,11 +233,11 @@
         "source": "googlenews",
         "title": "Notta、AIエージェント「Notta Brain」に3つの新機能を追加 - PR TIMES",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-09-26",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "gemini",
@@ -247,16 +248,16 @@
         "source": "techcrunch",
         "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
         "score": 1,
-        "date": "2026-09-27"
+        "date": "2026-09-28"
       }
     ],
     "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-27"
+    "lastSeen": "2026-09-28"
   },
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -271,7 +272,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -282,50 +283,5 @@
     ],
     "firstSeen": "2026-09-26",
     "lastSeen": "2026-09-27"
-  },
-  {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "OrcaRouter、DeepSeek V4.1 Flashの利用枠を30%増額する入金キャンペーンを開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-25"
-      }
-    ],
-    "firstSeen": "2026-09-25",
-    "lastSeen": "2026-09-25"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "ElevenLabs&#8217; CEO on margins, IPO timing, and telling customers they&#8217;re talking to a bot",
-        "score": 1,
-        "date": "2026-09-25"
-      }
-    ],
-    "firstSeen": "2026-09-25",
-    "lastSeen": "2026-09-25"
-  },
-  {
-    "toolSlug": "lovable",
-    "toolName": "Lovable",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Lovable&#8217;s annualized revenue crosses $600M as vibe coding takes off",
-        "score": 1,
-        "date": "2026-09-25"
-      }
-    ],
-    "firstSeen": "2026-09-24",
-    "lastSeen": "2026-09-25"
   }
 ]
