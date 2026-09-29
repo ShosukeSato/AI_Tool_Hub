@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-plain-2026-09-29",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: 12,000-year-old Göbeklitepe burials explain scattered bones",
+    "date": "2026-09-29",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-28",
     "type": "trending",
     "toolSlug": "agent",
@@ -393,15 +402,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: ChatGPT Work Tool and Skill Reference",
     "date": "2026-08-31",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-08-30",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Domain-Driven Agents",
-    "date": "2026-08-30",
     "source": "hackernews"
   }
 ]
