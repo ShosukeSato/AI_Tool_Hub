@@ -1,51 +1,35 @@
 [
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-        "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-        "score": 98,
+        "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "score": 375,
         "date": "2026-09-29"
       },
       {
         "source": "hackernews",
-        "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-        "url": "https://git.mills.io/prologic/parley",
-        "score": 310,
-        "date": "2026-09-29"
-      }
-    ],
-    "firstSeen": "2026-09-22",
-    "lastSeen": "2026-09-29"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 6.9,
-    "mentions": [
-      {
-        "source": "hackernews",
         "title": "Nvidia wants to put a watchdog chip next to every AI agent",
         "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-        "score": 123,
+        "score": 216,
         "date": "2026-09-29"
       },
       {
         "source": "hackernews",
         "title": "Cf: The Agentic CLI for the Cloudflare API",
         "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-        "score": 132,
+        "score": 162,
         "date": "2026-09-29"
       },
       {
         "source": "hackernews",
-        "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-        "url": "https://github.com/google-research/rrsi",
-        "score": 8,
+        "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+        "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+        "score": 142,
         "date": "2026-09-29"
       },
       {
@@ -62,19 +46,31 @@
       },
       {
         "source": "techcrunch",
+        "title": "OpenAI launches Dots, its bubbly agentic avatar",
+        "score": 1,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta is expanding its AI agent Muse to small businesses",
+        "score": 1,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+        "score": 1,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Reco raises $55M as AI agent security startups crowd the market",
+        "score": 1,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "techcrunch",
         "title": "Shopify opens checkout to browser-based AI agents",
-        "score": 1,
-        "date": "2026-09-29"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Nvidia launches new platform for reining in rogue AI agents",
-        "score": 1,
-        "date": "2026-09-29"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
         "score": 1,
         "date": "2026-09-29"
       }
@@ -83,9 +79,88 @@
     "lastSeen": "2026-09-29"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 5.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+        "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+        "score": 162,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "hackernews",
+        "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+        "url": "https://git.mills.io/prologic/parley",
+        "score": 321,
+        "date": "2026-09-29"
+      }
+    ],
+    "firstSeen": "2026-09-22",
+    "lastSeen": "2026-09-29"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 2.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude partial outage",
+        "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+        "score": 165,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
+        "score": 1,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "googlenews",
+        "title": "【Claude Opus 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月29日に追加！ - prtimes.jp",
+        "score": 1,
+        "date": "2026-09-29"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-29"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT Pro 500",
+        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+        "score": 34,
+        "date": "2026-09-29"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI expands ChatGPT&#8217;s plugins with app-like interfaces and automations",
+        "score": 1,
+        "date": "2026-09-29"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-09-29"
+  },
+  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -101,7 +176,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -121,40 +196,19 @@
     "lastSeen": "2026-09-28"
   },
   {
-    "toolSlug": "copilot-plus",
-    "toolName": "Copilot+ PC",
+    "toolSlug": "palantir-ai",
+    "toolName": "Palantir AI",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The Copilot+ PC brand is dead",
-        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-        "score": 66,
-        "date": "2026-09-26"
-      }
-    ],
-    "firstSeen": "2026-09-26",
-    "lastSeen": "2026-09-26"
-  },
-  {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
-        "score": 1,
-        "date": "2026-09-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
-        "score": 1,
+        "title": "Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School",
+        "url": "https://www.techdirt.com/2026/09/29/reporting-confirms-stupid-over-reliance-on-palantir-ai-helped-lead-to-us-bombing-of-iranian-schoolgirls/",
+        "score": 8,
         "date": "2026-09-29"
       }
     ],
-    "firstSeen": "2026-04-02",
+    "firstSeen": "2026-09-29",
     "lastSeen": "2026-09-29"
   },
   {
@@ -164,33 +218,12 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-09-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - prtimes.jp",
         "score": 1,
         "date": "2026-09-29"
       }
     ],
     "firstSeen": "2026-09-07",
-    "lastSeen": "2026-09-29"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
-        "score": 1,
-        "date": "2026-09-29"
-      }
-    ],
-    "firstSeen": "2026-06-26",
     "lastSeen": "2026-09-29"
   },
   {
@@ -200,7 +233,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - prtimes.jp",
         "score": 1,
         "date": "2026-09-29"
       }
@@ -215,13 +248,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-09-29"
-      },
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、競合の“過去と今”の広告戦略を丸裸にする「ディープリサーチ機能」をリリース！ - PR TIMES",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - prtimes.jp",
         "score": 1,
         "date": "2026-09-29"
       }
@@ -230,9 +257,25 @@
     "lastSeen": "2026-09-29"
   },
   {
+    "toolSlug": "copilot-plus",
+    "toolName": "Copilot+ PC",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "The Copilot+ PC brand is dead",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "score": 66,
+        "date": "2026-09-26"
+      }
+    ],
+    "firstSeen": "2026-09-26",
+    "lastSeen": "2026-09-26"
+  },
+  {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -247,7 +290,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -262,7 +305,7 @@
   {
     "toolSlug": "gamma",
     "toolName": "Gamma",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -273,35 +316,5 @@
     ],
     "firstSeen": "2026-09-28",
     "lastSeen": "2026-09-29"
-  },
-  {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Felo、福岡初開催の「AI博覧会 Fukuoka 2026」に出展 - PR TIMES",
-        "score": 1,
-        "date": "2026-09-27"
-      }
-    ],
-    "firstSeen": "2026-09-24",
-    "lastSeen": "2026-09-27"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "ニュージーランド「Cyber Threat Report 2026」、AIでサイバー攻撃が高速化 2027年初頭に高度能力が悪用者へ - rocket-boys.co.jp",
-        "score": 1,
-        "date": "2026-09-27"
-      }
-    ],
-    "firstSeen": "2026-09-26",
-    "lastSeen": "2026-09-27"
   }
 ]
