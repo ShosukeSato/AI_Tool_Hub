@@ -8,39 +8,43 @@
         "source": "hackernews",
         "title": "Dots: Always-on agents",
         "url": "https://openai.com/index/introducing-dots/",
-        "score": 482,
+        "score": 717,
         "date": "2026-09-30"
       },
       {
         "source": "hackernews",
         "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
         "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-        "score": 412,
-        "date": "2026-09-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
-        "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming",
-        "score": 9,
-        "date": "2026-09-30"
-      },
-      {
-        "source": "hackernews",
-        "title": "Cf: The Agentic CLI for the Cloudflare API",
-        "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-        "score": 166,
+        "score": 420,
         "date": "2026-09-30"
       },
       {
         "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
         "score": 1,
         "date": "2026-09-30"
       },
       {
         "source": "googlenews",
         "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
+        "score": 1,
+        "date": "2026-09-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "Everything new coming to Meta’s AI agent Muse - TechCrunch",
+        "score": 1,
+        "date": "2026-09-30"
+      },
+      {
+        "source": "techcrunch",
+        "title": "DoorDash launches an AI agent you can text to order food",
+        "score": 1,
+        "date": "2026-09-30"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
         "score": 1,
         "date": "2026-09-30"
       },
@@ -53,24 +57,6 @@
       {
         "source": "techcrunch",
         "title": "OpenAI launches Dots, its bubbly agentic avatar",
-        "score": 1,
-        "date": "2026-09-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Meta is expanding its AI agent Muse to small businesses",
-        "score": 1,
-        "date": "2026-09-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-        "score": 1,
-        "date": "2026-09-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Reco raises $55M as AI agent security startups crowd the market",
         "score": 1,
         "date": "2026-09-30"
       }
@@ -87,24 +73,12 @@
         "source": "hackernews",
         "title": "ChatGPT Pro 500",
         "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-        "score": 194,
-        "date": "2026-09-30"
-      },
-      {
-        "source": "googlenews",
-        "title": "OpenAI DevDay 2026: Dots always-on AI agents; GPT-6.1 Sol; ChatGPT subscriptions in 3rd party tools - Moneycontrol.com",
-        "score": 1,
+        "score": 214,
         "date": "2026-09-30"
       },
       {
         "source": "techcrunch",
         "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT&#8217;s own office suite",
-        "score": 1,
-        "date": "2026-09-30"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI expands ChatGPT&#8217;s plug-ins with app-like interfaces and automations",
         "score": 1,
         "date": "2026-09-30"
       }
@@ -115,7 +89,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -131,7 +105,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -145,9 +119,106 @@
     "lastSeen": "2026-09-27"
   },
   {
+    "toolSlug": "bild-ai",
+    "toolName": "Bild AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Bild AI",
+        "url": "YC W25) Is Hiring a Founding Product Engineer (https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+        "score": 1,
+        "date": "2026-09-30"
+      }
+    ],
+    "firstSeen": "2026-09-30",
+    "lastSeen": "2026-09-30"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says - cnbc.com",
+        "score": 1,
+        "date": "2026-09-30"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-09-30"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-09-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "【Claude Opus 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月29日に追加！ - PR TIMES",
+        "score": 1,
+        "date": "2026-09-30"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-09-30"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-30"
+      }
+    ],
+    "firstSeen": "2026-09-07",
+    "lastSeen": "2026-09-30"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-09-30"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-09-30"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-09-30"
+      }
+    ],
+    "firstSeen": "2026-08-23",
+    "lastSeen": "2026-09-30"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -167,75 +238,9 @@
     "lastSeen": "2026-09-28"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
-        "score": 1,
-        "date": "2026-09-30"
-      },
-      {
-        "source": "googlenews",
-        "title": "【Claude Opus 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月29日に追加！ - 愛媛新聞",
-        "score": 1,
-        "date": "2026-09-30"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-09-30"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - prtimes.jp",
-        "score": 1,
-        "date": "2026-09-30"
-      }
-    ],
-    "firstSeen": "2026-09-07",
-    "lastSeen": "2026-09-30"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - prtimes.jp",
-        "score": 1,
-        "date": "2026-09-30"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-09-30"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - prtimes.jp",
-        "score": 1,
-        "date": "2026-09-30"
-      }
-    ],
-    "firstSeen": "2026-08-23",
-    "lastSeen": "2026-09-30"
-  },
-  {
     "toolSlug": "palantir-ai",
     "toolName": "Palantir AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -251,7 +256,7 @@
   {
     "toolSlug": "copilot-plus",
     "toolName": "Copilot+ PC",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -267,7 +272,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -280,24 +285,9 @@
     "lastSeen": "2026-09-29"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
-        "score": 1,
-        "date": "2026-09-29"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-09-29"
-  },
-  {
     "toolSlug": "gamma",
     "toolName": "Gamma",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
