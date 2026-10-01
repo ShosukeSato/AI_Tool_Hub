@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-10-01",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Dots: Always-on agents",
+    "date": "2026-10-01",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-09-30",
     "type": "trending",
     "toolSlug": "agent",
@@ -357,42 +366,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Fable 5.1 and Claude Mythos 5.1",
     "date": "2026-09-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-09-01",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: ChatGPT Work Tool and Skill Reference",
-    "date": "2026-09-01",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-09-01",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 7.6）",
-    "summary": "hackernewsで注目: Breaking Claude Code Opus 5 Auto Mode",
-    "date": "2026-09-01",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-plain-2026-09-01",
-    "type": "trending",
-    "toolSlug": "plain",
-    "title": "Plain が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Terence Tao explains 6 essential mathematical concepts [video]",
-    "date": "2026-09-01",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-udio-2026-09-01",
-    "type": "trending",
-    "toolSlug": "udio",
-    "title": "Udio が話題沸騰中（バズスコア: 8.8）",
-    "summary": "hackernewsで注目: Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-    "date": "2026-09-01",
     "source": "hackernews"
   }
 ]
