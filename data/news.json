@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-10-02",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Aweb – Communication for AI Agents",
+    "date": "2026-10-02",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-01",
     "type": "trending",
     "toolSlug": "agent",
@@ -357,15 +366,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Fable 5.1 and Claude Mythos 5.1",
     "date": "2026-09-03",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-09-02",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Fable 5.1 and Claude Mythos 5.1",
-    "date": "2026-09-02",
     "source": "hackernews"
   }
 ]

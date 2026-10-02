@@ -6,118 +6,229 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Identity Management for Agentic AI [pdf]",
-        "url": "2025) (https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-        "score": 43,
-        "date": "2026-10-01"
+        "title": "Aweb – Communication for AI Agents",
+        "url": "https://aweb.ai",
+        "score": 28,
+        "date": "2026-10-02"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Open-source model routing for coding agents at Astra-level performance ()",
-        "score": 9,
-        "date": "2026-10-01"
+        "score": 93,
+        "date": "2026-10-02"
       },
       {
         "source": "hackernews",
-        "title": "Dots: Always-on agents",
-        "url": "https://openai.com/index/introducing-dots/",
-        "score": 758,
-        "date": "2026-10-01"
+        "title": "Identity Management for Agentic AI [pdf]",
+        "url": "2025) (https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "score": 70,
+        "date": "2026-10-02"
       },
       {
         "source": "hackernews",
-        "title": "Rpi – a Rust rewrite of the Pi agent, 10× faster startup ()",
-        "score": 6,
-        "date": "2026-10-01"
+        "title": "MonoCode: GUI for Coding Agents",
+        "url": "https://www.usemono.dev/",
+        "score": 5,
+        "date": "2026-10-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "California issues investigative subpoena to OpenAI over rogue agents' hacking",
+        "url": "https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack",
+        "score": 11,
+        "date": "2026-10-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+        "url": "https://premortem.site",
+        "score": 7,
+        "date": "2026-10-02"
       },
       {
         "source": "googlenews",
         "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
         "score": 1,
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "source": "googlenews",
         "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "source": "googlenews",
         "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
         "score": 1,
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "source": "techcrunch",
         "title": "Brian Chesky interview: AI agents need their own operating system",
         "score": 1,
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "source": "techcrunch",
         "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
         "score": 1,
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       },
       {
         "source": "techcrunch",
         "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
         "score": 1,
-        "date": "2026-10-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "DoorDash launches an AI agent you can text to order food",
-        "score": 1,
-        "date": "2026-10-01"
+        "date": "2026-10-02"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-01"
+    "lastSeen": "2026-10-02"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 2.2,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "ChatGPT Pro 500",
-        "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-        "score": 214,
-        "date": "2026-09-30"
+        "title": "Sites in ChatGPT",
+        "url": "https://chatgpt.com/features/sites/",
+        "score": 4,
+        "date": "2026-10-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
+        "score": 1,
+        "date": "2026-10-02"
       },
       {
         "source": "techcrunch",
-        "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT&#8217;s own office suite",
+        "title": "ChatGPT can now virtually try on clothes for you",
         "score": 1,
-        "date": "2026-09-30"
+        "date": "2026-10-02"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-09-30"
+    "lastSeen": "2026-10-02"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.8,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-        "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-        "score": 166,
-        "date": "2026-09-30"
+        "title": "Scientists explain how a 300 TeV photon could reach Earth",
+        "url": "https://physicsworld.com/a/scientists-explain-how-a-300-tev-photon-could-reach-earth/",
+        "score": 4,
+        "date": "2026-10-02"
       }
     ],
     "firstSeen": "2026-09-22",
-    "lastSeen": "2026-09-30"
+    "lastSeen": "2026-10-02"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-10-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！ - 愛媛新聞",
+        "score": 1,
+        "date": "2026-10-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-10-02"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
+        "score": 1,
+        "date": "2026-10-02"
+      }
+    ],
+    "firstSeen": "2026-10-02",
+    "lastSeen": "2026-10-02"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "score": 1,
+        "date": "2026-10-02"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-10-02"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+        "score": 1,
+        "date": "2026-10-02"
+      }
+    ],
+    "firstSeen": "2026-10-01",
+    "lastSeen": "2026-10-02"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-02"
+      }
+    ],
+    "firstSeen": "2026-09-07",
+    "lastSeen": "2026-10-02"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-02"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-10-02"
   },
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -131,75 +242,9 @@
     "lastSeen": "2026-10-01"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
-        "score": 1,
-        "date": "2026-10-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！ - 愛媛新聞",
-        "score": 1,
-        "date": "2026-10-01"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-01"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-01"
-      }
-    ],
-    "firstSeen": "2026-09-07",
-    "lastSeen": "2026-10-01"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-        "score": 1,
-        "date": "2026-10-01"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-10-01"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-        "score": 1,
-        "date": "2026-10-01"
-      }
-    ],
-    "firstSeen": "2026-10-01",
-    "lastSeen": "2026-10-01"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -215,7 +260,7 @@
   {
     "toolSlug": "bild-ai",
     "toolName": "Bild AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -229,24 +274,9 @@
     "lastSeen": "2026-10-01"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-01"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-10-01"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -261,7 +291,7 @@
   {
     "toolSlug": "palantir-ai",
     "toolName": "Palantir AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -273,21 +303,5 @@
     ],
     "firstSeen": "2026-09-29",
     "lastSeen": "2026-09-29"
-  },
-  {
-    "toolSlug": "copilot-plus",
-    "toolName": "Copilot+ PC",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "The Copilot+ PC brand is dead",
-        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-        "score": 66,
-        "date": "2026-09-26"
-      }
-    ],
-    "firstSeen": "2026-09-26",
-    "lastSeen": "2026-09-26"
   }
 ]
