@@ -8,7 +8,13 @@
         "source": "hackernews",
         "title": "Sites in ChatGPT",
         "url": "https://chatgpt.com/features/sites/",
-        "score": 229,
+        "score": 317,
+        "date": "2026-10-03"
+      },
+      {
+        "source": "googlenews",
+        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
+        "score": 1,
         "date": "2026-10-03"
       },
       {
@@ -24,61 +30,29 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 4.4,
+    "buzzScore": 5.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Venice’s failed war against Constantinople led to the first bond market",
         "url": "https://bigthink.com/books/a-fabulous-debt/",
-        "score": 88,
+        "score": 155,
         "date": "2026-10-03"
       }
     ],
     "firstSeen": "2026-10-03",
-    "lastSeen": "2026-10-03"
-  },
-  {
-    "toolSlug": "runway",
-    "toolName": "Runway",
-    "buzzScore": 1.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-        "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-        "score": 23,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-10-03",
-    "lastSeen": "2026-10-03"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ExplainDB: A Database System Built for Understandability",
-        "url": "https://github.com/explaindb/explaindb",
-        "score": 15,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-09-22",
     "lastSeen": "2026-10-03"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Three AI agents, two countries, and one uneven world wide web",
-        "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-        "score": 9,
+        "title": "Show HN: Offrun – manage every coding agent from one workspace",
+        "url": "https://offrun.dev/",
+        "score": 39,
         "date": "2026-10-03"
       },
       {
@@ -101,6 +75,12 @@
       },
       {
         "source": "techcrunch",
+        "title": "All the AI agents that can live in your text messages",
+        "score": 1,
+        "date": "2026-10-03"
+      },
+      {
+        "source": "techcrunch",
         "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
         "score": 1,
         "date": "2026-10-03"
@@ -110,17 +90,57 @@
     "lastSeen": "2026-10-03"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.3,
+    "toolSlug": "runway",
+    "toolName": "Runway",
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Is Claude Conscious?",
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "score": 5,
+        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+        "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+        "score": 44,
         "date": "2026-10-03"
-      },
+      }
+    ],
+    "firstSeen": "2026-10-03",
+    "lastSeen": "2026-10-03"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ExplainDB: A Database System Built for Understandability",
+        "url": "https://github.com/explaindb/explaindb",
+        "score": 15,
+        "date": "2026-10-03"
+      }
+    ],
+    "firstSeen": "2026-09-22",
+    "lastSeen": "2026-10-03"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says - CNBC",
+        "score": 1,
+        "date": "2026-10-03"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-10-03"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
         "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
@@ -135,36 +155,6 @@
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-03"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
-        "score": 1,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-10-02",
-    "lastSeen": "2026-10-03"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says - cnbc.com",
-        "score": 1,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-08-11",
     "lastSeen": "2026-10-03"
   },
   {
@@ -213,9 +203,24 @@
     "lastSeen": "2026-10-03"
   },
   {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
+        "score": 1,
+        "date": "2026-10-03"
+      }
+    ],
+    "firstSeen": "2026-10-02",
+    "lastSeen": "2026-10-03"
+  },
+  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -230,7 +235,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -246,7 +251,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -258,21 +263,5 @@
     ],
     "firstSeen": "2026-09-27",
     "lastSeen": "2026-09-27"
-  },
-  {
-    "toolSlug": "bild-ai",
-    "toolName": "Bild AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Bild AI",
-        "url": "YC W25) Is Hiring a Founding Product Engineer (https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-        "score": 1,
-        "date": "2026-10-01"
-      }
-    ],
-    "firstSeen": "2026-09-30",
-    "lastSeen": "2026-10-01"
   }
 ]
