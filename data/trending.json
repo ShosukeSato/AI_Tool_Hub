@@ -8,29 +8,124 @@
         "source": "hackernews",
         "title": "Sites in ChatGPT",
         "url": "https://chatgpt.com/features/sites/",
-        "score": 317,
-        "date": "2026-10-03"
+        "score": 343,
+        "date": "2026-10-04"
       },
       {
         "source": "googlenews",
         "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
         "score": 1,
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       },
       {
         "source": "techcrunch",
         "title": "ChatGPT can now virtually try on clothes for you",
         "score": 1,
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-03"
+    "lastSeen": "2026-10-04"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 6.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Agents don't need memory, they need documentation",
+        "url": "https://liao.gg/blog/agents-dont-need-memory",
+        "score": 83,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Three AI agents, two countries, and one uneven world wide web",
+        "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+        "score": 13,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+        "url": "https://pipod.dev/",
+        "score": 82,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+        "url": "https://github.com/graphene-data/graphene",
+        "score": 28,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
+        "score": 1,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "score": 1,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
+        "score": 1,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "techcrunch",
+        "title": "All the AI agents that can live in your text messages",
+        "score": 1,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
+        "score": 1,
+        "date": "2026-10-04"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-10-04"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 5.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+        "score": 188,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！ - 愛媛新聞",
+        "score": 1,
+        "date": "2026-10-04"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-10-04"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 5.4,
+    "buzzScore": 4.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -44,55 +139,9 @@
     "lastSeen": "2026-10-03"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Offrun – manage every coding agent from one workspace",
-        "url": "https://offrun.dev/",
-        "score": 39,
-        "date": "2026-10-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
-        "score": 1,
-        "date": "2026-10-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
-        "score": 1,
-        "date": "2026-10-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
-        "score": 1,
-        "date": "2026-10-03"
-      },
-      {
-        "source": "techcrunch",
-        "title": "All the AI agents that can live in your text messages",
-        "score": 1,
-        "date": "2026-10-03"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Apple says it&#8217;s tightening macOS &#8216;Full Disk Access&#8217; controls due to new risks from AI agents",
-        "score": 1,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-03"
-  },
-  {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -108,7 +157,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -128,34 +177,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says - CNBC",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       }
     ],
     "firstSeen": "2026-08-11",
-    "lastSeen": "2026-10-03"
-  },
-  {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
-        "score": 1,
-        "date": "2026-10-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！ - 愛媛新聞",
-        "score": 1,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-03"
+    "lastSeen": "2026-10-04"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -164,13 +192,19 @@
     "mentions": [
       {
         "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "googlenews",
         "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
         "score": 1,
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       }
     ],
     "firstSeen": "2026-09-07",
-    "lastSeen": "2026-10-03"
+    "lastSeen": "2026-10-04"
   },
   {
     "toolSlug": "microsoft-copilot",
@@ -181,11 +215,11 @@
         "source": "googlenews",
         "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       }
     ],
     "firstSeen": "2026-08-10",
-    "lastSeen": "2026-10-03"
+    "lastSeen": "2026-10-04"
   },
   {
     "toolSlug": "com",
@@ -196,11 +230,11 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       }
     ],
     "firstSeen": "2026-08-23",
-    "lastSeen": "2026-10-03"
+    "lastSeen": "2026-10-04"
   },
   {
     "toolSlug": "grok",
@@ -211,16 +245,16 @@
         "source": "techcrunch",
         "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
         "score": 1,
-        "date": "2026-10-03"
+        "date": "2026-10-04"
       }
     ],
     "firstSeen": "2026-10-02",
-    "lastSeen": "2026-10-03"
+    "lastSeen": "2026-10-04"
   },
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -231,37 +265,5 @@
     ],
     "firstSeen": "2026-10-01",
     "lastSeen": "2026-10-02"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI – ServeTheHome",
-        "url": "https://www.servethehome.com/where-we-expect-amd-epyc-9006-cpus-in-the-era-of-agentic-ai/",
-        "score": 4,
-        "date": "2026-10-01"
-      }
-    ],
-    "firstSeen": "2026-09-06",
-    "lastSeen": "2026-10-01"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Evolving programming languages in the AI era",
-        "url": "https://dashbit.co/blog/evolving-ai-era",
-        "score": 126,
-        "date": "2026-09-27"
-      }
-    ],
-    "firstSeen": "2026-09-27",
-    "lastSeen": "2026-09-27"
   }
 ]
