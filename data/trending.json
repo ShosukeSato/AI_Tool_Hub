@@ -1,63 +1,35 @@
 [
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Sites in ChatGPT",
-        "url": "https://chatgpt.com/features/sites/",
-        "score": 343,
-        "date": "2026-10-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
-        "score": 1,
-        "date": "2026-10-04"
-      },
-      {
-        "source": "techcrunch",
-        "title": "ChatGPT can now virtually try on clothes for you",
-        "score": 1,
-        "date": "2026-10-04"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-04"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 6.5,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Agents don't need memory, they need documentation",
         "url": "https://liao.gg/blog/agents-dont-need-memory",
-        "score": 83,
-        "date": "2026-10-04"
-      },
-      {
-        "source": "hackernews",
-        "title": "Three AI agents, two countries, and one uneven world wide web",
-        "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-        "score": 13,
+        "score": 281,
         "date": "2026-10-04"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
         "url": "https://pipod.dev/",
-        "score": 82,
+        "score": 108,
+        "date": "2026-10-04"
+      },
+      {
+        "source": "hackernews",
+        "title": "Three AI agents, two countries, and one uneven world wide web",
+        "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+        "score": 38,
         "date": "2026-10-04"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
         "url": "https://github.com/graphene-data/graphene",
-        "score": 28,
+        "score": 32,
         "date": "2026-10-04"
       },
       {
@@ -97,24 +69,18 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 5.9,
+    "buzzScore": 5.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
         "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-        "score": 188,
+        "score": 225,
         "date": "2026-10-04"
       },
       {
         "source": "googlenews",
         "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
-        "score": 1,
-        "date": "2026-10-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！ - 愛媛新聞",
         "score": 1,
         "date": "2026-10-04"
       }
@@ -125,7 +91,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 4.9,
+    "buzzScore": 4.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -141,7 +107,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -157,7 +123,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -252,9 +218,24 @@
     "lastSeen": "2026-10-04"
   },
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "ChatGPT can now virtually try on clothes for you",
+        "score": 1,
+        "date": "2026-10-04"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-10-04"
+  },
+  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",

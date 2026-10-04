@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-10-04",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Agents don't need memory, they need documentation",
+    "date": "2026-10-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-chatgpt-2026-10-03",
     "type": "trending",
     "toolSlug": "chatgpt",
