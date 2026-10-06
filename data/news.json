@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-10-06",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "date": "2026-10-06",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-05",
     "type": "trending",
     "toolSlug": "agent",
@@ -366,15 +375,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
     "date": "2026-09-07",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-06",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Discovery of a new OpenAI agent message board",
-    "date": "2026-09-06",
     "source": "hackernews"
   }
 ]
