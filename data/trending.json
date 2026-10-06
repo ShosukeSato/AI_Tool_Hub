@@ -1,27 +1,55 @@
 [
   {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "score": 524,
+        "date": "2026-10-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "ChatGPT Space: a dystopia of centralised context",
+        "url": "https://sentientsands.substack.com/p/chatgpt-space-a-dystopia-of-centralised",
+        "score": 6,
+        "date": "2026-10-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "怒涛のOpenAI尽くし！　Codexの“28日間連続改善”宣言から、ChatGPTの「画像広告」テストまで【AIニュース3選】 - Real Sound｜リアルサウンド",
+        "score": 1,
+        "date": "2026-10-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-10-06"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+        "score": 1,
+        "date": "2026-10-06"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-10-06"
+  },
+  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 10,
+    "buzzScore": 8.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
         "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-        "score": 261,
-        "date": "2026-10-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-        "score": 266,
-        "date": "2026-10-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
-        "score": 1,
+        "score": 447,
         "date": "2026-10-06"
       },
       {
@@ -32,7 +60,13 @@
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - meta.com",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "score": 1,
+        "date": "2026-10-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
         "score": 1,
         "date": "2026-10-06"
       },
@@ -47,66 +81,15 @@
         "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
         "score": 1,
         "date": "2026-10-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "All the AI agents that can live in your text messages",
-        "score": 1,
-        "date": "2026-10-06"
       }
     ],
     "firstSeen": "2026-04-16",
     "lastSeen": "2026-10-06"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 6.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-        "score": 348,
-        "date": "2026-10-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-        "score": 1,
-        "date": "2026-10-06"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-06"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 5.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ExplainDB: A Database System Built for Understandability",
-        "url": "https://github.com/explaindb/explaindb",
-        "score": 72,
-        "date": "2026-10-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Plain text is still one of the best technologies we have",
-        "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
-        "score": 184,
-        "date": "2026-10-06"
-      }
-    ],
-    "firstSeen": "2026-09-22",
-    "lastSeen": "2026-10-06"
-  },
-  {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 3.6,
+    "buzzScore": 3.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -120,9 +103,25 @@
     "lastSeen": "2026-10-03"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ExplainDB: A Database System Built for Understandability",
+        "url": "https://github.com/explaindb/explaindb",
+        "score": 78,
+        "date": "2026-10-06"
+      }
+    ],
+    "firstSeen": "2026-09-22",
+    "lastSeen": "2026-10-06"
+  },
+  {
     "toolSlug": "khanmigo",
     "toolName": "Khanmigo",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -136,31 +135,9 @@
     "lastSeen": "2026-10-06"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
-        "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
-        "score": 49,
-        "date": "2026-10-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
-        "score": 1,
-        "date": "2026-10-06"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-06"
-  },
-  {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -174,13 +151,40 @@
     "lastSeen": "2026-10-03"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-10-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
+        "score": 1,
+        "date": "2026-10-06"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+        "score": 1,
+        "date": "2026-10-06"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-10-06"
+  },
+  {
     "toolSlug": "dify",
     "toolName": "Dify",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "バイタリフィ、「AI博覧会 Fukuoka 2026」の出展が大盛況で終了！Dify活用やAIエージェントの導入に関心が集まる - PR TIMES",
+        "title": "バイタリフィ、「AI博覧会 Fukuoka 2026」の出展が大盛況で終了！Dify活用やAIエージェントの導入に関心が集まる - ドリームニュース",
         "score": 1,
         "date": "2026-10-06"
       }
@@ -208,12 +212,6 @@
     "toolName": "Rakuten AI",
     "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-10-06"
-      },
       {
         "source": "googlenews",
         "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
@@ -287,7 +285,7 @@
   {
     "toolSlug": "notta",
     "toolName": "Notta",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -302,7 +300,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
