@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-10-07",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: South Korea says AI agents appear to have been used to hack the country's banks",
+    "date": "2026-10-07",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-06",
     "type": "trending",
     "toolSlug": "agent",
@@ -375,15 +384,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Show HN: Isle – managed application environments for computer-use agents",
     "date": "2026-09-08",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-07",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-    "date": "2026-09-07",
     "source": "hackernews"
   }
 ]
