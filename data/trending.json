@@ -8,21 +8,21 @@
         "source": "hackernews",
         "title": "Claude Haiku 5.5",
         "url": "https://www.anthropic.com/claude-haiku-5-5",
-        "score": 754,
+        "score": 1019,
         "date": "2026-10-08"
       },
       {
         "source": "hackernews",
         "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
         "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-        "score": 310,
+        "score": 360,
         "date": "2026-10-08"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
-        "url": "https://github.com/lowenbjer/claude-terse",
-        "score": 16,
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "score": 67,
         "date": "2026-10-08"
       },
       {
@@ -44,20 +44,20 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Docker Agent",
-        "url": "https://github.com/docker/docker-agent",
-        "score": 201,
+        "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+        "url": "https://github.com/edgedelta/project-arena",
+        "score": 5,
         "date": "2026-10-08"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-        "url": "https://github.com/nano-muse/nanoMuse",
-        "score": 56,
+        "title": "Docker Agent",
+        "url": "https://github.com/docker/docker-agent",
+        "score": 290,
         "date": "2026-10-08"
       },
       {
@@ -68,25 +68,31 @@
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
+        "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters - The Register",
         "score": 1,
         "date": "2026-10-08"
       },
       {
         "source": "googlenews",
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
+        "score": 1,
+        "date": "2026-10-08"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Natura’s $99 smart ring puts AI agents on your finger",
+        "score": 1,
+        "date": "2026-10-08"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
         "score": 1,
         "date": "2026-10-08"
       },
       {
         "source": "techcrunch",
         "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-        "score": 1,
-        "date": "2026-10-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "The next hurdle for AI agents: getting websites to let them in",
         "score": 1,
         "date": "2026-10-08"
       }
@@ -97,7 +103,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -111,27 +117,99 @@
     "lastSeen": "2026-10-03"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 2.2,
+    "toolSlug": "khanmigo",
+    "toolName": "Khanmigo",
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-        "score": 93,
-        "date": "2026-10-08"
-      },
+        "title": "AI tutoring with Khanmigo in a two-year school experiment",
+        "url": "https://edworkingpapers.com/ai26-1551",
+        "score": 71,
+        "date": "2026-10-07"
+      }
+    ],
+    "firstSeen": "2026-10-06",
+    "lastSeen": "2026-10-07"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.5,
+    "mentions": [
       {
         "source": "hackernews",
-        "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-        "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
-        "score": 43,
+        "title": "ExplainDB: A Database System Built for Understandability",
+        "url": "https://github.com/explaindb/explaindb",
+        "score": 78,
+        "date": "2026-10-06"
+      }
+    ],
+    "firstSeen": "2026-09-22",
+    "lastSeen": "2026-10-06"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "url": "https://agent.reviews/",
+        "score": 64,
         "date": "2026-10-08"
       },
       {
+        "source": "techcrunch",
+        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+        "score": 1,
+        "date": "2026-10-08"
+      }
+    ],
+    "firstSeen": "2026-10-06",
+    "lastSeen": "2026-10-08"
+  },
+  {
+    "toolSlug": "grai",
+    "toolName": "GRAI",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "SF could have dense, fine-grained, family-friendly Neighborhood, Not Megaproject",
+        "url": "https://urbancourtyard.substack.com/p/san-francisco-could-have-a-dense",
+        "score": 10,
+        "date": "2026-10-07"
+      }
+    ],
+    "firstSeen": "2026-10-07",
+    "lastSeen": "2026-10-07"
+  },
+  {
+    "toolSlug": "deepl",
+    "toolName": "DeepL",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "The Deeply Impersonal Personalized Recruiter Mail",
+        "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+        "score": 13,
+        "date": "2026-10-08"
+      }
+    ],
+    "firstSeen": "2026-10-08",
+    "lastSeen": "2026-10-08"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
         "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
+        "title": "【ChatGPT】自治体AI zevoにて「GPT-6 Sol」「GPT-6 Luna」「GPT-6.1 Sol」の3モデルを2026年10月8日木曜日より提供開始！ - PR TIMES",
         "score": 1,
         "date": "2026-10-08"
       },
@@ -152,93 +230,6 @@
     "lastSeen": "2026-10-08"
   },
   {
-    "toolSlug": "khanmigo",
-    "toolName": "Khanmigo",
-    "buzzScore": 1.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AI tutoring with Khanmigo in a two-year school experiment",
-        "url": "https://edworkingpapers.com/ai26-1551",
-        "score": 71,
-        "date": "2026-10-07"
-      }
-    ],
-    "firstSeen": "2026-10-06",
-    "lastSeen": "2026-10-07"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ExplainDB: A Database System Built for Understandability",
-        "url": "https://github.com/explaindb/explaindb",
-        "score": 78,
-        "date": "2026-10-06"
-      }
-    ],
-    "firstSeen": "2026-09-22",
-    "lastSeen": "2026-10-06"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-        "url": "https://agent.reviews/",
-        "score": 51,
-        "date": "2026-10-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Pinrail – A desktop inbox where coding agents wait for your review",
-        "url": "https://github.com/forgeplane/pinrail",
-        "score": 21,
-        "date": "2026-10-08"
-      }
-    ],
-    "firstSeen": "2026-10-06",
-    "lastSeen": "2026-10-08"
-  },
-  {
-    "toolSlug": "grai",
-    "toolName": "GRAI",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "SF could have dense, fine-grained, family-friendly Neighborhood, Not Megaproject",
-        "url": "https://urbancourtyard.substack.com/p/san-francisco-could-have-a-dense",
-        "score": 10,
-        "date": "2026-10-07"
-      }
-    ],
-    "firstSeen": "2026-10-07",
-    "lastSeen": "2026-10-07"
-  },
-  {
-    "toolSlug": "zed",
-    "toolName": "Zed",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Zed Editor, Docker Agent, ACP, but in a sandbox: running the agent with sbx",
-        "url": "https://k33g.org/p/20261004-acp-sbx-docker-agent",
-        "score": 16,
-        "date": "2026-10-08"
-      }
-    ],
-    "firstSeen": "2026-10-07",
-    "lastSeen": "2026-10-08"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
@@ -246,6 +237,12 @@
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-10-08"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
         "score": 1,
         "date": "2026-10-08"
       }
@@ -299,9 +296,40 @@
     "lastSeen": "2026-10-08"
   },
   {
+    "toolSlug": "manus",
+    "toolName": "Manus",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "China&#8217;s Manus raises over $500M in first funding round since split with Meta",
+        "score": 1,
+        "date": "2026-10-08"
+      }
+    ],
+    "firstSeen": "2026-10-08",
+    "lastSeen": "2026-10-08"
+  },
+  {
+    "toolSlug": "zed",
+    "toolName": "Zed",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Zed Editor, Docker Agent, ACP, but in a sandbox: running the agent with sbx",
+        "url": "https://k33g.org/p/20261004-acp-sbx-docker-agent",
+        "score": 16,
+        "date": "2026-10-08"
+      }
+    ],
+    "firstSeen": "2026-10-07",
+    "lastSeen": "2026-10-08"
+  },
+  {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -317,7 +345,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -332,7 +360,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
