@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-10-09",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+    "date": "2026-10-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-10-08",
     "type": "trending",
     "toolSlug": "claude",
