@@ -6,104 +6,131 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Haiku 5.5",
-        "url": "https://www.anthropic.com/claude-haiku-5-5",
-        "score": 1019,
-        "date": "2026-10-08"
-      },
-      {
-        "source": "hackernews",
-        "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-        "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-        "score": 360,
-        "date": "2026-10-08"
-      },
-      {
-        "source": "hackernews",
         "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
         "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-        "score": 67,
-        "date": "2026-10-08"
+        "score": 120,
+        "date": "2026-10-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Haiku 5.5",
+        "url": "https://www.anthropic.com/claude-haiku-5-5",
+        "score": 1034,
+        "date": "2026-10-09"
       },
       {
         "source": "googlenews",
         "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
         "source": "googlenews",
-        "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
+        "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - About Amazon",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-08"
+    "lastSeen": "2026-10-09"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.9,
+    "buzzScore": 4.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
-        "url": "https://github.com/edgedelta/project-arena",
-        "score": 5,
-        "date": "2026-10-08"
+        "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+        "url": "https://pocketty.app/",
+        "score": 27,
+        "date": "2026-10-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: I Put an AI Agent on a Nokia 110",
+        "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+        "score": 27,
+        "date": "2026-10-09"
       },
       {
         "source": "hackernews",
         "title": "Docker Agent",
         "url": "https://github.com/docker/docker-agent",
-        "score": 290,
-        "date": "2026-10-08"
+        "score": 298,
+        "date": "2026-10-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "I gave four coding agents $100 budget to build a PDF editor",
+        "url": "https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/",
+        "score": 8,
+        "date": "2026-10-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Veda: The Agentic-Native Operating System Supports GCC and OpenGL",
+        "url": "https://github.com/vahmoh25/Veda",
+        "score": 7,
+        "date": "2026-10-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Aura – a self-hosted, multi-user AI agent with per-person graph memory",
+        "url": "https://github.com/chetto1983/Aura",
+        "score": 6,
+        "date": "2026-10-09"
       },
       {
         "source": "googlenews",
         "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
         "source": "googlenews",
         "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters - The Register",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
         "source": "googlenews",
         "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
+      },
+      {
+        "source": "googlenews",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "score": 1,
+        "date": "2026-10-09"
       },
       {
         "source": "techcrunch",
         "title": "Natura’s $99 smart ring puts AI agents on your finger",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
         "source": "techcrunch",
         "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
         "source": "techcrunch",
         "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-08"
+    "lastSeen": "2026-10-09"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -119,7 +146,7 @@
   {
     "toolSlug": "khanmigo",
     "toolName": "Khanmigo",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -133,47 +160,25 @@
     "lastSeen": "2026-10-07"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.5,
+    "toolSlug": "deepl",
+    "toolName": "DeepL",
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "ExplainDB: A Database System Built for Understandability",
-        "url": "https://github.com/explaindb/explaindb",
-        "score": 78,
-        "date": "2026-10-06"
+        "title": "The Deeply Impersonal Personalized Recruiter Mail",
+        "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+        "score": 32,
+        "date": "2026-10-09"
       }
     ],
-    "firstSeen": "2026-09-22",
-    "lastSeen": "2026-10-06"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-        "url": "https://agent.reviews/",
-        "score": 64,
-        "date": "2026-10-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-        "score": 1,
-        "date": "2026-10-08"
-      }
-    ],
-    "firstSeen": "2026-10-06",
-    "lastSeen": "2026-10-08"
+    "firstSeen": "2026-10-08",
+    "lastSeen": "2026-10-09"
   },
   {
     "toolSlug": "grai",
     "toolName": "GRAI",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -187,20 +192,20 @@
     "lastSeen": "2026-10-07"
   },
   {
-    "toolSlug": "deepl",
-    "toolName": "DeepL",
+    "toolSlug": "plain",
+    "toolName": "Plain",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "The Deeply Impersonal Personalized Recruiter Mail",
-        "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
-        "score": 13,
-        "date": "2026-10-08"
+        "title": "Stop complaining about enshittification. Use the alternatives",
+        "url": "https://a.l3x.in/blog/use-the-unshittified-alternatives/",
+        "score": 7,
+        "date": "2026-10-09"
       }
     ],
-    "firstSeen": "2026-10-08",
-    "lastSeen": "2026-10-08"
+    "firstSeen": "2026-09-22",
+    "lastSeen": "2026-10-09"
   },
   {
     "toolSlug": "chatgpt",
@@ -209,46 +214,25 @@
     "mentions": [
       {
         "source": "googlenews",
+        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
+        "score": 1,
+        "date": "2026-10-09"
+      },
+      {
+        "source": "googlenews",
         "title": "【ChatGPT】自治体AI zevoにて「GPT-6 Sol」「GPT-6 Luna」「GPT-6.1 Sol」の3モデルを2026年10月8日木曜日より提供開始！ - PR TIMES",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       },
       {
-        "source": "techcrunch",
-        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+        "source": "googlenews",
+        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
         "score": 1,
-        "date": "2026-10-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-        "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-08"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-10-08"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "score": 1,
-        "date": "2026-10-08"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-10-08"
+    "lastSeen": "2026-10-09"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -259,11 +243,11 @@
         "source": "googlenews",
         "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       }
     ],
     "firstSeen": "2026-09-07",
-    "lastSeen": "2026-10-08"
+    "lastSeen": "2026-10-09"
   },
   {
     "toolSlug": "microsoft-copilot",
@@ -274,16 +258,61 @@
         "source": "googlenews",
         "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
-        "date": "2026-10-08"
+        "date": "2026-10-09"
       }
     ],
     "firstSeen": "2026-08-10",
-    "lastSeen": "2026-10-08"
+    "lastSeen": "2026-10-09"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "score": 1,
+        "date": "2026-10-09"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-10-09"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+        "score": 1,
+        "date": "2026-10-09"
+      }
+    ],
+    "firstSeen": "2026-10-06",
+    "lastSeen": "2026-10-09"
+  },
+  {
+    "toolSlug": "manus",
+    "toolName": "Manus",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "China&#8217;s Manus raises over $500M in first funding round since split with Meta",
+        "score": 1,
+        "date": "2026-10-09"
+      }
+    ],
+    "firstSeen": "2026-10-08",
+    "lastSeen": "2026-10-09"
   },
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -296,24 +325,9 @@
     "lastSeen": "2026-10-08"
   },
   {
-    "toolSlug": "manus",
-    "toolName": "Manus",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "China&#8217;s Manus raises over $500M in first funding round since split with Meta",
-        "score": 1,
-        "date": "2026-10-08"
-      }
-    ],
-    "firstSeen": "2026-10-08",
-    "lastSeen": "2026-10-08"
-  },
-  {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -329,7 +343,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -345,7 +359,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -360,7 +374,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",

@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-10-09",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: I think I found a planet nobody knew existed. I used Claude Code to find it",
+    "date": "2026-10-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-10-08",
     "type": "trending",
     "toolSlug": "claude",
@@ -384,15 +393,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 7.4）",
     "summary": "hackernewsで注目: Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
     "date": "2026-09-10",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-09",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Muse – Meta’s personal AI agent",
-    "date": "2026-09-09",
     "source": "hackernews"
   }
 ]
