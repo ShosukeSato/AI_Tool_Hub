@@ -6,41 +6,48 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Rewriting Prime Agent in Rust",
-        "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
-        "score": 32,
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "url": "https://github.com/rociiu/talorys",
+        "score": 145,
+        "date": "2026-10-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "My personal AI agent posted my bank details on company Slack",
+        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+        "score": 45,
         "date": "2026-10-10"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
         "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-        "score": 387,
+        "score": 404,
         "date": "2026-10-10"
       },
       {
         "source": "hackernews",
-        "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-        "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-        "score": 3,
+        "title": "Rewriting Prime Agent in Rust",
+        "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+        "score": 60,
         "date": "2026-10-10"
       },
       {
         "source": "hackernews",
         "title": "Why are coding agents so dumb?",
         "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-        "score": 78,
+        "score": 96,
         "date": "2026-10-10"
       },
       {
         "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
+        "title": "Legaltech Rundown: Ironclad Launches AI Contract Agent, Hotshot Introduces AI Hallucination Course, and More - Law.com",
         "score": 1,
         "date": "2026-10-10"
       },
       {
         "source": "googlenews",
-        "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters - The Register",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
         "score": 1,
         "date": "2026-10-10"
       },
@@ -52,7 +59,19 @@
       },
       {
         "source": "googlenews",
+        "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters - The Register",
+        "score": 1,
+        "date": "2026-10-10"
+      },
+      {
+        "source": "googlenews",
         "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "score": 1,
+        "date": "2026-10-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Here are the top AI agents that can live in your text messages",
         "score": 1,
         "date": "2026-10-10"
       },
@@ -67,12 +86,6 @@
         "title": "Amazon drops data center NDAs, and AI agents want your credit card",
         "score": 1,
         "date": "2026-10-10"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Natura’s $99 smart ring puts AI agents on your finger",
-        "score": 1,
-        "date": "2026-10-10"
       }
     ],
     "firstSeen": "2026-04-16",
@@ -81,13 +94,13 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 5.8,
+    "buzzScore": 4.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
         "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-        "score": 269,
+        "score": 282,
         "date": "2026-10-10"
       },
       {
@@ -101,23 +114,54 @@
         "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - About Amazon",
         "score": 1,
         "date": "2026-10-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
+        "score": 1,
+        "date": "2026-10-10"
       }
     ],
     "firstSeen": "2026-04-02",
     "lastSeen": "2026-10-10"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 4.2,
+    "toolSlug": "bond",
+    "toolName": "Bond",
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-        "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-        "score": 180,
-        "date": "2026-10-10"
-      },
+        "title": "Venice’s failed war against Constantinople led to the first bond market",
+        "url": "https://bigthink.com/books/a-fabulous-debt/",
+        "score": 155,
+        "date": "2026-10-03"
+      }
+    ],
+    "firstSeen": "2026-10-03",
+    "lastSeen": "2026-10-03"
+  },
+  {
+    "toolSlug": "khanmigo",
+    "toolName": "Khanmigo",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AI tutoring with Khanmigo in a two-year school experiment",
+        "url": "https://edworkingpapers.com/ai26-1551",
+        "score": 71,
+        "date": "2026-10-07"
+      }
+    ],
+    "firstSeen": "2026-10-06",
+    "lastSeen": "2026-10-07"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
         "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
@@ -141,52 +185,25 @@
     "lastSeen": "2026-10-10"
   },
   {
-    "toolSlug": "bond",
-    "toolName": "Bond",
-    "buzzScore": 1.5,
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Venice’s failed war against Constantinople led to the first bond market",
-        "url": "https://bigthink.com/books/a-fabulous-debt/",
-        "score": 155,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-10-03",
-    "lastSeen": "2026-10-03"
-  },
-  {
-    "toolSlug": "khanmigo",
-    "toolName": "Khanmigo",
-    "buzzScore": 1.2,
-    "mentions": [
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-10-10"
+      },
       {
-        "source": "hackernews",
-        "title": "AI tutoring with Khanmigo in a two-year school experiment",
-        "url": "https://edworkingpapers.com/ai26-1551",
-        "score": 71,
-        "date": "2026-10-07"
+        "source": "techcrunch",
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "score": 1,
+        "date": "2026-10-10"
       }
     ],
-    "firstSeen": "2026-10-06",
-    "lastSeen": "2026-10-07"
-  },
-  {
-    "toolSlug": "deepl",
-    "toolName": "DeepL",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "The Deeply Impersonal Personalized Recruiter Mail",
-        "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
-        "score": 32,
-        "date": "2026-10-09"
-      }
-    ],
-    "firstSeen": "2026-10-08",
-    "lastSeen": "2026-10-09"
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-10-10"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -219,24 +236,25 @@
     "lastSeen": "2026-10-10"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
+    "toolSlug": "deepl",
+    "toolName": "DeepL",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "score": 1,
-        "date": "2026-10-10"
+        "source": "hackernews",
+        "title": "The Deeply Impersonal Personalized Recruiter Mail",
+        "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+        "score": 32,
+        "date": "2026-10-09"
       }
     ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-10-10"
+    "firstSeen": "2026-10-08",
+    "lastSeen": "2026-10-09"
   },
   {
     "toolSlug": "grai",
     "toolName": "GRAI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -252,7 +270,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -267,7 +285,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -283,7 +301,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -298,7 +316,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -313,7 +331,7 @@
   {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -325,21 +343,5 @@
     ],
     "firstSeen": "2026-10-07",
     "lastSeen": "2026-10-08"
-  },
-  {
-    "toolSlug": "runway",
-    "toolName": "Runway",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-        "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-        "score": 44,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-10-03",
-    "lastSeen": "2026-10-03"
   }
 ]

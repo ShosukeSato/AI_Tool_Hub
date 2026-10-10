@@ -1,18 +1,18 @@
 [
   {
     "toolSlug": "chatgpt",
-    "overall": 7.7,
+    "overall": 7.2,
     "performance": 9,
-    "buzz": 4.2,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-10-10"
   },
   {
     "toolSlug": "claude",
-    "overall": 7.7,
+    "overall": 7.5,
     "performance": 9,
-    "buzz": 5.8,
+    "buzz": 4.4,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-10"
@@ -345,7 +345,7 @@
     "toolSlug": "zed",
     "overall": 7.5,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 10,
     "lastCalculated": "2026-10-10"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.5,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-10-10"
@@ -804,7 +804,7 @@
     "toolSlug": "com",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-10-10"
@@ -840,7 +840,7 @@
     "toolSlug": "manus",
     "overall": 5.5,
     "performance": 7,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-10-10"
@@ -1387,9 +1387,9 @@
   },
   {
     "toolSlug": "grai",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-10-10"
@@ -1686,7 +1686,7 @@
     "toolSlug": "deepl",
     "overall": 7.8,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-10-10"
@@ -2226,7 +2226,7 @@
     "toolSlug": "khanmigo",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-10"
@@ -2307,7 +2307,7 @@
     "toolSlug": "bond",
     "overall": 5.9,
     "performance": 6,
-    "buzz": 1.5,
+    "buzz": 1.4,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-10-10"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 6.9,
     "performance": 7,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-10-10"
