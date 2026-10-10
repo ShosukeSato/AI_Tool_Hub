@@ -6,143 +6,144 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-        "score": 305,
-        "date": "2026-10-09"
+        "title": "Rewriting Prime Agent in Rust",
+        "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+        "score": 32,
+        "date": "2026-10-10"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-        "url": "https://pocketty.app/",
-        "score": 31,
-        "date": "2026-10-09"
+        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "score": 387,
+        "date": "2026-10-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+        "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+        "score": 3,
+        "date": "2026-10-10"
+      },
+      {
+        "source": "hackernews",
+        "title": "Why are coding agents so dumb?",
+        "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+        "score": 78,
+        "date": "2026-10-10"
       },
       {
         "source": "googlenews",
         "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
         "score": 1,
-        "date": "2026-10-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
-        "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       },
       {
         "source": "googlenews",
         "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters - The Register",
         "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
+        "score": 1,
+        "date": "2026-10-10"
       },
       {
         "source": "googlenews",
         "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+        "score": 1,
+        "date": "2026-10-10"
       },
       {
         "source": "techcrunch",
         "title": "Amazon drops data center NDAs, and AI agents want your credit card",
         "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       },
       {
         "source": "techcrunch",
         "title": "Natura’s $99 smart ring puts AI agents on your finger",
         "score": 1,
-        "date": "2026-10-09"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-        "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-09"
+    "lastSeen": "2026-10-10"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 7.6,
+    "buzzScore": 5.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
         "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-        "score": 249,
-        "date": "2026-10-09"
+        "score": 269,
+        "date": "2026-10-10"
       },
       {
         "source": "googlenews",
         "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
         "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       },
       {
         "source": "googlenews",
         "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - About Amazon",
         "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-09"
+    "lastSeen": "2026-10-10"
   },
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 5.3,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
         "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-        "score": 153,
-        "date": "2026-10-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "ChatGPT for Teens is not necessarily 'safer than the previous version,'",
-        "url": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
-        "score": 8,
-        "date": "2026-10-09"
+        "score": 180,
+        "date": "2026-10-10"
       },
       {
         "source": "googlenews",
         "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
         "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       },
       {
         "source": "googlenews",
         "title": "【ChatGPT】自治体AI zevoにて「GPT-6 Sol」「GPT-6 Luna」「GPT-6.1 Sol」の3モデルを2026年10月8日木曜日より提供開始！ - PR TIMES",
         "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       },
       {
         "source": "googlenews",
         "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
         "score": 1,
-        "date": "2026-10-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "【2026年最新】職場AIは「3強時代」へ — ChatGPT60.8%・Gemini49.7%・Copilot41.8%、Claudeは7.8% - PR TIMES",
-        "score": 1,
-        "date": "2026-10-09"
+        "date": "2026-10-10"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-09"
+    "lastSeen": "2026-10-10"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -158,7 +159,7 @@
   {
     "toolSlug": "khanmigo",
     "toolName": "Khanmigo",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -174,7 +175,7 @@
   {
     "toolSlug": "deepl",
     "toolName": "DeepL",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -188,9 +189,54 @@
     "lastSeen": "2026-10-09"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-10"
+      }
+    ],
+    "firstSeen": "2026-09-07",
+    "lastSeen": "2026-10-10"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-10"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-10-10"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "score": 1,
+        "date": "2026-10-10"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-10-10"
+  },
+  {
     "toolSlug": "grai",
     "toolName": "GRAI",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -204,54 +250,9 @@
     "lastSeen": "2026-10-07"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-09"
-      }
-    ],
-    "firstSeen": "2026-09-07",
-    "lastSeen": "2026-10-09"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-09"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-10-09"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "score": 1,
-        "date": "2026-10-09"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-10-09"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -266,7 +267,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -282,7 +283,7 @@
   {
     "toolSlug": "manus",
     "toolName": "Manus",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -297,7 +298,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -312,7 +313,7 @@
   {
     "toolSlug": "zed",
     "toolName": "Zed",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -328,7 +329,7 @@
   {
     "toolSlug": "runway",
     "toolName": "Runway",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -340,20 +341,5 @@
     ],
     "firstSeen": "2026-10-03",
     "lastSeen": "2026-10-03"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "バイタリフィ、「AI博覧会 Fukuoka 2026」の出展が大盛況で終了！Dify活用やAIエージェントの導入に関心が集まる - PR TIMES",
-        "score": 1,
-        "date": "2026-10-07"
-      }
-    ],
-    "firstSeen": "2026-10-06",
-    "lastSeen": "2026-10-07"
   }
 ]
