@@ -3,7 +3,7 @@
     "toolSlug": "chatgpt",
     "overall": 7.2,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-10-12"
@@ -12,7 +12,7 @@
     "toolSlug": "claude",
     "overall": 7,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-12"
@@ -21,7 +21,7 @@
     "toolSlug": "gemini",
     "overall": 7,
     "performance": 8,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-10-12"
@@ -442,9 +442,9 @@
   },
   {
     "toolSlug": "anything",
-    "overall": 4.9,
+    "overall": 5.1,
     "performance": 5,
-    "buzz": 0.6,
+    "buzz": 2.1,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-10-12"
@@ -1684,9 +1684,9 @@
   },
   {
     "toolSlug": "deepl",
-    "overall": 7.8,
+    "overall": 7.7,
     "performance": 9,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-10-12"
@@ -2226,7 +2226,7 @@
     "toolSlug": "khanmigo",
     "overall": 6.6,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-12"
@@ -2307,7 +2307,7 @@
     "toolSlug": "bond",
     "overall": 5.8,
     "performance": 6,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-10-12"

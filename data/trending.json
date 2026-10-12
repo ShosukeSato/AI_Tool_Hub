@@ -6,41 +6,34 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-        "score": 184,
-        "date": "2026-10-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-        "url": "https://github.com/plimsollmark/plimsoll",
-        "score": 12,
-        "date": "2026-10-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Multi-agent harnesses need separate message channels",
-        "url": "https://harshalgajjar.com/blog/multi-agent-harnesses-need-separate-message-channels",
-        "score": 7,
-        "date": "2026-10-12"
-      },
-      {
-        "source": "hackernews",
         "title": "AI coding agents generate more code, but not more software",
         "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-        "score": 8,
+        "score": 214,
         "date": "2026-10-12"
       },
       {
-        "source": "googlenews",
-        "title": "Legaltech Rundown: Ironclad Launches AI Contract Agent, Hotshot Introduces AI Hallucination Course, and More - Law.com",
-        "score": 1,
+        "source": "hackernews",
+        "title": "Launch HN: Agent37",
+        "url": "YC F26) – Low-cost agent sandboxes for running agents (",
+        "score": 64,
+        "date": "2026-10-12"
+      },
+      {
+        "source": "hackernews",
+        "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "score": 207,
         "date": "2026-10-12"
       },
       {
         "source": "googlenews",
         "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
+        "score": 1,
+        "date": "2026-10-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
         "score": 1,
         "date": "2026-10-12"
       },
@@ -58,13 +51,7 @@
       },
       {
         "source": "techcrunch",
-        "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-        "score": 1,
-        "date": "2026-10-12"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "title": "Anthropic can&#8217;t reliably control its AI agents — it&#8217;s cutting off its internal evals from the live internet instead",
         "score": 1,
         "date": "2026-10-12"
       }
@@ -73,9 +60,25 @@
     "lastSeen": "2026-10-12"
   },
   {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 2.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+        "url": "https://github.com/morluto/rea",
+        "score": 60,
+        "date": "2026-10-12"
+      }
+    ],
+    "firstSeen": "2026-10-12",
+    "lastSeen": "2026-10-12"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -91,7 +94,7 @@
       },
       {
         "source": "googlenews",
-        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
+        "title": "Anthropic targets financial advisers with new Claude tool - Reuters",
         "score": 1,
         "date": "2026-10-12"
       }
@@ -102,14 +105,8 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Google brings agentic AI to Gemini, starting with businesses - TechCrunch",
-        "score": 1,
-        "date": "2026-10-12"
-      },
       {
         "source": "googlenews",
         "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
@@ -123,7 +120,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -142,22 +139,6 @@
     "lastSeen": "2026-10-12"
   },
   {
-    "toolSlug": "bond",
-    "toolName": "Bond",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Venice’s failed war against Constantinople led to the first bond market",
-        "url": "https://bigthink.com/books/a-fabulous-debt/",
-        "score": 155,
-        "date": "2026-10-03"
-      }
-    ],
-    "firstSeen": "2026-10-03",
-    "lastSeen": "2026-10-03"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
     "buzzScore": 1,
@@ -170,21 +151,6 @@
       }
     ],
     "firstSeen": "2026-09-07",
-    "lastSeen": "2026-10-12"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-12"
-      }
-    ],
-    "firstSeen": "2026-08-10",
     "lastSeen": "2026-10-12"
   },
   {
@@ -203,9 +169,40 @@
     "lastSeen": "2026-10-12"
   },
   {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-12"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-10-12"
+  },
+  {
+    "toolSlug": "bond",
+    "toolName": "Bond",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Venice’s failed war against Constantinople led to the first bond market",
+        "url": "https://bigthink.com/books/a-fabulous-debt/",
+        "score": 155,
+        "date": "2026-10-03"
+      }
+    ],
+    "firstSeen": "2026-10-03",
+    "lastSeen": "2026-10-03"
+  },
+  {
     "toolSlug": "khanmigo",
     "toolName": "Khanmigo",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -221,7 +218,7 @@
   {
     "toolSlug": "deepl",
     "toolName": "DeepL",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -233,21 +230,5 @@
     ],
     "firstSeen": "2026-10-08",
     "lastSeen": "2026-10-09"
-  },
-  {
-    "toolSlug": "grai",
-    "toolName": "GRAI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "SF could have dense, fine-grained, family-friendly Neighborhood, Not Megaproject",
-        "url": "https://urbancourtyard.substack.com/p/san-francisco-could-have-a-dense",
-        "score": 10,
-        "date": "2026-10-07"
-      }
-    ],
-    "firstSeen": "2026-10-07",
-    "lastSeen": "2026-10-07"
   }
 ]
