@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-10-13",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Launch HN: Agent37",
+    "date": "2026-10-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-12",
     "type": "trending",
     "toolSlug": "agent",
@@ -366,15 +375,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
     "date": "2026-09-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-13",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: AgentsDock: An IDE designed for agentic AI research",
-    "date": "2026-09-13",
     "source": "hackernews"
   }
 ]
