@@ -8,14 +8,14 @@
         "source": "hackernews",
         "title": "Launch HN: Agent37",
         "url": "YC F26) – Low-cost agent sandboxes for running agents (",
-        "score": 123,
+        "score": 152,
         "date": "2026-10-13"
       },
       {
         "source": "hackernews",
         "title": "AI coding agents generate more code, but not more software",
         "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-        "score": 325,
+        "score": 355,
         "date": "2026-10-13"
       },
       {
@@ -26,25 +26,19 @@
       },
       {
         "source": "googlenews",
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
         "score": 1,
         "date": "2026-10-13"
       },
       {
         "source": "googlenews",
-        "title": "Microsoft unveils Copilot super app, targeting business users with AI agents - Fortune",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
         "date": "2026-10-13"
       },
       {
         "source": "techcrunch",
-        "title": "Here are the top AI agents that can live in your text messages",
-        "score": 1,
-        "date": "2026-10-13"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic can&#8217;t reliably control its AI agents — it&#8217;s cutting off its internal evals from the live internet instead",
+        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
         "score": 1,
         "date": "2026-10-13"
       }
@@ -53,15 +47,31 @@
     "lastSeen": "2026-10-13"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 3.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+        "url": "https://pdftomp3.com/connect-ai/",
+        "score": 140,
+        "date": "2026-10-13"
+      }
+    ],
+    "firstSeen": "2026-10-13",
+    "lastSeen": "2026-10-13"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 2.8,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
         "url": "https://github.com/SaarthurR/atticus-mac",
-        "score": 90,
+        "score": 113,
         "date": "2026-10-13"
       },
       {
@@ -72,13 +82,7 @@
       },
       {
         "source": "googlenews",
-        "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude - About Amazon",
-        "score": 1,
-        "date": "2026-10-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic to fold Claude AI features into one interface, launches document tools - Reuters",
+        "title": "ポップコーン株式会社、AI社員「あきな」と社内AI研修を2026年10月1日提供開始 「全員がClaude Codeを使う会社」の運用を公開 - オリコンニュース",
         "score": 1,
         "date": "2026-10-13"
       }
@@ -89,7 +93,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -105,7 +109,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -118,57 +122,9 @@
         "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
         "score": 1,
         "date": "2026-10-13"
-      },
-      {
-        "source": "techcrunch",
-        "title": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
-        "score": 1,
-        "date": "2026-10-13"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-13"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says - CNBC",
-        "score": 1,
-        "date": "2026-10-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-10-13"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-10-13"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-10-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-13"
-      }
-    ],
-    "firstSeen": "2026-09-07",
     "lastSeen": "2026-10-13"
   },
   {
@@ -187,6 +143,21 @@
     "lastSeen": "2026-10-13"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-13"
+      }
+    ],
+    "firstSeen": "2026-09-07",
+    "lastSeen": "2026-10-13"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
     "buzzScore": 1,
@@ -202,9 +173,75 @@
     "lastSeen": "2026-10-13"
   },
   {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+        "score": 1,
+        "date": "2026-10-13"
+      }
+    ],
+    "firstSeen": "2026-10-13",
+    "lastSeen": "2026-10-13"
+  },
+  {
+    "toolSlug": "cursor",
+    "toolName": "Cursor",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+        "score": 1,
+        "date": "2026-10-13"
+      }
+    ],
+    "firstSeen": "2026-10-13",
+    "lastSeen": "2026-10-13"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+        "score": 1,
+        "date": "2026-10-13"
+      }
+    ],
+    "firstSeen": "2026-10-13",
+    "lastSeen": "2026-10-13"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says - CNBC",
+        "score": 1,
+        "date": "2026-10-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-10-13"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-10-13"
+  },
+  {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -216,21 +253,5 @@
     ],
     "firstSeen": "2026-10-03",
     "lastSeen": "2026-10-03"
-  },
-  {
-    "toolSlug": "khanmigo",
-    "toolName": "Khanmigo",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AI tutoring with Khanmigo in a two-year school experiment",
-        "url": "https://edworkingpapers.com/ai26-1551",
-        "score": 71,
-        "date": "2026-10-07"
-      }
-    ],
-    "firstSeen": "2026-10-06",
-    "lastSeen": "2026-10-07"
   }
 ]
