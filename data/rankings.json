@@ -12,7 +12,7 @@
     "toolSlug": "claude",
     "overall": 7,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-14"
@@ -183,7 +183,7 @@
     "toolSlug": "cursor",
     "overall": 7,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-14"
@@ -444,7 +444,7 @@
     "toolSlug": "anything",
     "overall": 5.1,
     "performance": 5,
-    "buzz": 2.2,
+    "buzz": 2,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-10-14"
@@ -507,7 +507,7 @@
     "toolSlug": "factory",
     "overall": 5.3,
     "performance": 8,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-10-14"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.6,
     "performance": 9,
-    "buzz": 1.2,
+    "buzz": 1,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-10-14"
@@ -894,7 +894,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-10-14"
@@ -1333,9 +1333,9 @@
   },
   {
     "toolSlug": "hats",
-    "overall": 7.7,
+    "overall": 7.8,
     "performance": 8,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-10-14"
@@ -1360,9 +1360,9 @@
   },
   {
     "toolSlug": "udio",
-    "overall": 7.7,
+    "overall": 7,
     "performance": 8,
-    "buzz": 9.5,
+    "buzz": 5.3,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-10-14"
@@ -1992,7 +1992,7 @@
     "toolSlug": "rocket",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 1.1,
+    "buzz": 1.2,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-10-14"
@@ -2305,9 +2305,9 @@
   },
   {
     "toolSlug": "bond",
-    "overall": 5.8,
+    "overall": 5.7,
     "performance": 6,
-    "buzz": 0.7,
+    "buzz": 0.6,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-10-14"
