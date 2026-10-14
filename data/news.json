@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-10-14",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+    "date": "2026-10-14",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-udio-2026-10-14",
+    "type": "trending",
+    "toolSlug": "udio",
+    "title": "Udio が話題沸騰中（バズスコア: 9.5）",
+    "summary": "hackernewsで注目: Show HN: Use your OpenAI subscription to create audiobooks",
+    "date": "2026-10-14",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-13",
     "type": "trending",
     "toolSlug": "agent",
@@ -357,24 +375,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Pion, an agent designed to run any company autonomously",
     "date": "2026-09-15",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-14",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Why are AI agents lying, cheating and coordinating?",
-    "date": "2026-09-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-09-14",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-    "date": "2026-09-14",
     "source": "hackernews"
   }
 ]
