@@ -8,35 +8,21 @@
         "source": "hackernews",
         "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
         "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-        "score": 93,
+        "score": 267,
         "date": "2026-10-15"
       },
       {
         "source": "hackernews",
         "title": "TV4 postpones show after AI agent erases edited material",
         "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-        "score": 142,
-        "date": "2026-10-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-        "url": "https://github.com/graphicle-ai/graphicle",
-        "score": 42,
+        "score": 152,
         "date": "2026-10-15"
       },
       {
         "source": "hackernews",
         "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
         "url": "https://github.com/bealesh/neckbeard",
-        "score": 61,
-        "date": "2026-10-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "What agents mean for Rust",
-        "url": "and vice versa) (https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
-        "score": 66,
+        "score": 73,
         "date": "2026-10-15"
       },
       {
@@ -64,6 +50,24 @@
         "date": "2026-10-15"
       },
       {
+        "source": "googlenews",
+        "title": "AIセキュリティのCoWorker、「Security AI Agentシリーズ」が2026年度グッドデザイン賞を受賞 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-15"
+      },
+      {
+        "source": "techcrunch",
+        "title": "AI agents are coming to Rivian&#8217;s cars",
+        "score": 1,
+        "date": "2026-10-15"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Figma announces new features to define how agents work on its platform",
+        "score": 1,
+        "date": "2026-10-15"
+      },
+      {
         "source": "techcrunch",
         "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
         "score": 1,
@@ -82,7 +86,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 4.8,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -96,9 +100,54 @@
     "lastSeen": "2026-10-14"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 2.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "score": 82,
+        "date": "2026-10-15"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-10-15"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT Ads Target Your Phone Number, Email",
+        "url": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
+        "score": 9,
+        "date": "2026-10-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "ChatGPT Targets Ads to You Based on Your Prompts, Phone Number, and Email",
+        "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+        "score": 27,
+        "date": "2026-10-15"
+      },
+      {
+        "source": "googlenews",
+        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-10-15"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-10-15"
+  },
+  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -118,9 +167,9 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "How I manage persistent Claude Code loops: Spool",
-        "url": "https://github.com/enes-alatas/spool",
-        "score": 12,
+        "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
+        "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
+        "score": 15,
         "date": "2026-10-15"
       },
       {
@@ -140,86 +189,19 @@
     "lastSeen": "2026-10-15"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
+    "toolSlug": "grai",
+    "toolName": "GRAI",
     "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Ask a technical question, get an animated explainer you can interrupt",
-        "url": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
-        "score": 5,
+        "title": "How to Make End-Grain Cutting Boards",
+        "url": "https://a.wholelottanothing.org/how-to-make-end-grain-cutting-boards/",
+        "score": 4,
         "date": "2026-10-15"
       }
     ],
     "firstSeen": "2026-10-15",
-    "lastSeen": "2026-10-15"
-  },
-  {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "SpaceX and Google said no. Now his software rides SpaceX rocket next to Google's",
-        "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-        "score": 5,
-        "date": "2026-10-14"
-      },
-      {
-        "source": "techcrunch",
-        "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-        "score": 1,
-        "date": "2026-10-14"
-      }
-    ],
-    "firstSeen": "2026-10-13",
-    "lastSeen": "2026-10-14"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
-        "score": 1,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-08-11",
-    "lastSeen": "2026-10-15"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-09-07",
-    "lastSeen": "2026-10-15"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-06-26",
     "lastSeen": "2026-10-15"
   },
   {
@@ -235,6 +217,21 @@
       }
     ],
     "firstSeen": "2026-08-10",
+    "lastSeen": "2026-10-15"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-15"
+      }
+    ],
+    "firstSeen": "2026-09-07",
     "lastSeen": "2026-10-15"
   },
   {
@@ -283,9 +280,62 @@
     "lastSeen": "2026-10-15"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Ask a technical question, get an animated explainer you can interrupt",
+        "url": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
+        "score": 5,
+        "date": "2026-10-15"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-10-15"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "SpaceX and Google said no. Now his software rides SpaceX rocket next to Google's",
+        "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+        "score": 5,
+        "date": "2026-10-14"
+      },
+      {
+        "source": "techcrunch",
+        "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+        "score": 1,
+        "date": "2026-10-14"
+      }
+    ],
+    "firstSeen": "2026-10-13",
+    "lastSeen": "2026-10-14"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "score": 1,
+        "date": "2026-10-15"
+      }
+    ],
+    "firstSeen": "2026-08-11",
+    "lastSeen": "2026-10-15"
+  },
+  {
     "toolSlug": "factory",
     "toolName": "Factory",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -300,7 +350,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
