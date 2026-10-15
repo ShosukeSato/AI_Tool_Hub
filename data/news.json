@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-10-15",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: LFM2.5-24B-A2B: Built for fast on-device agents",
+    "date": "2026-10-15",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-14",
     "type": "trending",
     "toolSlug": "agent",
@@ -366,15 +375,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 9.2）",
     "summary": "hackernewsで注目: OpenAI expands ChatGPT ads with Sponsored Agents",
     "date": "2026-09-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-15",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Pion, an agent designed to run any company autonomously",
-    "date": "2026-09-15",
     "source": "hackernews"
   }
 ]
