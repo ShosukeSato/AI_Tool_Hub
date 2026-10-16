@@ -8,85 +8,88 @@
         "source": "hackernews",
         "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
         "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-        "score": 267,
-        "date": "2026-10-15"
+        "score": 284,
+        "date": "2026-10-16"
       },
       {
         "source": "hackernews",
-        "title": "TV4 postpones show after AI agent erases edited material",
-        "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-        "score": 152,
-        "date": "2026-10-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
-        "url": "https://github.com/bealesh/neckbeard",
-        "score": 73,
-        "date": "2026-10-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
-        "score": 1,
-        "date": "2026-10-15"
+        "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
+        "url": "https://github.com/rlshaw-ml/BlastLoop",
+        "score": 12,
+        "date": "2026-10-16"
       },
       {
         "source": "googlenews",
         "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
         "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
+        "score": 1,
+        "date": "2026-10-16"
       },
       {
         "source": "googlenews",
         "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
         "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "source": "googlenews",
         "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "source": "googlenews",
-        "title": "AIセキュリティのCoWorker、「Security AI Agentシリーズ」が2026年度グッドデザイン賞を受賞 - PR TIMES",
+        "title": "OrcaRouter、AIエージェント向けツール集「Agent Tools」を提供開始 - Excite エキサイト",
         "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "source": "techcrunch",
         "title": "AI agents are coming to Rivian&#8217;s cars",
         "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "source": "techcrunch",
         "title": "Figma announces new features to define how agents work on its platform",
         "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "source": "techcrunch",
         "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
         "score": 1,
-        "date": "2026-10-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to",
-        "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-15"
+    "lastSeen": "2026-10-16"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 7.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "score": 232,
+        "date": "2026-10-16"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-10-16"
   },
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -100,54 +103,25 @@
     "lastSeen": "2026-10-14"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 2.5,
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-        "score": 82,
-        "date": "2026-10-15"
+        "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+        "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+        "score": 56,
+        "date": "2026-10-16"
       }
     ],
     "firstSeen": "2026-10-15",
-    "lastSeen": "2026-10-15"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT Ads Target Your Phone Number, Email",
-        "url": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
-        "score": 9,
-        "date": "2026-10-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "ChatGPT Targets Ads to You Based on Your Prompts, Phone Number, and Email",
-        "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
-        "score": 27,
-        "date": "2026-10-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
-        "score": 1,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-15"
+    "lastSeen": "2026-10-16"
   },
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -163,35 +137,124 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 1.3,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
-        "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
-        "score": 15,
-        "date": "2026-10-15"
-      },
       {
         "source": "googlenews",
         "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
         "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       },
       {
         "source": "googlenews",
         "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
         "score": 1,
-        "date": "2026-10-15"
+        "date": "2026-10-16"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-15"
+    "lastSeen": "2026-10-16"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-10-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-16"
+      }
+    ],
+    "firstSeen": "2026-09-07",
+    "lastSeen": "2026-10-16"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-10-16"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-10-16"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-16"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-10-16"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-10-16"
+      }
+    ],
+    "firstSeen": "2026-10-11",
+    "lastSeen": "2026-10-16"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "score": 1,
+        "date": "2026-10-16"
+      }
+    ],
+    "firstSeen": "2026-10-13",
+    "lastSeen": "2026-10-16"
+  },
+  {
+    "toolSlug": "attie",
+    "toolName": "Attie",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+        "score": 1,
+        "date": "2026-10-16"
+      }
+    ],
+    "firstSeen": "2026-10-16",
+    "lastSeen": "2026-10-16"
   },
   {
     "toolSlug": "grai",
     "toolName": "GRAI",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -205,54 +268,9 @@
     "lastSeen": "2026-10-15"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-10-15"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-09-07",
-    "lastSeen": "2026-10-15"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-10-11",
-    "lastSeen": "2026-10-15"
-  },
-  {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -265,40 +283,9 @@
     "lastSeen": "2026-10-15"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-        "score": 1,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-10-13",
-    "lastSeen": "2026-10-15"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Ask a technical question, get an animated explainer you can interrupt",
-        "url": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
-        "score": 5,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-10-15"
-  },
-  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -320,7 +307,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -335,7 +322,7 @@
   {
     "toolSlug": "factory",
     "toolName": "Factory",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -350,7 +337,7 @@
   {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
