@@ -444,7 +444,7 @@
     "toolSlug": "anything",
     "overall": 4.9,
     "performance": 5,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-10-18"
@@ -453,7 +453,7 @@
     "toolSlug": "agent",
     "overall": 6.4,
     "performance": 6,
-    "buzz": 1,
+    "buzz": 1.1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-10-18"
@@ -1362,7 +1362,7 @@
     "toolSlug": "udio",
     "overall": 6.6,
     "performance": 8,
-    "buzz": 2.6,
+    "buzz": 2.3,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-10-18"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7,
     "performance": 7,
-    "buzz": 1.4,
+    "buzz": 1.3,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-10-18"
@@ -2953,9 +2953,9 @@
   },
   {
     "toolSlug": "era",
-    "overall": 5.3,
+    "overall": 5.2,
     "performance": 8,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-10-18"

@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Claude reveals ECDSA curve origins",
         "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "score": 1025,
+        "score": 1043,
         "date": "2026-10-18"
       },
       {
@@ -22,7 +22,19 @@
         "source": "hackernews",
         "title": "How the Claude Code team does code review",
         "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-        "score": 456,
+        "score": 465,
+        "date": "2026-10-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-10-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Adobe comes to Gemini and expands what you can do in Claude - Adobe",
+        "score": 1,
         "date": "2026-10-18"
       },
       {
@@ -50,7 +62,7 @@
         "source": "hackernews",
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
-        "score": 367,
+        "score": 368,
         "date": "2026-10-18"
       }
     ],
@@ -60,7 +72,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -76,7 +88,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -92,8 +104,15 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1,
+    "buzzScore": 1.1,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "score": 18,
+        "date": "2026-10-18"
+      },
       {
         "source": "googlenews",
         "title": "Agentic Martech Surge: 8 Tools Ship in 14 Days [2026] - shattered.io",
@@ -108,7 +127,19 @@
       },
       {
         "source": "googlenews",
-        "title": "AIセキュリティのCoWorker、「Security AI Agentシリーズ」が2026年度グッドデザイン賞を受賞 - PR TIMES",
+        "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
+        "score": 1,
+        "date": "2026-10-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
+        "score": 1,
+        "date": "2026-10-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
         "date": "2026-10-18"
       },
@@ -126,21 +157,6 @@
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-18"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-10-18"
-      }
-    ],
-    "firstSeen": "2026-10-15",
     "lastSeen": "2026-10-18"
   },
   {
@@ -246,9 +262,24 @@
     "lastSeen": "2026-10-18"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-10-18"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-10-18"
+  },
+  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -260,21 +291,5 @@
     ],
     "firstSeen": "2026-10-12",
     "lastSeen": "2026-10-13"
-  },
-  {
-    "toolSlug": "grai",
-    "toolName": "GRAI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "How to Make End-Grain Cutting Boards",
-        "url": "https://a.wholelottanothing.org/how-to-make-end-grain-cutting-boards/",
-        "score": 4,
-        "date": "2026-10-15"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-10-15"
   }
 ]
