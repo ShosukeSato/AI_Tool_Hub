@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-10-19",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude reveals ECDSA curve origins",
+    "date": "2026-10-19",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-10-18",
     "type": "trending",
     "toolSlug": "claude",
@@ -357,24 +366,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Code now reads AGENTS.md if there is no Claude.md",
     "date": "2026-09-20",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-09-19",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Code now reads AGENTS.md if there is no Claude.md",
-    "date": "2026-09-19",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-19",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 8）",
-    "summary": "hackernewsで注目: Show HN: Ax-check.com – Can agents use your product?",
-    "date": "2026-09-19",
     "source": "hackernews"
   }
 ]
