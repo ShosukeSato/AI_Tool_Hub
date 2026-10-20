@@ -3,16 +3,16 @@
     "toolSlug": "chatgpt",
     "overall": 7.2,
     "performance": 9,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-10-20"
   },
   {
     "toolSlug": "claude",
-    "overall": 7.2,
+    "overall": 7.3,
     "performance": 9,
-    "buzz": 2.9,
+    "buzz": 3.4,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-20"
@@ -21,16 +21,16 @@
     "toolSlug": "gemini",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-10-20"
   },
   {
     "toolSlug": "deepseek",
-    "overall": 7.2,
+    "overall": 7.3,
     "performance": 8,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-10-20"
@@ -66,7 +66,7 @@
     "toolSlug": "llama",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 2.2,
+    "buzz": 2,
     "easeOfUse": 6,
     "costPerformance": 9,
     "lastCalculated": "2026-10-20"
@@ -442,18 +442,18 @@
   },
   {
     "toolSlug": "anything",
-    "overall": 4.9,
+    "overall": 5,
     "performance": 5,
-    "buzz": 0.6,
+    "buzz": 1.1,
     "easeOfUse": 6,
     "costPerformance": 6,
     "lastCalculated": "2026-10-20"
   },
   {
     "toolSlug": "agent",
-    "overall": 7.8,
+    "overall": 7.1,
     "performance": 6,
-    "buzz": 10,
+    "buzz": 5.7,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-10-20"
@@ -741,7 +741,7 @@
     "toolSlug": "where",
     "overall": 5.5,
     "performance": 9,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-10-20"
@@ -775,9 +775,9 @@
   },
   {
     "toolSlug": "felo",
-    "overall": 6.3,
+    "overall": 6.4,
     "performance": 7,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-10-20"
@@ -885,7 +885,7 @@
     "toolSlug": "attie",
     "overall": 5.2,
     "performance": 4,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 7,
     "costPerformance": 7,
     "lastCalculated": "2026-10-20"
@@ -894,7 +894,7 @@
     "toolSlug": "rakuten-ai",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-10-20"
@@ -1333,9 +1333,9 @@
   },
   {
     "toolSlug": "hats",
-    "overall": 7.9,
+    "overall": 9.2,
     "performance": 8,
-    "buzz": 1.9,
+    "buzz": 10,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-10-20"
@@ -1594,9 +1594,9 @@
   },
   {
     "toolSlug": "otter-ai",
-    "overall": 7.5,
+    "overall": 6.9,
     "performance": 7,
-    "buzz": 5,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 8,
     "lastCalculated": "2026-10-20"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 7,
+    "overall": 6.9,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-10-20"

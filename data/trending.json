@@ -1,33 +1,42 @@
 [
   {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "score": 664,
+        "date": "2026-10-20"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-10-20"
+  },
+  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 10,
+    "buzzScore": 5.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "RuneScape Bench: MMOs for Agents [video]",
         "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-        "score": 167,
+        "score": 229,
         "date": "2026-10-20"
       },
       {
         "source": "hackernews",
         "title": "Agentic Monitoring",
         "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-        "score": 57,
-        "date": "2026-10-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-        "url": "https://arxiv.org/abs/2610.18861",
-        "score": 502,
+        "score": 112,
         "date": "2026-10-20"
       },
       {
         "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
         "score": 1,
         "date": "2026-10-20"
       },
@@ -39,13 +48,13 @@
       },
       {
         "source": "googlenews",
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
         "score": 1,
         "date": "2026-10-20"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
         "date": "2026-10-20"
       },
@@ -60,12 +69,6 @@
         "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
         "score": 1,
         "date": "2026-10-20"
-      },
-      {
-        "source": "techcrunch",
-        "title": "India becomes the latest country to report rogue AI agent activity",
-        "score": 1,
-        "date": "2026-10-20"
       }
     ],
     "firstSeen": "2026-04-16",
@@ -74,13 +77,27 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 2.9,
+    "buzzScore": 3.4,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
+        "url": "https://github.com/metahumansworld/SIwithin",
+        "score": 6,
+        "date": "2026-10-20"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+        "url": "https://github.com/AbdullahAlhariri/penmentor",
+        "score": 11,
+        "date": "2026-10-20"
+      },
       {
         "source": "hackernews",
         "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
         "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-        "score": 151,
+        "score": 161,
         "date": "2026-10-20"
       },
       {
@@ -91,13 +108,13 @@
       },
       {
         "source": "googlenews",
-        "title": "Adobe comes to Gemini and expands what you can do in Claude - Adobe",
+        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
         "score": 1,
         "date": "2026-10-20"
       },
       {
         "source": "googlenews",
-        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
+        "title": "MagicPod、AIネイティブなテスト自動化を加速させる新しいMCPサーバーを提供開始。国産テスト自動化ツールとして初めてClaudeのコネクタ一覧に掲載 - PR TIMES",
         "score": 1,
         "date": "2026-10-20"
       }
@@ -108,7 +125,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 2.2,
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,19 +139,19 @@
     "lastSeen": "2026-10-18"
   },
   {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 1.9,
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "score": 75,
+        "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
+        "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
+        "score": 11,
         "date": "2026-10-20"
       }
     ],
-    "firstSeen": "2026-10-19",
+    "firstSeen": "2026-10-12",
     "lastSeen": "2026-10-20"
   },
   {
@@ -168,33 +185,18 @@
     "lastSeen": "2026-10-20"
   },
   {
-    "toolSlug": "dify",
-    "toolName": "Dify",
+    "toolSlug": "felo",
+    "toolName": "Felo",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "「Dify」を開発するLangGenius、AIカンファレンス「IF Con Tokyo 2026」を開催。企業のAIは“導入”から“業務プロセスの再設計”へ - PR TIMES",
+        "title": "Felo、SB C&S主催「SaaS Showroom 2026」に出展 ― 情報収集から業務成果の創出まで、企業のAI活用を全国5会場で提案 - PR TIMES",
         "score": 1,
         "date": "2026-10-20"
       }
     ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-10-20"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-09-07",
+    "firstSeen": "2026-10-20",
     "lastSeen": "2026-10-20"
   },
   {
@@ -205,6 +207,21 @@
       {
         "source": "googlenews",
         "title": "議事録作成AI「YOMEL」が「ITreview Grid Award 2026 Fall」のAI議事録自動作成ツール 部門で最高位「Leader」を受賞 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-20"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-10-20"
+  },
+  {
+    "toolSlug": "dify",
+    "toolName": "Dify",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Dify」を開発するLangGenius、AIカンファレンス「IF Con Tokyo 2026」を開催。企業のAIは“導入”から“業務プロセスの再設計”へ - PR TIMES",
         "score": 1,
         "date": "2026-10-20"
       }
@@ -243,9 +260,54 @@
     "lastSeen": "2026-10-20"
   },
   {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "score": 1,
+        "date": "2026-10-20"
+      }
+    ],
+    "firstSeen": "2026-10-20",
+    "lastSeen": "2026-10-20"
+  },
+  {
+    "toolSlug": "otter-ai",
+    "toolName": "Otter.ai",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its meeting tool",
+        "score": 1,
+        "date": "2026-10-20"
+      }
+    ],
+    "firstSeen": "2026-10-20",
+    "lastSeen": "2026-10-20"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-10-20"
+      }
+    ],
+    "firstSeen": "2026-09-07",
+    "lastSeen": "2026-10-20"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -261,7 +323,7 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -276,7 +338,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -291,7 +353,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -312,7 +374,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -323,36 +385,5 @@
     ],
     "firstSeen": "2026-10-16",
     "lastSeen": "2026-10-19"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-10-18"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-10-18"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
-        "url": "https://github.com/morluto/rea",
-        "score": 87,
-        "date": "2026-10-13"
-      }
-    ],
-    "firstSeen": "2026-10-12",
-    "lastSeen": "2026-10-13"
   }
 ]

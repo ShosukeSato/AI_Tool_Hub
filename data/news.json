@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-hats-2026-10-20",
+    "type": "trending",
+    "toolSlug": "hats",
+    "title": "HATS が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "date": "2026-10-20",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-10-19",
     "type": "trending",
     "toolSlug": "claude",
