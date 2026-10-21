@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-hats-2026-10-21",
+    "type": "trending",
+    "toolSlug": "hats",
+    "title": "HATS が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "date": "2026-10-21",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-20",
     "type": "trending",
     "toolSlug": "agent",
@@ -366,24 +375,6 @@
     "title": "Plain が話題沸騰中（バズスコア: 7.9）",
     "summary": "hackernewsで注目: Transformers Explained Visually",
     "date": "2026-09-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-09-21",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: ChatGPT now knows what you do on other websites via ad collector",
-    "date": "2026-09-21",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-21",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-    "date": "2026-09-21",
     "source": "hackernews"
   }
 ]

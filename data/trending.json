@@ -8,124 +8,105 @@
         "source": "hackernews",
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "score": 664,
-        "date": "2026-10-20"
+        "score": 716,
+        "date": "2026-10-21"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-10-20"
+    "lastSeen": "2026-10-21"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 5.7,
+    "buzzScore": 4.5,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+        "url": "https://research.poh.org/bot-benchmarking-2026/",
+        "score": 32,
+        "date": "2026-10-21"
+      },
       {
         "source": "hackernews",
         "title": "RuneScape Bench: MMOs for Agents [video]",
         "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-        "score": 229,
-        "date": "2026-10-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agentic Monitoring",
-        "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-        "score": 112,
-        "date": "2026-10-20"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
-        "score": 1,
-        "date": "2026-10-20"
-      },
-      {
-        "source": "googlenews",
-        "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
-        "score": 1,
-        "date": "2026-10-20"
-      },
-      {
-        "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
-        "score": 1,
-        "date": "2026-10-20"
+        "score": 241,
+        "date": "2026-10-21"
       },
       {
         "source": "googlenews",
         "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       },
       {
-        "source": "techcrunch",
-        "title": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&#8217;t be trusted&#8217;",
+        "source": "googlenews",
+        "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
         "score": 1,
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       },
       {
-        "source": "techcrunch",
-        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "source": "googlenews",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
         "score": 1,
-        "date": "2026-10-20"
+        "date": "2026-10-21"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
+        "score": 1,
+        "date": "2026-10-21"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-20"
+    "lastSeen": "2026-10-21"
   },
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.4,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
-        "url": "https://github.com/metahumansworld/SIwithin",
-        "score": 6,
-        "date": "2026-10-20"
+        "title": "Claude designed protein binders against scorpion neurotoxins",
+        "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+        "score": 98,
+        "date": "2026-10-21"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
         "url": "https://github.com/AbdullahAlhariri/penmentor",
-        "score": 11,
-        "date": "2026-10-20"
-      },
-      {
-        "source": "hackernews",
-        "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-        "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-        "score": 161,
-        "date": "2026-10-20"
+        "score": 57,
+        "date": "2026-10-21"
       },
       {
         "source": "googlenews",
         "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
         "score": 1,
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       },
       {
         "source": "googlenews",
         "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
         "score": 1,
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       },
       {
         "source": "googlenews",
         "title": "MagicPod、AIネイティブなテスト自動化を加速させる新しいMCPサーバーを提供開始。国産テスト自動化ツールとして初めてClaudeのコネクタ一覧に掲載 - PR TIMES",
         "score": 1,
-        "date": "2026-10-20"
+        "date": "2026-10-21"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-20"
+    "lastSeen": "2026-10-21"
   },
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -139,9 +120,151 @@
     "lastSeen": "2026-10-18"
   },
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Gemini 4 Argon is now available for everyone",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "score": 19,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-10-21"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Huntington Bank’s 1866 Studio Taps Google Cloud AI [2026] - shattered.io",
+        "score": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-10-13",
+    "lastSeen": "2026-10-21"
+  },
+  {
+    "toolSlug": "voyage",
+    "toolName": "Voyage",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Virgin Voyages Launches New Mermaid-Themed Brand Campaign Using AI Tools - TravelPulse",
+        "score": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-10-21",
+    "lastSeen": "2026-10-21"
+  },
+  {
+    "toolSlug": "felo",
+    "toolName": "Felo",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Felo、SB C&S主催「SaaS Showroom 2026」に出展 ― 情報収集から業務成果の創出まで、企業のAI活用を全国5会場で提案 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-10-20",
+    "lastSeen": "2026-10-21"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に - PR TIMES",
+        "score": 1,
+        "date": "2026-10-21"
+      },
+      {
+        "source": "techcrunch",
+        "title": "ChatGPT now lets you lock your chats",
+        "score": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-10-21"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-08-10",
+    "lastSeen": "2026-10-21"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-10-11",
+    "lastSeen": "2026-10-21"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in its LEGO era&#8217;",
+        "score": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-10-21",
+    "lastSeen": "2026-10-21"
+  },
+  {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "score": 1,
+        "date": "2026-10-21"
+      }
+    ],
+    "firstSeen": "2026-10-20",
+    "lastSeen": "2026-10-21"
+  },
+  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -155,24 +278,9 @@
     "lastSeen": "2026-10-20"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Huntington 1866 Studio: AI Small Business Tool [2026] - shattered.io",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-10-13",
-    "lastSeen": "2026-10-20"
-  },
-  {
     "toolSlug": "cursor",
     "toolName": "Cursor",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -185,24 +293,9 @@
     "lastSeen": "2026-10-20"
   },
   {
-    "toolSlug": "felo",
-    "toolName": "Felo",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Felo、SB C&S主催「SaaS Showroom 2026」に出展 ― 情報収集から業務成果の創出まで、企業のAI活用を全国5会場で提案 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-10-20",
-    "lastSeen": "2026-10-20"
-  },
-  {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -217,7 +310,7 @@
   {
     "toolSlug": "dify",
     "toolName": "Dify",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -230,54 +323,9 @@
     "lastSeen": "2026-10-20"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-10-20"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-10-11",
-    "lastSeen": "2026-10-20"
-  },
-  {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-10-20",
-    "lastSeen": "2026-10-20"
-  },
-  {
     "toolSlug": "otter-ai",
     "toolName": "Otter.ai",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -292,7 +340,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -307,7 +355,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -321,39 +369,9 @@
     "lastSeen": "2026-10-17"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says - CNBC",
-        "score": 1,
-        "date": "2026-10-19"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-10-19"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "score": 1,
-        "date": "2026-10-19"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-19"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -374,7 +392,7 @@
   {
     "toolSlug": "attie",
     "toolName": "Attie",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
