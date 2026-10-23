@@ -6,59 +6,147 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+        "url": "https://github.com/rbartoli/agent-usage-guard",
+        "score": 22,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude Duet",
         "url": "https://claude.com/product/claude-duet",
-        "score": 509,
-        "date": "2026-10-22"
+        "score": 549,
+        "date": "2026-10-23"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
         "url": "https://github.com/omnara-ai/omnara",
-        "score": 103,
-        "date": "2026-10-22"
+        "score": 110,
+        "date": "2026-10-23"
       },
       {
         "source": "hackernews",
         "title": "Claude Now Works with Google Docs, Sheets, and Slides",
         "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-        "score": 69,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Duet",
-        "url": "https://claude.com/resources/articles/claude-duet",
         "score": 86,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "Using Claude to reduce the attack surface of code",
-        "url": "https://www.anthropic.com/research/attack-surface-reduction",
-        "score": 132,
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       },
       {
         "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "title": "Anthropic unveils Claude Duet AI agent app - Reuters",
         "score": 1,
-        "date": "2026-10-22"
+        "date": "2026-10-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent - The Verge",
+        "score": 1,
+        "date": "2026-10-23"
       },
       {
         "source": "techcrunch",
         "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
         "score": 1,
-        "date": "2026-10-22"
+        "date": "2026-10-23"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-22"
+    "lastSeen": "2026-10-23"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 9.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "score": 321,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+        "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+        "score": 7,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "score": 264,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+        "score": 155,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Zoomtopia 2026: Zoom Introduces AI Agents, New Security Controls - TechRepublic",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Spotify&#8217;s current AI bet is about being the music service that agents choose",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "score": 1,
+        "date": "2026-10-23"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-10-23"
+  },
+  {
+    "toolSlug": "litellm",
+    "toolName": "LiteLLM",
+    "buzzScore": 7.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "score": 588,
+        "date": "2026-10-23"
+      }
+    ],
+    "firstSeen": "2026-10-21",
+    "lastSeen": "2026-10-23"
   },
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 7.3,
+    "buzzScore": 6.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -72,85 +160,9 @@
     "lastSeen": "2026-10-21"
   },
   {
-    "toolSlug": "litellm",
-    "toolName": "LiteLLM",
-    "buzzScore": 6.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "score": 576,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-10-21",
-    "lastSeen": "2026-10-22"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 5.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "score": 260,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "Using thousands of AI agents to uncover new leads in biological data",
-        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-        "score": 153,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "The bridge to agent-scale Git infrastructure",
-        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-        "score": 66,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "Walmart launches tools for AI agents to shop for customers - The Star",
-        "score": 1,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
-        "score": 1,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
-        "score": 1,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Spotify&#8217;s current AI bet is about being the music service that agents choose",
-        "score": 1,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-        "score": 1,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-22"
-  },
-  {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -164,9 +176,78 @@
     "lastSeen": "2026-10-18"
   },
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google announces new Gemini AI productivity tools for business owners - Deccan Herald",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini 3.2 Flash: GoogleのモデルがI/O 2026を前にiOSアプリとAI Studioに突如登場 - Pasquale Pillitteri",
+        "score": 1,
+        "date": "2026-10-23"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-10-23"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
+        "score": 1,
+        "date": "2026-10-23"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "score": 1,
+        "date": "2026-10-23"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-10-23"
+  },
+  {
+    "toolSlug": "deepseek",
+    "toolName": "DeepSeek",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "DeepSeek reportedly raises $15B days after US restrictions",
+        "score": 1,
+        "date": "2026-10-23"
+      }
+    ],
+    "firstSeen": "2026-10-20",
+    "lastSeen": "2026-10-23"
+  },
+  {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -180,57 +261,9 @@
     "lastSeen": "2026-10-22"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
-        "score": 1,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-10-22"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
-        "score": 1,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-10-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Uber puts all 30,000 employees on ChatGPT Work",
-        "score": 1,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-22"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -243,24 +276,9 @@
     "lastSeen": "2026-10-22"
   },
   {
-    "toolSlug": "deepseek",
-    "toolName": "DeepSeek",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "DeepSeek reportedly raises $15B days after US restrictions",
-        "score": 1,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-10-20",
-    "lastSeen": "2026-10-22"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -283,7 +301,7 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -298,7 +316,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -313,7 +331,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -328,7 +346,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -343,7 +361,7 @@
   {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -358,7 +376,7 @@
   {
     "toolSlug": "yomel",
     "toolName": "YOMEL",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -373,7 +391,7 @@
   {
     "toolSlug": "felo",
     "toolName": "Felo",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -388,7 +406,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -399,51 +417,6 @@
       }
     ],
     "firstSeen": "2026-10-12",
-    "lastSeen": "2026-10-20"
-  },
-  {
-    "toolSlug": "cursor",
-    "toolName": "Cursor",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Cursor Origin vs GitHub: AI Code Hosting Launch [2026] - shattered.io",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-10-20",
-    "lastSeen": "2026-10-20"
-  },
-  {
-    "toolSlug": "dify",
-    "toolName": "Dify",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Dify」を開発するLangGenius、AIカンファレンス「IF Con Tokyo 2026」を開催。企業のAIは“導入”から“業務プロセスの再設計”へ - PR TIMES",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-10-20"
-  },
-  {
-    "toolSlug": "otter-ai",
-    "toolName": "Otter.ai",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its meeting tool",
-        "score": 1,
-        "date": "2026-10-20"
-      }
-    ],
-    "firstSeen": "2026-10-20",
     "lastSeen": "2026-10-20"
   }
 ]
