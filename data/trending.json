@@ -6,16 +6,30 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "A practical guide to AI image generation, from diffusion to agents",
+        "url": "https://danielball.com/notes/ai_image_generation.html",
+        "score": 173,
+        "date": "2026-10-24"
+      },
+      {
+        "source": "hackernews",
         "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
         "url": "https://corgi.computer/",
-        "score": 46,
+        "score": 113,
+        "date": "2026-10-24"
+      },
+      {
+        "source": "hackernews",
+        "title": "CowAgent – Open-Source Super AI Assistant",
+        "url": "https://cowagent.ai/en/",
+        "score": 10,
         "date": "2026-10-24"
       },
       {
         "source": "hackernews",
         "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
         "url": "https://github.com/NVIDIA/OpenShell",
-        "score": 490,
+        "score": 496,
         "date": "2026-10-24"
       },
       {
@@ -39,6 +53,18 @@
       {
         "source": "googlenews",
         "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
+        "score": 1,
+        "date": "2026-10-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat - TechCrunch",
+        "score": 1,
+        "date": "2026-10-24"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Here are the top AI agents that can live in your text messages",
         "score": 1,
         "date": "2026-10-24"
       },
@@ -67,7 +93,7 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 7.7,
+    "buzzScore": 6.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -83,7 +109,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 5.3,
+    "buzzScore": 4.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -99,17 +125,45 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.3,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
         "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-        "score": 19,
+        "score": 65,
         "date": "2026-10-24"
       }
     ],
     "firstSeen": "2026-10-15",
+    "lastSeen": "2026-10-24"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude Code slyly adding users' emails to outbound HTTP",
+        "url": "https://twitter.com/chrislakin/status/2113358733548081528",
+        "score": 9,
+        "date": "2026-10-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-10-24"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
+        "score": 1,
+        "date": "2026-10-24"
+      }
+    ],
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-10-24"
   },
   {
@@ -122,21 +176,24 @@
         "title": "New Gemini tools for small business owners - blog.google",
         "score": 1,
         "date": "2026-10-24"
-      },
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-10-24"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
-        "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says - CNBC",
-        "score": 1,
-        "date": "2026-10-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini 3.2 Flash: GoogleのモデルがI/O 2026を前にiOSアプリとAI Studioに突如登場 - Pasquale Pillitteri",
+        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
         "score": 1,
         "date": "2026-10-24"
       }
     ],
-    "firstSeen": "2026-10-19",
+    "firstSeen": "2026-10-24",
     "lastSeen": "2026-10-24"
   },
   {
@@ -144,6 +201,12 @@
     "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
+        "score": 1,
+        "date": "2026-10-24"
+      },
       {
         "source": "googlenews",
         "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
@@ -176,18 +239,18 @@
     "lastSeen": "2026-10-24"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "grok",
+    "toolName": "Grok",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
-        "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
         "score": 1,
         "date": "2026-10-24"
       }
     ],
-    "firstSeen": "2026-04-02",
+    "firstSeen": "2026-10-24",
     "lastSeen": "2026-10-24"
   },
   {
@@ -208,7 +271,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -224,7 +287,7 @@
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -235,66 +298,6 @@
       }
     ],
     "firstSeen": "2026-10-22",
-    "lastSeen": "2026-10-22"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Huntington Bank’s 1866 Studio Taps Google Cloud AI [2026] - shattered.io",
-        "score": 1,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-10-13",
-    "lastSeen": "2026-10-22"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-09-07",
-    "lastSeen": "2026-10-22"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-08-10",
-    "lastSeen": "2026-10-22"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in its LEGO era&#8217;",
-        "score": 1,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-10-21",
     "lastSeen": "2026-10-22"
   }
 ]
