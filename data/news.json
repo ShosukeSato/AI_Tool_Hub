@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-10-24",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+    "date": "2026-10-24",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-litellm-2026-10-24",
+    "type": "trending",
+    "toolSlug": "litellm",
+    "title": "LiteLLM が話題沸騰中（バズスコア: 7.7）",
+    "summary": "hackernewsで注目: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "date": "2026-10-24",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-10-23",
     "type": "trending",
     "toolSlug": "claude",
@@ -411,15 +429,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude discovers a novel enzyme system with CRISPR-like repeats",
     "date": "2026-09-25",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-09-24",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "date": "2026-09-24",
     "source": "hackernews"
   }
 ]
