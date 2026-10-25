@@ -3,7 +3,7 @@
     "toolSlug": "chatgpt",
     "overall": 7.2,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 7,
     "lastCalculated": "2026-10-25"
@@ -12,7 +12,7 @@
     "toolSlug": "claude",
     "overall": 7,
     "performance": 9,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-25"
@@ -30,7 +30,7 @@
     "toolSlug": "deepseek",
     "overall": 7.3,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 7,
     "costPerformance": 10,
     "lastCalculated": "2026-10-25"
@@ -39,16 +39,16 @@
     "toolSlug": "grok",
     "overall": 5.5,
     "performance": 6,
-    "buzz": 1.1,
+    "buzz": 1,
     "easeOfUse": 7,
     "costPerformance": 6,
     "lastCalculated": "2026-10-25"
   },
   {
     "toolSlug": "microsoft-copilot",
-    "overall": 6.4,
+    "overall": 6.3,
     "performance": 7,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-10-25"
@@ -66,7 +66,7 @@
     "toolSlug": "llama",
     "overall": 6.7,
     "performance": 8,
-    "buzz": 0.8,
+    "buzz": 0.7,
     "easeOfUse": 6,
     "costPerformance": 9,
     "lastCalculated": "2026-10-25"
@@ -739,9 +739,9 @@
   },
   {
     "toolSlug": "where",
-    "overall": 5.5,
+    "overall": 5.6,
     "performance": 9,
-    "buzz": 0.6,
+    "buzz": 1.4,
     "easeOfUse": 6,
     "costPerformance": 4,
     "lastCalculated": "2026-10-25"
@@ -804,7 +804,7 @@
     "toolSlug": "com",
     "overall": 6.9,
     "performance": 8,
-    "buzz": 0.9,
+    "buzz": 0.8,
     "easeOfUse": 8,
     "costPerformance": 8,
     "lastCalculated": "2026-10-25"
@@ -892,9 +892,9 @@
   },
   {
     "toolSlug": "rakuten-ai",
-    "overall": 7.1,
+    "overall": 7.2,
     "performance": 7,
-    "buzz": 0.6,
+    "buzz": 1,
     "easeOfUse": 9,
     "costPerformance": 9,
     "lastCalculated": "2026-10-25"
@@ -1333,9 +1333,9 @@
   },
   {
     "toolSlug": "hats",
-    "overall": 8.3,
+    "overall": 8.2,
     "performance": 8,
-    "buzz": 4.3,
+    "buzz": 3.9,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-10-25"
@@ -1585,9 +1585,9 @@
   },
   {
     "toolSlug": "elevenlabs",
-    "overall": 6.7,
+    "overall": 6.6,
     "performance": 9,
-    "buzz": 1,
+    "buzz": 0.9,
     "easeOfUse": 8,
     "costPerformance": 6,
     "lastCalculated": "2026-10-25"
@@ -2413,9 +2413,9 @@
   },
   {
     "toolSlug": "litellm",
-    "overall": 7.5,
+    "overall": 7.4,
     "performance": 8,
-    "buzz": 6.2,
+    "buzz": 5.6,
     "easeOfUse": 7,
     "costPerformance": 8,
     "lastCalculated": "2026-10-25"
@@ -2667,7 +2667,7 @@
     "toolSlug": "plain",
     "overall": 7.2,
     "performance": 7,
-    "buzz": 2.6,
+    "buzz": 2.4,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-10-25"

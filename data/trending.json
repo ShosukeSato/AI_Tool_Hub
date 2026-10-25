@@ -6,37 +6,30 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "A practical guide to AI image generation, from diffusion to agents",
-        "url": "https://danielball.com/notes/ai_image_generation.html",
-        "score": 246,
-        "date": "2026-10-25"
-      },
-      {
-        "source": "hackernews",
         "title": "Making My Blog Readable by AI Agents",
         "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-        "score": 6,
-        "date": "2026-10-25"
-      },
-      {
-        "source": "hackernews",
-        "title": "Progressive disclosure in agents to make them 2.3x faster",
-        "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
-        "score": 12,
+        "score": 26,
         "date": "2026-10-25"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
         "url": "https://corgi.computer/",
-        "score": 126,
+        "score": 134,
         "date": "2026-10-25"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Agentsh – A Decentralized, Scalable Multiagent Harness",
-        "url": "https://github.com/microsoft/Agensh",
-        "score": 5,
+        "title": "A practical guide to AI image generation, from diffusion to agents",
+        "url": "https://danielball.com/notes/ai_image_generation.html",
+        "score": 280,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "hackernews",
+        "title": "Progressive disclosure in agents to make them 2.3x faster",
+        "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
+        "score": 19,
         "date": "2026-10-25"
       },
       {
@@ -53,13 +46,13 @@
       },
       {
         "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
         "date": "2026-10-25"
       },
       {
         "source": "googlenews",
-        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
         "score": 1,
         "date": "2026-10-25"
       },
@@ -94,7 +87,7 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 6.2,
+    "buzzScore": 5.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -110,7 +103,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -126,13 +119,13 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.6,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
         "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-        "score": 72,
+        "score": 74,
         "date": "2026-10-25"
       }
     ],
@@ -140,25 +133,19 @@
     "lastSeen": "2026-10-25"
   },
   {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1.1,
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "score": 3,
-        "date": "2026-10-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "score": 1,
+        "title": "Imagine an AI future where being banned means you are now economically useless",
+        "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+        "score": 23,
         "date": "2026-10-25"
       }
     ],
-    "firstSeen": "2026-10-24",
+    "firstSeen": "2026-10-25",
     "lastSeen": "2026-10-25"
   },
   {
@@ -180,7 +167,13 @@
       },
       {
         "source": "googlenews",
-        "title": "Google brings agentic AI to Gemini, starting with businesses - TechCrunch",
+        "title": "Google、AIノートPC「Googlebook」発表、2026年秋に発売予定 Gemini前提でマウスポインターやデスクトップを再設計 - Ledge.ai",
+        "score": 1,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-10-25"
       }
@@ -189,9 +182,60 @@
     "lastSeen": "2026-10-25"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-10-25"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "score": 1,
+        "date": "2026-10-25"
+      }
+    ],
+    "firstSeen": "2026-10-24",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "score": 1,
+        "date": "2026-10-25"
+      }
+    ],
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-10-25"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -210,36 +254,9 @@
     "lastSeen": "2026-10-25"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
-        "score": 1,
-        "date": "2026-10-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-10-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Uber puts all 30,000 employees on ChatGPT Work",
-        "score": 1,
-        "date": "2026-10-25"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-25"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -254,7 +271,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -269,7 +286,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -284,7 +301,7 @@
   {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -299,7 +316,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -311,21 +328,5 @@
     ],
     "firstSeen": "2026-10-17",
     "lastSeen": "2026-10-18"
-  },
-  {
-    "toolSlug": "poke",
-    "toolName": "Poke",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "LLM Agents Play Pokemon Showdown",
-        "url": "https://olivergrabner.com/research/pokemon/",
-        "score": 13,
-        "date": "2026-10-22"
-      }
-    ],
-    "firstSeen": "2026-10-22",
-    "lastSeen": "2026-10-22"
   }
 ]
