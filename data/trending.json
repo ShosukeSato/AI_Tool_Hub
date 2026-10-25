@@ -8,92 +8,93 @@
         "source": "hackernews",
         "title": "A practical guide to AI image generation, from diffusion to agents",
         "url": "https://danielball.com/notes/ai_image_generation.html",
-        "score": 173,
-        "date": "2026-10-24"
+        "score": 246,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "hackernews",
+        "title": "Making My Blog Readable by AI Agents",
+        "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+        "score": 6,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "hackernews",
+        "title": "Progressive disclosure in agents to make them 2.3x faster",
+        "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
+        "score": 12,
+        "date": "2026-10-25"
       },
       {
         "source": "hackernews",
         "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
         "url": "https://corgi.computer/",
-        "score": 113,
-        "date": "2026-10-24"
+        "score": 126,
+        "date": "2026-10-25"
       },
       {
         "source": "hackernews",
-        "title": "CowAgent – Open-Source Super AI Assistant",
-        "url": "https://cowagent.ai/en/",
-        "score": 10,
-        "date": "2026-10-24"
-      },
-      {
-        "source": "hackernews",
-        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-        "url": "https://github.com/NVIDIA/OpenShell",
-        "score": 496,
-        "date": "2026-10-24"
+        "title": "Show HN: Agentsh – A Decentralized, Scalable Multiagent Harness",
+        "url": "https://github.com/microsoft/Agensh",
+        "score": 5,
+        "date": "2026-10-25"
       },
       {
         "source": "googlenews",
         "title": "Walmart launches tools for AI agents to shop for customers - Reuters",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "source": "googlenews",
         "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password - TechCrunch",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue - CNN",
+        "score": 1,
+        "date": "2026-10-25"
       },
       {
         "source": "googlenews",
         "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
         "score": 1,
-        "date": "2026-10-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
-        "score": 1,
-        "date": "2026-10-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat - TechCrunch",
-        "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "source": "techcrunch",
         "title": "Here are the top AI agents that can live in your text messages",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "source": "techcrunch",
         "title": "Left alone with nothing to do, AI agents started playing",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "source": "techcrunch",
         "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "source": "techcrunch",
         "title": "Spotify&#8217;s current AI bet is about being the music service that agents choose",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-10-24"
+    "lastSeen": "2026-10-25"
   },
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 6.9,
+    "buzzScore": 6.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -109,7 +110,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 4.8,
+    "buzzScore": 4.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -125,18 +126,67 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.7,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
         "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-        "score": 65,
-        "date": "2026-10-24"
+        "score": 72,
+        "date": "2026-10-25"
       }
     ],
     "firstSeen": "2026-10-15",
-    "lastSeen": "2026-10-24"
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
+        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "score": 3,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "score": 1,
+        "date": "2026-10-25"
+      }
+    ],
+    "firstSeen": "2026-10-24",
+    "lastSeen": "2026-10-25"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
+        "score": 1,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google brings agentic AI to Gemini, starting with businesses - TechCrunch",
+        "score": 1,
+        "date": "2026-10-25"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-10-25"
   },
   {
     "toolSlug": "claude",
@@ -144,42 +194,47 @@
     "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Claude Code slyly adding users' emails to outbound HTTP",
-        "url": "https://twitter.com/chrislakin/status/2113358733548081528",
-        "score": 9,
-        "date": "2026-10-24"
-      },
-      {
         "source": "googlenews",
         "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       },
       {
         "source": "techcrunch",
         "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-24"
+    "lastSeen": "2026-10-25"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
+        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-10-25"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "score": 1,
+        "date": "2026-10-25"
       }
     ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-10-24"
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-10-25"
   },
   {
     "toolSlug": "elevenlabs",
@@ -190,43 +245,31 @@
         "source": "googlenews",
         "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
         "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       }
     ],
     "firstSeen": "2026-10-24",
-    "lastSeen": "2026-10-24"
+    "lastSeen": "2026-10-25"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
-        "date": "2026-10-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-10-24"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Uber puts all 30,000 employees on ChatGPT Work",
-        "score": 1,
-        "date": "2026-10-24"
+        "date": "2026-10-25"
       }
     ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-24"
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-25"
   },
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -239,24 +282,9 @@
     "lastSeen": "2026-10-24"
   },
   {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "score": 1,
-        "date": "2026-10-24"
-      }
-    ],
-    "firstSeen": "2026-10-24",
-    "lastSeen": "2026-10-24"
-  },
-  {
     "toolSlug": "deepseek",
     "toolName": "DeepSeek",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -271,7 +299,7 @@
   {
     "toolSlug": "llama",
     "toolName": "Llama",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -287,7 +315,7 @@
   {
     "toolSlug": "poke",
     "toolName": "Poke",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
