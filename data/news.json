@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-plain-2026-10-26",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 8）",
+    "summary": "hackernewsで注目: AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+    "date": "2026-10-26",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-25",
     "type": "trending",
     "toolSlug": "agent",
