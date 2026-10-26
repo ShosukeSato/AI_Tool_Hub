@@ -412,23 +412,5 @@
     "summary": "hackernewsで注目: Drawgent: Coding agent on a live Excalidraw canvas",
     "date": "2026-09-27",
     "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-09-26",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "date": "2026-09-26",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-26",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 9.2）",
-    "summary": "hackernewsで注目: Revealing the details of how OpenAI agents hacked Hugging Face",
-    "date": "2026-09-26",
-    "source": "hackernews"
   }
 ]
