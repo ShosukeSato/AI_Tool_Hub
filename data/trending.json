@@ -8,14 +8,7 @@
         "source": "hackernews",
         "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
         "url": "https://github.com/FrigadeHQ/hob",
-        "score": 125,
-        "date": "2026-10-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-        "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-        "score": 235,
+        "score": 160,
         "date": "2026-10-27"
       }
     ],
@@ -23,25 +16,67 @@
     "lastSeen": "2026-10-27"
   },
   {
-    "toolSlug": "litellm",
-    "toolName": "LiteLLM",
-    "buzzScore": 4.1,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 7.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "score": 591,
-        "date": "2026-10-23"
+        "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+        "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+        "score": 110,
+        "date": "2026-10-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "Ask HN: T'was the night of Claude Reset and quota left: Funniest app you built? ()",
+        "score": 7,
+        "date": "2026-10-27"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-10-27"
       }
     ],
-    "firstSeen": "2026-10-21",
-    "lastSeen": "2026-10-23"
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-10-27"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 7.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Here be monsters: What do you still need to know when agents do the work?",
+        "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+        "score": 94,
+        "date": "2026-10-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Specification First Agentic Development Plugin and Prove",
+        "url": "https://spec-first.dev/",
+        "score": 12,
+        "date": "2026-10-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "We let our cloud agents query prod",
+        "url": "with OIDC, not secrets) (https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
+        "score": 9,
+        "date": "2026-10-27"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-10-27"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.1,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -57,7 +92,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 2.9,
+    "buzzScore": 2.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -71,31 +106,56 @@
     "lastSeen": "2026-10-21"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.5,
+    "toolSlug": "litellm",
+    "toolName": "LiteLLM",
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "OpenAI's agents talked to each other through the CPU Cache",
-        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-        "score": 18,
+        "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+        "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+        "score": 12,
         "date": "2026-10-27"
-      },
+      }
+    ],
+    "firstSeen": "2026-10-21",
+    "lastSeen": "2026-10-27"
+  },
+  {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1.2,
+    "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Here are the top AI agents that can live in your text messages",
+        "source": "hackernews",
+        "title": "Can You Make a 3D Game with AI, If You Don't Know How to Do Anything?",
+        "url": "https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont",
+        "score": 4,
+        "date": "2026-10-27"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-10-27"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
         "date": "2026-10-27"
       },
       {
         "source": "techcrunch",
-        "title": "Left alone with nothing to do, AI agents started playing",
+        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
         "score": 1,
         "date": "2026-10-27"
       }
     ],
-    "firstSeen": "2026-04-16",
+    "firstSeen": "2026-10-27",
     "lastSeen": "2026-10-27"
   },
   {
@@ -108,32 +168,10 @@
         "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
         "score": 1,
         "date": "2026-10-27"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "score": 1,
-        "date": "2026-10-27"
       }
     ],
     "firstSeen": "2026-10-24",
     "lastSeen": "2026-10-27"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Imagine an AI future where being banned means you are now economically useless",
-        "url": "https://twitter.com/boneGPT/status/2114035719853265264",
-        "score": 23,
-        "date": "2026-10-25"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-25"
   },
   {
     "toolSlug": "gemini",
@@ -144,84 +182,112 @@
         "source": "googlenews",
         "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
-        "date": "2026-10-26"
-      },
-      {
-        "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
-        "score": 1,
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-10-26"
+    "lastSeen": "2026-10-27"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "era",
+    "toolName": "Era",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-10-26"
-      },
-      {
-        "source": "googlenews",
-        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-10-26"
+        "date": "2026-10-27"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-10-26"
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-10-27"
+  },
+  {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing GPT-5.5 - OpenAI",
+        "score": 1,
+        "date": "2026-10-27"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-10-27"
+  },
+  {
+    "toolSlug": "",
+    "toolName": "ナレフルチャット",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "法人向け生成AIプラットフォーム「ナレフルチャット」、「【AI-PAX 2026 夏】第3回 AIの実践的な活用展」出展のお知らせ - ドリームニュース",
+        "score": 1,
+        "date": "2026-10-27"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-10-27"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-10-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-10-25"
+        "date": "2026-10-27"
       }
     ],
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-25"
+    "lastSeen": "2026-10-27"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.6,
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-10-25"
+        "date": "2026-10-27"
       }
     ],
-    "firstSeen": "2026-10-24",
-    "lastSeen": "2026-10-25"
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-10-27"
   },
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.6,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
+        "date": "2026-10-27"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-27"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Imagine an AI future where being banned means you are now economically useless",
+        "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+        "score": 23,
         "date": "2026-10-25"
       }
     ],

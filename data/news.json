@@ -9,6 +9,24 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-10-27",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.6）",
+    "summary": "hackernewsで注目: Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "date": "2026-10-27",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-10-27",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 7.5）",
+    "summary": "hackernewsで注目: Here be monsters: What do you still need to know when agents do the work?",
+    "date": "2026-10-27",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-10-26",
     "type": "trending",
     "toolSlug": "plain",
