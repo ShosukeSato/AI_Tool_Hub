@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-10-30",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: We ran AI agent swarms in Minecraft and Mindustry",
+    "date": "2026-10-30",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-10-30",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.3）",
+    "summary": "hackernewsで注目: IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+    "date": "2026-10-30",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-10-29",
     "type": "trending",
     "toolSlug": "claude",
@@ -429,15 +447,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Dots: Always-on agents",
     "date": "2026-10-01",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-09-30",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Dots: Always-on agents",
-    "date": "2026-09-30",
     "source": "hackernews"
   }
 ]
