@@ -8,21 +8,26 @@
         "source": "hackernews",
         "title": "We ran AI agent swarms in Minecraft and Mindustry",
         "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "score": 218,
+        "score": 377,
         "date": "2026-10-30"
       },
       {
         "source": "hackernews",
         "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
         "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-        "score": 417,
+        "score": 441,
         "date": "2026-10-30"
       },
       {
-        "source": "hackernews",
-        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-        "url": "https://surgehq.ai/blog/dayjob-tax",
-        "score": 254,
+        "source": "googlenews",
+        "title": "Microsoft unveils tools to monitor and corral rogue AI agents - GeekWire",
+        "score": 1,
+        "date": "2026-10-30"
+      },
+      {
+        "source": "techcrunch",
+        "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
+        "score": 1,
         "date": "2026-10-30"
       },
       {
@@ -38,27 +43,32 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 8.3,
+    "buzzScore": 6.3,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "score": 429,
+        "date": "2026-10-30"
+      },
       {
         "source": "hackernews",
         "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
         "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
-        "score": 44,
+        "score": 50,
         "date": "2026-10-30"
       },
       {
-        "source": "hackernews",
-        "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-        "url": "https://fig.blue/posts/duet-is-the-future/",
-        "score": 112,
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
         "date": "2026-10-30"
       },
       {
-        "source": "hackernews",
-        "title": "Claude Code regularly sends each background agent’s transcript to its model",
-        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-        "score": 562,
+        "source": "googlenews",
+        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
+        "score": 1,
         "date": "2026-10-30"
       },
       {
@@ -74,13 +84,13 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 2.6,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Zombie stats: Where the numbers AI quotes come from",
         "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-        "score": 154,
+        "score": 174,
         "date": "2026-10-30"
       }
     ],
@@ -90,7 +100,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -106,7 +116,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,7 +132,7 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -169,7 +179,19 @@
       },
       {
         "source": "googlenews",
-        "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
+        "title": "New Gemini tools for small business owners - blog.google",
+        "score": 1,
+        "date": "2026-10-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google brings agentic AI to Gemini, starting with businesses - TechCrunch",
+        "score": 1,
+        "date": "2026-10-30"
+      },
+      {
+        "source": "googlenews",
+        "title": "Google、AIノートPC「Googlebook」発表、2026年秋に発売予定 Gemini前提でマウスポインターやデスクトップを再設計 - Ledge.ai",
         "score": 1,
         "date": "2026-10-30"
       }
@@ -178,63 +200,18 @@
     "lastSeen": "2026-10-30"
   },
   {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Introducing GPT-5.5 - OpenAI",
+        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
         "score": 1,
         "date": "2026-10-30"
       }
     ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-10-30"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-10-30"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-30"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-30"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-30"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-10-30"
-      }
-    ],
-    "firstSeen": "2026-10-27",
+    "firstSeen": "2026-06-26",
     "lastSeen": "2026-10-30"
   },
   {
@@ -253,25 +230,69 @@
     "lastSeen": "2026-10-30"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
     "buzzScore": 0.9,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "She Worried About Cutting Her Medication Dose. ChatGPT Told Her to Push On",
-        "url": "https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html",
-        "score": 21,
-        "date": "2026-10-28"
+        "source": "googlenews",
+        "title": "Introducing GPT-5.5 - OpenAI",
+        "score": 1,
+        "date": "2026-10-30"
       }
     ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-28"
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-10-30"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-10-30"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-30"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-30"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-10-30"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-10-30"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-10-30"
   },
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -282,36 +303,6 @@
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-10-27"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-10-28"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-10-28"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "score": 1,
-        "date": "2026-10-27"
-      }
-    ],
-    "firstSeen": "2026-10-24",
     "lastSeen": "2026-10-27"
   }
 ]
