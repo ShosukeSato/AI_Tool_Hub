@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-10-31",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Sketch Stadium – watch your agent play Pictionary",
+    "date": "2026-10-31",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-10-31",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 9.4）",
+    "summary": "hackernewsで注目: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "date": "2026-10-31",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-30",
     "type": "trending",
     "toolSlug": "agent",
@@ -438,15 +456,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Aweb – Communication for AI Agents",
     "date": "2026-10-02",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-01",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Dots: Always-on agents",
-    "date": "2026-10-01",
     "source": "hackernews"
   }
 ]
