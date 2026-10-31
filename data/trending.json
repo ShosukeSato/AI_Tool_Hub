@@ -1,28 +1,70 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "url": "https://sketch.wakeshift.ai/games/q5ucru",
-        "score": 30,
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "score": 947,
         "date": "2026-10-31"
       },
       {
         "source": "hackernews",
+        "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+        "score": 26,
+        "date": "2026-10-31"
+      },
+      {
+        "source": "hackernews",
+        "title": "Anthropic orders AI tool Claude to stop remaking video games",
+        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+        "score": 7,
+        "date": "2026-10-31"
+      },
+      {
+        "source": "googlenews",
+        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
+        "score": 1,
+        "date": "2026-10-31"
+      },
+      {
+        "source": "googlenews",
+        "title": "AIチェックツール「トラスクエタ」に、Anthropic社のAI「Claude」を搭載 - PR TIMES",
+        "score": 1,
+        "date": "2026-10-31"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-10-31"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 9.3,
+    "mentions": [
+      {
+        "source": "hackernews",
         "title": "We ran AI agent swarms in Minecraft and Mindustry",
         "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "score": 400,
+        "score": 408,
+        "date": "2026-10-31"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+        "url": "https://sketch.wakeshift.ai/games/q5ucru",
+        "score": 35,
         "date": "2026-10-31"
       },
       {
         "source": "hackernews",
         "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
         "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-        "score": 448,
+        "score": 458,
         "date": "2026-10-31"
       },
       {
@@ -54,31 +96,25 @@
     "lastSeen": "2026-10-31"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 9.4,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "score": 821,
-        "date": "2026-10-31"
-      },
-      {
-        "source": "googlenews",
-        "title": "AIチェックツール「トラスクエタ」に、Anthropic社のAI「Claude」を搭載 - PR TIMES",
-        "score": 1,
+        "title": "We Took over ChatGPT Accounts",
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "score": 199,
         "date": "2026-10-31"
       }
     ],
-    "firstSeen": "2026-04-02",
+    "firstSeen": "2026-06-26",
     "lastSeen": "2026-10-31"
   },
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -94,7 +130,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -110,7 +146,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,22 +158,6 @@
     ],
     "firstSeen": "2026-10-15",
     "lastSeen": "2026-10-30"
-  },
-  {
-    "toolSlug": "litellm",
-    "toolName": "LiteLLM",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-        "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-        "score": 65,
-        "date": "2026-10-29"
-      }
-    ],
-    "firstSeen": "2026-10-21",
-    "lastSeen": "2026-10-29"
   },
   {
     "toolSlug": "udio",
@@ -153,6 +173,12 @@
       {
         "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "score": 1,
+        "date": "2026-10-31"
+      },
+      {
+        "source": "googlenews",
+        "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始 - PR TIMES",
         "score": 1,
         "date": "2026-10-31"
       }
@@ -173,7 +199,19 @@
       },
       {
         "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
+        "score": 1,
+        "date": "2026-10-31"
+      },
+      {
+        "source": "googlenews",
         "title": "Google brings agentic AI to Gemini, starting with businesses - TechCrunch",
+        "score": 1,
+        "date": "2026-10-31"
+      },
+      {
+        "source": "googlenews",
+        "title": "新機能11個！2026年10月版「Gemini Drops」 - Jetstream",
         "score": 1,
         "date": "2026-10-31"
       }
@@ -182,9 +220,40 @@
     "lastSeen": "2026-10-31"
   },
   {
+    "toolSlug": "notebooklm",
+    "toolName": "NotebookLM",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【代表のX投稿1,969本・表示1.4億回を自社調査】「保存」が「いいね」を1.13倍上回る。動画つきは文章だけの7.3倍の表示に。保存されやすいAIツール名の1位はNotebookLM - PR TIMES",
+        "score": 1,
+        "date": "2026-10-31"
+      }
+    ],
+    "firstSeen": "2026-10-31",
+    "lastSeen": "2026-10-31"
+  },
+  {
+    "toolSlug": "litellm",
+    "toolName": "LiteLLM",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+        "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+        "score": 65,
+        "date": "2026-10-29"
+      }
+    ],
+    "firstSeen": "2026-10-21",
+    "lastSeen": "2026-10-29"
+  },
+  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -199,7 +268,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -214,7 +283,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -227,24 +296,9 @@
     "lastSeen": "2026-10-31"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
-        "score": 1,
-        "date": "2026-10-30"
-      }
-    ],
-    "firstSeen": "2026-06-26",
-    "lastSeen": "2026-10-30"
-  },
-  {
     "toolSlug": "deepgram",
     "toolName": "Deepgram",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -259,7 +313,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
