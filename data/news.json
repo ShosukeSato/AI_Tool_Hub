@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-11-01",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "date": "2026-11-01",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-10-31",
     "type": "trending",
     "toolSlug": "agent",
@@ -447,15 +456,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Sites in ChatGPT",
     "date": "2026-10-03",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-02",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Aweb – Communication for AI Agents",
-    "date": "2026-10-02",
     "source": "hackernews"
   }
 ]
