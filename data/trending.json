@@ -8,18 +8,78 @@
         "source": "hackernews",
         "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
         "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "score": 985,
-        "date": "2026-11-01"
+        "score": 994,
+        "date": "2026-11-02"
       },
       {
         "source": "googlenews",
         "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
         "score": 1,
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-01"
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 6.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+        "score": 158,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+        "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
+        "score": 42,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "hackernews",
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "score": 418,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Cloudflare Gives AI Agents a Wallet: 20+ Launches [2026] - shattered.io",
+        "score": 1,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Microsoft unveils tools to monitor and corral rogue AI agents - GeekWire",
+        "score": 1,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Walmart launches tools for AI agents to shop for customers - Reuters",
+        "score": 1,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Zest&#8217;s new AI agent finds restaurants and books reservations over text",
+        "score": 1,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "techcrunch",
+        "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-11-02"
   },
   {
     "toolSlug": "chatgpt",
@@ -28,89 +88,42 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "ChatGPT and Codex usage limits merging",
+        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+        "score": 221,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "hackernews",
         "title": "Do the math: How we took over ChatGPT accounts",
         "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
         "score": 357,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "ChatGPT and Codex usage limits merging",
-        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-        "score": 206,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
-        "score": 1,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       }
     ],
     "firstSeen": "2026-06-26",
-    "lastSeen": "2026-11-01"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 5.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-        "score": 96,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "hackernews",
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "score": 414,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Zest&#8217;s new AI agent finds restaurants and books reservations over text",
-        "score": 1,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "techcrunch",
-        "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
-        "score": 1,
-        "date": "2026-11-01"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-01"
+    "lastSeen": "2026-11-02"
   },
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 4.9,
+    "buzzScore": 5.1,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Anthropic blocks users for anything touching training larger models",
         "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-        "score": 430,
-        "date": "2026-11-01"
+        "score": 457,
+        "date": "2026-11-02"
       }
     ],
     "firstSeen": "2026-11-01",
-    "lastSeen": "2026-11-01"
+    "lastSeen": "2026-11-02"
   },
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -124,31 +137,35 @@
     "lastSeen": "2026-10-31"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1.3,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
-        "score": 1,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
-        "score": 1,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-01"
+        "source": "hackernews",
+        "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+        "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
+        "score": 31,
+        "date": "2026-11-02"
       }
     ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-01"
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "In LLM era, can software startup survive? ()",
+        "score": 10,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-11-02",
+    "lastSeen": "2026-11-02"
   },
   {
     "toolSlug": "gemini",
@@ -159,22 +176,37 @@
         "source": "googlenews",
         "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
-        "date": "2026-11-01"
-      },
-      {
-        "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
-        "score": 1,
-        "date": "2026-11-01"
+        "date": "2026-11-02"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-01"
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "score": 1,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-02"
   },
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -187,25 +219,9 @@
     "lastSeen": "2026-11-01"
   },
   {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "score": 716,
-        "date": "2026-10-21"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-10-21"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -221,7 +237,7 @@
   {
     "toolSlug": "notebooklm",
     "toolName": "NotebookLM",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -236,7 +252,7 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -252,7 +268,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -267,7 +283,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -282,7 +298,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -293,20 +309,5 @@
     ],
     "firstSeen": "2026-10-27",
     "lastSeen": "2026-10-31"
-  },
-  {
-    "toolSlug": "deepgram",
-    "toolName": "Deepgram",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-        "score": 1,
-        "date": "2026-10-30"
-      }
-    ],
-    "firstSeen": "2026-10-29",
-    "lastSeen": "2026-10-30"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-11-02",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "date": "2026-11-02",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-01",
     "type": "trending",
     "toolSlug": "claude",
@@ -447,15 +456,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Agents don't need memory, they need documentation",
     "date": "2026-10-04",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-10-03",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Sites in ChatGPT",
-    "date": "2026-10-03",
     "source": "hackernews"
   }
 ]
