@@ -1,80 +1,28 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "score": 994,
-        "date": "2026-11-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "SEプラス、エージェント型AIツールを実務に活かすための新講座「Claude Code入門」開催 - ICT教育ニュース",
-        "score": 1,
-        "date": "2026-11-02"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-02"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 6.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-        "score": 158,
+        "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+        "url": "https://longcat.ai/blog/longcat-2.5/",
+        "score": 64,
         "date": "2026-11-02"
       },
       {
         "source": "hackernews",
-        "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
-        "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
-        "score": 42,
+        "title": "Agentic backdoors via pretraining poisoning",
+        "url": "https://arxiv.org/abs/2610.37741",
+        "score": 56,
         "date": "2026-11-02"
       },
       {
         "source": "hackernews",
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "score": 418,
-        "date": "2026-11-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "Cloudflare Gives AI Agents a Wallet: 20+ Launches [2026] - shattered.io",
-        "score": 1,
-        "date": "2026-11-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "Microsoft unveils tools to monitor and corral rogue AI agents - GeekWire",
-        "score": 1,
-        "date": "2026-11-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "Walmart launches tools for AI agents to shop for customers - Reuters",
-        "score": 1,
-        "date": "2026-11-02"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Zest&#8217;s new AI agent finds restaurants and books reservations over text",
-        "score": 1,
-        "date": "2026-11-02"
-      },
-      {
-        "source": "techcrunch",
-        "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
-        "score": 1,
+        "title": "Last night an AI agent performed brain surgery on a mouse",
+        "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+        "score": 110,
         "date": "2026-11-02"
       }
     ],
@@ -82,32 +30,25 @@
     "lastSeen": "2026-11-02"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 6.2,
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 6.7,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "ChatGPT and Codex usage limits merging",
-        "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-        "score": 221,
-        "date": "2026-11-02"
-      },
-      {
-        "source": "hackernews",
-        "title": "Do the math: How we took over ChatGPT accounts",
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "score": 357,
+        "title": "Never Complain, Never Explain",
+        "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+        "score": 145,
         "date": "2026-11-02"
       }
     ],
-    "firstSeen": "2026-06-26",
+    "firstSeen": "2026-10-15",
     "lastSeen": "2026-11-02"
   },
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 5.1,
+    "buzzScore": 4.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -121,9 +62,85 @@
     "lastSeen": "2026-11-02"
   },
   {
+    "toolSlug": "bond",
+    "toolName": "Bond",
+    "buzzScore": 4.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+        "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+        "score": 79,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-11-02",
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 3.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+        "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+        "score": 64,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "gpt-rosalind",
+    "toolName": "GPT-Rosalind",
+    "buzzScore": 3.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GPT-Rosalind-6 System Card Addendum",
+        "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+        "score": 58,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing GPT-Rosalind for life sciences research - OpenAI",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-11-02",
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 3.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Egoless Mathematics in the AI Era",
+        "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+        "score": 56,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-11-02",
+    "lastSeen": "2026-11-02"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -139,7 +156,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -153,14 +170,35 @@
     "lastSeen": "2026-11-02"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "In LLM era, can software startup survive? ()",
-        "score": 10,
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-11-02"
+      },
+      {
+        "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "grok",
+    "toolName": "Grok",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Elon Musk throttles Grok Bot limits due to &#8216;unsustainably high&#8217; costs",
+        "score": 1,
         "date": "2026-11-02"
       }
     ],
@@ -168,18 +206,33 @@
     "lastSeen": "2026-11-02"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "source": "techcrunch",
+        "title": "OpenAI is finally merging ChatGPT&#8217;s Chat and Work tabs",
         "score": 1,
         "date": "2026-11-02"
       }
     ],
-    "firstSeen": "2026-10-19",
+    "firstSeen": "2026-06-26",
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "gpt-5-5",
+    "toolName": "GPT-5.5",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing GPT-5.5 - OpenAI",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-11-02",
     "lastSeen": "2026-11-02"
   },
   {
@@ -189,13 +242,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
-        "score": 1,
-        "date": "2026-11-02"
-      },
-      {
-        "source": "googlenews",
-        "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始 - PR TIMES",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
         "date": "2026-11-02"
       }
@@ -204,9 +251,54 @@
     "lastSeen": "2026-11-02"
   },
   {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-02"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-02"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-02"
+  },
+  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -219,25 +311,9 @@
     "lastSeen": "2026-11-01"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
-        "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
-        "score": 40,
-        "date": "2026-10-30"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-10-30"
-  },
-  {
     "toolSlug": "notebooklm",
     "toolName": "NotebookLM",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -252,7 +328,7 @@
   {
     "toolSlug": "litellm",
     "toolName": "LiteLLM",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -264,50 +340,5 @@
     ],
     "firstSeen": "2026-10-21",
     "lastSeen": "2026-10-29"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-10-31"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-31"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-10-31"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-31"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-10-31"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-10-31"
   }
 ]
