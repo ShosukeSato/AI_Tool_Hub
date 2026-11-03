@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-11-03",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: LongCat-2.5: Native Multimodality for Agentic Tasks",
+    "date": "2026-11-03",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-02",
     "type": "trending",
     "toolSlug": "claude",
@@ -447,24 +456,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Agents don't need memory, they need documentation",
     "date": "2026-10-05",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-10-04",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Sites in ChatGPT",
-    "date": "2026-10-04",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-04",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Agents don't need memory, they need documentation",
-    "date": "2026-10-04",
     "source": "hackernews"
   }
 ]
