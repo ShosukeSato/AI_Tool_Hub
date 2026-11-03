@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-hats-2026-11-03",
+    "type": "trending",
+    "toolSlug": "hats",
+    "title": "HATS が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: OpenAI seems to be silently re-enabling model training on Codex chats ()",
+    "date": "2026-11-03",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-02",
     "type": "trending",
     "toolSlug": "claude",
