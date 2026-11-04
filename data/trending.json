@@ -1,13 +1,41 @@
 [
   {
-    "toolSlug": "hats",
-    "toolName": "HATS",
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Tell HN: Gemini trains on chat history, even for subscribers",
+        "url": "personal accounts) (",
+        "score": 522,
+        "date": "2026-11-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-11-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
+        "score": 1,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-04"
+  },
+  {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 9.8,
+    "mentions": [
+      {
+        "source": "hackernews",
         "title": "OpenAI seems to be silently re-enabling model training on Codex chats ()",
-        "score": 453,
+        "score": 510,
         "date": "2026-11-04"
       }
     ],
@@ -17,7 +45,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 5,
+    "buzzScore": 4.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -33,7 +61,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 4.7,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -49,7 +77,7 @@
   {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 3.8,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -63,9 +91,25 @@
     "lastSeen": "2026-11-04"
   },
   {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "url": "https://uncracked.city",
+        "score": 119,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-04"
+  },
+  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 3.3,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
@@ -81,7 +125,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -103,7 +147,7 @@
   {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 2.4,
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -117,25 +161,9 @@
     "lastSeen": "2026-11-03"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-        "url": "https://uncracked.city",
-        "score": 9,
-        "date": "2026-11-04"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-04"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -152,27 +180,6 @@
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-04"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-04"
-      },
-      {
-        "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
-        "score": 1,
-        "date": "2026-11-04"
-      }
-    ],
-    "firstSeen": "2026-10-19",
     "lastSeen": "2026-11-04"
   },
   {
@@ -198,6 +205,12 @@
       {
         "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "score": 1,
+        "date": "2026-11-04"
+      },
+      {
+        "source": "googlenews",
+        "title": "M5 MaxとM5 Ultraを搭載した新しいMac Studioを発表 - Apple",
         "score": 1,
         "date": "2026-11-04"
       }
@@ -268,7 +281,7 @@
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -283,7 +296,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -304,7 +317,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",

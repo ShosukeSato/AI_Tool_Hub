@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-gemini-2026-11-04",
+    "type": "trending",
+    "toolSlug": "gemini",
+    "title": "Gemini が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Tell HN: Gemini trains on chat history, even for subscribers",
+    "date": "2026-11-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-03",
     "type": "trending",
     "toolSlug": "agent",
