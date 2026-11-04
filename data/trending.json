@@ -7,33 +7,17 @@
       {
         "source": "hackernews",
         "title": "OpenAI seems to be silently re-enabling model training on Codex chats ()",
-        "score": 245,
-        "date": "2026-11-03"
+        "score": 453,
+        "date": "2026-11-04"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-03"
-  },
-  {
-    "toolSlug": "superhuman",
-    "toolName": "Superhuman",
-    "buzzScore": 5.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "LLMs are not superhuman at reading and writing neural network weights",
-        "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-        "score": 131,
-        "date": "2026-11-03"
-      }
-    ],
-    "firstSeen": "2026-11-03",
-    "lastSeen": "2026-11-03"
+    "lastSeen": "2026-11-04"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 5.6,
+    "buzzScore": 5,
     "mentions": [
       {
         "source": "hackernews",
@@ -49,7 +33,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 5.2,
+    "buzzScore": 4.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -63,9 +47,25 @@
     "lastSeen": "2026-11-03"
   },
   {
+    "toolSlug": "superhuman",
+    "toolName": "Superhuman",
+    "buzzScore": 3.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "LLMs are not superhuman at reading and writing neural network weights",
+        "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+        "score": 142,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-11-03",
+    "lastSeen": "2026-11-04"
+  },
+  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -81,7 +81,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.3,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
@@ -103,7 +103,7 @@
   {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -117,110 +117,158 @@
     "lastSeen": "2026-11-03"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.9,
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Railway employee's agent caught hacking competitors",
-        "url": "https://twitter.com/ns123abc/status/2117497728737620197",
-        "score": 23,
-        "date": "2026-11-03"
+        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "url": "https://uncracked.city",
+        "score": 9,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-04"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "IKEA Turned 8,500 Call Agents into Design Consultants",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ikea-turned-8500-call-agents-into-design-consultants/",
+        "score": 9,
+        "date": "2026-11-04"
       },
       {
         "source": "techcrunch",
         "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
         "score": 1,
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-03"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.4,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Zombie stats: Where the numbers AI quotes come from",
-        "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-        "score": 177,
-        "date": "2026-10-31"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-10-31"
+    "lastSeen": "2026-11-04"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       },
       {
         "source": "googlenews",
         "title": "New Gemini tools for small business owners - blog.google",
         "score": 1,
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-03"
+    "lastSeen": "2026-11-04"
   },
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
         "score": 1,
-        "date": "2026-11-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       }
     ],
     "firstSeen": "2026-11-02",
-    "lastSeen": "2026-11-03"
+    "lastSeen": "2026-11-04"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "score": 1,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-04"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-11-03"
-      },
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-11-03"
+        "date": "2026-11-04"
       }
     ],
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-03"
+    "lastSeen": "2026-11-04"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-04"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-04"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal",
+        "score": 1,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-11-04",
+    "lastSeen": "2026-11-04"
   },
   {
     "toolSlug": "grok",
     "toolName": "Grok",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
@@ -233,54 +281,9 @@
     "lastSeen": "2026-11-03"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
-        "score": 1,
-        "date": "2026-11-03"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-03"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-11-03"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-03"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-03"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-03"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -301,7 +304,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -312,20 +315,5 @@
     ],
     "firstSeen": "2026-11-02",
     "lastSeen": "2026-11-03"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "SpotifyがElevenLabsのAI技術を搭載したオーディオブック作成ツールをリリース - GIGAZINE",
-        "score": 1,
-        "date": "2026-11-01"
-      }
-    ],
-    "firstSeen": "2026-11-01",
-    "lastSeen": "2026-11-01"
   }
 ]

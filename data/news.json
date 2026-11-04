@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-hats-2026-11-04",
+    "type": "trending",
+    "toolSlug": "hats",
+    "title": "HATS が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: OpenAI seems to be silently re-enabling model training on Codex chats ()",
+    "date": "2026-11-04",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-03",
     "type": "trending",
     "toolSlug": "agent",
@@ -456,15 +465,6 @@
     "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
     "date": "2026-10-06",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-05",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Agents don't need memory, they need documentation",
-    "date": "2026-10-05",
     "source": "hackernews"
   }
 ]
