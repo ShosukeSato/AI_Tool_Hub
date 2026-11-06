@@ -1,133 +1,32 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 10,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-        "url": "https://github.com/AGGIB/Stroq",
-        "score": 76,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-        "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-        "score": 182,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-        "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-        "score": 81,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Basically no one is using AI agents for their DoorDash orders",
-        "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-        "score": 170,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-        "url": "https://www.ricursive.com/ripple",
-        "score": 334,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Ask HN: What's your current AI agentic setup? ()",
-        "score": 513,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-        "score": 102,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue - CNBC",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "Snowflake Helps Enterprises Deploy AI Agents with Trusted Business Context and Built-In Controls - Snowflake",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "Box Unveils AI Agent Tools and NVIDIA Partnership at BoxWorks 2026 - Yahoo Finance",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Aina&#8217;s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Almost no one uses AI agents to book their Uber, company says",
-        "score": 1,
-        "date": "2026-11-06"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-06"
-  },
-  {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 7.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenAI seems to be silently re-enabling model training on Codex chats ()",
-        "score": 510,
-        "date": "2026-11-04"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-04"
-  },
-  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 5.7,
+    "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude Code sends your email address to websites",
         "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "score": 756,
+        "score": 1515,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "AI for scientific discovery: How researchers use Claude",
+        "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+        "score": 74,
         "date": "2026-11-06"
       },
       {
         "source": "googlenews",
         "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
+        "score": 1,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "Claude's new Personal Finance tool aims to help analyze your spending - read-only, of course - ZDNET",
         "score": 1,
         "date": "2026-11-06"
       },
@@ -142,31 +41,40 @@
     "lastSeen": "2026-11-06"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 5.4,
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 6.4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Tell HN: Gemini trains on chat history, even for subscribers",
-        "url": "personal accounts) (",
-        "score": 712,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips - blog.google",
-        "score": 1,
-        "date": "2026-11-06"
+        "title": "OpenAI seems to be silently re-enabling model training on Codex chats ()",
+        "score": 510,
+        "date": "2026-11-04"
       }
     ],
     "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-04"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 3.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "MCP Explained",
+        "url": "https://mcp-explained.com/",
+        "score": 327,
+        "date": "2026-11-06"
+      }
+    ],
+    "firstSeen": "2026-10-15",
     "lastSeen": "2026-11-06"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 3.3,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
@@ -180,25 +88,9 @@
     "lastSeen": "2026-11-03"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "MCP Explained",
-        "url": "https://mcp-explained.com/",
-        "score": 270,
-        "date": "2026-11-06"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-06"
-  },
-  {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -214,7 +106,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -230,7 +122,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 2,
+    "buzzScore": 1.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -244,9 +136,90 @@
     "lastSeen": "2026-11-06"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
+        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+        "score": 6,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+        "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+        "score": 17,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "AI coding agent setups from 663 Hacker News comments",
+        "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
+        "score": 6,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agentic Loops and the Headless Internet",
+        "url": "https://francisshanahan.substack.com/p/agentic-loops-and-the-headless-internet",
+        "score": 4,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "Stop running everything through LLMs: How I fixed my research agent",
+        "url": "https://www.tinyfish.ai/blog/inside-tinyresearch",
+        "score": 17,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agents are trying to contact authors distributed by Project Gutenberg",
+        "url": "https://tilde.zone/@gluejar/117559748979718063",
+        "score": 4,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue - CNBC",
+        "score": 1,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "score": 1,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "score": 1,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+        "score": 1,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Aina&#8217;s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+        "score": 1,
+        "date": "2026-11-06"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-11-06"
+  },
+  {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 1.6,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -260,19 +233,40 @@
     "lastSeen": "2026-11-03"
   },
   {
-    "toolSlug": "bild-ai",
-    "toolName": "Bild AI",
-    "buzzScore": 1,
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Bild AI",
-        "url": "YC W25) Is Hiring Founding Product Engineers (https://www.ycombinator.com/companies/bild-ai/jobs",
+        "title": "Perplexity launches AI agents for work",
+        "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+        "score": 17,
+        "date": "2026-11-06"
+      }
+    ],
+    "firstSeen": "2026-11-06",
+    "lastSeen": "2026-11-06"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips - blog.google",
+        "score": 1,
+        "date": "2026-11-06"
+      },
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
         "date": "2026-11-06"
       }
     ],
-    "firstSeen": "2026-11-05",
+    "firstSeen": "2026-10-19",
     "lastSeen": "2026-11-06"
   },
   {
@@ -312,9 +306,25 @@
     "lastSeen": "2026-11-06"
   },
   {
+    "toolSlug": "bild-ai",
+    "toolName": "Bild AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Bild AI",
+        "url": "YC W25) Is Hiring Founding Product Engineers (https://www.ycombinator.com/companies/bild-ai/jobs",
+        "score": 1,
+        "date": "2026-11-06"
+      }
+    ],
+    "firstSeen": "2026-11-05",
+    "lastSeen": "2026-11-06"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -329,7 +339,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -344,7 +354,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -359,7 +369,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -370,20 +380,5 @@
     ],
     "firstSeen": "2026-11-02",
     "lastSeen": "2026-11-04"
-  },
-  {
-    "toolSlug": "grok",
-    "toolName": "Grok",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Elon Musk throttles Grok Bot limits due to &#8216;unsustainably high&#8217; costs",
-        "score": 1,
-        "date": "2026-11-03"
-      }
-    ],
-    "firstSeen": "2026-11-02",
-    "lastSeen": "2026-11-03"
   }
 ]
