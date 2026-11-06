@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-11-06",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Stroq – a local audit of what your coding agent did and why",
+    "date": "2026-11-06",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-hats-2026-11-06",
+    "type": "trending",
+    "toolSlug": "hats",
+    "title": "HATS が話題沸騰中（バズスコア: 7.1）",
+    "summary": "hackernewsで注目: OpenAI seems to be silently re-enabling model training on Codex chats ()",
+    "date": "2026-11-06",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-05",
     "type": "trending",
     "toolSlug": "agent",
@@ -465,24 +483,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude Haiku 5.5",
     "date": "2026-10-08",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-07",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: South Korea says AI agents appear to have been used to hack the country's banks",
-    "date": "2026-10-07",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-07",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Haiku 5.5",
-    "date": "2026-10-07",
     "source": "hackernews"
   }
 ]
