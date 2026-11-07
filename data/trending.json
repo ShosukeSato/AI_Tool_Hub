@@ -8,42 +8,48 @@
         "source": "hackernews",
         "title": "Claude Code sends your email address to websites",
         "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "score": 1515,
-        "date": "2026-11-06"
+        "score": 1561,
+        "date": "2026-11-07"
       },
       {
         "source": "hackernews",
         "title": "AI for scientific discovery: How researchers use Claude",
         "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-        "score": 74,
-        "date": "2026-11-06"
+        "score": 90,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude usage credits purchased after Dec 7 will expire 12 months after purchase ()",
+        "score": 10,
+        "date": "2026-11-07"
       },
       {
         "source": "googlenews",
         "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
         "score": 1,
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       },
       {
         "source": "googlenews",
         "title": "Claude's new Personal Finance tool aims to help analyze your spending - read-only, of course - ZDNET",
         "score": 1,
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       },
       {
         "source": "techcrunch",
         "title": "Claude can now analyze your spending with its new Personal Finance tool",
         "score": 1,
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-06"
+    "lastSeen": "2026-11-07"
   },
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 6.4,
+    "buzzScore": 5.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -64,17 +70,17 @@
         "source": "hackernews",
         "title": "MCP Explained",
         "url": "https://mcp-explained.com/",
-        "score": 327,
-        "date": "2026-11-06"
+        "score": 333,
+        "date": "2026-11-07"
       }
     ],
     "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-06"
+    "lastSeen": "2026-11-07"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 3,
+    "buzzScore": 2.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -90,7 +96,7 @@
   {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -104,9 +110,93 @@
     "lastSeen": "2026-11-04"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+        "url": "https://github.com/andrewboldi/tmux-restore",
+        "score": 19,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+        "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+        "score": 25,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
+        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+        "score": 12,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "hackernews",
+        "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+        "url": "https://sketchagent.dev/",
+        "score": 9,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "hackernews",
+        "title": "AI coding agent setups from 663 Hacker News comments",
+        "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
+        "score": 19,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "googlenews",
+        "title": "Legaltech Rundown: Harvey Launches Litigation Tool, Agiloft Debuts New AI Agents, and More - Law.com",
+        "score": 1,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "score": 1,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "score": 1,
+        "date": "2026-11-07"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+        "score": 1,
+        "date": "2026-11-07"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-11-07"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+        "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+        "score": 83,
+        "date": "2026-11-07"
+      }
+    ],
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-07"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -122,7 +212,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -136,90 +226,9 @@
     "lastSeen": "2026-11-06"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms",
-        "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
-        "score": 6,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-        "url": "https://github.com/zalando-incubator/agentic-identity-broker",
-        "score": 17,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "AI coding agent setups from 663 Hacker News comments",
-        "url": "https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html",
-        "score": 6,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agentic Loops and the Headless Internet",
-        "url": "https://francisshanahan.substack.com/p/agentic-loops-and-the-headless-internet",
-        "score": 4,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Stop running everything through LLMs: How I fixed my research agent",
-        "url": "https://www.tinyfish.ai/blog/inside-tinyresearch",
-        "score": 17,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "hackernews",
-        "title": "Agents are trying to contact authors distributed by Project Gutenberg",
-        "url": "https://tilde.zone/@gluejar/117559748979718063",
-        "score": 4,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue - CNBC",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
-        "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Aina&#8217;s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-        "score": 1,
-        "date": "2026-11-06"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-06"
-  },
-  {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -233,22 +242,6 @@
     "lastSeen": "2026-11-03"
   },
   {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Perplexity launches AI agents for work",
-        "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
-        "score": 17,
-        "date": "2026-11-06"
-      }
-    ],
-    "firstSeen": "2026-11-06",
-    "lastSeen": "2026-11-06"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
@@ -257,17 +250,26 @@
         "source": "googlenews",
         "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips - blog.google",
         "score": 1,
-        "date": "2026-11-06"
-      },
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-06"
+    "lastSeen": "2026-11-07"
+  },
+  {
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Perplexity launches its own take on AI agents for work - The Verge",
+        "score": 1,
+        "date": "2026-11-07"
+      }
+    ],
+    "firstSeen": "2026-11-06",
+    "lastSeen": "2026-11-07"
   },
   {
     "toolSlug": "udio",
@@ -276,19 +278,19 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Google Is Ditching Firebase Studio Soon, And It Wants You To Use Its Newer AI Tools Instead - Engadget",
+        "title": "Apple Creator Studio gets powerful new AI features using OpenAI models [U: Now available] - 9to5Mac",
         "score": 1,
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       },
       {
         "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-06"
+    "lastSeen": "2026-11-07"
   },
   {
     "toolSlug": "rakuten-ai",
@@ -299,16 +301,16 @@
         "source": "googlenews",
         "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
         "score": 1,
-        "date": "2026-11-06"
+        "date": "2026-11-07"
       }
     ],
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-06"
+    "lastSeen": "2026-11-07"
   },
   {
     "toolSlug": "bild-ai",
     "toolName": "Bild AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -324,7 +326,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -339,7 +341,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -354,7 +356,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -365,20 +367,5 @@
     ],
     "firstSeen": "2026-11-04",
     "lastSeen": "2026-11-05"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
-        "score": 1,
-        "date": "2026-11-04"
-      }
-    ],
-    "firstSeen": "2026-11-02",
-    "lastSeen": "2026-11-04"
   }
 ]
