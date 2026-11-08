@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-11-08",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "date": "2026-11-08",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-07",
     "type": "trending",
     "toolSlug": "claude",
@@ -474,24 +483,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Rewriting Prime Agent in Rust",
     "date": "2026-10-10",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-09",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "date": "2026-10-09",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-09",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-    "date": "2026-10-09",
     "source": "hackernews"
   }
 ]
