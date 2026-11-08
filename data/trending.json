@@ -6,23 +6,23 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "score": 253,
+        "title": "Goodbye Claude, hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "score": 560,
         "date": "2026-11-08"
       },
       {
         "source": "hackernews",
-        "title": "Goodbye Claude, Hello Pi",
-        "url": "https://caleb.software/posts/claude-to-pi.html",
-        "score": 6,
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "score": 505,
         "date": "2026-11-08"
       },
       {
         "source": "hackernews",
         "title": "Claude Code sends your email address to websites",
         "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "score": 1592,
+        "score": 1597,
         "date": "2026-11-08"
       },
       {
@@ -38,7 +38,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 4.7,
+    "buzzScore": 4.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -53,7 +53,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.4,
+    "buzzScore": 3.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -67,36 +67,33 @@
     "lastSeen": "2026-11-07"
   },
   {
-    "toolSlug": "bond",
-    "toolName": "Bond",
-    "buzzScore": 2.2,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-        "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-        "score": 175,
-        "date": "2026-11-03"
-      }
-    ],
-    "firstSeen": "2026-11-02",
-    "lastSeen": "2026-11-03"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.1,
-    "mentions": [
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "score": 125,
+        "date": "2026-11-08"
+      },
       {
         "source": "hackernews",
         "title": "The Components of Agent Memory",
         "url": "https://www.anthropic.com/research/components-of-agent-memory",
-        "score": 154,
+        "score": 166,
         "date": "2026-11-08"
       },
       {
         "source": "googlenews",
         "title": "Legaltech Rundown: Harvey Launches Litigation Tool, Agiloft Debuts New AI Agents, and More - Law.com",
+        "score": 1,
+        "date": "2026-11-08"
+      },
+      {
+        "source": "googlenews",
+        "title": "Cloudflare Gives AI Agents a Wallet: 20+ Launches [2026] - shattered.io",
         "score": 1,
         "date": "2026-11-08"
       },
@@ -123,9 +120,25 @@
     "lastSeen": "2026-11-08"
   },
   {
+    "toolSlug": "bond",
+    "toolName": "Bond",
+    "buzzScore": 2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+        "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+        "score": 175,
+        "date": "2026-11-03"
+      }
+    ],
+    "firstSeen": "2026-11-02",
+    "lastSeen": "2026-11-03"
+  },
+  {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -141,7 +154,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -157,13 +170,13 @@
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
         "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "score": 59,
+        "score": 74,
         "date": "2026-11-08"
       },
       {
@@ -185,7 +198,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -201,7 +214,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -213,22 +226,6 @@
     ],
     "firstSeen": "2026-11-01",
     "lastSeen": "2026-11-06"
-  },
-  {
-    "toolSlug": "gpt-rosalind",
-    "toolName": "GPT-Rosalind",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GPT-Rosalind-6 System Card Addendum",
-        "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-        "score": 66,
-        "date": "2026-11-03"
-      }
-    ],
-    "firstSeen": "2026-11-02",
-    "lastSeen": "2026-11-03"
   },
   {
     "toolSlug": "gemini",
@@ -249,21 +246,6 @@
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-08"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
-        "score": 1,
-        "date": "2026-11-08"
-      }
-    ],
-    "firstSeen": "2026-11-08",
     "lastSeen": "2026-11-08"
   },
   {
@@ -312,9 +294,40 @@
     "lastSeen": "2026-11-08"
   },
   {
+    "toolSlug": "gpt-rosalind",
+    "toolName": "GPT-Rosalind",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "GPT-Rosalind-6 System Card Addendum",
+        "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+        "score": 66,
+        "date": "2026-11-03"
+      }
+    ],
+    "firstSeen": "2026-11-02",
+    "lastSeen": "2026-11-03"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
+        "score": 1,
+        "date": "2026-11-08"
+      }
+    ],
+    "firstSeen": "2026-11-08",
+    "lastSeen": "2026-11-08"
+  },
+  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -325,21 +338,5 @@
     ],
     "firstSeen": "2026-11-06",
     "lastSeen": "2026-11-07"
-  },
-  {
-    "toolSlug": "bild-ai",
-    "toolName": "Bild AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Bild AI",
-        "url": "YC W25) Is Hiring Founding Product Engineers (https://www.ycombinator.com/companies/bild-ai/jobs",
-        "score": 1,
-        "date": "2026-11-06"
-      }
-    ],
-    "firstSeen": "2026-11-05",
-    "lastSeen": "2026-11-06"
   }
 ]
