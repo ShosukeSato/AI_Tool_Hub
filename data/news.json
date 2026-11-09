@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-11-09",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "date": "2026-11-09",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-08",
     "type": "trending",
     "toolSlug": "claude",
@@ -474,15 +483,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Five months treating bugs like patients and coding agents like a medical team",
     "date": "2026-10-11",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-10",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Rewriting Prime Agent in Rust",
-    "date": "2026-10-10",
     "source": "hackernews"
   }
 ]
