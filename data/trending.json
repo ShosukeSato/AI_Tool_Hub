@@ -6,30 +6,51 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "score": 109,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "score": 744,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
+        "url": "https://github.com/sshah03/recalc",
+        "score": 19,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Fable 5.2 launch offers",
+        "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
+        "score": 9,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Testing Claude on real-world electronics design",
+        "url": "https://www.anthropic.com/research/claude-electronics-design",
+        "score": 9,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Fable 5.2",
+        "url": "https://twitter.com/claudeai/status/2119867114450268322",
+        "score": 26,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "hackernews",
         "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
         "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "score": 670,
-        "date": "2026-11-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Goodbye Claude, hello Pi",
-        "url": "https://caleb.software/posts/claude-to-pi.html",
-        "score": 716,
-        "date": "2026-11-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "score": 596,
-        "date": "2026-11-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Code sends your email address to websites",
-        "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "score": 1603,
+        "score": 874,
         "date": "2026-11-09"
       },
       {
@@ -45,7 +66,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 3.8,
+    "buzzScore": 3.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -58,9 +79,49 @@
     "lastSeen": "2026-11-04"
   },
   {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+        "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+        "score": 221,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Ask HN: How do you manage your AI agents' context across clients and projects? ()",
+        "score": 84,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "hackernews",
+        "title": "Ask HN: How do you evaluate the skills your AI agents use? ()",
+        "score": 18,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "score": 1,
+        "date": "2026-11-09"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "score": 1,
+        "date": "2026-11-09"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-11-09"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -74,62 +135,52 @@
     "lastSeen": "2026-11-07"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.1,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Ask HN: How do you manage your AI agents' context across clients and projects? ()",
-        "score": 17,
+        "title": "ChatGPT Desktop forwards your SSH agent to remote machines ()",
+        "score": 197,
         "date": "2026-11-09"
-      },
+      }
+    ],
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-09"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.7,
+    "mentions": [
       {
         "source": "hackernews",
-        "title": "Agent memory needs its OpenTelemetry moment",
-        "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-        "score": 177,
-        "date": "2026-11-09"
-      },
-      {
-        "source": "hackernews",
-        "title": "The Components of Agent Memory",
-        "url": "https://www.anthropic.com/research/components-of-agent-memory",
-        "score": 178,
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "url": "https://github.com/thisisme6598/gemini_files/",
+        "score": 130,
         "date": "2026-11-09"
       },
       {
         "source": "googlenews",
-        "title": "Legaltech Rundown: Harvey Launches Litigation Tool, Agiloft Debuts New AI Agents, and More - Law.com",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
         "date": "2026-11-09"
       },
       {
-        "source": "techcrunch",
-        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-        "score": 1,
-        "date": "2026-11-09"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "score": 1,
-        "date": "2026-11-09"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+        "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
         "score": 1,
         "date": "2026-11-09"
       }
     ],
-    "firstSeen": "2026-04-16",
+    "firstSeen": "2026-10-19",
     "lastSeen": "2026-11-09"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 1.8,
+    "buzzScore": 1.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -145,7 +196,7 @@
   {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -159,33 +210,41 @@
     "lastSeen": "2026-11-04"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.3,
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-        "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-        "score": 91,
-        "date": "2026-11-07"
+        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "url": "https://uncracked.city",
+        "score": 123,
+        "date": "2026-11-05"
       }
     ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-07"
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-05"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "America's newest small business owners with no employees are off to a hot start in AI era - CNBC",
+        "score": 1,
+        "date": "2026-11-09"
+      }
+    ],
+    "firstSeen": "2026-11-08",
+    "lastSeen": "2026-11-09"
   },
   {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.2,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "score": 79,
-        "date": "2026-11-09"
-      },
       {
         "source": "googlenews",
         "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
@@ -200,74 +259,6 @@
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-09"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-        "url": "https://uncracked.city",
-        "score": 123,
-        "date": "2026-11-05"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-05"
-  },
-  {
-    "toolSlug": "anything",
-    "toolName": "Anything",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
-        "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-        "score": 159,
-        "date": "2026-11-06"
-      }
-    ],
-    "firstSeen": "2026-11-01",
-    "lastSeen": "2026-11-06"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
-        "score": 1,
-        "date": "2026-11-09"
-      },
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-09"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-09"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
-        "score": 1,
-        "date": "2026-11-09"
-      }
-    ],
-    "firstSeen": "2026-11-08",
     "lastSeen": "2026-11-09"
   },
   {
@@ -286,9 +277,55 @@
     "lastSeen": "2026-11-09"
   },
   {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "score": 1,
+        "date": "2026-11-09"
+      }
+    ],
+    "firstSeen": "2026-11-09",
+    "lastSeen": "2026-11-09"
+  },
+  {
+    "toolSlug": "mythos",
+    "toolName": "Mythos",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "score": 1,
+        "date": "2026-11-09"
+      }
+    ],
+    "firstSeen": "2026-11-09",
+    "lastSeen": "2026-11-09"
+  },
+  {
+    "toolSlug": "anything",
+    "toolName": "Anything",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+        "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+        "score": 159,
+        "date": "2026-11-06"
+      }
+    ],
+    "firstSeen": "2026-11-01",
+    "lastSeen": "2026-11-06"
+  },
+  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -303,7 +340,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -318,7 +355,7 @@
   {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -334,7 +371,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
