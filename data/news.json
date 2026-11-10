@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-gemini-2026-11-10",
+    "type": "trending",
+    "toolSlug": "gemini",
+    "title": "Gemini が話題沸騰中（バズスコア: 7.9）",
+    "summary": "hackernewsで注目: Gemini 4 Carbon is now available",
+    "date": "2026-11-10",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-09",
     "type": "trending",
     "toolSlug": "claude",

@@ -6,49 +6,28 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+        "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+        "score": 9,
+        "date": "2026-11-10"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude Fable 5.2 and Mythos 5.2",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "score": 402,
+        "score": 850,
         "date": "2026-11-10"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
         "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "score": 324,
+        "score": 364,
         "date": "2026-11-10"
       },
       {
-        "source": "hackernews",
-        "title": "Claude Fable 5.2 launch offers",
-        "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
-        "score": 23,
-        "date": "2026-11-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals",
-        "url": "https://github.com/sshah03/recalc",
-        "score": 29,
-        "date": "2026-11-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Testing Claude on real-world electronics design",
-        "url": "https://www.anthropic.com/research/claude-electronics-design",
-        "score": 25,
-        "date": "2026-11-10"
-      },
-      {
-        "source": "hackernews",
-        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "score": 887,
-        "date": "2026-11-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "Claude can now analyze your spending with its new Personal Finance tool - TechCrunch",
+        "source": "techcrunch",
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
         "score": 1,
         "date": "2026-11-10"
       }
@@ -59,24 +38,31 @@
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 3.7,
+    "buzzScore": 7.9,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Gemini 4 Carbon is now available",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+        "score": 236,
+        "date": "2026-11-10"
+      },
       {
         "source": "hackernews",
         "title": "Google Gemini routes personal Drive files and emails to human annotators",
         "url": "https://github.com/thisisme6598/gemini_files/",
-        "score": 508,
+        "score": 700,
         "date": "2026-11-10"
       },
       {
         "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "title": "Google Cloud Launches Gemini for Healthcare - Google Cloud Press Corner",
         "score": 1,
         "date": "2026-11-10"
       },
       {
         "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
         "date": "2026-11-10"
       }
@@ -87,7 +73,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 3.1,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -100,40 +86,43 @@
     "lastSeen": "2026-11-04"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.3,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "MCP Explained",
-        "url": "https://mcp-explained.com/",
-        "score": 340,
-        "date": "2026-11-07"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-07"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 2.1,
-    "mentions": [
+        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance",
+        "score": 54,
+        "date": "2026-11-10"
+      },
       {
-        "source": "hackernews",
-        "title": "ChatGPT Desktop forwards your SSH agent to remote machines ()",
-        "score": 207,
+        "source": "googlenews",
+        "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - IBM Newsroom",
+        "score": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "score": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "score": 1,
         "date": "2026-11-10"
       }
     ],
-    "firstSeen": "2026-11-07",
+    "firstSeen": "2026-04-16",
     "lastSeen": "2026-11-10"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -149,7 +138,7 @@
   {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -163,18 +152,19 @@
     "lastSeen": "2026-11-04"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
+    "toolSlug": "plain",
+    "toolName": "Plain",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "America's newest small business owners with no employees are off to a hot start in AI era - CNBC",
-        "score": 1,
+        "source": "hackernews",
+        "title": "Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint",
+        "url": "https://github.com/wolveflake/wolvekafka",
+        "score": 5,
         "date": "2026-11-10"
       }
     ],
-    "firstSeen": "2026-11-08",
+    "firstSeen": "2026-10-15",
     "lastSeen": "2026-11-10"
   },
   {
@@ -184,7 +174,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "title": "Adobe Firefly is now a creative studio, and it means AI is everything everywhere all at once - Creative Bloq",
         "score": 1,
         "date": "2026-11-10"
       },
@@ -196,6 +186,27 @@
       }
     ],
     "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-10"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "America's newest small business owners with no employees are off to a hot start in AI era - CNBC",
+        "score": 1,
+        "date": "2026-11-10"
+      },
+      {
+        "source": "techcrunch",
+        "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "score": 1,
+        "date": "2026-11-10"
+      }
+    ],
+    "firstSeen": "2026-11-08",
     "lastSeen": "2026-11-10"
   },
   {
@@ -214,18 +225,18 @@
     "lastSeen": "2026-11-10"
   },
   {
-    "toolSlug": "com",
-    "toolName": "アド.com",
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "source": "techcrunch",
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
         "score": 1,
         "date": "2026-11-10"
       }
     ],
-    "firstSeen": "2026-10-27",
+    "firstSeen": "2026-11-07",
     "lastSeen": "2026-11-10"
   },
   {
@@ -244,9 +255,24 @@
     "lastSeen": "2026-11-10"
   },
   {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-10"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-10"
+  },
+  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -259,24 +285,9 @@
     "lastSeen": "2026-11-10"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-        "score": 1,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-10"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -292,7 +303,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -308,7 +319,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -323,7 +334,7 @@
   {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
