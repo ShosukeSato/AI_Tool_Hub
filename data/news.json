@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-11-10",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude Fable 5.2 and Mythos 5.2",
+    "date": "2026-11-10",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-09",
     "type": "trending",
     "toolSlug": "claude",
@@ -474,15 +483,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: 500B tokens later: Letting AI agents decompile a first-person shooter",
     "date": "2026-10-12",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-11",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Five months treating bugs like patients and coding agents like a medical team",
-    "date": "2026-10-11",
     "source": "hackernews"
   }
 ]
