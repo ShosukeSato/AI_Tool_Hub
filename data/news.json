@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-claude-2026-11-11",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Life on Claude Nine",
+    "date": "2026-11-11",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-10",
     "type": "trending",
     "toolSlug": "claude",
@@ -483,15 +492,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Launch HN: Agent37",
     "date": "2026-10-13",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-12",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: 500B tokens later: Letting AI agents decompile a first-person shooter",
-    "date": "2026-10-12",
     "source": "hackernews"
   }
 ]

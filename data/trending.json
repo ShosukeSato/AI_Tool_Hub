@@ -6,74 +6,113 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Life on Claude Nine",
+        "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+        "score": 92,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "hackernews",
         "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
         "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-        "score": 9,
-        "date": "2026-11-10"
+        "score": 165,
+        "date": "2026-11-11"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5.2 and Mythos 5.2",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "score": 850,
-        "date": "2026-11-10"
+        "score": 883,
+        "date": "2026-11-11"
       },
       {
-        "source": "hackernews",
-        "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "score": 364,
-        "date": "2026-11-10"
+        "source": "googlenews",
+        "title": "Anthropic Goes for Microsoft’s Crown With New Claude-Powered Office Tools - Gizmodo",
+        "score": 1,
+        "date": "2026-11-11"
       },
       {
         "source": "techcrunch",
         "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
         "score": 1,
-        "date": "2026-11-10"
+        "date": "2026-11-11"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-10"
+    "lastSeen": "2026-11-11"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 7.9,
+    "buzzScore": 6.7,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Gemini 4 Carbon is now available",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-        "score": 236,
-        "date": "2026-11-10"
-      },
       {
         "source": "hackernews",
         "title": "Google Gemini routes personal Drive files and emails to human annotators",
         "url": "https://github.com/thisisme6598/gemini_files/",
-        "score": 700,
-        "date": "2026-11-10"
+        "score": 716,
+        "date": "2026-11-11"
       },
       {
         "source": "googlenews",
         "title": "Google Cloud Launches Gemini for Healthcare - Google Cloud Press Corner",
         "score": 1,
-        "date": "2026-11-10"
+        "date": "2026-11-11"
       },
       {
         "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "title": "New Gemini tools for small business owners - blog.google",
         "score": 1,
-        "date": "2026-11-10"
+        "date": "2026-11-11"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-10"
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 3.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance",
+        "score": 307,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "googlenews",
+        "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation - Microsoft Source",
+        "score": 1,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "googlenews",
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly - TechCrunch",
+        "score": 1,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "score": 1,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-11-11"
   },
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -86,43 +125,31 @@
     "lastSeen": "2026-11-04"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.4,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-        "url": "https://github.com/GoogleChrome/modern-web-guidance",
-        "score": 54,
-        "date": "2026-11-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - IBM Newsroom",
-        "score": 1,
-        "date": "2026-11-10"
+        "title": "Businesses in ChatGPT – OpenAI",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+        "score": 33,
+        "date": "2026-11-11"
       },
       {
         "source": "techcrunch",
-        "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
         "score": 1,
-        "date": "2026-11-10"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-        "score": 1,
-        "date": "2026-11-10"
+        "date": "2026-11-11"
       }
     ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-10"
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-11"
   },
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -136,9 +163,121 @@
     "lastSeen": "2026-11-10"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint",
+        "url": "https://github.com/wolveflake/wolvekafka",
+        "score": 11,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create - Adobe Newsroom",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "score": 1,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-11-08",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-11-08",
+    "lastSeen": "2026-11-11"
+  },
+  {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -152,97 +291,9 @@
     "lastSeen": "2026-11-04"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint",
-        "url": "https://github.com/wolveflake/wolvekafka",
-        "score": 5,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-10"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Adobe Firefly is now a creative studio, and it means AI is everything everywhere all at once - Creative Bloq",
-        "score": 1,
-        "date": "2026-11-10"
-      },
-      {
-        "source": "googlenews",
-        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
-        "score": 1,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-10"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "America's newest small business owners with no employees are off to a hot start in AI era - CNBC",
-        "score": 1,
-        "date": "2026-11-10"
-      },
-      {
-        "source": "techcrunch",
-        "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-        "score": 1,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-11-08",
-    "lastSeen": "2026-11-10"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-10"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-        "score": 1,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-10"
-  },
-  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -255,24 +306,9 @@
     "lastSeen": "2026-11-10"
   },
   {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-10"
-  },
-  {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -285,25 +321,9 @@
     "lastSeen": "2026-11-10"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-        "url": "https://uncracked.city",
-        "score": 123,
-        "date": "2026-11-05"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-05"
-  },
-  {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -315,36 +335,5 @@
     ],
     "firstSeen": "2026-11-01",
     "lastSeen": "2026-11-06"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-09"
-      }
-    ],
-    "firstSeen": "2026-11-08",
-    "lastSeen": "2026-11-09"
-  },
-  {
-    "toolSlug": "gpt-rosalind",
-    "toolName": "GPT-Rosalind",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "GPT-Rosalind-6 System Card Addendum",
-        "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-        "score": 66,
-        "date": "2026-11-03"
-      }
-    ],
-    "firstSeen": "2026-11-02",
-    "lastSeen": "2026-11-03"
   }
 ]
