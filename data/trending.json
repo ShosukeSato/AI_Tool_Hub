@@ -6,28 +6,28 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Life on Claude Nine",
-        "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-        "score": 92,
+        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+        "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+        "score": 274,
         "date": "2026-11-11"
       },
       {
         "source": "hackernews",
-        "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-        "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-        "score": 165,
+        "title": "Prompting Claude Fable 5.2",
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
+        "score": 6,
         "date": "2026-11-11"
       },
       {
         "source": "hackernews",
         "title": "Claude Fable 5.2 and Mythos 5.2",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "score": 883,
+        "score": 907,
         "date": "2026-11-11"
       },
       {
         "source": "googlenews",
-        "title": "Anthropic Goes for Microsoft’s Crown With New Claude-Powered Office Tools - Gizmodo",
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
         "score": 1,
         "date": "2026-11-11"
       },
@@ -42,43 +42,36 @@
     "lastSeen": "2026-11-11"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 6.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Google Gemini routes personal Drive files and emails to human annotators",
-        "url": "https://github.com/thisisme6598/gemini_files/",
-        "score": 716,
-        "date": "2026-11-11"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google Cloud Launches Gemini for Healthcare - Google Cloud Press Corner",
-        "score": 1,
-        "date": "2026-11-11"
-      },
-      {
-        "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
-        "score": 1,
-        "date": "2026-11-11"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-11"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 3.5,
+    "buzzScore": 8.9,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-        "url": "https://github.com/GoogleChrome/modern-web-guidance",
-        "score": 307,
+        "title": "AWS Emulator and the engineer's job when agents write the code",
+        "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+        "score": 33,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "hackernews",
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "url": "https://pietromiotti.com/latest/maya-site/?maya",
+        "score": 820,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "hackernews",
+        "title": "Atuin Threads: All your agent sessions on every machine",
+        "url": "https://blog.atuin.sh/threads-agent-sessions/",
+        "score": 130,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Klad, a paint app your coding agent can drive",
+        "url": "source-available) (https://github.com/klad-app/klad",
+        "score": 47,
         "date": "2026-11-11"
       },
       {
@@ -90,6 +83,18 @@
       {
         "source": "googlenews",
         "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly - TechCrunch",
+        "score": 1,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+        "score": 1,
+        "date": "2026-11-11"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
         "score": 1,
         "date": "2026-11-11"
       },
@@ -112,7 +117,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -125,31 +130,9 @@
     "lastSeen": "2026-11-04"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Businesses in ChatGPT – OpenAI",
-        "url": "https://openai.com/index/introducing-businesses-chatgpt/",
-        "score": 33,
-        "date": "2026-11-11"
-      },
-      {
-        "source": "techcrunch",
-        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-        "score": 1,
-        "date": "2026-11-11"
-      }
-    ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-11"
-  },
-  {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -163,19 +146,18 @@
     "lastSeen": "2026-11-10"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1.1,
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint",
-        "url": "https://github.com/wolveflake/wolvekafka",
-        "score": 11,
+        "source": "googlenews",
+        "title": "Google Cloud Launches Gemini for Healthcare - Google Cloud Press Corner",
+        "score": 1,
         "date": "2026-11-11"
       }
     ],
-    "firstSeen": "2026-10-15",
+    "firstSeen": "2026-10-19",
     "lastSeen": "2026-11-11"
   },
   {
@@ -194,16 +176,31 @@
     "lastSeen": "2026-11-11"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms - Reuters",
         "score": 1,
         "date": "2026-11-11"
       },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
@@ -230,36 +227,6 @@
     "lastSeen": "2026-11-11"
   },
   {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-11-11"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-11"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-11"
-      }
-    ],
-    "firstSeen": "2026-11-08",
-    "lastSeen": "2026-11-11"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
     "buzzScore": 1,
@@ -275,9 +242,55 @@
     "lastSeen": "2026-11-11"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: WolveKafka – Consume Kafka with a plain HTTP endpoint",
+        "url": "https://github.com/wolveflake/wolvekafka",
+        "score": 11,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-11"
+  },
+  {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-11"
+      }
+    ],
+    "firstSeen": "2026-11-08",
+    "lastSeen": "2026-11-11"
+  },
+  {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -293,7 +306,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -308,7 +321,7 @@
   {
     "toolSlug": "mythos",
     "toolName": "Mythos",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -323,7 +336,7 @@
   {
     "toolSlug": "anything",
     "toolName": "Anything",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",

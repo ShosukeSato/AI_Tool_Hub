@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-11-11",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 8.9）",
+    "summary": "hackernewsで注目: AWS Emulator and the engineer's job when agents write the code",
+    "date": "2026-11-11",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-10",
     "type": "trending",
     "toolSlug": "claude",
