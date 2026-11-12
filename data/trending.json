@@ -6,43 +6,37 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-        "score": 493,
+        "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+        "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+        "score": 30,
         "date": "2026-11-12"
       },
       {
         "source": "hackernews",
-        "title": "My AI agents found an unmapped Maya site?",
-        "url": "https://pietromiotti.com/latest/maya-site",
-        "score": 957,
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "score": 648,
+        "date": "2026-11-12"
+      },
+      {
+        "source": "hackernews",
+        "title": "I gave an agent a lakehouse and control of my garden",
+        "url": "https://jatorre.github.io/garden/",
+        "score": 129,
         "date": "2026-11-12"
       },
       {
         "source": "hackernews",
         "title": "Atuin Threads: All your agent sessions on every machine",
         "url": "https://blog.atuin.sh/threads-agent-sessions/",
-        "score": 207,
+        "score": 229,
         "date": "2026-11-12"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Klad, a paint app your coding agent can drive",
-        "url": "source-available) (https://github.com/klad-app/klad",
-        "score": 76,
-        "date": "2026-11-12"
-      },
-      {
-        "source": "hackernews",
-        "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-        "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-        "score": 28,
-        "date": "2026-11-12"
-      },
-      {
-        "source": "googlenews",
-        "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation - Microsoft Source",
-        "score": 1,
+        "title": "My AI agents found an unmapped Maya site?",
+        "url": "https://pietromiotti.com/latest/maya-site",
+        "score": 1023,
         "date": "2026-11-12"
       },
       {
@@ -52,14 +46,20 @@
         "date": "2026-11-12"
       },
       {
-        "source": "techcrunch",
-        "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+        "source": "googlenews",
+        "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation - Microsoft Source",
         "score": 1,
         "date": "2026-11-12"
       },
       {
         "source": "techcrunch",
-        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+        "score": 1,
+        "date": "2026-11-12"
+      },
+      {
+        "source": "techcrunch",
+        "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
         "score": 1,
         "date": "2026-11-12"
       }
@@ -70,7 +70,7 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -92,7 +92,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -135,6 +135,12 @@
         "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
         "date": "2026-11-12"
+      },
+      {
+        "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
+        "score": 1,
+        "date": "2026-11-12"
       }
     ],
     "firstSeen": "2026-10-19",
@@ -160,6 +166,12 @@
     "toolName": "Udio",
     "buzzScore": 1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "score": 1,
+        "date": "2026-11-12"
+      },
       {
         "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
@@ -188,7 +200,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -203,7 +215,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -219,7 +231,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -234,7 +246,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -249,7 +261,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -265,7 +277,7 @@
   {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -281,26 +293,11 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "score": 1,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-11-09",
-    "lastSeen": "2026-11-10"
-  },
-  {
-    "toolSlug": "mythos",
-    "toolName": "Mythos",
     "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
-        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
         "score": 1,
         "date": "2026-11-10"
       }
