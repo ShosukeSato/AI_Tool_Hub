@@ -1,53 +1,82 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "score": 458,
+        "date": "2026-11-13"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Is Down",
+        "url": "https://status.claude.com/history",
+        "score": 191,
+        "date": "2026-11-13"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Is Superhuman at Translating Poetry Now",
+        "url": "https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating",
+        "score": 5,
+        "date": "2026-11-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
+        "score": 1,
+        "date": "2026-11-13"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-13"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 8.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Gnomon. Git for Postgres data, built for agents",
+        "url": "https://github.com/bitsinfra/gnomon",
+        "score": 15,
+        "date": "2026-11-13"
+      },
+      {
+        "source": "hackernews",
         "title": "Brave Search API now accepts agentic payments via the x402 protocol",
         "url": "https://brave.com/blog/search-api-agentic-payments/",
-        "score": 9,
+        "score": 242,
         "date": "2026-11-13"
       },
       {
         "source": "hackernews",
         "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
         "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-        "score": 88,
+        "score": 132,
         "date": "2026-11-13"
       },
       {
         "source": "hackernews",
         "title": "I gave an agent a lakehouse and control of my garden",
         "url": "https://jatorre.github.io/garden/",
-        "score": 138,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "Atuin Threads: All your agent sessions on every machine",
-        "url": "https://blog.atuin.sh/threads-agent-sessions/",
-        "score": 234,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-        "score": 667,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation - Microsoft Source",
-        "score": 1,
+        "score": 143,
         "date": "2026-11-13"
       },
       {
         "source": "googlenews",
         "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues - SiliconANGLE",
+        "score": 1,
+        "date": "2026-11-13"
+      },
+      {
+        "source": "googlenews",
+        "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - IBM Newsroom",
         "score": 1,
         "date": "2026-11-13"
       },
@@ -76,7 +105,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.7,
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -89,26 +118,22 @@
     "lastSeen": "2026-11-04"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
     "buzzScore": 1.1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Show HN: I built a Rick and Morty explainer video generator",
-        "url": "https://usediorama.com/rick-and-morty",
-        "score": 9,
+        "source": "googlenews",
+        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
+        "score": 1,
         "date": "2026-11-13"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-13"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
+      },
+      {
+        "source": "googlenews",
+        "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases - Reuters",
+        "score": 1,
+        "date": "2026-11-13"
+      },
       {
         "source": "googlenews",
         "title": "Introducing Businesses in ChatGPT - OpenAI",
@@ -118,6 +143,12 @@
       {
         "source": "googlenews",
         "title": "「Gemini」の検索が1年で約6倍、ChatGPTとの差は7倍から2.5倍に──Claudeは4.4倍（TECH NOISY調べ） - PR TIMES",
+        "score": 1,
+        "date": "2026-11-13"
+      },
+      {
+        "source": "techcrunch",
+        "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
         "score": 1,
         "date": "2026-11-13"
       }
@@ -132,13 +163,7 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Gemini 4 Carbon is now available - blog.google",
-        "score": 1,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "Google Cloud Launches Gemini for Healthcare - Google Cloud Press Corner",
+        "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
         "score": 1,
         "date": "2026-11-13"
       },
@@ -150,21 +175,6 @@
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-13"
-  },
-  {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
-        "score": 1,
-        "date": "2026-11-13"
-      }
-    ],
-    "firstSeen": "2026-04-02",
     "lastSeen": "2026-11-13"
   },
   {
@@ -189,33 +199,12 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
-        "score": 1,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
         "date": "2026-11-13"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-13"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-11-13"
-      }
-    ],
-    "firstSeen": "2026-10-25",
     "lastSeen": "2026-11-13"
   },
   {
@@ -234,9 +223,55 @@
     "lastSeen": "2026-11-13"
   },
   {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
+        "score": 1,
+        "date": "2026-11-13"
+      }
+    ],
+    "firstSeen": "2026-11-13",
+    "lastSeen": "2026-11-13"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: I built a Rick and Morty explainer video generator",
+        "url": "https://usediorama.com/rick-and-morty",
+        "score": 9,
+        "date": "2026-11-13"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-11-13"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-11-13"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-13"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -251,7 +286,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -267,7 +302,7 @@
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -278,21 +313,5 @@
     ],
     "firstSeen": "2026-11-08",
     "lastSeen": "2026-11-11"
-  },
-  {
-    "toolSlug": "superhuman",
-    "toolName": "Superhuman",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "LLMs are not superhuman at reading and writing neural network weights",
-        "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-        "score": 142,
-        "date": "2026-11-04"
-      }
-    ],
-    "firstSeen": "2026-11-03",
-    "lastSeen": "2026-11-04"
   }
 ]

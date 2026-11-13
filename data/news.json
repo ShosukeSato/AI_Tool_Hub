@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-11-13",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "date": "2026-11-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-12",
     "type": "trending",
     "toolSlug": "agent",
