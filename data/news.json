@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-11-13",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Brave Search API now accepts agentic payments via the x402 protocol",
+    "date": "2026-11-13",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-12",
     "type": "trending",
     "toolSlug": "agent",
@@ -483,24 +492,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: LFM2.5-24B-A2B: Built for fast on-device agents",
     "date": "2026-10-15",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-14",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
-    "date": "2026-10-14",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-udio-2026-10-14",
-    "type": "trending",
-    "toolSlug": "udio",
-    "title": "Udio が話題沸騰中（バズスコア: 9.5）",
-    "summary": "hackernewsで注目: Show HN: Use your OpenAI subscription to create audiobooks",
-    "date": "2026-10-14",
     "source": "hackernews"
   }
 ]
