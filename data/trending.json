@@ -6,28 +6,28 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Meetings",
-        "url": "https://claude.com/resources/articles/claude-meetings",
-        "score": 79,
-        "date": "2026-11-14"
-      },
-      {
-        "source": "hackernews",
-        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-        "url": "https://claude.com/resources/articles/projects-redesigned",
-        "score": 67,
+        "title": "Show HN: Cyberviber – a $15 touch screen to show which Claude session needs you",
+        "url": "https://cyberviber.de/",
+        "score": 8,
         "date": "2026-11-14"
       },
       {
         "source": "hackernews",
         "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
         "url": "https://status.claude.com/incidents/nn11wk485zfn",
-        "score": 488,
+        "score": 489,
+        "date": "2026-11-14"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude Meetings",
+        "url": "https://claude.com/resources/articles/claude-meetings",
+        "score": 105,
         "date": "2026-11-14"
       },
       {
         "source": "googlenews",
-        "title": "With IPO looming, Anthropic launches Claude product for manufacturers - Business Insider",
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
         "score": 1,
         "date": "2026-11-14"
       }
@@ -36,32 +36,50 @@
     "lastSeen": "2026-11-14"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 4.8,
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 3.1,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-        "url": "https://brave.com/blog/search-api-agentic-payments/",
-        "score": 258,
+        "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+        "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+        "score": 143,
+        "date": "2026-11-14"
+      }
+    ],
+    "firstSeen": "2026-11-14",
+    "lastSeen": "2026-11-14"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "score": 47,
+        "date": "2026-11-14"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agile Manifesto for Agents",
+        "url": "https://debarshibasak.github.io/readables/blogs/agent-first-development",
+        "score": 10,
+        "date": "2026-11-14"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+        "url": "https://www.shotoku.dev/",
+        "score": 4,
         "date": "2026-11-14"
       },
       {
         "source": "googlenews",
         "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands - TechCrunch",
-        "score": 1,
-        "date": "2026-11-14"
-      },
-      {
-        "source": "googlenews",
-        "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues - SiliconANGLE",
-        "score": 1,
-        "date": "2026-11-14"
-      },
-      {
-        "source": "googlenews",
-        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly - TechCrunch",
         "score": 1,
         "date": "2026-11-14"
       },
@@ -76,37 +94,15 @@
         "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
         "score": 1,
         "date": "2026-11-14"
-      },
-      {
-        "source": "techcrunch",
-        "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-        "score": 1,
-        "date": "2026-11-14"
       }
     ],
     "firstSeen": "2026-04-16",
     "lastSeen": "2026-11-14"
   },
   {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 2.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-        "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-        "score": 108,
-        "date": "2026-11-14"
-      }
-    ],
-    "firstSeen": "2026-11-14",
-    "lastSeen": "2026-11-14"
-  },
-  {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -125,13 +121,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
+        "title": "Introducing ChatGPT Wallet - OpenAI",
         "score": 1,
         "date": "2026-11-14"
       },
       {
         "source": "googlenews",
-        "title": "Introducing Businesses in ChatGPT - OpenAI",
+        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
         "score": 1,
         "date": "2026-11-14"
       },
@@ -159,6 +155,12 @@
       {
         "source": "googlenews",
         "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
+        "score": 1,
+        "date": "2026-11-14"
+      },
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
         "date": "2026-11-14"
       }
@@ -197,6 +199,21 @@
     "lastSeen": "2026-11-14"
   },
   {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-14"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-14"
+  },
+  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
     "buzzScore": 1,
@@ -214,7 +231,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -229,7 +246,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -245,7 +262,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -256,36 +273,5 @@
     ],
     "firstSeen": "2026-10-25",
     "lastSeen": "2026-11-13"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-11-13"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-13"
-  },
-  {
-    "toolSlug": "bond",
-    "toolName": "Bond",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-        "score": 74,
-        "date": "2026-11-10"
-      }
-    ],
-    "firstSeen": "2026-11-02",
-    "lastSeen": "2026-11-10"
   }
 ]
