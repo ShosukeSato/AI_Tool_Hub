@@ -6,106 +6,107 @@
     "mentions": [
       {
         "source": "hackernews",
+        "title": "Claude Meetings",
+        "url": "https://claude.com/resources/articles/claude-meetings",
+        "score": 79,
+        "date": "2026-11-14"
+      },
+      {
+        "source": "hackernews",
+        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+        "url": "https://claude.com/resources/articles/projects-redesigned",
+        "score": 67,
+        "date": "2026-11-14"
+      },
+      {
+        "source": "hackernews",
         "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
         "url": "https://status.claude.com/incidents/nn11wk485zfn",
-        "score": 458,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Is Down",
-        "url": "https://status.claude.com/history",
-        "score": 191,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Is Superhuman at Translating Poetry Now",
-        "url": "https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating",
-        "score": 5,
-        "date": "2026-11-13"
+        "score": 488,
+        "date": "2026-11-14"
       },
       {
         "source": "googlenews",
-        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
+        "title": "With IPO looming, Anthropic launches Claude product for manufacturers - Business Insider",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-13"
+    "lastSeen": "2026-11-14"
   },
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 8.4,
+    "buzzScore": 4.8,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Gnomon. Git for Postgres data, built for agents",
-        "url": "https://github.com/bitsinfra/gnomon",
-        "score": 15,
-        "date": "2026-11-13"
-      },
       {
         "source": "hackernews",
         "title": "Brave Search API now accepts agentic payments via the x402 protocol",
         "url": "https://brave.com/blog/search-api-agentic-payments/",
-        "score": 242,
-        "date": "2026-11-13"
+        "score": 258,
+        "date": "2026-11-14"
       },
       {
-        "source": "hackernews",
-        "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-        "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-        "score": 132,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "hackernews",
-        "title": "I gave an agent a lakehouse and control of my garden",
-        "url": "https://jatorre.github.io/garden/",
-        "score": 143,
-        "date": "2026-11-13"
+        "source": "googlenews",
+        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands - TechCrunch",
+        "score": 1,
+        "date": "2026-11-14"
       },
       {
         "source": "googlenews",
         "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues - SiliconANGLE",
         "score": 1,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation - IBM Newsroom",
-        "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       },
       {
         "source": "googlenews",
         "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly - TechCrunch",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
+      },
+      {
+        "source": "techcrunch",
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "score": 1,
+        "date": "2026-11-14"
       },
       {
         "source": "techcrunch",
         "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       },
       {
         "source": "techcrunch",
         "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-13"
+    "lastSeen": "2026-11-14"
+  },
+  {
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 2.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+        "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+        "score": 108,
+        "date": "2026-11-14"
+      }
+    ],
+    "firstSeen": "2026-11-14",
+    "lastSeen": "2026-11-14"
   },
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -126,35 +127,29 @@
         "source": "googlenews",
         "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
         "score": 1,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases - Reuters",
-        "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       },
       {
         "source": "googlenews",
         "title": "Introducing Businesses in ChatGPT - OpenAI",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       },
       {
         "source": "googlenews",
         "title": "「Gemini」の検索が1年で約6倍、ChatGPTとの差は7倍から2.5倍に──Claudeは4.4倍（TECH NOISY調べ） - PR TIMES",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       },
       {
         "source": "techcrunch",
         "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     ],
     "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-13"
+    "lastSeen": "2026-11-14"
   },
   {
     "toolSlug": "gemini",
@@ -165,17 +160,11 @@
         "source": "googlenews",
         "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
         "score": 1,
-        "date": "2026-11-13"
-      },
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-13"
+    "lastSeen": "2026-11-14"
   },
   {
     "toolSlug": "where",
@@ -186,11 +175,11 @@
         "source": "googlenews",
         "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create - Adobe Newsroom",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     ],
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-13"
+    "lastSeen": "2026-11-14"
   },
   {
     "toolSlug": "udio",
@@ -201,16 +190,31 @@
         "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
-        "date": "2026-11-13"
+        "date": "2026-11-14"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-13"
+    "lastSeen": "2026-11-14"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
+        "score": 1,
+        "date": "2026-11-14"
+      }
+    ],
+    "firstSeen": "2026-11-13",
+    "lastSeen": "2026-11-14"
   },
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -223,24 +227,9 @@
     "lastSeen": "2026-11-13"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
-        "score": 1,
-        "date": "2026-11-13"
-      }
-    ],
-    "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-13"
-  },
-  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -256,7 +245,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -271,7 +260,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -286,7 +275,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "hackernews",
@@ -298,20 +287,5 @@
     ],
     "firstSeen": "2026-11-02",
     "lastSeen": "2026-11-10"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-        "score": 1,
-        "date": "2026-11-11"
-      }
-    ],
-    "firstSeen": "2026-11-08",
-    "lastSeen": "2026-11-11"
   }
 ]
