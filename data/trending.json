@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
-        "score": 713,
+        "score": 954,
         "date": "2026-11-15"
       }
     ],
@@ -16,31 +16,9 @@
     "lastSeen": "2026-11-15"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 7.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-        "url": "https://status.claude.com/incidents/nn11wk485zfn",
-        "score": 493,
-        "date": "2026-11-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
-        "score": 1,
-        "date": "2026-11-15"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-15"
-  },
-  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 2.8,
+    "buzzScore": 2.5,
     "mentions": [
       {
         "source": "hackernews",
@@ -54,28 +32,51 @@
     "lastSeen": "2026-11-14"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 2.6,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 2.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "url": "https://github.com/paul-nameless/agweb",
-        "score": 91,
+        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+        "score": 116,
         "date": "2026-11-15"
       },
       {
         "source": "hackernews",
-        "title": "Agile Manifesto for Agents",
-        "url": "https://debarshibasak.github.io/readables/blogs/agent-first-development",
-        "score": 28,
+        "title": "I run multiple Claude Code accounts on one Mac",
+        "url": "https://twitter.com/viborc/status/2121941174374039788",
+        "score": 7,
         "date": "2026-11-15"
       },
       {
         "source": "googlenews",
-        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands - TechCrunch",
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
         "score": 1,
+        "date": "2026-11-15"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-15"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 2.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "url": "https://github.com/db-branch/db-branch",
+        "score": 9,
+        "date": "2026-11-15"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "score": 107,
         "date": "2026-11-15"
       },
       {
@@ -97,7 +98,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -110,10 +111,32 @@
     "lastSeen": "2026-11-04"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "A short explainer on how El Niño works [video]",
+        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "score": 3,
+        "date": "2026-11-15"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-11-15"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
+      {
+        "source": "googlenews",
+        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
+        "score": 1,
+        "date": "2026-11-15"
+      },
       {
         "source": "googlenews",
         "title": "Introducing ChatGPT Wallet - OpenAI",
@@ -122,7 +145,7 @@
       },
       {
         "source": "googlenews",
-        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you - TechCrunch",
         "score": 1,
         "date": "2026-11-15"
       },
@@ -149,7 +172,7 @@
       },
       {
         "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
         "score": 1,
         "date": "2026-11-15"
       }
@@ -158,24 +181,24 @@
     "lastSeen": "2026-11-15"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create - Adobe Newsroom",
+        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams - TechCrunch",
         "score": 1,
         "date": "2026-11-15"
       },
       {
         "source": "techcrunch",
-        "title": "Where was Nvidia&#8217;s security team?",
+        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
         "score": 1,
         "date": "2026-11-15"
       }
     ],
-    "firstSeen": "2026-10-25",
+    "firstSeen": "2026-11-13",
     "lastSeen": "2026-11-15"
   },
   {
@@ -224,49 +247,18 @@
     "lastSeen": "2026-11-15"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
+    "toolSlug": "where",
+    "toolName": "WHERE",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "techcrunch",
-        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
+        "title": "Where was Nvidia&#8217;s security team?",
         "score": 1,
         "date": "2026-11-15"
       }
     ],
-    "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-15"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: I built a Rick and Morty explainer video generator",
-        "url": "https://usediorama.com/rick-and-morty",
-        "score": 9,
-        "date": "2026-11-13"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-13"
-  },
-  {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-11-13"
-      }
-    ],
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-13"
+    "lastSeen": "2026-11-15"
   }
 ]

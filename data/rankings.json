@@ -10,9 +10,9 @@
   },
   {
     "toolSlug": "claude",
-    "overall": 7.9,
+    "overall": 7.1,
     "performance": 9,
-    "buzz": 7.2,
+    "buzz": 2.2,
     "easeOfUse": 8,
     "costPerformance": 7,
     "lastCalculated": "2026-11-15"
@@ -453,7 +453,7 @@
     "toolSlug": "agent",
     "overall": 6.6,
     "performance": 6,
-    "buzz": 2.6,
+    "buzz": 2.1,
     "easeOfUse": 7,
     "costPerformance": 9,
     "lastCalculated": "2026-11-15"
@@ -705,7 +705,7 @@
     "toolSlug": "perplexity",
     "overall": 7.8,
     "performance": 9,
-    "buzz": 2.8,
+    "buzz": 2.5,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-11-15"
@@ -1335,7 +1335,7 @@
     "toolSlug": "hats",
     "overall": 7.8,
     "performance": 8,
-    "buzz": 1.2,
+    "buzz": 1.1,
     "easeOfUse": 9,
     "costPerformance": 10,
     "lastCalculated": "2026-11-15"
@@ -2665,9 +2665,9 @@
   },
   {
     "toolSlug": "plain",
-    "overall": 6.9,
+    "overall": 7,
     "performance": 7,
-    "buzz": 0.7,
+    "buzz": 1,
     "easeOfUse": 8,
     "costPerformance": 9,
     "lastCalculated": "2026-11-15"
