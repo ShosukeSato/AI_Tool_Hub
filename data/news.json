@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-lovable-2026-11-15",
+    "type": "trending",
+    "toolSlug": "lovable",
+    "title": "Lovable が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Lovable apps expose passport details and more than 200K private messages",
+    "date": "2026-11-15",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-11-15",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.2）",
+    "summary": "hackernewsで注目: Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "date": "2026-11-15",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-14",
     "type": "trending",
     "toolSlug": "claude",
@@ -483,24 +501,6 @@
     "title": "Era が話題沸騰中（バズスコア: 9）",
     "summary": "hackernewsで注目: Simons Foundation launches $15M effort to help mathematicians navigate AI era",
     "date": "2026-10-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-16",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: LFM2.5-24B-A2B: Built for fast on-device agents",
-    "date": "2026-10-16",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-era-2026-10-16",
-    "type": "trending",
-    "toolSlug": "era",
-    "title": "Era が話題沸騰中（バズスコア: 7.9）",
-    "summary": "hackernewsで注目: Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-    "date": "2026-10-16",
     "source": "hackernews"
   }
 ]
