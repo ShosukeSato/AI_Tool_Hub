@@ -8,7 +8,7 @@
         "source": "hackernews",
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
-        "score": 976,
+        "score": 999,
         "date": "2026-11-16"
       }
     ],
@@ -18,13 +18,13 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 4.5,
+    "buzzScore": 5,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
         "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-        "score": 377,
+        "score": 445,
         "date": "2026-11-16"
       }
     ],
@@ -32,9 +32,25 @@
     "lastSeen": "2026-11-16"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 3.7,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "A short explainer on how El Niño works [video]",
+        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "score": 296,
+        "date": "2026-11-16"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-11-16"
+  },
+  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 3.1,
+    "buzzScore": 2.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -55,25 +71,9 @@
     "lastSeen": "2026-11-16"
   },
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 2.8,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "A short explainer on how El Niño works [video]",
-        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-        "score": 200,
-        "date": "2026-11-16"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-16"
-  },
-  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 2.3,
+    "buzzScore": 2.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -89,32 +89,31 @@
   {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 1.5,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Agentic AI Designs an Analog Synthesizer",
-        "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+        "title": "Designing a Multi-Agent Architecture Guided by Advanced Type Systems",
+        "url": "https://leastsquared.substack.com/p/designing-a-multi-agent-architecture",
         "score": 9,
         "date": "2026-11-16"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-        "url": "https://github.com/db-branch/db-branch",
-        "score": 37,
+        "title": "California is suing OpenAI over its 'rogue' AI agent hack",
+        "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
+        "score": 6,
         "date": "2026-11-16"
       },
       {
-        "source": "hackernews",
-        "title": "Show HN: Skillset: Easily curate and install agent skills collection",
-        "url": "https://github.com/itsmeyaw/skillset",
-        "score": 4,
+        "source": "googlenews",
+        "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows - Fierce Healthcare",
+        "score": 1,
         "date": "2026-11-16"
       },
       {
         "source": "techcrunch",
-        "title": "AI agent startup LangChain hits $3B valuation",
+        "title": "California state AG sues OpenAI over rogue agent incidents",
         "score": 1,
         "date": "2026-11-16"
       }
@@ -123,37 +122,10 @@
     "lastSeen": "2026-11-16"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
-        "score": 1,
-        "date": "2026-11-16"
-      },
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-16"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-16"
-  },
-  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
-        "score": 1,
-        "date": "2026-11-16"
-      },
       {
         "source": "googlenews",
         "title": "Introducing ChatGPT Wallet - OpenAI",
@@ -168,12 +140,33 @@
       },
       {
         "source": "techcrunch",
-        "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
+        "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
         "score": 1,
         "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-16"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-11-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
+        "score": 1,
+        "date": "2026-11-16"
+      }
+    ],
+    "firstSeen": "2026-10-19",
     "lastSeen": "2026-11-16"
   },
   {
@@ -183,18 +176,33 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
         "date": "2026-11-16"
       },
       {
-        "source": "googlenews",
-        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "source": "techcrunch",
+        "title": "Audible turns to AI to help users discover audiobooks",
         "score": 1,
         "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-16"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-11-16"
+      }
+    ],
+    "firstSeen": "2026-11-16",
     "lastSeen": "2026-11-16"
   },
   {
@@ -213,21 +221,6 @@
     "lastSeen": "2026-11-16"
   },
   {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-16"
-      }
-    ],
-    "firstSeen": "2026-11-08",
-    "lastSeen": "2026-11-16"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
     "buzzScore": 1,
@@ -243,9 +236,24 @@
     "lastSeen": "2026-11-16"
   },
   {
+    "toolSlug": "microsoft-copilot",
+    "toolName": "Microsoft Copilot",
+    "buzzScore": 0.9,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-16"
+      }
+    ],
+    "firstSeen": "2026-11-08",
+    "lastSeen": "2026-11-16"
+  },
+  {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -260,7 +268,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
