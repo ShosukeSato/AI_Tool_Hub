@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-lovable-2026-11-16",
+    "type": "trending",
+    "toolSlug": "lovable",
+    "title": "Lovable が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Lovable apps expose passport details and more than 200K private messages",
+    "date": "2026-11-16",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-lovable-2026-11-15",
     "type": "trending",
     "toolSlug": "lovable",
@@ -483,24 +492,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Claude reveals ECDSA curve origins",
     "date": "2026-10-18",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-17",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude reveals ECDSA curve origins",
-    "date": "2026-10-17",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-era-2026-10-17",
-    "type": "trending",
-    "toolSlug": "era",
-    "title": "Era が話題沸騰中（バズスコア: 9）",
-    "summary": "hackernewsで注目: Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-    "date": "2026-10-17",
     "source": "hackernews"
   }
 ]

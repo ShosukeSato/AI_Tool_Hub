@@ -8,17 +8,72 @@
         "source": "hackernews",
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
-        "score": 954,
-        "date": "2026-11-15"
+        "score": 976,
+        "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-15"
+    "lastSeen": "2026-11-16"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 4.5,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+        "score": 377,
+        "date": "2026-11-16"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-16"
+  },
+  {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 3.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+        "score": 142,
+        "date": "2026-11-16"
+      },
+      {
+        "source": "hackernews",
+        "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+        "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+        "score": 82,
+        "date": "2026-11-16"
+      }
+    ],
+    "firstSeen": "2026-11-16",
+    "lastSeen": "2026-11-16"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 2.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "A short explainer on how El Niño works [video]",
+        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "score": 200,
+        "date": "2026-11-16"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-11-16"
   },
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 2.5,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -32,132 +87,40 @@
     "lastSeen": "2026-11-14"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 2.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-        "score": 116,
-        "date": "2026-11-15"
-      },
-      {
-        "source": "hackernews",
-        "title": "I run multiple Claude Code accounts on one Mac",
-        "url": "https://twitter.com/viborc/status/2121941174374039788",
-        "score": 7,
-        "date": "2026-11-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
-        "score": 1,
-        "date": "2026-11-15"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-15"
-  },
-  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 2.1,
+    "buzzScore": 1.5,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Agentic AI Designs an Analog Synthesizer",
+        "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+        "score": 9,
+        "date": "2026-11-16"
+      },
       {
         "source": "hackernews",
         "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
         "url": "https://github.com/db-branch/db-branch",
-        "score": 9,
-        "date": "2026-11-15"
+        "score": 37,
+        "date": "2026-11-16"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "url": "https://github.com/paul-nameless/agweb",
-        "score": 107,
-        "date": "2026-11-15"
+        "title": "Show HN: Skillset: Easily curate and install agent skills collection",
+        "url": "https://github.com/itsmeyaw/skillset",
+        "score": 4,
+        "date": "2026-11-16"
       },
       {
         "source": "techcrunch",
         "title": "AI agent startup LangChain hits $3B valuation",
         "score": 1,
-        "date": "2026-11-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-        "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-15"
-  },
-  {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenAI seems to be silently re-enabling model training on Codex chats ()",
-        "score": 510,
-        "date": "2026-11-04"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-04"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "A short explainer on how El Niño works [video]",
-        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-        "score": 3,
-        "date": "2026-11-15"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-15"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
-        "score": 1,
-        "date": "2026-11-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing ChatGPT Wallet - OpenAI",
-        "score": 1,
-        "date": "2026-11-15"
-      },
-      {
-        "source": "googlenews",
-        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you - TechCrunch",
-        "score": 1,
-        "date": "2026-11-15"
-      },
-      {
-        "source": "techcrunch",
-        "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
-        "score": 1,
-        "date": "2026-11-15"
-      }
-    ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-15"
+    "lastSeen": "2026-11-16"
   },
   {
     "toolSlug": "gemini",
@@ -168,38 +131,50 @@
         "source": "googlenews",
         "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows - blog.google",
         "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       },
       {
         "source": "googlenews",
-        "title": "Gemini for Science: AI の実験とツールで新たな発見の時代を切り拓く - blog.google",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-15"
+    "lastSeen": "2026-11-16"
   },
   {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams - TechCrunch",
+        "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users - CNBC",
         "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing ChatGPT Wallet - OpenAI",
+        "score": 1,
+        "date": "2026-11-16"
+      },
+      {
+        "source": "googlenews",
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you - TechCrunch",
+        "score": 1,
+        "date": "2026-11-16"
       },
       {
         "source": "techcrunch",
-        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
+        "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
         "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       }
     ],
-    "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-15"
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-16"
   },
   {
     "toolSlug": "udio",
@@ -208,13 +183,19 @@
     "mentions": [
       {
         "source": "googlenews",
+        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "score": 1,
+        "date": "2026-11-16"
+      },
+      {
+        "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-15"
+    "lastSeen": "2026-11-16"
   },
   {
     "toolSlug": "com",
@@ -225,11 +206,11 @@
         "source": "googlenews",
         "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
         "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-15"
+    "lastSeen": "2026-11-16"
   },
   {
     "toolSlug": "microsoft-copilot",
@@ -240,11 +221,11 @@
         "source": "googlenews",
         "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
         "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-11-08",
-    "lastSeen": "2026-11-15"
+    "lastSeen": "2026-11-16"
   },
   {
     "toolSlug": "where",
@@ -255,10 +236,40 @@
         "source": "techcrunch",
         "title": "Where was Nvidia&#8217;s security team?",
         "score": 1,
-        "date": "2026-11-15"
+        "date": "2026-11-16"
       }
     ],
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-15"
+    "lastSeen": "2026-11-16"
+  },
+  {
+    "toolSlug": "elevenlabs",
+    "toolName": "ElevenLabs",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
+        "score": 1,
+        "date": "2026-11-16"
+      }
+    ],
+    "firstSeen": "2026-11-13",
+    "lastSeen": "2026-11-16"
+  },
+  {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "OpenAI seems to be silently re-enabling model training on Codex chats ()",
+        "score": 510,
+        "date": "2026-11-04"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-04"
   }
 ]
