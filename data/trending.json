@@ -8,33 +8,59 @@
         "source": "hackernews",
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
-        "score": 999,
-        "date": "2026-11-16"
+        "score": 1002,
+        "date": "2026-11-17"
       }
     ],
     "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-16"
+    "lastSeen": "2026-11-17"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 5,
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 5.9,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-        "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-        "score": 445,
-        "date": "2026-11-16"
+        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+        "score": 452,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "hackernews",
+        "title": "Running coding agents without handing them my credentials",
+        "url": "https://blog.antonio.cx/running-agents-with-lend",
+        "score": 90,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "hackernews",
+        "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+        "url": "https://github.com/yocontra/pulsar",
+        "score": 5,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "googlenews",
+        "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows - Fierce Healthcare",
+        "score": 1,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "techcrunch",
+        "title": "California state AG sues OpenAI over rogue agent incidents",
+        "score": 1,
+        "date": "2026-11-17"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-16"
+    "firstSeen": "2026-04-16",
+    "lastSeen": "2026-11-17"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.7,
+    "buzzScore": 3.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -50,30 +76,23 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 2.8,
+    "buzzScore": 1.9,
     "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-        "score": 142,
-        "date": "2026-11-16"
-      },
       {
         "source": "hackernews",
         "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
         "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-        "score": 82,
-        "date": "2026-11-16"
+        "score": 103,
+        "date": "2026-11-17"
       }
     ],
     "firstSeen": "2026-11-16",
-    "lastSeen": "2026-11-16"
+    "lastSeen": "2026-11-17"
   },
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -87,39 +106,27 @@
     "lastSeen": "2026-11-14"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 1.2,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Designing a Multi-Agent Architecture Guided by Advanced Type Systems",
-        "url": "https://leastsquared.substack.com/p/designing-a-multi-agent-architecture",
-        "score": 9,
-        "date": "2026-11-16"
+        "title": "Tokendoctor – the same Claude Code for up to 38% less",
+        "url": "https://github.com/localixai/tokendoctor",
+        "score": 15,
+        "date": "2026-11-17"
       },
       {
         "source": "hackernews",
-        "title": "California is suing OpenAI over its 'rogue' AI agent hack",
-        "url": "https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/",
-        "score": 6,
-        "date": "2026-11-16"
-      },
-      {
-        "source": "googlenews",
-        "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows - Fierce Healthcare",
-        "score": 1,
-        "date": "2026-11-16"
-      },
-      {
-        "source": "techcrunch",
-        "title": "California state AG sues OpenAI over rogue agent incidents",
-        "score": 1,
-        "date": "2026-11-16"
+        "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+        "score": 36,
+        "date": "2026-11-17"
       }
     ],
-    "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-16"
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-17"
   },
   {
     "toolSlug": "chatgpt",
@@ -128,25 +135,19 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Introducing ChatGPT Wallet - OpenAI",
+        "title": "More ways to move care forward with ChatGPT for Healthcare - OpenAI",
         "score": 1,
-        "date": "2026-11-16"
-      },
-      {
-        "source": "googlenews",
-        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you - TechCrunch",
-        "score": 1,
-        "date": "2026-11-16"
+        "date": "2026-11-17"
       },
       {
         "source": "techcrunch",
         "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
         "score": 1,
-        "date": "2026-11-16"
+        "date": "2026-11-17"
       }
     ],
     "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-16"
+    "lastSeen": "2026-11-17"
   },
   {
     "toolSlug": "gemini",
@@ -157,17 +158,11 @@
         "source": "googlenews",
         "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
-        "date": "2026-11-16"
-      },
-      {
-        "source": "googlenews",
-        "title": "New Gemini tools for small business owners - blog.google",
-        "score": 1,
-        "date": "2026-11-16"
+        "date": "2026-11-17"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-16"
+    "lastSeen": "2026-11-17"
   },
   {
     "toolSlug": "udio",
@@ -175,25 +170,34 @@
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
-        "score": 1,
-        "date": "2026-11-16"
-      },
-      {
         "source": "techcrunch",
         "title": "Audible turns to AI to help users discover audiobooks",
         "score": 1,
-        "date": "2026-11-16"
+        "date": "2026-11-17"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-16"
+    "lastSeen": "2026-11-17"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Where was Nvidia&#8217;s security team?",
+        "score": 1,
+        "date": "2026-11-17"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-17"
   },
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -208,7 +212,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -221,24 +225,9 @@
     "lastSeen": "2026-11-16"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Where was Nvidia&#8217;s security team?",
-        "score": 1,
-        "date": "2026-11-16"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-16"
-  },
-  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -253,7 +242,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "techcrunch",
@@ -268,7 +257,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
