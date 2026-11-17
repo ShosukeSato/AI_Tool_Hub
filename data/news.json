@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-11-17",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Advancing computer-use agents for healthcare teams",
+    "date": "2026-11-17",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-lovable-2026-11-16",
     "type": "trending",
     "toolSlug": "lovable",

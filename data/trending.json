@@ -1,49 +1,38 @@
 [
   {
-    "toolSlug": "lovable",
-    "toolName": "Lovable",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "url": "https://www.crissyfield.de/research/lovable-en/",
-        "score": 1002,
+        "title": "Advancing computer-use agents for healthcare teams",
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+        "score": 15,
         "date": "2026-11-17"
-      }
-    ],
-    "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-17"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 5.9,
-    "mentions": [
+      },
       {
         "source": "hackernews",
-        "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
         "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "score": 452,
-        "date": "2026-11-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Running coding agents without handing them my credentials",
-        "url": "https://blog.antonio.cx/running-agents-with-lend",
-        "score": 90,
-        "date": "2026-11-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
-        "url": "https://github.com/yocontra/pulsar",
-        "score": 5,
+        "score": 697,
         "date": "2026-11-17"
       },
       {
         "source": "googlenews",
-        "title": "HLTH 2026: Suki unveils agentic OS to automate complex healthcare workflows - Fierce Healthcare",
+        "title": "HLTH 2026: What clinicians need to trust agentic AI tools - Modern Healthcare",
+        "score": 1,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+        "score": 1,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Daydream&#8217;s new AI agent acts as your personal stylist — and can shop for you, too",
         "score": 1,
         "date": "2026-11-17"
       },
@@ -58,9 +47,48 @@
     "lastSeen": "2026-11-17"
   },
   {
+    "toolSlug": "lovable",
+    "toolName": "Lovable",
+    "buzzScore": 9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "score": 1002,
+        "date": "2026-11-17"
+      }
+    ],
+    "firstSeen": "2026-11-15",
+    "lastSeen": "2026-11-17"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 4.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "How the Claude Code team thinks about verification",
+        "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+        "score": 213,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "hackernews",
+        "title": "Tokendoctor – See what your Claude Code use overpays",
+        "url": "https://github.com/localixai/tokendoctor",
+        "score": 31,
+        "date": "2026-11-17"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-17"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 3.3,
+    "buzzScore": 3,
     "mentions": [
       {
         "source": "hackernews",
@@ -74,25 +102,9 @@
     "lastSeen": "2026-11-16"
   },
   {
-    "toolSlug": "rocket",
-    "toolName": "Rocket",
-    "buzzScore": 1.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-        "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-        "score": 103,
-        "date": "2026-11-17"
-      }
-    ],
-    "firstSeen": "2026-11-16",
-    "lastSeen": "2026-11-17"
-  },
-  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -106,57 +118,31 @@
     "lastSeen": "2026-11-14"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.5,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Tokendoctor – the same Claude Code for up to 38% less",
-        "url": "https://github.com/localixai/tokendoctor",
-        "score": 15,
-        "date": "2026-11-17"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-        "score": 36,
-        "date": "2026-11-17"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-17"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "More ways to move care forward with ChatGPT for Healthcare - OpenAI",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "googlenews",
+        "title": "New Gemini tools for small business owners - blog.google",
         "score": 1,
         "date": "2026-11-17"
       },
       {
         "source": "techcrunch",
-        "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
         "score": 1,
         "date": "2026-11-17"
-      }
-    ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-17"
-  },
-  {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
+      },
       {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "source": "techcrunch",
+        "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
         "score": 1,
         "date": "2026-11-17"
       }
@@ -170,8 +156,14 @@
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "techcrunch",
-        "title": "Audible turns to AI to help users discover audiobooks",
+        "source": "googlenews",
+        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "score": 1,
+        "date": "2026-11-17"
+      },
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
         "date": "2026-11-17"
       }
@@ -180,9 +172,54 @@
     "lastSeen": "2026-11-17"
   },
   {
+    "toolSlug": "rocket",
+    "toolName": "Rocket",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "As decision model use skyrockets, is customization the next frontier?",
+        "score": 1,
+        "date": "2026-11-17"
+      }
+    ],
+    "firstSeen": "2026-11-16",
+    "lastSeen": "2026-11-17"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Proton&#8217;s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+        "score": 1,
+        "date": "2026-11-17"
+      }
+    ],
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-17"
+  },
+  {
+    "toolSlug": "voyage",
+    "toolName": "Voyage",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+        "score": 1,
+        "date": "2026-11-17"
+      }
+    ],
+    "firstSeen": "2026-11-17",
+    "lastSeen": "2026-11-17"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -197,7 +234,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -212,7 +249,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -227,7 +264,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -242,7 +279,7 @@
   {
     "toolSlug": "elevenlabs",
     "toolName": "ElevenLabs",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "techcrunch",
@@ -257,7 +294,7 @@
   {
     "toolSlug": "hats",
     "toolName": "HATS",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
