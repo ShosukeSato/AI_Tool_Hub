@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-11-18",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude was trained on protein sequences at scale",
+    "date": "2026-11-18",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-lovable-2026-11-18",
+    "type": "trending",
+    "toolSlug": "lovable",
+    "title": "Lovable が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: Lovable apps expose passport details and more than 200K private messages",
+    "date": "2026-11-18",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-lovable-2026-11-17",
     "type": "trending",
     "toolSlug": "lovable",
@@ -483,24 +501,6 @@
     "title": "HATS が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
     "date": "2026-10-20",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-19",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude reveals ECDSA curve origins",
-    "date": "2026-10-19",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-19",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: RuneScape Bench: MMOs for Agents [video]",
-    "date": "2026-10-19",
     "source": "hackernews"
   }
 ]
