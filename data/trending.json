@@ -1,37 +1,55 @@
 [
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude was trained on protein sequences at scale",
-        "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
-        "score": 5,
+        "title": "AI agents ask better questions than KPMG accountants in audit trial",
+        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+        "score": 159,
         "date": "2026-11-18"
       },
       {
         "source": "hackernews",
-        "title": "How the Claude Code team thinks about verification",
-        "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-        "score": 278,
+        "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+        "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+        "score": 307,
         "date": "2026-11-18"
       },
       {
         "source": "googlenews",
-        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
+        "title": "OpenAI Is Launching “Computer-Use Agents” For Healthcare - Forbes",
+        "score": 1,
+        "date": "2026-11-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents - Microsoft Source",
+        "score": 1,
+        "date": "2026-11-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+        "score": 1,
+        "date": "2026-11-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
         "score": 1,
         "date": "2026-11-18"
       }
     ],
-    "firstSeen": "2026-04-02",
+    "firstSeen": "2026-04-16",
     "lastSeen": "2026-11-18"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 8.1,
+    "buzzScore": 7.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -45,57 +63,37 @@
     "lastSeen": "2026-11-17"
   },
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 6.8,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 4,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-        "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-        "score": 128,
-        "date": "2026-11-18"
-      },
-      {
-        "source": "hackernews",
-        "title": "Microsoft's agent-framework PyPI package Compromised with Credential Stealer",
-        "url": "https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer",
-        "score": 5,
-        "date": "2026-11-18"
-      },
-      {
-        "source": "hackernews",
-        "title": "Advancing computer-use agents for healthcare teams",
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-        "score": 47,
+        "title": "Claude was trained on protein sequences at scale",
+        "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+        "score": 156,
         "date": "2026-11-18"
       },
       {
         "source": "googlenews",
-        "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents - Microsoft Source",
+        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
         "score": 1,
         "date": "2026-11-18"
       },
       {
         "source": "techcrunch",
-        "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-        "score": 1,
-        "date": "2026-11-18"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Daydream&#8217;s new AI agent acts as your personal stylist — and can shop for you, too",
+        "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
         "score": 1,
         "date": "2026-11-18"
       }
     ],
-    "firstSeen": "2026-04-16",
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-11-18"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -109,9 +107,31 @@
     "lastSeen": "2026-11-16"
   },
   {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Can Universities Survive? AI vs. Higher Education [audio]",
+        "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
+        "score": 22,
+        "date": "2026-11-18"
+      },
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "score": 1,
+        "date": "2026-11-18"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-18"
+  },
+  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -125,9 +145,66 @@
     "lastSeen": "2026-11-14"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Microsoft Ignite 2026: Building Windows for the next era of work - Windows Blog",
+        "score": 1,
+        "date": "2026-11-18"
+      }
+    ],
+    "firstSeen": "2026-11-18",
+    "lastSeen": "2026-11-18"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-11-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+        "score": 1,
+        "date": "2026-11-18"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-18"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "工場・倉庫を、再生可能エネルギーの新たな可能性に。JAXA発スタートアップ・WHERE、屋根の種類と太陽光パネルの設置状況をAIで判定する新機能を発表 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-18"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+        "score": 1,
+        "date": "2026-11-18"
+      }
+    ],
+    "firstSeen": "2026-10-25",
+    "lastSeen": "2026-11-18"
+  },
+  {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -146,66 +223,9 @@
     "lastSeen": "2026-11-18"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-18"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-        "score": 1,
-        "date": "2026-11-18"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-        "score": 1,
-        "date": "2026-11-18"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-18"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-11-18"
-      }
-    ],
-    "firstSeen": "2026-11-18",
-    "lastSeen": "2026-11-18"
-  },
-  {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
-        "score": 1,
-        "date": "2026-11-18"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-18"
-  },
-  {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -220,7 +240,7 @@
   {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -235,7 +255,7 @@
   {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -248,24 +268,9 @@
     "lastSeen": "2026-11-18"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.8,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Where was Nvidia&#8217;s security team?",
-        "score": 1,
-        "date": "2026-11-17"
-      }
-    ],
-    "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-17"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -276,50 +281,5 @@
     ],
     "firstSeen": "2026-10-27",
     "lastSeen": "2026-11-16"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-16"
-      }
-    ],
-    "firstSeen": "2026-11-08",
-    "lastSeen": "2026-11-16"
-  },
-  {
-    "toolSlug": "elevenlabs",
-    "toolName": "ElevenLabs",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
-        "score": 1,
-        "date": "2026-11-16"
-      }
-    ],
-    "firstSeen": "2026-11-13",
-    "lastSeen": "2026-11-16"
-  },
-  {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "OpenAI seems to be silently re-enabling model training on Codex chats ()",
-        "score": 510,
-        "date": "2026-11-04"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-04"
   }
 ]

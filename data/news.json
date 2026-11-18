@@ -18,6 +18,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-11-18",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: AI agents ask better questions than KPMG accountants in audit trial",
+    "date": "2026-11-18",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-lovable-2026-11-17",
     "type": "trending",
     "toolSlug": "lovable",
