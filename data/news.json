@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-11-19",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: AI agents ask better questions than KPMG accountants in audit trial",
+    "date": "2026-11-19",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-18",
     "type": "trending",
     "toolSlug": "claude",
@@ -492,24 +501,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Patch the Planet: global response coordination as agents uncover vulnerabilities",
     "date": "2026-10-21",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-20",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: RuneScape Bench: MMOs for Agents [video]",
-    "date": "2026-10-20",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-hats-2026-10-20",
-    "type": "trending",
-    "toolSlug": "hats",
-    "title": "HATS が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "date": "2026-10-20",
     "source": "hackernews"
   }
 ]
