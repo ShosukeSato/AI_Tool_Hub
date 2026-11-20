@@ -6,44 +6,71 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Aviator: HubSpot's Agent Harness",
-        "url": "https://hubspot.engineering/blog/aviator-hubspots-agent-harness/",
-        "score": 22,
-        "date": "2026-11-19"
-      },
-      {
-        "source": "hackernews",
         "title": "AI agents ask better questions than KPMG accountants in audit trial",
         "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-        "score": 478,
-        "date": "2026-11-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Microsoft Launches AI Transparency Initiative to Help Enterprises Verify Agent Actions - HPCwire",
-        "score": 1,
-        "date": "2026-11-19"
+        "score": 489,
+        "date": "2026-11-20"
       },
       {
         "source": "techcrunch",
-        "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+        "title": "Apple may be developing its own AI agent that runs your Mac",
         "score": 1,
-        "date": "2026-11-19"
+        "date": "2026-11-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "These tech outages are giving Y2K, AI agent style",
+        "score": 1,
+        "date": "2026-11-20"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+        "score": 1,
+        "date": "2026-11-20"
       },
       {
         "source": "techcrunch",
         "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
         "score": 1,
-        "date": "2026-11-19"
+        "date": "2026-11-20"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-19"
+    "lastSeen": "2026-11-20"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 9.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "score": 445,
+        "date": "2026-11-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "Microsoft takes on Claude with seven models costing up to 95% less for coding tasks - Interesting Engineering",
+        "score": 1,
+        "date": "2026-11-20"
+      },
+      {
+        "source": "googlenews",
+        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-20"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-20"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 5.9,
+    "buzzScore": 5.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -57,79 +84,122 @@
     "lastSeen": "2026-11-17"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 4.4,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude solves two open problems in the physics of black holes",
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "score": 186,
-        "date": "2026-11-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost - ZDNET",
-        "score": 1,
-        "date": "2026-11-19"
-      },
-      {
-        "source": "googlenews",
-        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-19"
+        "title": "ChatGPT for SNES",
+        "url": "https://www.bxfoundry.com/chatgpt_snes/",
+        "score": 30,
+        "date": "2026-11-20"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-19"
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-20"
+  },
+  {
+    "toolSlug": "bond",
+    "toolName": "Bond",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Prepaid gas bonds: A differentiated source of tax-exempt income",
+        "url": "https://www.blackrock.com/us/individual/insights/prepaid-gas-bonds",
+        "score": 8,
+        "date": "2026-11-20"
+      }
+    ],
+    "firstSeen": "2026-11-20",
+    "lastSeen": "2026-11-20"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "score": 1,
+        "date": "2026-11-20"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-20"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-11-20"
+      }
+    ],
+    "firstSeen": "2026-11-16",
+    "lastSeen": "2026-11-20"
   },
   {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-19"
-      },
       {
         "source": "googlenews",
         "title": "【Gemini】自治体AI zevoにて「Gemini 4 Carbon」「Gemini 4 Argon」「Gemini 4 Hydrogen」を2026年11月19日 木曜日に提供開始！ - PR TIMES",
         "score": 1,
-        "date": "2026-11-19"
+        "date": "2026-11-20"
       },
       {
         "source": "techcrunch",
         "title": "Google gives Gemini the ability to use your Mac for you",
         "score": 1,
-        "date": "2026-11-19"
+        "date": "2026-11-20"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-19"
+    "lastSeen": "2026-11-20"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
+    "toolSlug": "superhuman",
+    "toolName": "Superhuman",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "【ChatGPT】自治体AI zevoにて「GPT-6.1 Terra」を2026年11月16日月曜日に提供開始！ - ひなた宮崎経済新聞",
+        "source": "techcrunch",
+        "title": "Superhuman pushes its Go assistant everywhere",
         "score": 1,
-        "date": "2026-11-19"
+        "date": "2026-11-20"
       }
     ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-19"
+    "firstSeen": "2026-11-19",
+    "lastSeen": "2026-11-20"
+  },
+  {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "score": 1,
+        "date": "2026-11-20"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-11-20"
   },
   {
     "toolSlug": "suno",
     "toolName": "Suno",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -142,24 +212,9 @@
     "lastSeen": "2026-11-19"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
-        "score": 1,
-        "date": "2026-11-19"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-19"
-  },
-  {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -174,7 +229,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -187,39 +242,9 @@
     "lastSeen": "2026-11-19"
   },
   {
-    "toolSlug": "superhuman",
-    "toolName": "Superhuman",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Superhuman pushes its Go assistant everywhere",
-        "score": 1,
-        "date": "2026-11-19"
-      }
-    ],
-    "firstSeen": "2026-11-19",
-    "lastSeen": "2026-11-19"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-        "score": 1,
-        "date": "2026-11-19"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-19"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -234,7 +259,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -247,24 +272,9 @@
     "lastSeen": "2026-11-19"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-11-18"
-      }
-    ],
-    "firstSeen": "2026-11-16",
-    "lastSeen": "2026-11-18"
-  },
-  {
     "toolSlug": "rocket",
     "toolName": "Rocket",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -279,7 +289,7 @@
   {
     "toolSlug": "voyage",
     "toolName": "Voyage",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
