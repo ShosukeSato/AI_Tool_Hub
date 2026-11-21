@@ -1,69 +1,26 @@
 [
   {
-    "toolSlug": "plain",
-    "toolName": "Plain",
+    "toolSlug": "agent",
+    "toolName": "Agent",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "If you can't explain something in simple terms, you don't understand it",
-        "url": "2017) (https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-        "score": 648,
-        "date": "2026-11-21"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-21"
-  },
-  {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 8.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude solves two open problems in the physics of black holes",
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "score": 554,
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "url": "http://ricapar.net/ClawDOS/",
+        "score": 138,
         "date": "2026-11-21"
       },
-      {
-        "source": "googlenews",
-        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-21"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-21"
-  },
-  {
-    "toolSlug": "agent",
-    "toolName": "Agent",
-    "buzzScore": 8.5,
-    "mentions": [
       {
         "source": "hackernews",
         "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
         "url": "https://signal.org/blog/protecting-your-privacy/",
-        "score": 536,
+        "score": 563,
         "date": "2026-11-21"
       },
       {
-        "source": "googlenews",
-        "title": "Apple Working on Own AI Agent to Rival OpenAI and Anthropic - Bloomberg.com",
-        "score": 1,
-        "date": "2026-11-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "Apple may be developing its own AI agent that runs your Mac - TechCrunch",
-        "score": 1,
-        "date": "2026-11-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "Microsoft Launches AI Transparency Initiative to Help Enterprises Verify Agent Actions - HPCwire",
+        "source": "techcrunch",
+        "title": "Here are the top AI agents that can live in your text messages",
         "score": 1,
         "date": "2026-11-21"
       },
@@ -90,9 +47,60 @@
     "lastSeen": "2026-11-21"
   },
   {
+    "toolSlug": "plain",
+    "toolName": "Plain",
+    "buzzScore": 9.8,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "If you can't explain something in simple terms, you don't understand it",
+        "url": "2017) (https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+        "score": 689,
+        "date": "2026-11-21"
+      }
+    ],
+    "firstSeen": "2026-10-15",
+    "lastSeen": "2026-11-21"
+  },
+  {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 8.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+        "url": "https://github.com/natsu0529/agent-mcts",
+        "score": 6,
+        "date": "2026-11-21"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "score": 565,
+        "date": "2026-11-21"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-11-21"
+      },
+      {
+        "source": "googlenews",
+        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-21"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-21"
+  },
+  {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 4.3,
+    "buzzScore": 3.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -108,7 +116,7 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 2.7,
+    "buzzScore": 2.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -176,9 +184,39 @@
     "lastSeen": "2026-11-21"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-11-21"
+      }
+    ],
+    "firstSeen": "2026-11-18",
+    "lastSeen": "2026-11-21"
+  },
+  {
+    "toolSlug": "perplexity",
+    "toolName": "Perplexity",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Googleの「AIモード」の検索が月67万回、1年で約68倍に──AI検索「Perplexity」はピークから55%減（TECH NOISY調べ） - PR TIMES",
+        "score": 1,
+        "date": "2026-11-21"
+      }
+    ],
+    "firstSeen": "2026-11-14",
+    "lastSeen": "2026-11-21"
+  },
+  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -193,7 +231,7 @@
   {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "techcrunch",
@@ -208,7 +246,7 @@
   {
     "toolSlug": "bond",
     "toolName": "Bond",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -224,7 +262,7 @@
   {
     "toolSlug": "rakuten-ai",
     "toolName": "Rakuten AI",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -239,7 +277,7 @@
   {
     "toolSlug": "suno",
     "toolName": "Suno",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -252,24 +290,9 @@
     "lastSeen": "2026-11-19"
   },
   {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Googleの「AIモード」の検索が月67万回、1年で約68倍に──AI検索「Perplexity」はピークから55%減（TECH NOISY調べ） - PR TIMES",
-        "score": 1,
-        "date": "2026-11-19"
-      }
-    ],
-    "firstSeen": "2026-11-14",
-    "lastSeen": "2026-11-19"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -279,21 +302,6 @@
       }
     ],
     "firstSeen": "2026-10-25",
-    "lastSeen": "2026-11-19"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Microsoft Ignite 2026: Building Windows for the next era of work - Windows Blog",
-        "score": 1,
-        "date": "2026-11-19"
-      }
-    ],
-    "firstSeen": "2026-11-18",
     "lastSeen": "2026-11-19"
   }
 ]
