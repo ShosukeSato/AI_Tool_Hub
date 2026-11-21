@@ -1,5 +1,32 @@
 [
   {
+    "id": "trending-plain-2026-11-21",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: If you can't explain something in simple terms, you don't understand it",
+    "date": "2026-11-21",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-11-21",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 8.7）",
+    "summary": "hackernewsで注目: Claude solves two open problems in the physics of black holes",
+    "date": "2026-11-21",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-agent-2026-11-21",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 8.5）",
+    "summary": "hackernewsで注目: Restricting AI agents in mobile operating systems platforms from capturing data",
+    "date": "2026-11-21",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-20",
     "type": "trending",
     "toolSlug": "agent",
@@ -474,42 +501,6 @@
     "title": "LiteLLM が話題沸騰中（バズスコア: 7.9）",
     "summary": "hackernewsで注目: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
     "date": "2026-10-23",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-22",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-    "date": "2026-10-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-22",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 8.9）",
-    "summary": "hackernewsで注目: Patch the Planet: global response coordination as agents uncover vulnerabilities",
-    "date": "2026-10-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-litellm-2026-10-22",
-    "type": "trending",
-    "toolSlug": "litellm",
-    "title": "LiteLLM が話題沸騰中（バズスコア: 8.4）",
-    "summary": "hackernewsで注目: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "date": "2026-10-22",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-hats-2026-10-22",
-    "type": "trending",
-    "toolSlug": "hats",
-    "title": "HATS が話題沸騰中（バズスコア: 8.1）",
-    "summary": "hackernewsで注目: WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "date": "2026-10-22",
     "source": "hackernews"
   }
 ]
