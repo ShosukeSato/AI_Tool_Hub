@@ -1,5 +1,32 @@
 [
   {
+    "id": "trending-agent-2026-11-22",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Pandex – Official European Law for AI Agents, over MCP",
+    "date": "2026-11-22",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-plain-2026-11-22",
+    "type": "trending",
+    "toolSlug": "plain",
+    "title": "Plain が話題沸騰中（バズスコア: 9）",
+    "summary": "hackernewsで注目: If you can't explain something in simple terms, you don't understand it",
+    "date": "2026-11-22",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-claude-2026-11-22",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 7.6）",
+    "summary": "hackernewsで注目: Claude solves two open problems in the physics of black holes",
+    "date": "2026-11-22",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-plain-2026-11-21",
     "type": "trending",
     "toolSlug": "plain",
@@ -474,33 +501,6 @@
     "title": "LiteLLM が話題沸騰中（バズスコア: 7.7）",
     "summary": "hackernewsで注目: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
     "date": "2026-10-24",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-23",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-    "date": "2026-10-23",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-23",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 9.8）",
-    "summary": "hackernewsで注目: OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "date": "2026-10-23",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-litellm-2026-10-23",
-    "type": "trending",
-    "toolSlug": "litellm",
-    "title": "LiteLLM が話題沸騰中（バズスコア: 7.9）",
-    "summary": "hackernewsで注目: Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "date": "2026-10-23",
     "source": "hackernews"
   }
 ]
