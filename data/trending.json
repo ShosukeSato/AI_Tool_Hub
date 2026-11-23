@@ -1,62 +1,91 @@
 [
   {
-    "toolSlug": "agent",
-    "toolName": "Agent",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 10,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Pandex – Official European Law for AI Agents, over MCP",
-        "url": "https://www.pandex.io",
-        "score": 133,
-        "date": "2026-11-22"
+        "title": "Claude solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "score": 577,
+        "date": "2026-11-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-11-23"
+      },
+      {
+        "source": "googlenews",
+        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-23"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-23"
+  },
+  {
+    "toolSlug": "agent",
+    "toolName": "Agent",
+    "buzzScore": 7.4,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Localcode, open source agentic coding on your Mac with one command",
+        "url": "https://github.com/mjwsolo/localcode",
+        "score": 45,
+        "date": "2026-11-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agent swarm trying to solve P vs. NP",
+        "url": "https://pequalnp.com/",
+        "score": 140,
+        "date": "2026-11-23"
+      },
+      {
+        "source": "hackernews",
+        "title": "Agentics: Mushy Software",
+        "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
+        "score": 44,
+        "date": "2026-11-23"
       },
       {
         "source": "hackernews",
         "title": "ClawDOS – An AI coding agent for DOS",
         "url": "http://ricapar.net/ClawDOS/",
-        "score": 170,
-        "date": "2026-11-22"
-      },
-      {
-        "source": "hackernews",
-        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-        "url": "https://signal.org/blog/protecting-your-privacy/",
-        "score": 577,
-        "date": "2026-11-22"
+        "score": 175,
+        "date": "2026-11-23"
       },
       {
         "source": "techcrunch",
         "title": "Here are the top AI agents that can live in your text messages",
         "score": 1,
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       },
       {
         "source": "techcrunch",
         "title": "Apple may be developing its own AI agent that runs your Mac",
         "score": 1,
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       },
       {
         "source": "techcrunch",
         "title": "These tech outages are giving Y2K, AI agent style",
         "score": 1,
-        "date": "2026-11-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "score": 1,
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-22"
+    "lastSeen": "2026-11-23"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 8.2,
+    "buzzScore": 7.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -70,31 +99,25 @@
     "lastSeen": "2026-11-22"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 6.8,
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 5.6,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude solves two open problems in the physics of black holes",
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "score": 574,
-        "date": "2026-11-22"
-      },
-      {
-        "source": "googlenews",
-        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-22"
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "url": "https://github.com/gulivan/worker755",
+        "score": 297,
+        "date": "2026-11-23"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-22"
+    "firstSeen": "2026-11-22",
+    "lastSeen": "2026-11-23"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 3.2,
+    "buzzScore": 2.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -108,47 +131,9 @@
     "lastSeen": "2026-11-17"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 2.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: I built a game where you are an LLM's subagent",
-        "url": "https://github.com/gulivan/worker755",
-        "score": 170,
-        "date": "2026-11-22"
-      }
-    ],
-    "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-22"
-  },
-  {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "ChatGPT for SNES",
-        "url": "https://www.bxfoundry.com/chatgpt_snes/",
-        "score": 123,
-        "date": "2026-11-21"
-      },
-      {
-        "source": "googlenews",
-        "title": "Microsoft's new AI coder is gunning for Claude and ChatGPT. It's coming with a price advantage - Digital Trends",
-        "score": 1,
-        "date": "2026-11-21"
-      }
-    ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-21"
-  },
-  {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -170,17 +155,11 @@
         "source": "googlenews",
         "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
-        "date": "2026-11-22"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Google gives Gemini the ability to use your Mac for you",
-        "score": 1,
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-22"
+    "lastSeen": "2026-11-23"
   },
   {
     "toolSlug": "udio",
@@ -191,17 +170,17 @@
         "source": "googlenews",
         "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
         "score": 1,
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       },
       {
         "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
         "score": 1,
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-22"
+    "lastSeen": "2026-11-23"
   },
   {
     "toolSlug": "era",
@@ -212,16 +191,46 @@
         "source": "googlenews",
         "title": "A new era for AI Search - blog.google",
         "score": 1,
-        "date": "2026-11-22"
+        "date": "2026-11-23"
       }
     ],
     "firstSeen": "2026-11-18",
-    "lastSeen": "2026-11-22"
+    "lastSeen": "2026-11-23"
+  },
+  {
+    "toolSlug": "gpt-rosalind",
+    "toolName": "GPT-Rosalind",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Introducing GPT-Rosalind for life sciences research - OpenAI",
+        "score": 1,
+        "date": "2026-11-23"
+      }
+    ],
+    "firstSeen": "2026-11-22",
+    "lastSeen": "2026-11-23"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-23"
+      }
+    ],
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-23"
   },
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -234,24 +243,9 @@
     "lastSeen": "2026-11-22"
   },
   {
-    "toolSlug": "gpt-rosalind",
-    "toolName": "GPT-Rosalind",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing GPT-Rosalind for life sciences research - OpenAI",
-        "score": 1,
-        "date": "2026-11-22"
-      }
-    ],
-    "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-22"
-  },
-  {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -266,7 +260,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -281,7 +275,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -296,7 +290,7 @@
   {
     "toolSlug": "superhuman",
     "toolName": "Superhuman",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "techcrunch",
@@ -307,21 +301,5 @@
     ],
     "firstSeen": "2026-11-19",
     "lastSeen": "2026-11-21"
-  },
-  {
-    "toolSlug": "bond",
-    "toolName": "Bond",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Prepaid gas bonds: A differentiated source of tax-exempt income",
-        "url": "https://www.blackrock.com/us/individual/insights/prepaid-gas-bonds",
-        "score": 8,
-        "date": "2026-11-20"
-      }
-    ],
-    "firstSeen": "2026-11-20",
-    "lastSeen": "2026-11-20"
   }
 ]
