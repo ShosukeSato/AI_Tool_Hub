@@ -6,21 +6,58 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
-        "url": "https://github.com/SandeepAi369/Agent-first-browse",
-        "score": 6,
+        "title": "LLM agents work for their parent companies, not for you",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "score": 829,
         "date": "2026-11-24"
       },
       {
         "source": "hackernews",
-        "title": "Agent swarm trying to solve P vs. NP",
-        "url": "https://pequalnp.com/",
-        "score": 193,
+        "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+        "url": "https://www.kradle.ai?1",
+        "score": 11,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "hackernews",
+        "title": "Compiling web applications into verified operations for AI agents",
+        "url": "https://protocolis.co/paper/",
+        "score": 30,
         "date": "2026-11-24"
       },
       {
         "source": "googlenews",
-        "title": "Liberate Launches Argus 1, New Tool Allows Insurers to Interact With AI Agents - - Insurance Edge",
+        "title": "Introducing Muse in the UK: A Personal AI Agent You Control - Facebook",
+        "score": 1,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "GMEX Robotics Officially Launches 247meta.ai, Sets Next Focus on Financial AI Agents - markets.businessinsider.com",
+        "score": 1,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "Cisco and OpenAI Launch Shirudo, A New Project to Safeguard Agentic AI - Cisco Newsroom",
+        "score": 1,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
+        "score": 1,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Even the best AI agents struggle with everyday life",
+        "score": 1,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
         "score": 1,
         "date": "2026-11-24"
       },
@@ -35,22 +72,53 @@
     "lastSeen": "2026-11-24"
   },
   {
+    "toolSlug": "ternary-bonsai",
+    "toolName": "Ternary Bonsai",
+    "buzzScore": 2.6,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Ternary Bonsai 2.5 27B",
+        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "score": 159,
+        "date": "2026-11-24"
+      }
+    ],
+    "firstSeen": "2026-11-24",
+    "lastSeen": "2026-11-24"
+  },
+  {
+    "toolSlug": "lovable",
+    "toolName": "Lovable",
+    "buzzScore": 2.1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "score": 1002,
+        "date": "2026-11-17"
+      }
+    ],
+    "firstSeen": "2026-11-15",
+    "lastSeen": "2026-11-17"
+  },
+  {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.7,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Claude Ship",
         "url": "https://claude.com/resources/articles/introducing-claude-ship",
-        "score": 50,
+        "score": 86,
         "date": "2026-11-24"
       },
       {
-        "source": "hackernews",
-        "title": "Toolfence-scan – static checks for Cursor/Claude/Copilot skills",
-        "url": "https://github.com/StockGorilla/skill-scan",
-        "score": 7,
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
+        "score": 1,
         "date": "2026-11-24"
       },
       {
@@ -70,25 +138,9 @@
     "lastSeen": "2026-11-24"
   },
   {
-    "toolSlug": "lovable",
-    "toolName": "Lovable",
-    "buzzScore": 2.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Lovable apps expose passport details and more than 200K private messages",
-        "url": "https://www.crissyfield.de/research/lovable-en/",
-        "score": 1002,
-        "date": "2026-11-17"
-      }
-    ],
-    "firstSeen": "2026-11-15",
-    "lastSeen": "2026-11-17"
-  },
-  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.5,
+    "buzzScore": 1.4,
     "mentions": [
       {
         "source": "hackernews",
@@ -104,7 +156,7 @@
   {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -118,9 +170,30 @@
     "lastSeen": "2026-11-24"
   },
   {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost - MarkTechPost",
+        "score": 1,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-11-24"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-24"
+  },
+  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
@@ -141,17 +214,11 @@
   {
     "toolSlug": "chatgpt",
     "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
         "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
-        "score": 1,
-        "date": "2026-11-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
         "score": 1,
         "date": "2026-11-24"
       }
@@ -162,7 +229,7 @@
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -176,24 +243,9 @@
     "lastSeen": "2026-11-23"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-24"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-24"
-  },
-  {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -208,7 +260,7 @@
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -224,7 +276,7 @@
   {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -239,7 +291,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -254,7 +306,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -269,7 +321,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -279,21 +331,6 @@
       }
     ],
     "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-22"
-  },
-  {
-    "toolSlug": "perplexity",
-    "toolName": "Perplexity",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Googleの「AIモード」の検索が月67万回、1年で約68倍に──AI検索「Perplexity」はピークから55%減（TECH NOISY調べ） - PR TIMES",
-        "score": 1,
-        "date": "2026-11-22"
-      }
-    ],
-    "firstSeen": "2026-11-14",
     "lastSeen": "2026-11-22"
   }
 ]
