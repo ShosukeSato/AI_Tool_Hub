@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-11-24",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
+    "date": "2026-11-24",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-claude-2026-11-23",
     "type": "trending",
     "toolSlug": "claude",
@@ -501,15 +510,6 @@
     "title": "Plain が話題沸騰中（バズスコア: 8）",
     "summary": "hackernewsで注目: AI didn't cause the tech jobs bust, but it explains why there's no recovery",
     "date": "2026-10-26",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-25",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: A practical guide to AI image generation, from diffusion to agents",
-    "date": "2026-10-25",
     "source": "hackernews"
   }
 ]

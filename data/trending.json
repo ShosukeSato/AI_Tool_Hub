@@ -6,54 +6,73 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Agent swarm trying to solve P vs. NP",
-        "url": "https://pequalnp.com/",
-        "score": 182,
-        "date": "2026-11-23"
+        "title": "Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph",
+        "url": "https://github.com/SandeepAi369/Agent-first-browse",
+        "score": 6,
+        "date": "2026-11-24"
       },
       {
         "source": "hackernews",
-        "title": "Localcode, open source agentic coding on your Mac with one command",
-        "url": "https://github.com/mjwsolo/localcode",
-        "score": 70,
-        "date": "2026-11-23"
+        "title": "Agent swarm trying to solve P vs. NP",
+        "url": "https://pequalnp.com/",
+        "score": 193,
+        "date": "2026-11-24"
       },
       {
         "source": "googlenews",
         "title": "Liberate Launches Argus 1, New Tool Allows Insurers to Interact With AI Agents - - Insurance Edge",
         "score": 1,
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       },
       {
         "source": "techcrunch",
         "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
         "score": 1,
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-23"
+    "lastSeen": "2026-11-24"
   },
   {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 5,
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 3.7,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Show HN: I built a game where you are an LLM's subagent",
-        "url": "https://github.com/gulivan/worker755",
-        "score": 297,
-        "date": "2026-11-23"
+        "title": "Claude Ship",
+        "url": "https://claude.com/resources/articles/introducing-claude-ship",
+        "score": 50,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "hackernews",
+        "title": "Toolfence-scan – static checks for Cursor/Claude/Copilot skills",
+        "url": "https://github.com/StockGorilla/skill-scan",
+        "score": 7,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "score": 1,
+        "date": "2026-11-24"
       }
     ],
-    "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-23"
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-24"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 2.6,
+    "buzzScore": 2.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -67,37 +86,83 @@
     "lastSeen": "2026-11-17"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
+    "toolSlug": "openrouter",
+    "toolName": "OpenRouter",
     "buzzScore": 1.5,
     "mentions": [
       {
         "source": "hackernews",
-        "title": "Claude Ship",
-        "url": "https://claude.com/resources/articles/introducing-claude-ship",
-        "score": 13,
-        "date": "2026-11-23"
+        "title": "OpenRouter users spent more $ on models from Google than OpenAI last week",
+        "url": "https://twitter.com/openrouter/status/2124925631012209137",
+        "score": 11,
+        "date": "2026-11-24"
+      }
+    ],
+    "firstSeen": "2026-11-24",
+    "lastSeen": "2026-11-24"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+        "url": "https://github.com/GenesisAgentInfra/genesis",
+        "score": 6,
+        "date": "2026-11-24"
+      }
+    ],
+    "firstSeen": "2026-11-22",
+    "lastSeen": "2026-11-24"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "score": 1,
+        "date": "2026-11-24"
       },
       {
         "source": "googlenews",
-        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
+        "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始 - PR TIMES",
         "score": 1,
-        "date": "2026-11-23"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "score": 1,
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       }
     ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-23"
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-24"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1.1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-24"
+      },
+      {
+        "source": "googlenews",
+        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
+        "score": 1,
+        "date": "2026-11-24"
+      }
+    ],
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-24"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -111,51 +176,39 @@
     "lastSeen": "2026-11-23"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.1,
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
-        "date": "2026-11-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       }
     ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-23"
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-24"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1.1,
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
+        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
         "score": 1,
-        "date": "2026-11-23"
-      },
-      {
-        "source": "googlenews",
-        "title": "広告リサーチ・AIツール「アド.com」、ChatGPT広告のデータ提供を開始！どんな会話で、どの企業の広告が出ているのかを検索可能に | 株式会社アドドットコムのプレスリリース - PR TIMES",
-        "score": 1,
-        "date": "2026-11-23"
+        "date": "2026-11-24"
       }
     ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-23"
+    "firstSeen": "2026-11-18",
+    "lastSeen": "2026-11-24"
   },
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 1.1,
+    "buzzScore": 1,
     "mentions": [
       {
         "source": "hackernews",
@@ -169,39 +222,9 @@
     "lastSeen": "2026-11-22"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-23"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-23"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
-        "score": 1,
-        "date": "2026-11-23"
-      }
-    ],
-    "firstSeen": "2026-11-18",
-    "lastSeen": "2026-11-23"
-  },
-  {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -216,7 +239,7 @@
   {
     "toolSlug": "gpt-5-5",
     "toolName": "GPT-5.5",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -231,7 +254,7 @@
   {
     "toolSlug": "com",
     "toolName": "アド.com",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -246,7 +269,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -261,7 +284,7 @@
   {
     "toolSlug": "perplexity",
     "toolName": "Perplexity",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
