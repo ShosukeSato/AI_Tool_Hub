@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-agent-2026-11-25",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: LLM agents work for their parent companies, not for you",
+    "date": "2026-11-25",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-24",
     "type": "trending",
     "toolSlug": "agent",
@@ -501,15 +510,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 7.5）",
     "summary": "hackernewsで注目: Here be monsters: What do you still need to know when agents do the work?",
     "date": "2026-10-27",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-plain-2026-10-26",
-    "type": "trending",
-    "toolSlug": "plain",
-    "title": "Plain が話題沸騰中（バズスコア: 8）",
-    "summary": "hackernewsで注目: AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "date": "2026-10-26",
     "source": "hackernews"
   }
 ]

@@ -8,89 +8,70 @@
         "source": "hackernews",
         "title": "LLM agents work for their parent companies, not for you",
         "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-        "score": 829,
-        "date": "2026-11-24"
+        "score": 961,
+        "date": "2026-11-25"
       },
       {
         "source": "hackernews",
         "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
         "url": "https://www.kradle.ai?1",
-        "score": 11,
-        "date": "2026-11-24"
-      },
-      {
-        "source": "hackernews",
-        "title": "Compiling web applications into verified operations for AI agents",
-        "url": "https://protocolis.co/paper/",
-        "score": 30,
-        "date": "2026-11-24"
+        "score": 16,
+        "date": "2026-11-25"
       },
       {
         "source": "googlenews",
         "title": "Introducing Muse in the UK: A Personal AI Agent You Control - Facebook",
         "score": 1,
-        "date": "2026-11-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "GMEX Robotics Officially Launches 247meta.ai, Sets Next Focus on Financial AI Agents - markets.businessinsider.com",
-        "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       },
       {
         "source": "googlenews",
         "title": "Cisco and OpenAI Launch Shirudo, A New Project to Safeguard Agentic AI - Cisco Newsroom",
         "score": 1,
-        "date": "2026-11-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone - Facebook",
-        "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       },
       {
         "source": "techcrunch",
         "title": "Even the best AI agents struggle with everyday life",
         "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       },
       {
         "source": "techcrunch",
         "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
         "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       },
       {
         "source": "techcrunch",
         "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
         "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-24"
+    "lastSeen": "2026-11-25"
   },
   {
     "toolSlug": "ternary-bonsai",
     "toolName": "Ternary Bonsai",
-    "buzzScore": 2.6,
+    "buzzScore": 4.8,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Ternary Bonsai 2.5 27B",
         "url": "https://prismml.com/news/bonsai-2-5-27b",
-        "score": 159,
-        "date": "2026-11-24"
+        "score": 418,
+        "date": "2026-11-25"
       }
     ],
     "firstSeen": "2026-11-24",
-    "lastSeen": "2026-11-24"
+    "lastSeen": "2026-11-25"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 2.1,
+    "buzzScore": 1.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -104,43 +85,9 @@
     "lastSeen": "2026-11-17"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.9,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude Ship",
-        "url": "https://claude.com/resources/articles/introducing-claude-ship",
-        "score": 86,
-        "date": "2026-11-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
-        "score": 1,
-        "date": "2026-11-24"
-      },
-      {
-        "source": "googlenews",
-        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-24"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "score": 1,
-        "date": "2026-11-24"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-24"
-  },
-  {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -154,9 +101,49 @@
     "lastSeen": "2026-11-24"
   },
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 1.2,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows",
+        "url": "https://claude.com/resources/articles/install-as-app",
+        "score": 16,
+        "date": "2026-11-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Ship to help developers ship code faster - Reuters",
+        "score": 1,
+        "date": "2026-11-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
+        "score": 1,
+        "date": "2026-11-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-25"
+      },
+      {
+        "source": "techcrunch",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "score": 1,
+        "date": "2026-11-25"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-25"
+  },
+  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 1.2,
+    "buzzScore": 1.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -178,17 +165,17 @@
         "source": "googlenews",
         "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost - MarkTechPost",
         "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       },
       {
         "source": "googlenews",
         "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
         "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       }
     ],
     "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-24"
+    "lastSeen": "2026-11-25"
   },
   {
     "toolSlug": "udio",
@@ -199,17 +186,32 @@
         "source": "googlenews",
         "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
         "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       },
       {
         "source": "googlenews",
         "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始 - PR TIMES",
         "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-24"
+    "lastSeen": "2026-11-25"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "A new era for AI Search - blog.google",
+        "score": 1,
+        "date": "2026-11-25"
+      }
+    ],
+    "firstSeen": "2026-11-18",
+    "lastSeen": "2026-11-25"
   },
   {
     "toolSlug": "chatgpt",
@@ -220,16 +222,16 @@
         "source": "googlenews",
         "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
         "score": 1,
-        "date": "2026-11-24"
+        "date": "2026-11-25"
       }
     ],
     "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-24"
+    "lastSeen": "2026-11-25"
   },
   {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -243,24 +245,9 @@
     "lastSeen": "2026-11-23"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Pinterest’s new AI tools for the discovery era: from ads to personalized shopping - Pinterest Newsroom",
-        "score": 1,
-        "date": "2026-11-24"
-      }
-    ],
-    "firstSeen": "2026-11-18",
-    "lastSeen": "2026-11-24"
-  },
-  {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -276,7 +263,7 @@
   {
     "toolSlug": "gpt-rosalind",
     "toolName": "GPT-Rosalind",
-    "buzzScore": 0.7,
+    "buzzScore": 0.6,
     "mentions": [
       {
         "source": "googlenews",
@@ -287,50 +274,5 @@
     ],
     "firstSeen": "2026-11-22",
     "lastSeen": "2026-11-23"
-  },
-  {
-    "toolSlug": "gpt-5-5",
-    "toolName": "GPT-5.5",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing GPT-5.5 - OpenAI",
-        "score": 1,
-        "date": "2026-11-22"
-      }
-    ],
-    "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-22"
-  },
-  {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-11-22"
-      }
-    ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-22"
-  },
-  {
-    "toolSlug": "microsoft-copilot",
-    "toolName": "Microsoft Copilot",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【2026年生成AIツール利用実態】法人導入率1位は「Microsoft Copilot」、しかし利用者の8割以上が「実務レベル不足」を指摘 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-22"
-      }
-    ],
-    "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-22"
   }
 ]
