@@ -6,16 +6,22 @@
     "mentions": [
       {
         "source": "hackernews",
-        "title": "LLM agents work for their parent companies, not for you",
-        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-        "score": 961,
+        "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+        "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+        "score": 19,
         "date": "2026-11-25"
       },
       {
         "source": "hackernews",
-        "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-        "url": "https://www.kradle.ai?1",
-        "score": 16,
+        "title": "LLM agents work for their parent companies, not for you",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "score": 997,
+        "date": "2026-11-25"
+      },
+      {
+        "source": "googlenews",
+        "title": "Cisco and OpenAI Launch Shirudo, A New Project to Safeguard Agentic AI - Cisco Newsroom",
+        "score": 1,
         "date": "2026-11-25"
       },
       {
@@ -25,8 +31,8 @@
         "date": "2026-11-25"
       },
       {
-        "source": "googlenews",
-        "title": "Cisco and OpenAI Launch Shirudo, A New Project to Safeguard Agentic AI - Cisco Newsroom",
+        "source": "techcrunch",
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
         "score": 1,
         "date": "2026-11-25"
       },
@@ -41,12 +47,6 @@
         "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
         "score": 1,
         "date": "2026-11-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-        "score": 1,
-        "date": "2026-11-25"
       }
     ],
     "firstSeen": "2026-04-16",
@@ -55,13 +55,13 @@
   {
     "toolSlug": "ternary-bonsai",
     "toolName": "Ternary Bonsai",
-    "buzzScore": 4.8,
+    "buzzScore": 5.6,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Ternary Bonsai 2.5 27B",
         "url": "https://prismml.com/news/bonsai-2-5-27b",
-        "score": 418,
+        "score": 526,
         "date": "2026-11-25"
       }
     ],
@@ -71,7 +71,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -87,7 +87,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -101,70 +101,15 @@
     "lastSeen": "2026-11-24"
   },
   {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 1.2,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows",
-        "url": "https://claude.com/resources/articles/install-as-app",
-        "score": 16,
-        "date": "2026-11-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic launches Claude Ship to help developers ship code faster - Reuters",
-        "score": 1,
-        "date": "2026-11-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
-        "score": 1,
-        "date": "2026-11-25"
-      },
-      {
-        "source": "googlenews",
-        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-25"
-      },
-      {
-        "source": "techcrunch",
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "score": 1,
-        "date": "2026-11-25"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-25"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 1.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
-        "url": "https://github.com/GenesisAgentInfra/genesis",
-        "score": 6,
-        "date": "2026-11-24"
-      }
-    ],
-    "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-24"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
     "buzzScore": 1,
     "mentions": [
       {
-        "source": "googlenews",
-        "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost - MarkTechPost",
-        "score": 1,
+        "source": "hackernews",
+        "title": "Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",
+        "url": "https://github.com/cerulion-inc/cerulion#harness-results",
+        "score": 4,
         "date": "2026-11-25"
       },
       {
@@ -178,39 +123,24 @@
     "lastSeen": "2026-11-25"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
+    "toolSlug": "claude",
+    "toolName": "Claude",
     "buzzScore": 1,
     "mentions": [
       {
         "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
         "score": 1,
         "date": "2026-11-25"
       },
       {
         "source": "googlenews",
-        "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始 - PR TIMES",
+        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
         "score": 1,
         "date": "2026-11-25"
       }
     ],
-    "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-25"
-  },
-  {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-11-25"
-      }
-    ],
-    "firstSeen": "2026-11-18",
+    "firstSeen": "2026-04-02",
     "lastSeen": "2026-11-25"
   },
   {
@@ -220,7 +150,13 @@
     "mentions": [
       {
         "source": "googlenews",
-        "title": "【調査リリース】2026年 生成AIユーザー動向調査｜進む20・30代の”ヘビーユーザー化”、ChatGPT・Geminiに次ぐ新勢力とは？ - PR TIMES",
+        "title": "Introducing Businesses in ChatGPT - OpenAI",
+        "score": 1,
+        "date": "2026-11-25"
+      },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
         "score": 1,
         "date": "2026-11-25"
       }
@@ -229,9 +165,100 @@
     "lastSeen": "2026-11-25"
   },
   {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "America's newest small business owners with no employees are off to a hot start in AI era - CNBC",
+        "score": 1,
+        "date": "2026-11-25"
+      }
+    ],
+    "firstSeen": "2026-11-18",
+    "lastSeen": "2026-11-25"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "score": 1,
+        "date": "2026-11-25"
+      }
+    ],
+    "firstSeen": "2026-10-27",
+    "lastSeen": "2026-11-25"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "楽天、エージェント型AIツール「Rakuten AI」を「楽天市場」のスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-11-25"
+      }
+    ],
+    "firstSeen": "2026-11-25",
+    "lastSeen": "2026-11-25"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-25"
+      }
+    ],
+    "firstSeen": "2026-11-25",
+    "lastSeen": "2026-11-25"
+  },
+  {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "score": 1,
+        "date": "2026-11-25"
+      }
+    ],
+    "firstSeen": "2026-11-25",
+    "lastSeen": "2026-11-25"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+        "url": "https://github.com/GenesisAgentInfra/genesis",
+        "score": 6,
+        "date": "2026-11-24"
+      }
+    ],
+    "firstSeen": "2026-11-22",
+    "lastSeen": "2026-11-24"
+  },
+  {
     "toolSlug": "plain",
     "toolName": "Plain",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -247,7 +274,7 @@
   {
     "toolSlug": "v0",
     "toolName": "v0",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -259,20 +286,5 @@
     ],
     "firstSeen": "2026-11-22",
     "lastSeen": "2026-11-22"
-  },
-  {
-    "toolSlug": "gpt-rosalind",
-    "toolName": "GPT-Rosalind",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Introducing GPT-Rosalind for life sciences research - OpenAI",
-        "score": 1,
-        "date": "2026-11-23"
-      }
-    ],
-    "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-23"
   }
 ]
