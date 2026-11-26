@@ -1,5 +1,14 @@
 [
   {
+    "id": "trending-ternary-bonsai-2026-11-26",
+    "type": "trending",
+    "toolSlug": "ternary-bonsai",
+    "title": "Ternary Bonsai が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Ternary Bonsai 2.5 27B",
+    "date": "2026-11-26",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-25",
     "type": "trending",
     "toolSlug": "agent",
@@ -483,33 +492,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 10）",
     "summary": "hackernewsで注目: Early progress on accelerating drug development with Claude",
     "date": "2026-10-28",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-chatgpt-2026-10-27",
-    "type": "trending",
-    "toolSlug": "chatgpt",
-    "title": "ChatGPT が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "date": "2026-10-27",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-27",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 7.6）",
-    "summary": "hackernewsで注目: Anthropic trained Claude on illegally obtained Stanford professors' books",
-    "date": "2026-10-27",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-27",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 7.5）",
-    "summary": "hackernewsで注目: Here be monsters: What do you still need to know when agents do the work?",
-    "date": "2026-10-27",
     "source": "hackernews"
   }
 ]
