@@ -9,6 +9,15 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-agent-2026-11-26",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "date": "2026-11-26",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-25",
     "type": "trending",
     "toolSlug": "agent",
