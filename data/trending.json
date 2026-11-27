@@ -1,28 +1,100 @@
 [
   {
+    "toolSlug": "claude",
+    "toolName": "Claude",
+    "buzzScore": 10,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Claude sabotaging ML research tasks?",
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "score": 452,
+        "date": "2026-11-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "\"What's Claude's fursona?\" and other questions",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+        "score": 163,
+        "date": "2026-11-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "Claude tries to sabotage research work at every stage",
+        "url": "https://twitter.com/skirano/status/2125371115979641188",
+        "score": 96,
+        "date": "2026-11-27"
+      },
+      {
+        "source": "googlenews",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
+        "score": 1,
+        "date": "2026-11-27"
+      },
+      {
+        "source": "googlenews",
+        "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude - GeekWire",
+        "score": 1,
+        "date": "2026-11-27"
+      },
+      {
+        "source": "googlenews",
+        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
+        "score": 1,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-04-02",
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "where",
+    "toolName": "WHERE",
+    "buzzScore": 8.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Group chat where your AI talks behind your back",
+        "url": "https://construct22.com/",
+        "score": 629,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-11-22",
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "ternary-bonsai",
+    "toolName": "Ternary Bonsai",
+    "buzzScore": 7.3,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Ternary Bonsai 2.5 27B",
+        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "score": 533,
+        "date": "2026-11-26"
+      }
+    ],
+    "firstSeen": "2026-11-24",
+    "lastSeen": "2026-11-26"
+  },
+  {
     "toolSlug": "agent",
     "toolName": "Agent",
-    "buzzScore": 10,
+    "buzzScore": 6.3,
     "mentions": [
       {
         "source": "hackernews",
         "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
         "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-        "score": 308,
+        "score": 416,
         "date": "2026-11-27"
       },
       {
-        "source": "hackernews",
-        "title": "Notion's official MCP inject hidden upsell instructions into agent context",
-        "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
-        "score": 52,
-        "date": "2026-11-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-        "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-        "score": 131,
+        "source": "googlenews",
+        "title": "Nvidia launches new tool to keep AI agents from going rogue | CNN Business - CNN",
+        "score": 1,
         "date": "2026-11-27"
       },
       {
@@ -48,74 +120,9 @@
     "lastSeen": "2026-11-27"
   },
   {
-    "toolSlug": "ternary-bonsai",
-    "toolName": "Ternary Bonsai",
-    "buzzScore": 8.1,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Ternary Bonsai 2.5 27B",
-        "url": "https://prismml.com/news/bonsai-2-5-27b",
-        "score": 533,
-        "date": "2026-11-26"
-      }
-    ],
-    "firstSeen": "2026-11-24",
-    "lastSeen": "2026-11-26"
-  },
-  {
-    "toolSlug": "claude",
-    "toolName": "Claude",
-    "buzzScore": 4.3,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "\"What's Claude's Fursona?\" and Other Questions",
-        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-        "score": 60,
-        "date": "2026-11-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
-        "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
-        "score": 39,
-        "date": "2026-11-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "Claude tries to sabotage research work at every stage",
-        "url": "https://twitter.com/skirano/status/2125371115979641188",
-        "score": 57,
-        "date": "2026-11-27"
-      },
-      {
-        "source": "hackernews",
-        "title": "Back up your Claude Code sessions and use them on any machine",
-        "url": "https://session-vault.dev/",
-        "score": 23,
-        "date": "2026-11-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
-        "score": 1,
-        "date": "2026-11-27"
-      },
-      {
-        "source": "googlenews",
-        "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
-        "score": 1,
-        "date": "2026-11-27"
-      }
-    ],
-    "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-27"
-  },
-  {
     "toolSlug": "gemini",
     "toolName": "Gemini",
-    "buzzScore": 1.9,
+    "buzzScore": 1.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -137,7 +144,7 @@
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.3,
+    "buzzScore": 1.2,
     "mentions": [
       {
         "source": "hackernews",
@@ -151,23 +158,46 @@
     "lastSeen": "2026-11-17"
   },
   {
-    "toolSlug": "udio",
-    "toolName": "Udio",
-    "buzzScore": 1.2,
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
     "mentions": [
       {
-        "source": "hackernews",
-        "title": "Union Vote Fails at GTA 6 Studio Rockstar Games as 75% of Devs Vote No",
-        "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
-        "score": 9,
-        "date": "2026-11-27"
-      },
-      {
         "source": "googlenews",
-        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
+        "title": "Introducing Businesses in ChatGPT - OpenAI",
         "score": 1,
         "date": "2026-11-27"
       },
+      {
+        "source": "techcrunch",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "score": 1,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "era",
+    "toolName": "Era",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "America's newest small business owners with no employees are off to a hot start in AI era - CNBC",
+        "score": 1,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-11-18",
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "udio",
+    "toolName": "Udio",
+    "buzzScore": 1,
+    "mentions": [
       {
         "source": "googlenews",
         "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
@@ -209,21 +239,6 @@
     "lastSeen": "2026-11-27"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-        "score": 1,
-        "date": "2026-11-27"
-      }
-    ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-27"
-  },
-  {
     "toolSlug": "hats",
     "toolName": "HATS",
     "buzzScore": 1,
@@ -239,24 +254,9 @@
     "lastSeen": "2026-11-27"
   },
   {
-    "toolSlug": "era",
-    "toolName": "Era",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "A new era for AI Search - blog.google",
-        "score": 1,
-        "date": "2026-11-26"
-      }
-    ],
-    "firstSeen": "2026-11-18",
-    "lastSeen": "2026-11-26"
-  },
-  {
     "toolSlug": "grai",
     "toolName": "GRAI",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -272,7 +272,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "hackernews",
@@ -288,7 +288,7 @@
   {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "googlenews",
@@ -299,21 +299,5 @@
     ],
     "firstSeen": "2026-11-26",
     "lastSeen": "2026-11-26"
-  },
-  {
-    "toolSlug": "where",
-    "toolName": "WHERE",
-    "buzzScore": 0.7,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
-        "url": "https://github.com/GenesisAgentInfra/genesis",
-        "score": 6,
-        "date": "2026-11-24"
-      }
-    ],
-    "firstSeen": "2026-11-22",
-    "lastSeen": "2026-11-24"
   }
 ]

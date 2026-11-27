@@ -18,6 +18,24 @@
     "source": "hackernews"
   },
   {
+    "id": "trending-claude-2026-11-27",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude sabotaging ML research tasks?",
+    "date": "2026-11-27",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-where-2026-11-27",
+    "type": "trending",
+    "toolSlug": "where",
+    "title": "WHERE が話題沸騰中（バズスコア: 8.9）",
+    "summary": "hackernewsで注目: Group chat where your AI talks behind your back",
+    "date": "2026-11-27",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-ternary-bonsai-2026-11-26",
     "type": "trending",
     "toolSlug": "ternary-bonsai",
