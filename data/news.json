@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-agent-2026-11-27",
+    "type": "trending",
+    "toolSlug": "agent",
+    "title": "Agent が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "date": "2026-11-27",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-ternary-bonsai-2026-11-27",
+    "type": "trending",
+    "toolSlug": "ternary-bonsai",
+    "title": "Ternary Bonsai が話題沸騰中（バズスコア: 8.1）",
+    "summary": "hackernewsで注目: Ternary Bonsai 2.5 27B",
+    "date": "2026-11-27",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-ternary-bonsai-2026-11-26",
     "type": "trending",
     "toolSlug": "ternary-bonsai",
@@ -492,15 +510,6 @@
     "title": "Agent が話題沸騰中（バズスコア: 8.3）",
     "summary": "hackernewsで注目: Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
     "date": "2026-10-29",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-28",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Early progress on accelerating drug development with Claude",
-    "date": "2026-10-28",
     "source": "hackernews"
   }
 ]

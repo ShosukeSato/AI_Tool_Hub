@@ -8,56 +8,49 @@
         "source": "hackernews",
         "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
         "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-        "score": 138,
-        "date": "2026-11-26"
+        "score": 308,
+        "date": "2026-11-27"
       },
       {
         "source": "hackernews",
         "title": "Notion's official MCP inject hidden upsell instructions into agent context",
         "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
-        "score": 25,
-        "date": "2026-11-26"
-      },
-      {
-        "source": "hackernews",
-        "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
-        "url": "https://eng.snap.com/mcp-gateway",
-        "score": 22,
-        "date": "2026-11-26"
+        "score": 52,
+        "date": "2026-11-27"
       },
       {
         "source": "hackernews",
         "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
         "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-        "score": 128,
-        "date": "2026-11-26"
+        "score": 131,
+        "date": "2026-11-27"
       },
       {
         "source": "techcrunch",
         "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
         "score": 1,
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       },
       {
         "source": "techcrunch",
         "title": "Even the best AI agents struggle with everyday life",
         "score": 1,
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       },
       {
         "source": "techcrunch",
         "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
         "score": 1,
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       }
     ],
     "firstSeen": "2026-04-16",
-    "lastSeen": "2026-11-26"
+    "lastSeen": "2026-11-27"
   },
   {
     "toolSlug": "ternary-bonsai",
     "toolName": "Ternary Bonsai",
-    "buzzScore": 9,
+    "buzzScore": 8.1,
     "mentions": [
       {
         "source": "hackernews",
@@ -73,56 +66,78 @@
   {
     "toolSlug": "claude",
     "toolName": "Claude",
-    "buzzScore": 3.3,
+    "buzzScore": 4.3,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "\"What's Claude's Fursona?\" and Other Questions",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+        "score": 60,
+        "date": "2026-11-27"
+      },
       {
         "source": "hackernews",
         "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
         "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
-        "score": 22,
-        "date": "2026-11-26"
-      },
-      {
-        "source": "hackernews",
-        "title": "Back up your Claude Code sessions and use them on any machine",
-        "url": "https://session-vault.dev/",
-        "score": 14,
-        "date": "2026-11-26"
-      },
-      {
-        "source": "hackernews",
-        "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
-        "url": "https://github.com/batanus/lip-dictation",
-        "score": 9,
-        "date": "2026-11-26"
+        "score": 39,
+        "date": "2026-11-27"
       },
       {
         "source": "hackernews",
         "title": "Claude tries to sabotage research work at every stage",
         "url": "https://twitter.com/skirano/status/2125371115979641188",
-        "score": 33,
-        "date": "2026-11-26"
+        "score": 57,
+        "date": "2026-11-27"
+      },
+      {
+        "source": "hackernews",
+        "title": "Back up your Claude Code sessions and use them on any machine",
+        "url": "https://session-vault.dev/",
+        "score": 23,
+        "date": "2026-11-27"
       },
       {
         "source": "googlenews",
         "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes - TechCrunch",
         "score": 1,
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       },
       {
         "source": "googlenews",
         "title": "「Claude Startups」にAIリスキルが採択 AIツールギャラリー新サイトの開発作業の約8割をClaude Codeと共同で実施 - PR TIMES",
         "score": 1,
-        "date": "2026-11-26"
+        "date": "2026-11-27"
       }
     ],
     "firstSeen": "2026-04-02",
-    "lastSeen": "2026-11-26"
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "gemini",
+    "toolName": "Gemini",
+    "buzzScore": 1.9,
+    "mentions": [
+      {
+        "source": "hackernews",
+        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "score": 50,
+        "date": "2026-11-27"
+      },
+      {
+        "source": "googlenews",
+        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
+        "score": 1,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-10-19",
+    "lastSeen": "2026-11-27"
   },
   {
     "toolSlug": "lovable",
     "toolName": "Lovable",
-    "buzzScore": 1.4,
+    "buzzScore": 1.3,
     "mentions": [
       {
         "source": "hackernews",
@@ -136,39 +151,97 @@
     "lastSeen": "2026-11-17"
   },
   {
-    "toolSlug": "gemini",
-    "toolName": "Gemini",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "Welcome to Gemini at Work 2026: Introducing the Gemini agent - Google Cloud",
-        "score": 1,
-        "date": "2026-11-26"
-      }
-    ],
-    "firstSeen": "2026-10-19",
-    "lastSeen": "2026-11-26"
-  },
-  {
     "toolSlug": "udio",
     "toolName": "Udio",
-    "buzzScore": 1,
+    "buzzScore": 1.2,
     "mentions": [
+      {
+        "source": "hackernews",
+        "title": "Union Vote Fails at GTA 6 Studio Rockstar Games as 75% of Devs Vote No",
+        "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
+        "score": 9,
+        "date": "2026-11-27"
+      },
       {
         "source": "googlenews",
         "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple",
         "score": 1,
-        "date": "2026-11-26"
+        "date": "2026-11-27"
+      },
+      {
+        "source": "googlenews",
+        "title": "Apple Creator Studioにパワフルな新しいAI機能と、さらに多くのクリエイティブツールが登場 - Apple",
+        "score": 1,
+        "date": "2026-11-27"
       }
     ],
     "firstSeen": "2026-10-27",
-    "lastSeen": "2026-11-26"
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "rakuten-ai",
+    "toolName": "Rakuten AI",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
+        "score": 1,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-11-25",
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "com",
+    "toolName": "アド.com",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "googlenews",
+        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
+        "score": 1,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-11-25",
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "chatgpt",
+    "toolName": "ChatGPT",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "score": 1,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-11-07",
+    "lastSeen": "2026-11-27"
+  },
+  {
+    "toolSlug": "hats",
+    "toolName": "HATS",
+    "buzzScore": 1,
+    "mentions": [
+      {
+        "source": "techcrunch",
+        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "score": 1,
+        "date": "2026-11-27"
+      }
+    ],
+    "firstSeen": "2026-11-25",
+    "lastSeen": "2026-11-27"
   },
   {
     "toolSlug": "era",
     "toolName": "Era",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "googlenews",
@@ -181,39 +254,9 @@
     "lastSeen": "2026-11-26"
   },
   {
-    "toolSlug": "chatgpt",
-    "toolName": "ChatGPT",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-        "score": 1,
-        "date": "2026-11-26"
-      }
-    ],
-    "firstSeen": "2026-11-07",
-    "lastSeen": "2026-11-26"
-  },
-  {
-    "toolSlug": "hats",
-    "toolName": "HATS",
-    "buzzScore": 1,
-    "mentions": [
-      {
-        "source": "techcrunch",
-        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-        "score": 1,
-        "date": "2026-11-26"
-      }
-    ],
-    "firstSeen": "2026-11-25",
-    "lastSeen": "2026-11-26"
-  },
-  {
     "toolSlug": "grai",
     "toolName": "GRAI",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -229,7 +272,7 @@
   {
     "toolSlug": "openrouter",
     "toolName": "OpenRouter",
-    "buzzScore": 1,
+    "buzzScore": 0.9,
     "mentions": [
       {
         "source": "hackernews",
@@ -243,24 +286,9 @@
     "lastSeen": "2026-11-24"
   },
   {
-    "toolSlug": "rakuten-ai",
-    "toolName": "Rakuten AI",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "「Rakuten Music」、エージェント型AIツール「Rakuten AI for Music」をスマートフォンアプリに搭載 - 楽天グループ株式会社",
-        "score": 1,
-        "date": "2026-11-26"
-      }
-    ],
-    "firstSeen": "2026-11-25",
-    "lastSeen": "2026-11-26"
-  },
-  {
     "toolSlug": "microsoft-copilot",
     "toolName": "Microsoft Copilot",
-    "buzzScore": 0.9,
+    "buzzScore": 0.8,
     "mentions": [
       {
         "source": "googlenews",
@@ -273,24 +301,9 @@
     "lastSeen": "2026-11-26"
   },
   {
-    "toolSlug": "com",
-    "toolName": "アド.com",
-    "buzzScore": 0.9,
-    "mentions": [
-      {
-        "source": "googlenews",
-        "title": "【新機能】広告リサーチ・AIツール「アド.com」、1枚の画像を複数パーツに分解して個別編集を可能にする「レイヤー編集」機能をリリース！ - PR TIMES",
-        "score": 1,
-        "date": "2026-11-26"
-      }
-    ],
-    "firstSeen": "2026-11-25",
-    "lastSeen": "2026-11-26"
-  },
-  {
     "toolSlug": "where",
     "toolName": "WHERE",
-    "buzzScore": 0.8,
+    "buzzScore": 0.7,
     "mentions": [
       {
         "source": "hackernews",
@@ -302,21 +315,5 @@
     ],
     "firstSeen": "2026-11-22",
     "lastSeen": "2026-11-24"
-  },
-  {
-    "toolSlug": "plain",
-    "toolName": "Plain",
-    "buzzScore": 0.6,
-    "mentions": [
-      {
-        "source": "hackernews",
-        "title": "Wikipedia explainers lost a median 40% of views since 2022, biographies lost 9%",
-        "url": "https://growtika.com/blog/wikipedia-traffic-study",
-        "score": 5,
-        "date": "2026-11-23"
-      }
-    ],
-    "firstSeen": "2026-10-15",
-    "lastSeen": "2026-11-23"
   }
 ]
