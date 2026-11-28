@@ -1,5 +1,23 @@
 [
   {
+    "id": "trending-claude-2026-11-28",
+    "type": "trending",
+    "toolSlug": "claude",
+    "title": "Claude が話題沸騰中（バズスコア: 10）",
+    "summary": "hackernewsで注目: Claude sabotaging ML research tasks?",
+    "date": "2026-11-28",
+    "source": "hackernews"
+  },
+  {
+    "id": "trending-where-2026-11-28",
+    "type": "trending",
+    "toolSlug": "where",
+    "title": "WHERE が話題沸騰中（バズスコア: 8.3）",
+    "summary": "hackernewsで注目: Group chat where your AI talks behind your back",
+    "date": "2026-11-28",
+    "source": "hackernews"
+  },
+  {
     "id": "trending-agent-2026-11-27",
     "type": "trending",
     "toolSlug": "agent",
@@ -510,24 +528,6 @@
     "title": "Claude が話題沸騰中（バズスコア: 8.3）",
     "summary": "hackernewsで注目: IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
     "date": "2026-10-30",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-claude-2026-10-29",
-    "type": "trending",
-    "toolSlug": "claude",
-    "title": "Claude が話題沸騰中（バズスコア: 10）",
-    "summary": "hackernewsで注目: Claude Code burns ~15–20% of your tokens on a 3-word status line",
-    "date": "2026-10-29",
-    "source": "hackernews"
-  },
-  {
-    "id": "trending-agent-2026-10-29",
-    "type": "trending",
-    "toolSlug": "agent",
-    "title": "Agent が話題沸騰中（バズスコア: 8.3）",
-    "summary": "hackernewsで注目: Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "date": "2026-10-29",
     "source": "hackernews"
   }
 ]
